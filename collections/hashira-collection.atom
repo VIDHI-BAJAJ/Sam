@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/hashira-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-11-14T12:55:29+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8572405612874</id>
+    <published>2023-11-14T12:55:29+01:00</published>
+    <updated>2023-11-14T12:55:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-pendant-lamp-white"/>
+    <title>Hashira Pendant Lamp, White</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Houkime_Rug_Harbour_Side_Androgyne_Dining_Table_Hashira_eb214732-84ef-4c6e-b89e-f651d93ec4e6.jpg?v=1699962703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            350.00 - 765.00
+            <a href="https://audocph.com/products/hashira-pendant-lamp-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The collection’s pendant light is created with the same column-like shape as the floor and table lamp, carefully covered with translucent fabric that reveals the graphic structure within and suspended from the ceiling by a textile cord. Spreading ambient light in a room, it makes a purposeful pendant above a dining table, in a reception area or hotel bedroom. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8572405612874</id>
+      <title>White / Small</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>1502059</s:sku>
+      <s:grams>2078</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8572405612874</id>
+      <title>White / Large</title>
+      <s:price currency="EUR">765.00</s:price>
+      <s:sku>1503059</s:sku>
+      <s:grams>4480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8363073601866</id>
+    <published>2023-04-05T13:57:02+02:00</published>
+    <updated>2023-04-05T13:57:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-floor-lamp-white"/>
+    <title>Hashira Floor Lamp, White</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_HashiraFloorLamp_HarbourLoungeChair_GravelRug.jpg?v=1680701925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hashira Floor Lamp stands tall with its cylindrical silhouette, merging the essence of western textile lamp shades to evoke a sense of familiarity. Its translucent fabric shade serves multiple purposes: diffusing the light in various directions, creating a warm and comfortable ambiance, and enhancing the interior's softness both visually and physically. This unique combination not only adds a touch of charm but also contributes to the acoustics and tactile experience of the space.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8363073601866</id>
+      <title>White</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku>1501059</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6750747623490</id>
+    <published>2022-06-13T11:57:22+02:00</published>
+    <updated>2022-06-13T11:57:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-table-lamp-portable"/>
+    <title>Hashira Table Lamp, Portable</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Table_Lamp_Portable_Plinth_Granad.jpg?v=1654776165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hashira Collection, designed for Audo by Norm Architects, takes its cues from Japanese paper lanterns. The portable iteration of the mood-enhancing design delivers ambient lighting on the go, bringing a warm glow and subtle tactility to spaces indoors and out. Small in scale yet big in impact, it has the freedom and flexibility to move anywhere you want. Fitted with a concealed USB charger socket at the base, the lamp provides 10 hours of adjustable light when fully charged. Place it on our <a href="https://audocph.com/products/charging-board">Charging Board</a>, which reanimates multiple devices in a single sitting, or charge using a standard socket.<br><br></p>
+<p>To preserve battery life, switch the lamp off when charging and do not leave plugged in while in use.<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6750747623490</id>
+      <title>Raw</title>
+      <s:price currency="EUR">190.00</s:price>
+      <s:sku>1508699Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710152855618</id>
+    <published>2022-03-10T13:51:19+01:00</published>
+    <updated>2022-03-10T13:51:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-high-floor-lamp"/>
+    <title>Hashira High Floor Lamp, Raw</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Floor_Lamp_High_Tearoom_Sofa_High_Back_Plinth_Low.jpg?v=1646913077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 113">
+<div class="layoutArea">
+<div class="column">
+<p>Filling spaces with ambient light, the Hashira High Floor Lamp by Norm Architects is characterised by its tall and tactile shade and slender, graphic frame. The elegant, powder-coated steel base lends an elevated, airy expression to the design, its black metal surface creating a contrast to the pale linen shade, which acts as a diffuser, projecting the light in multiple directions while creating cosy, glare-free ambience. A dimmer switch controls the brightness. Adding to the softness of a room, acoustically as well as tactually, the shade delicately reveals the structure within. A purposeful source of light in a living room, dining room, hallway or bedroom, the floor lamp brings a sense of understated luxury and ease to interior spaces everywhere.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710152855618</id>
+      <title>Raw</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku>1507699</s:sku>
+      <s:grams>12600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710129819714</id>
+    <published>2022-03-10T13:32:08+01:00</published>
+    <updated>2022-03-10T13:32:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-wall-lamp"/>
+    <title>Hashira Wall Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Wall_Lamp_Raw_Brasilia_Lounge_Chair_Sheepskin_2.jpg?v=1678458940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hashira Collection is a modern, Nordic take on the traditional Japanese rice paper lantern. Conceived for Audo by Norm Architects, the collection’s wall lamp perfectly balances aesthetics and proportion, simplicity and character. The translucent fabric shade – available in white linen and raw slub linen – acts as a diffuser, projecting the light in multiple directions while creating a cosy, glare-free ambience. The tactile fabric also adds palpable appeal that enhances the softness of an interior. Spreading ambient light in a room, it looks equally elegant mounted alone on a wall as it does in pairs above a bed or sofa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710129819714</id>
+      <title>Raw</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1506699</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945325122</id>
+    <published>2020-08-27T14:57:29+02:00</published>
+    <updated>2020-08-27T14:57:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-floor-lamp"/>
+    <title>Hashira Floor Lamp, Raw</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Floor_Lamp_Brasilia_Ottoman_NNDW_Cup_Houkime_Rug_1.jpg?v=1631617441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rising majestically from the floor, the cylindrical silhouette of the Hashira Floor Lamp iteration is combined with elements of western textile lamp shades to lend the design a familiar feel. The translucent fabric shade not only acts as a diffuser, projecting the light in multiple directions while creating a cosy, glare-free ambience, it also adds palpable appeal that enhances the softness of an interior – acoustically as well as tactilely.</p>
+<p>Light Bulb Socket: E27<br></p>
+<p><b>Bulb not included</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945325122</id>
+      <title>Raw</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku>1501699</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945390658</id>
+    <published>2020-04-28T12:04:24+02:00</published>
+    <updated>2020-04-28T12:04:24+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-table-lamp"/>
+    <title>Hashira Table Lamp, Raw</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Floor_Lamp_Androgyne_Lounge_Table_1_8b0baf39-dccc-4349-8a47-592fc12f2300.jpg?v=1631618802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            430.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Hashira, Table Lamp Shaped from the basic geometric form in architecture, the slender cylindrical table lamp takes its cues from the translucent fabric of Japanese lanterns and window blinds to softly diffuse the light in multiple directions. It is set on an ash base that underpins the minimalist expression.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945390658</id>
+      <title>Raw</title>
+      <s:price currency="EUR">430.00</s:price>
+      <s:sku>1500699</s:sku>
+      <s:grams>2410</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945226818</id>
+    <published>2020-04-28T12:04:21+02:00</published>
+    <updated>2020-04-28T12:04:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-pendant-lamp"/>
+    <title>Hashira Pendant Lamp</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Merkur_Dining_Chair_Androgyne_Dining_Table_Hashira_Pendant_Strandgade_Stem_Vase_Triptych_Bowl_Rond_Bowl_49.jpg?v=1678880028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            375.00 - 805.00
+            <a href="https://audocph.com/products/hashira-pendant-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The collection’s pendant light is created with the same column-like shape as the floor and table lamp, carefully covered with translucent fabric that reveals the graphic structure within and suspended from the ceiling by a textile cord. Spreading ambient light in a room, it makes a purposeful pendant above a dining table, in a reception area or hotel bedroom. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945226818</id>
+      <title>Raw / Small</title>
+      <s:price currency="EUR">375.00</s:price>
+      <s:sku>1502699</s:sku>
+      <s:grams>2078</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945226818</id>
+      <title>Raw / Large</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1503699</s:sku>
+      <s:grams>2078</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945194050</id>
+    <published>2020-04-28T12:04:19+02:00</published>
+    <updated>2020-04-28T12:04:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-pendant-lamp-cluster"/>
+    <title>Hashira Pendant Lamp, Cluster</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Pendant_Cluster_Raw_Androgyne_Dining_Table_NNWD_Footed_Bowl.jpg?v=1631202807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            805.00 - 2175.00
+            <a href="https://audocph.com/products/hashira-pendant-lamp-cluster">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A trio of pendants suspended from a black textile cord create the collection’s cluster light, bringing the same sense of understated luxury and calm to interior spaces as the other designs in the collection. Available in two sizes – small and large – it lends itself beautiful to any setting thanks to its minimalist expression and natural materials. In a hotel lobby, office reception or home dining room, it brings the perfect combination tradition and modernity.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945194050</id>
+      <title>Raw / Large</title>
+      <s:price currency="EUR">2175.00</s:price>
+      <s:sku>1505699</s:sku>
+      <s:grams>4829</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945194050</id>
+      <title>Raw / Small</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1504699</s:sku>
+      <s:grams>4829</s:grams>
+    </s:variant>
+  </entry>
+</feed>

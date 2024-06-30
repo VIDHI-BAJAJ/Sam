@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/bar-counter-tables.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2020-08-27T15:01:33+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/4521248096322</id>
+    <published>2020-08-27T15:01:33+02:00</published>
+    <updated>2020-08-27T15:01:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-table-rectangular-with-star-base"/>
+    <title>Harbour Column Table, 60x70 With Star Base</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Harbour_Column_Lounge_Table_Harbour_Column_Dining_Table_017565b9-d0b9-498b-8a58-3f7388b99341.jpg?v=1678874117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            850.00 - 1440.00
+            <a href="https://audocph.com/products/harbour-column-table-rectangular-with-star-base">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Building on the clean, light and versatile design of the Harbour Chair, Norm Architects are expanding the Harbour family with the elegant Harbour Column Table. “We sought to create a column table that would solve the issue of blending in and standing out,” says Norm Architects’ Jonas Bjerre-Poulsen. In other words, a design with a strong profile – yet the ability to work in harmony with surroundings of all styles.</p>
+<p>The Harbour Column Table features a simple tabletop paired with a subtle yet sophisticated clover-shaped column profile: the same one you’ll see in the new swivel version of the Harbour Chair. The pairing gives the modern design a classic, exclusive feel. While the table was originally designed for the Harbour Chair, it also works beautifully with other seating types and styles. At the heart of the Harbour family, after all, is a desire to meet our constantly evolving needs with adaptability and grace.</p>
+<p>At Audo House – Audo’s testing ground for new products and a creative hub that’s part office, part café, and part co-working space – the Harbour Column Table has demonstrated an exceptional ability to meet every functional demand, while also pleasing the senses with its balanced, slim silhouette and tactility. The table is available with both round and rectangular tabletops, and in three heights – so finding the right one for your space is easy. You just might wonder how you managed without it.</p>
+<p>The Harbour Column Table is available with four tabletop sizes: three round, one rectangular. Each can be crafted in charcoal linoleum, black oak veneer, or off white marblento suit your space and design preferences. The column base is constructed in steel and aluminum in a black powder-coated finish, with dining, counter and bar heights to fit numerous needs in homes, workplaces, cafés, lobbies – the possibilities are endless. Mix and match bases and tabletops to create your ideal pairing.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Bar Table</s:tag>
+    <s:tag>type-Counter Table</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9335539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9335149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9335659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1425.00</s:price>
+      <s:sku>9335139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9330539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9330149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9330659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1425.00</s:price>
+      <s:sku>9330139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Black Oak</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9325539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9325149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1160.00</s:price>
+      <s:sku>9325659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1440.00</s:price>
+      <s:sku>9325139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518972948546</id>
+    <published>2020-08-27T15:00:06+02:00</published>
+    <updated>2020-08-27T15:00:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-table-circular"/>
+    <title>Harbour Column Dining Table, Circular</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_WM_String_Dining_Chair_Ray_Table_Lamp_Harbour_Column_Table_681b4257-2641-4210-b6ef-5efd4ee97151.jpg?v=1678874801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            620.00 - 1730.00
+            <a href="https://audocph.com/products/harbour-column-table-circular">(26 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Building on the clean, light and versatile design of the Harbour Chair, Norm Architects are expanding the Harbour family with the elegant Harbour Column Table. “We sought to create a column table that would solve the issue of blending in and standing out,” says Norm Architects’ Jonas Bjerre-Poulsen. In other words, a design with a strong profile – yet the ability to work in harmony with surroundings of all styles.</p>
+<p>The Harbour Column Table features a simple tabletop paired with a subtle yet sophisticated clover-shaped column profile: the same one you’ll see in the swivel version of the Harbour Chair. The pairing gives the modern design a classic, exclusive feel. While the table was originally designed for the Harbour Chair, it also works beautifully with other seating types and styles. At the heart of the Harbour family, after all, is a desire to meet our constantly evolving needs with adaptability and grace.</p>
+<p>At Audo House – Audo’s testing ground for new products and a creative hub that’s part office, part café, and part co-working space – the Harbour Column Table has demonstrated an exceptional ability to meet every functional demand, while also pleasing the senses with its balanced, slim silhouette and tactility. The table is available with both round and rectangular tabletops, and in three heights – so finding the right one for your space is easy. You just might wonder how you managed without it.</p>
+<p>The Harbour Column Table is available with four tabletop sizes: three round, one rectangular. Each can be crafted in charcoal linoleum, black oak veneer, or off white marble to suit your space and design preferences. The column base is constructed in steel and aluminum in a black powder-coated finish, with dining, counter and bar heights to fit numerous needs in homes, workplaces, cafés, lobbies – the possibilities are endless. Mix and match bases and tabletops to create your ideal pairing.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Bar Table</s:tag>
+    <s:tag>type-Counter Table</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">620.00</s:price>
+      <s:sku>9317539</s:sku>
+      <s:grams>25752</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1115.00</s:price>
+      <s:sku>9317139</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">620.00</s:price>
+      <s:sku>9317149</s:sku>
+      <s:grams>25752</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">915.00</s:price>
+      <s:sku>9317659</s:sku>
+      <s:grams>52432</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">795.00</s:price>
+      <s:sku>9305539</s:sku>
+      <s:grams>31112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1290.00</s:price>
+      <s:sku>9305139</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">795.00</s:price>
+      <s:sku>9305149</s:sku>
+      <s:grams>31112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1090.00</s:price>
+      <s:sku>9305659</s:sku>
+      <s:grams>53952</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 105 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1730.00</s:price>
+      <s:sku>9316139</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Dining / Ø: 105 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1555.00</s:price>
+      <s:sku>9316659</s:sku>
+      <s:grams>54322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9318539</s:sku>
+      <s:grams>26462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1175.00</s:price>
+      <s:sku>9318139</s:sku>
+      <s:grams>5900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9318149</s:sku>
+      <s:grams>26462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">975.00</s:price>
+      <s:sku>9318659</s:sku>
+      <s:grams>53142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">855.00</s:price>
+      <s:sku>9306539</s:sku>
+      <s:grams>31822</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1350.00</s:price>
+      <s:sku>9306139</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">855.00</s:price>
+      <s:sku>9306149</s:sku>
+      <s:grams>31822</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Counter / Ø: 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1150.00</s:price>
+      <s:sku>9306659</s:sku>
+      <s:grams>54662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9320539</s:sku>
+      <s:grams>26706</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1175.00</s:price>
+      <s:sku>9320139</s:sku>
+      <s:grams>5440</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9320149</s:sku>
+      <s:grams>26706</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">975.00</s:price>
+      <s:sku>9320659</s:sku>
+      <s:grams>53386</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">855.00</s:price>
+      <s:sku>9307539</s:sku>
+      <s:grams>28286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1350.00</s:price>
+      <s:sku>9307139</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">855.00</s:price>
+      <s:sku>9307149</s:sku>
+      <s:grams>28286</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972948546</id>
+      <title>Bar / Ø: 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1150.00</s:price>
+      <s:sku>9307659</s:sku>
+      <s:grams>54906</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518972293186</id>
+    <published>2020-08-27T15:00:04+02:00</published>
+    <updated>2020-08-27T15:00:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-table-rectangular"/>
+    <title>Harbour Column Table, 60x70</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/j.jpg?v=1641566586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            620.00 - 1255.00
+            <a href="https://audocph.com/products/harbour-column-table-rectangular">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Building on the clean, light and versatile design of the Harbour Chair, Norm Architects are expanding the Harbour family with the elegant Harbour Column Table. “We sought to create a column table that would solve the issue of blending in and standing out,” says Norm Architects’ Jonas Bjerre-Poulsen. In other words, a design with a strong profile – yet the ability to work in harmony with surroundings of all styles.</p>
+<p>The Harbour Column Table features a simple tabletop paired with a subtle yet sophisticated clover-shaped column profile: the same one you’ll see in the new swivel version of the Harbour Chair. The pairing gives the modern design a classic, exclusive feel. While the table was originally designed for the Harbour Chair, it also works beautifully with other seating types and styles. At the heart of the Harbour family, after all, is a desire to meet our constantly evolving needs with adaptability and grace.</p>
+<p>At Audo House – Audo’s testing ground for new products and a creative hub that’s part office, part café, and part co-working space – the Harbour Column Table has demonstrated an exceptional ability to meet every functional demand, while also pleasing the senses with its balanced, slim silhouette and tactility. The table is available with both round and rectangular tabletops, and in three heights – so finding the right one for your space is easy. You just might wonder how you managed without it.</p>
+<p>The Harbour Column Table is available with four tabletop sizes: three round, one rectangular. Each can be crafted in charcoal linoleum, black oak veneer, or off white marble to suit your space and design preferences. The column base is constructed in steel and aluminum in a black powder-coated finish, with dining, counter and bar heights to fit numerous needs in homes, workplaces, cafés, lobbies – the possibilities are endless. Mix and match bases and tabletops to create your ideal pairing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Bar Table</s:tag>
+    <s:tag>type-Counter Table</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Dining / Black | Black Oak</title>
+      <s:price currency="EUR">620.00</s:price>
+      <s:sku>9308539</s:sku>
+      <s:grams>29112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Dining / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>9308139</s:sku>
+      <s:grams>7260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Dining / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">620.00</s:price>
+      <s:sku>9308149</s:sku>
+      <s:grams>29112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Dining / Black | Estremoz Marble</title>
+      <s:price currency="EUR">915.00</s:price>
+      <s:sku>9308659</s:sku>
+      <s:grams>52432</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Counter / Black | Black Oak</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9309539</s:sku>
+      <s:grams>29042</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Counter / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1255.00</s:price>
+      <s:sku>9309139</s:sku>
+      <s:grams>5900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Counter / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9309149</s:sku>
+      <s:grams>53142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Counter / Black | Estremoz Marble</title>
+      <s:price currency="EUR">975.00</s:price>
+      <s:sku>9309659</s:sku>
+      <s:grams>26822</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Bar / Black | Black Oak</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9310539</s:sku>
+      <s:grams>30066</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Bar / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1255.00</s:price>
+      <s:sku>9310139</s:sku>
+      <s:grams>5440</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Bar / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">680.00</s:price>
+      <s:sku>9310149</s:sku>
+      <s:grams>30066</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518972293186</id>
+      <title>Bar / Black | Estremoz Marble</title>
+      <s:price currency="EUR">975.00</s:price>
+      <s:sku>9310659</s:sku>
+      <s:grams>53386</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518947160130</id>
+    <published>2020-08-27T14:57:44+02:00</published>
+    <updated>2020-08-27T14:57:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/rectangular-snaregade-counter-tables"/>
+    <title>Snaregade Counter Table, Rectangular</title>
+    <s:type>Counter Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/counter_sn.jpg?v=1617093162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Counter Table<br>
+        <strong>Price: </strong>
+            2209.95 - 2420.00
+            <a href="https://audocph.com/products/rectangular-snaregade-counter-tables">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Originally created for the home of Audo founder Bjarne Hansen, the Snaregade Table has since become a central gathering point in homes, offices, restaurants, hotels and other style-savvy interiors around the globe. Now, with counter and bar versions joining the existing Snaregade shapes, sizes and tabletop options, the multi-functional family of tables is becoming truly all-purpose.<br></p>
+<p>The new rectangular counter version features the original geometric, minimalist base and legs that made the Snaregade design a standout. In our modern world, where sitting has become the overwhelming norm, the possibility of standing while eating, working, or meeting over coffee adds a much-needed, healthy dimension to our indoor lives.</p>
+<p>Conceived for both public and private use, the counter and bar tables add functional beauty to a wide range of building and interior profiles, supporting day-to-day needs in conference rooms, boardrooms, and touch-down co-working lounges, as well as in private homes and home offices. The table’s elegant profile makes a clear, modern style statement while tying in harmoniously with other interior elements, both modern and classic.</p>
+<p>The Snaregade Table current counter version offered comes with original painted veneer tabletop, which beautifully exposes the grain and structure of the wood. The base features durable and stylish powder-coated steel.</p>
+<p>If you are looking for a complete table and chair setup with modern, geometric lines and enduring, comfort-oriented construction, the new Snaregade Table heights work beautifully with the soon to be released bar version of our Harbour Chair.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Counter Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518947160130</id>
+      <title>Light Grey | Mushroom Linoleum</title>
+      <s:price currency="EUR">2295.00</s:price>
+      <s:sku>1158179</s:sku>
+      <s:grams>38100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518947160130</id>
+      <title>Light Grey | Light Grey</title>
+      <s:price currency="EUR">2209.95</s:price>
+      <s:sku>1158139</s:sku>
+      <s:grams>38100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518947160130</id>
+      <title>Black | Mushroom Linoleum</title>
+      <s:price currency="EUR">2295.00</s:price>
+      <s:sku>1158689</s:sku>
+      <s:grams>38100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518947160130</id>
+      <title>Black | Light Grey</title>
+      <s:price currency="EUR">2420.00</s:price>
+      <s:sku>1158559</s:sku>
+      <s:grams>38100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518947029058</id>
+    <published>2020-08-27T14:57:43+02:00</published>
+    <updated>2020-08-27T14:57:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/rectangular-snaregade-bar-tables"/>
+    <title>Snaregade Bar Table, Rectangular</title>
+    <s:type>Bar Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/harbour_bar.jpg?v=1617093450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Bar Table<br>
+        <strong>Price: </strong>
+            2209.95 - 2420.00
+            <a href="https://audocph.com/products/rectangular-snaregade-bar-tables">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Originally created for the home of Audo founder Bjarne Hansen, the Snaregade Table has since become a central gathering point in homes, offices, restaurants, hotels and other style-savvy interiors around the globe. Now, with counter and bar versions joining the existing Snaregade shapes, sizes and tabletop options, the multi-functional family of tables is becoming truly all-purpose.<br></p>
+<p>The rectangular bar version features the original geometric, minimalist base and legs that made the Snaregade design a standout. In our modern world, where sitting has become the overwhelming norm, the possibility of standing while eating, working, or meeting over coffee adds a much-needed, healthy dimension to our indoor lives.</p>
+<p>Conceived for both public and private use, the counter and bar tables add functional beauty to a wide range of building and interior profiles, supporting day-to-day needs in conference rooms, boardrooms, and touch-down co-working lounges, as well as in private homes and home offices. The table’s elegant profile makes a clear, modern style statement while tying in harmoniously with other interior elements, both modern and classic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Bar Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518947029058</id>
+      <title>Black | Light Grey</title>
+      <s:price currency="EUR">2314.95</s:price>
+      <s:sku>1157559</s:sku>
+      <s:grams>39010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518947029058</id>
+      <title>Light Grey | Black Oak</title>
+      <s:price currency="EUR">2420.00</s:price>
+      <s:sku>1157159</s:sku>
+      <s:grams>39010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518947029058</id>
+      <title>Light Grey | Light Grey</title>
+      <s:price currency="EUR">2209.95</s:price>
+      <s:sku>1157139</s:sku>
+      <s:grams>39010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518947029058</id>
+      <title>Light Grey | Mushroom Linoleum</title>
+      <s:price currency="EUR">2295.00</s:price>
+      <s:sku>1157179</s:sku>
+      <s:grams>39010</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518943752258</id>
+    <published>2020-08-27T14:57:11+02:00</published>
+    <updated>2020-08-27T14:57:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-4-seat-lounge-table"/>
+    <title>Harbour Column Table, Round With Star Base</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_WM_String_Dining_Chair_Harbour_Column_Table_Ray_Table_Lamp_8c8eeb44-c7f0-484a-a565-ff84bff998e4.jpg?v=1664978228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            850.00 - 1535.00
+            <a href="https://audocph.com/products/harbour-column-4-seat-lounge-table">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Building on the clean, light and versatile design of the Harbour Chair, Norm Architects are expanding the Harbour family with the elegant Harbour Column Table. “We sought to create a column table that would solve the issue of blending in and standing out,” says Norm Architects’ Jonas Bjerre-Poulsen. In other words, a design with a strong profile – yet the ability to work in harmony with surroundings of all styles.</p>
+<p>The Harbour Column Table features a simple tabletop paired with a subtle yet sophisticated clover-shaped column profile: the same one you’ll see in the new swivel version of the Harbour Chair. The pairing gives the modern design a classic, exclusive feel. While the table was originally designed for the Harbour Chair, it also works beautifully with other seating types and styles. At the heart of the Harbour family, after all, is a desire to meet our constantly evolving needs with adaptability and grace.</p>
+<p>At Audo House – Audo’s testing ground for new products and a creative hub that’s part office, part café, and part co-working space – the Harbour Column Table has demonstrated an exceptional ability to meet every functional demand, while also pleasing the senses with its balanced, slim silhouette and tactility. The table is available with both round and rectangular tabletops, and in three heights – so finding the right one for your space is easy. You just might wonder how you managed without it.</p>
+<p>The Harbour Column Table is available with four tabletop sizes: three round, one rectangular. Each can be crafted in charcoal linoleum, black oak veneer, or off white marblento suit your space and design preferences. The column base is constructed in steel and aluminum in a black powder-coated finish, with dining, counter and bar heights to fit numerous needs in homes, workplaces, cafés, lobbies – the possibilities are endless. Mix and match bases and tabletops to create your ideal pairing.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Bar Table</s:tag>
+    <s:tag>type-Counter Table</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1360.00</s:price>
+      <s:sku>9326139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9326149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9326539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1160.00</s:price>
+      <s:sku>9326659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1535.00</s:price>
+      <s:sku>9327139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">1040.00</s:price>
+      <s:sku>9327149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">1040.00</s:price>
+      <s:sku>9327539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1335.00</s:price>
+      <s:sku>9327659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1345.00</s:price>
+      <s:sku>9331139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9331149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9331539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9331659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1520.00</s:price>
+      <s:sku>9332139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9332149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9332539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1320.00</s:price>
+      <s:sku>9332659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1345.00</s:price>
+      <s:sku>9336139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9336149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9336539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9336659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1520.00</s:price>
+      <s:sku>9337139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9337149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9337539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1320.00</s:price>
+      <s:sku>9337659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+  </entry>
+</feed>

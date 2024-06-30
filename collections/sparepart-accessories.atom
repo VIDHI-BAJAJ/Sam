@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/sparepart-accessories.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-01-29T14:08:18+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8661669970250</id>
+    <published>2024-01-29T14:08:18+01:00</published>
+    <updated>2024-01-29T14:08:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/flower-divider-lolo-black"/>
+    <title>Flower Divider - Lolo, Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL22001_Kubus_Lolo_Black_Top_Angle_300_1833344b-bfa4-4c3f-a9e7-ccf3d97156cb.jpg?v=1706533703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flower divider for the <a href="https://audocph.com/products/kubus-lolo">Kubus Vase Lolo</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8661669970250</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.00</s:price>
+      <s:sku>BL626100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608224411978</id>
+    <published>2023-12-15T13:21:11+01:00</published>
+    <updated>2023-12-15T13:21:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/flower-divider-lily-black"/>
+    <title>Flower Divider - Lily, Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL626120.jpg?v=1702642859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608224411978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku>BL626120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608223461706</id>
+    <published>2023-12-15T13:20:05+01:00</published>
+    <updated>2023-12-15T13:20:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/flora-flower-divider"/>
+    <title>Flora, Flower Divider</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL626111.jpg?v=1702642808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608223461706</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.00</s:price>
+      <s:sku>BL626111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608220348746</id>
+    <published>2023-12-15T13:17:59+01:00</published>
+    <updated>2023-12-15T13:17:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/glass-tube-for-lightin-small"/>
+    <title>Glass Tube for LightIn, Small</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL199002.jpg?v=1702642657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608220348746</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.00</s:price>
+      <s:sku>BL199002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608219234634</id>
+    <published>2023-12-15T13:16:47+01:00</published>
+    <updated>2023-12-15T13:16:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/lightin-glass-tube-medium"/>
+    <title>Glass Tube for LightIn, Medium</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL199001.jpg?v=1702642586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608219234634</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.00</s:price>
+      <s:sku>BL199001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608218546506</id>
+    <published>2023-12-15T13:15:39+01:00</published>
+    <updated>2023-12-15T13:15:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-coat-hanger-screws-rawplugs-2-pcs-for-small"/>
+    <title>Afteroom Coat Hanger, Screws &amp; Rawplugs, 2 pcs. for Small</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/8910000.jpg?v=1702642542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For the <a href="https://audocph.com/products/afteroom-coat-hanger-small">Afteroom Coat Hanger, Small</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608218546506</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.95</s:price>
+      <s:sku>8910000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8600225546570</id>
+    <published>2023-12-08T13:25:21+01:00</published>
+    <updated>2023-12-08T13:25:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/daiza-plant-pot-h22-o48-ivory"/>
+    <title>Daiza Plant Pot, H22/Ø48, Ivory</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/4846600_Daiza_Planter_H35_8_front.jpg?v=1702038313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8600225546570</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>4846600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8600224301386</id>
+    <published>2023-12-08T13:23:01+01:00</published>
+    <updated>2023-12-08T13:23:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/daiza-plant-pot-h16-o35-ivory"/>
+    <title>Daiza Plant Pot, H16/Ø35, Ivory</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/4847600_Daiza_Planter_H45_5_front.jpg?v=1702038161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8600224301386</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4847600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8600224170314</id>
+    <published>2023-12-08T13:21:02+01:00</published>
+    <updated>2023-12-08T13:21:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/daiza-plant-pot-h23-o25-ivory"/>
+    <title>Daiza Plant Pot, H23/Ø25, Ivory</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/4848600_Daiza_Planter_H35_5_front.jpg?v=1702038064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8600224170314</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4848600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600506376258</id>
+    <published>2023-03-30T16:32:18+02:00</published>
+    <updated>2023-03-30T16:32:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-bowl-amber-glass-part"/>
+    <title>Échasse, Bowl, Amber - Glass part</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4798003.jpg?v=1624960688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Amber glass for Echasse Bowl, Large</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600506376258</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>4798003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600506179650</id>
+    <published>2023-03-30T16:31:19+02:00</published>
+    <updated>2023-03-30T16:31:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-bowl-glass-1-pc"/>
+    <title>Echasse Bowl, Glass, 1 pc</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4798000.jpg?v=1624960641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Smoke glass for Echasse Bowl, Large</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600506179650</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4798000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600505851970</id>
+    <published>2023-03-09T14:18:57+01:00</published>
+    <updated>2023-03-09T14:18:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-vase-l-smoke-glass-1-pc"/>
+    <title>Echasse, Vase, L, Smoke, Glass, 1 pc</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4797000.jpg?v=1624960583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Smoke glass for Echasse Vase, Large</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600505851970</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku>4797000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600489697346</id>
+    <published>2023-01-03T14:13:49+01:00</published>
+    <updated>2023-01-03T14:13:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-tea-lid-and-egg-for-tea-pot"/>
+    <title>1 pc. Tea Lid and egg for Tea Pot</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4545105.jpg?v=1624956792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement tea egg for the Glass Kettle Teapot by Norm Architects.<br><b>This is a spare part only, not a standalone product</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>archive-sale</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600489697346</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku>4545105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600489467970</id>
+    <published>2023-01-03T14:13:12+01:00</published>
+    <updated>2023-01-03T14:13:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-stopper-silicone-grey-for-tea-pot"/>
+    <title>1 pc. stopper, silicone, grey for Tea Pot</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4545104.jpg?v=1624956743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. stopper, silicone, grey for Tea Pot</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600489467970</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>4545104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600488190018</id>
+    <published>2022-03-14T10:40:22+01:00</published>
+    <updated>2022-03-14T10:40:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-pump-white-for-soap-pump"/>
+    <title>1 pc. pump, white for Soap pump</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7700610_Soap_Pump_Pump_White_1pc.jpg?v=1647250819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. pump, white for Soap pump</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600488190018</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>7700610</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600517648450</id>
+    <published>2021-12-14T09:29:30+01:00</published>
+    <updated>2021-12-14T09:29:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-toilet-brush-brush-part"/>
+    <title>1 pc Toilet Brush - brush part</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7700550.jpg?v=1630950416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc Toilet Brush - brush part</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600517648450</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku>7700550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600518205506</id>
+    <published>2021-07-02T13:48:02+02:00</published>
+    <updated>2021-07-02T13:48:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plug-wire-pot-umanoff-planter"/>
+    <title>Plug, Wire Pot, Umanoff Planter</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4774100.jpg?v=1624963478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Black silicone plug for Wire Pot and Umanoff Planters.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600518205506</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">3.00</s:price>
+      <s:sku>4774100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600505360450</id>
+    <published>2021-07-02T13:41:59+02:00</published>
+    <updated>2021-07-02T13:41:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-vase-m-smoke-glass-1-pc"/>
+    <title>Echasse, Vase, M, Smoke,Glass, 1 pc</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4796000.jpg?v=1624960486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Smoke glass for Echasse Vase, Medium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600505360450</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4796000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600505196610</id>
+    <published>2021-07-02T13:41:32+02:00</published>
+    <updated>2021-07-02T13:41:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-vase-s-clear-glass-1-pc"/>
+    <title>Echasse Vase, S, Clear, Glass, 1 pc</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4789002.jpg?v=1624960387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Clear glass for Echasse Vase, Small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600505196610</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">31.00</s:price>
+      <s:sku>4789002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600505294914</id>
+    <published>2021-07-02T13:41:11+02:00</published>
+    <updated>2021-07-02T13:41:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-vase-s-smoke-glass-1-pc"/>
+    <title>Echasse Vase, S, Smoke, Glass, 1 pc</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4795000.jpg?v=1624960438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Smoke glass for Echasse Vase, Small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600505294914</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>4795000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600490876994</id>
+    <published>2021-07-01T15:37:28+02:00</published>
+    <updated>2021-07-01T15:37:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/duca-screw-bronzed-brass-1-pc"/>
+    <title>Duca screw, Bronzed Brass, 1 pc.</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4708000.jpg?v=1624957075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Bronzed brass screw for Duca Candleholder to adjust the hight of the candleholder.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600490876994</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>4708000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600520237122</id>
+    <published>2021-07-01T15:33:17+02:00</published>
+    <updated>2021-07-01T15:33:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-wall-mounting-set-for-soap-pump-toilet-brush-and-toothbrush-holder"/>
+    <title>1 pc. wall mounting set for Soap Pump, Toilet Brush and Toothbrush holder</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7710601.jpg?v=1624963743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. wall mounting set for Soap Pump, Toilet Brush and Toothbrush holder</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600520237122</id>
+      <title>Black</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku>7710501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6600520237122</id>
+      <title>White</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku>7710602</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600516763714</id>
+    <published>2021-07-01T15:32:09+02:00</published>
+    <updated>2021-07-01T15:32:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-set-glides-black-for-norm-floor-mirror"/>
+    <title>1 set glides, black for Norm Floor Mirror</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7800002.jpg?v=1624963051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 set glides, black for Norm Floor Mirror</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600516763714</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>7800002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600520466498</id>
+    <published>2021-07-01T15:31:12+02:00</published>
+    <updated>2021-07-01T15:31:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/2-pcs-fitting-for-mounting-mirror-on-wall"/>
+    <title>2 pcs. fitting for mounting mirror on wall</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7800007.jpg?v=1624963786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 pcs. fitting for mounting mirror on wall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600520466498</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>7800007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600487698498</id>
+    <published>2021-07-01T15:29:18+02:00</published>
+    <updated>2021-07-01T15:29:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-pump-black-for-soap-pump"/>
+    <title>1 pc. pump, black for Soap pump</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7700510.jpg?v=1624956415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. pump, black for Soap pump</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600487698498</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku>7700510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

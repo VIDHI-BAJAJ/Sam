@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/dining-kitchen.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-08-25T13:10:29+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8479835029834</id>
+    <published>2023-08-25T13:10:29+02:00</published>
+    <updated>2023-08-25T13:10:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bottle-grinder-small-set-of-2"/>
+    <title>Bottle Grinder, Small, 2 pcs.</title>
+    <s:type></s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Bottle_Grinders_Small_11_WEB.jpg?v=1692711432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bottle Grinders, Small is a two-piece set of salt and pepper mills, each fitted with a powerful ceramic mill that makes light work of grinding a wide range of spices. Shaped as bottles that sit comfortably in the hand, the set is smaller than the original Bottle Grinder design, making it ideal for use where space is at a premium.<br data-mce-fragment="1"></p>
+<p>Easy to operate, fill and clean, the upright design ensures surfaces remain free from unwanted residue while meals are seasoned to perfection. Offered in a range of hardworking materials and colours, including Hunting Green, Ash and Blue, which work with any interior design scheme.<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bottle Grinders</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8479835029834</id>
+      <title>Blues - Beech Lid</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4413299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8479835029834</id>
+      <title>Carbon - Ash- Beech Lid</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4413399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8479835029834</id>
+      <title>Hunting Green - Beige - Walnut Lid</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4413459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637872742466</id>
+    <published>2022-10-26T11:00:49+02:00</published>
+    <updated>2022-10-26T11:00:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/new-norm-wooden-plate"/>
+    <title>New Norm Wooden Plate</title>
+    <s:type>Dinnerware</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/2038039_NNDW_Wooden_Plate_Angle.jpg?v=1630519748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dinnerware<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">In 2010, Audo and Norm Architects joined forces with the Copenhagen restaurant Höst to create a dinnerware line with Scandinavian sensibilities. The result was the New Norm Dinnerware Collection, an ever-evolving series with a true Nordic feel. Complex and inspiring and urban yet rural, the hand-glazed ceramic pieces in Dark Glaze or Red Glaze are working beautifully together or alone. The understated plates, bowls and cups in a range of sizes are ideal for everyday use as well as more formal dining.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Dinnerware</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637872742466</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>2038039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807124115522</id>
+    <published>2022-09-30T11:08:55+02:00</published>
+    <updated>2022-09-30T11:08:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/rond-bowl"/>
+    <title>Rond Bowl</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Rond_Bowl_Wood_2.jpg?v=1664267932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dramatic in scale and expression, the Rond Bowl is an ideal centrepiece for a dining or a coffee table, anchoring a large surface space. Expertly cast in concrete, the versatile design has an intriguing surface that adds textural appeal to spaces and an exaggerated lip that lends dimension to the piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807124115522</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>4826939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637871202370</id>
+    <published>2022-07-18T13:24:55+02:00</published>
+    <updated>2022-07-18T13:24:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/new-norm-plate"/>
+    <title>New Norm Plate</title>
+    <s:type>Dinnerware</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/0000_2037530_NNDW_Plate_Dark_Glazed_Front.jpg?v=1631447556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dinnerware<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">In 2010, Audo and Norm Architects joined forces with the Copenhagen restaurant Höst to create a dinnerware line with Scandinavian sensibilities. The result was the New Norm Dinnerware Collection, an ever-evolving series with a true Nordic feel. Complex and inspiring and urban yet rural, the hand-glazed ceramic pieces in Dark Glaze or Red Glaze are working beautifully together or alone. The understated plates, bowls and cups in a range of sizes are ideal for everyday use as well as more formal dining.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Dinnerware</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637871202370</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.00</s:price>
+      <s:sku>2037530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637870809154</id>
+    <published>2022-07-18T13:24:55+02:00</published>
+    <updated>2022-07-18T13:24:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/new-norm-fruit-bowl"/>
+    <title>New Norm Fruit Bowl</title>
+    <s:type>Dinnerware</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NNDW_Fruit_Bowl_4.jpg?v=1630948905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dinnerware<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">In 2010, Audo and Norm Architects joined forces with the Copenhagen restaurant Höst to create a dinnerware line with Scandinavian sensibilities. The result was the New Norm Dinnerware Collection, an ever-evolving series with a true Nordic feel. Complex and inspiring and urban yet rural, the hand-glazed ceramic pieces in Dark Glaze or Red Glaze are working beautifully together or alone. The understated plates, bowls and cups in a range of sizes are ideal for everyday use as well as more formal dining.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Dinnerware</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637870809154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>2036530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4634432700482</id>
+    <published>2022-07-18T13:24:54+02:00</published>
+    <updated>2022-07-18T13:24:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/new-norm-plate-lid"/>
+    <title>New Norm Plate/Lid</title>
+    <s:type>Dinnerware</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/newnorm.jpg?v=1660567808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dinnerware<br>
+        <strong>Price: </strong>
+            20.00 - 24.00
+            <a href="https://audocph.com/products/new-norm-plate-lid">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>New Norm Dinnerware is manufactured at a stateof-the-art factory specializing in porcelain for restaurants and hotels. Each piece is burned twice at 1,400 degrees for maximum strength and exceptional long-lasting durability. The dinnerware is finished with a special glaze that gives the porcelain its elegant, watercolour-like texture.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Dinnerware</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4634432700482</id>
+      <title>Ø13.5 cm / Dark Glazed</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2011530</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634432700482</id>
+      <title>Ø17.5 cm / Dark Glazed</title>
+      <s:price currency="EUR">23.00</s:price>
+      <s:sku>2012530</s:sku>
+      <s:grams>429</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634432700482</id>
+      <title>Ø21.5 cm / Dark Glazed</title>
+      <s:price currency="EUR">24.00</s:price>
+      <s:sku>2013530</s:sku>
+      <s:grams>622</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637874610242</id>
+    <published>2022-07-18T13:24:23+02:00</published>
+    <updated>2022-07-18T13:24:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/new-norm-cup-w-handle"/>
+    <title>New Norm Cup w/Handle, 2 pcs.</title>
+    <s:type>Dinnerware</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NNDW_Cup_w_Hadle_Footed_Bowl_2.jpg?v=1630948776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dinnerware<br>
+        <strong>Price: </strong>
+            40.00 - 50.00
+            <a href="https://audocph.com/products/new-norm-cup-w-handle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">In 2010, Audo and Norm Architects joined forces with the Copenhagen restaurant Höst to create a dinnerware line with Scandinavian sensibilities. The result was the New Norm Dinnerware Collection, an ever-evolving series with a true Nordic feel. Complex and inspiring and urban yet rural, the hand-glazed ceramic pieces in Dark Glaze or Red Glaze are working beautifully together or alone. The understated plates, bowls and cups in a range of sizes are ideal for everyday use as well as more formal dining.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Dinnerware</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637874610242</id>
+      <title>Dark Glazed</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>2039530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637874610242</id>
+      <title>Red Glazed</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>2039349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637869662274</id>
+    <published>2022-07-18T13:24:22+02:00</published>
+    <updated>2022-07-18T13:24:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/new-norm-footed-bowl"/>
+    <title>New Norm Footed Bowl</title>
+    <s:type>Dinnerware</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NNDW_Footed_Bowl.jpg?v=1630948870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dinnerware<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">In 2010, Audo and Norm Architects joined forces with the Copenhagen restaurant Höst to create a dinnerware line with Scandinavian sensibilities. The result was the New Norm Dinnerware Collection, an ever-evolving series with a true Nordic feel. Complex and inspiring and urban yet rural, the hand-glazed ceramic pieces in Dark Glaze or Red Glaze are working beautifully together or alone. The understated plates, bowls and cups in a range of sizes are ideal for everyday use as well as more formal dining.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Dinnerware</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637869662274</id>
+      <title>Dark Glazed</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>2042530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637869662274</id>
+      <title>Red Glazed</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>2042349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518969835586</id>
+    <published>2022-07-18T13:24:20+02:00</published>
+    <updated>2022-07-18T13:24:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/new-norm-bowl"/>
+    <title>New Norm Bowl</title>
+    <s:type>Dinnerware</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/bowl.jpg?v=1617186475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dinnerware<br>
+        <strong>Price: </strong>
+            20.00 - 50.00
+            <a href="https://audocph.com/products/new-norm-bowl">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>In 2010 Audo and Norm Architects joined forces with restaurant <a href="http://newnorm.dk/host/" title="Restaurant Höst at newnorm.dk">Höst</a> in Copenhagen to create something magical. A dinnerware line expressing everything we categorize as “Nordic”. Materials, dishes, glasses, moods, and colors. Everything just fits together to create a complex and inspiring feeling of something urban, yet rough and rural. Something rustic, yet simplistic.</p>
+<p>Norm Architects initially designed this special Collection of dinnerware as a profound admiration of one of Denmark’s most prominent painters, Vilhelm Hammershoi, and the unique feel of the crisp and pristine Nordic winds, which served as the main inspiration for the color scheme.</p>
+<p>New Norm Dinnerware is isostatically pressed to produce restaurant level quality and reliability. The flexible colors and materials allow you to go classic white and crisp, rough and rustic, or colorful and casual on a whim.</p>
+<p>The bowls have separately sold matching lids for the S, M and L sizes, which also double as plates.</p>
+<p><b></b><b>Dishwasher and Microwave safe</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Dinnerware</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518969835586</id>
+      <title>7,5 cm / Dark Glazed</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2033530</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518969835586</id>
+      <title>10 cm / Dark Glazed</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2032530</s:sku>
+      <s:grams>177</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518969835586</id>
+      <title>21,5 cm / Dark Glazed</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>2018530</s:sku>
+      <s:grams>968</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518969835586</id>
+      <title>25 cm / Dark Glazed</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>2019530</s:sku>
+      <s:grams>1351</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711418028098</id>
+    <published>2022-04-01T09:39:10+02:00</published>
+    <updated>2022-04-01T09:39:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/graphium-tea-towel"/>
+    <title>Graphium Tea Towel</title>
+    <s:type>Tea Towel</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Balcony_Serving_Tray_NNDW_Cup_Handle_Graphium_Tea_Towel_2.jpg?v=1647510786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Tea Towel<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Imagined in Denmark and crafted in Italy, the Graphium Tea Towel is an indispensable kitchen textile design made from cotton. Woven with sophisticated stripes that enhance the design, the absorbent tea towel is quick to dry. Soft yet long-lasting, the luxurious design makes light work of kitchen chores while adding a sophisticated blend of traditional and modernity to the space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Tea Towel</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711418028098</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2822619</s:sku>
+      <s:grams>520</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711417798722</id>
+    <published>2022-04-01T09:38:33+02:00</published>
+    <updated>2022-04-01T09:38:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/troides-tea-towel"/>
+    <title>Troides Tea Towel</title>
+    <s:type>Tea Towel</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Epoch_Rack_Troides_Tea_Towel_2.jpg?v=1647510598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Tea Towel<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>A staple in any well-functioning kitchen, the humble tea towel is reimagined in the perfect blend of tradition and modernity. Detailed with a bold, block weave pattern in two colourways, the chequered cotton. Troides design is made for modern kitchens using a traditional technique. Hardwearing yet elegant, it quickly absorbs and dries while wearing better with use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Responsible</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Tea Towel</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711417798722</id>
+      <title>Troides Burnt Sienna</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2812389</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417798722</id>
+      <title>Troides Indigo</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2812719</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711417602114</id>
+    <published>2022-04-01T09:37:52+02:00</published>
+    <updated>2022-04-01T09:37:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/papilio-tea-towel"/>
+    <title>Papilio Tea Towel</title>
+    <s:type>Tea Towel</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Epoch_Rack_Papilio_Tea_Towel_2.jpg?v=1647510320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Tea Towel<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Part of our covetable collection of tableware that reimagines the traditions of entertaining at home, the Papillo Tea Towel is considered in both design and craftsmanship. Contrasting stripes of natural linen create a timeless, graphic pattern with a tactile handle. The tea towel makes an elegant and practical addition to kitchen spaces, evoking a sense of nostalgia with its classic look.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Responsible</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Tea Towel</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711417602114</id>
+      <title>Papilio Burnt Sienna</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku>2802389</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417602114</id>
+      <title>Papilio Indigo</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku>2802719</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417602114</id>
+      <title>Papilio Ochre</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku>2802859</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711417110594</id>
+    <published>2022-04-01T09:37:07+02:00</published>
+    <updated>2022-04-01T09:37:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cressida-napkin"/>
+    <title>Cressida Napkin</title>
+    <s:type>Napkin</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NNDW_Plate_Cressida_Napkin_1.jpg?v=1647510039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Napkin<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf" data-mce-href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Heritage and craftsmanship come together on the Cressida Napkin. Made with longevity and durability in mind, the natural linen design lends a touch of tradition to tables thanks to its classic graphic weave that is accented with subtle slub stripes of primary colour. A beautiful way to bring tableware traditions back to modern homes, its understated design enhances any setting.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Napkin</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Burnt Sienna</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910389</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Ecru</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910619</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Indigo</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910719</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Ochre</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910859</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711415963714</id>
+    <published>2022-04-01T09:35:22+02:00</published>
+    <updated>2022-04-01T09:35:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/byasa-napkin"/>
+    <title>Byasa Napkin</title>
+    <s:type>Napkin</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_MENU_Byasa_Napkin_Cressida_Napkin.jpg?v=1647509680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Napkin<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Featuring a traditional stripe pattern, the graphic lines of the Byasa Napkin add understated pattern to table settings. Woven from natural linen for beauty, durability and longevity, the tactile serviette lends a touch of classic style to mealtimes, reimagining past traditions in a thoroughly modern context.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Napkin</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711415963714</id>
+      <title>Byasa Burnt Sienna</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2900389</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711415963714</id>
+      <title>Byasa Ecru</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2900619</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711415963714</id>
+      <title>Byasa Ochre</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2900859</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711412523074</id>
+    <published>2022-04-01T09:34:30+02:00</published>
+    <updated>2022-04-01T09:34:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/balcony-serving-tray"/>
+    <title>Balcony Serving Tray</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Balcony_Serving_Tray_Strandgade_Carafe_Triptych_Bowl_1_5259c4d4-1a60-4e89-8028-e117db87d5db.jpg?v=1647509440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Balcony Serving Tray makes serving guests a pleasurable experience. Crafted in sleek steel softened with rattan for a handcrafted finish and a firm yet comfortable grip, it moves easily from surface to surface and room to room to elegantly display the fruits of your labour in the kitchen. Pairing perfectly with our collection of tableware essentials, the tray evokes a feeling of nostalgia with its mid-century Modern aesthetic, reimagining the traditions of togetherness.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Tray</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711412523074</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>4821839</s:sku>
+      <s:grams>1650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711411376194</id>
+    <published>2022-04-01T09:15:53+02:00</published>
+    <updated>2022-04-01T09:15:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/etruscan-jug"/>
+    <title>Etruscan Jug</title>
+    <s:type>Serving Carafe</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Graphium_Tea_Towel_Etruscan_Jug.jpg?v=1647508889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Serving Carafe<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 134" class="page">
+<div class="layoutArea">
+<div class="column">
+<p>A modern interpretation of the classic Roman vessel, the Etruscan Jug serves milk or cream with minimalist elegance. The diminutive design is shaped from mirror-polished stainless steel for a bright, reflective finish that complements any and every table setting. Perfectly proportioned with a wide rim spout for easy pouring, it sits comfortably in the hand, making it both a delight to use and to look at.</p>
+<p> </p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Jug</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711411376194</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>4494159</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711410917442</id>
+    <published>2022-04-01T09:15:00+02:00</published>
+    <updated>2022-04-01T09:15:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/etruscan-pitcher"/>
+    <title>Etruscan Pitcher</title>
+    <s:type>Serving Carafe</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Curiosity_Cabinet_NNDW_Plate_Etruscan_Pitcher_Abacus_Candle_Holder_Plinth_Tall_Triptych_Bowl_1_2a141662-fc9c-4863-a833-56d28bcb9f46.jpg?v=1647508713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Serving Carafe<br>
+        <strong>Price: </strong>
+            185.00 - 200.00
+            <a href="https://audocph.com/products/etruscan-pitcher">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 134" class="page">
+<div class="layoutArea">
+<div class="column">
+<p>Equal parts practical and beautiful, the sweeping silhouette of the Etruscan Pitcher is shaped from mirror-polished stainless steel for a hardwearing yet elegant finish. Its exaggerated proportions include a tall, curved top handle and a tapered spout for easy pouring. The voluminous design makes an equally bold statement when serving chilled drinks at the table as it does used as a decorative object or cut flower vase. Available in two sizes: 30 cm and 33 cm.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Pitcher</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711410917442</id>
+      <title>H30</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>4493159</s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711410917442</id>
+      <title>H33</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4492159</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6712304664642</id>
+    <published>2022-04-01T09:14:23+02:00</published>
+    <updated>2022-04-01T09:14:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/strandgade-carafe"/>
+    <title>Strandgade Carafe</title>
+    <s:type>Serving Carafe</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Strandgade_Carafe_Drinking_Glass_3.jpg?v=1647442448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Serving Carafe<br>
+        <strong>Price: </strong>
+            60.00 - 65.00
+            <a href="https://audocph.com/products/strandgade-carafe">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 134" class="page">
+<div class="layoutArea">
+<div class="column">
+<p>Copenhagen-based architects Mentze Ottenstein took their design cues from their local neighbourhood when creating their Strandgade series for Audo, named after the historic street in which they reside. The Strandgade Carafe in mouth-blown glass profiles an asymmetrical silhouette that sits comfortably in the hand, making light work of pouring liquids. Designed for serving cold drinks, it is infused with function and a sense of nostalgia. Crafted in two sizes, the smaller bottle is shaped from clear glass while the larger is darker in colour. Each unique design varies in size and shape due to the handcrafted nature of each piece.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Carafe</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6712304664642</id>
+      <title>H26 Clear Glass</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>4480002</s:sku>
+      <s:grams>1260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6712304664642</id>
+      <title>H29 Smoke Glass</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4481949</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711398072386</id>
+    <published>2022-04-01T09:12:50+02:00</published>
+    <updated>2022-04-01T09:12:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/triptych-bowl"/>
+    <title>Triptych Bowl</title>
+    <s:type>Serving Bowl</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Triptych_Bowl.jpg?v=1676634626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Serving Bowl<br>
+        <strong>Price: </strong>
+            45.00 - 105.00
+            <a href="https://audocph.com/products/triptych-bowl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted with a reactive glaze that gives each piece a unique expression according to where in the kiln it is placed when fired, the stoneware Tryptych Bowl is perfectly sized to hold all manner of objects. It also makes a beautiful addition to spaces as a decorative object in its own right. Tapering to a narrow base, the wide-rimmed design is shaped into three different sizes, each in a different colour. The decorative, speckled surface of the bowl lends a nostalgic feel to an interior, reminiscent of prized find or heirloom object. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Serving Bowl</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711398072386</id>
+      <title>Ø15 Créme</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>2045649</s:sku>
+      <s:grams>1050</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711398072386</id>
+      <title>Ø30 Mocha</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>2047939</s:sku>
+      <s:grams>4160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6549387575362</id>
+    <published>2021-03-22T15:28:14+01:00</published>
+    <updated>2021-03-22T15:28:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-bowl-small"/>
+    <title>Échasse Bowl, Small</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Theresa Rand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Echasse-bowl_3_4cb21e6f-ec32-4085-b947-87dfb192c73d.jpg?v=1616423118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theresa Rand<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reimagining the classic elegance of glass vases and bowls, the Échasse Collection brings a minimalist silhouette with distinguished, playful edge to modern and traditional spaces. Theresa Rand’s playful concept beautifully interprets the word “échasse”: French for “stilts”. The slender, stilt-like supporting legs delicately suspend the glass forms, creating a sense of lightness while ensuring stability.</p>
+<p>The Échasse Bowl—Available in two sizes in smoked glass and brushed brass, offers a modern, centerpiece-worthy take on the traditional serving bowl. Simple and purposeful, this is counter- and tabletop storage that is both modern and elegant.</p>
+<p>Its expression ethereal, its design elevated in every sense, the Échasse Collection offers infinite possibilities for experimentation, as its test tube origins suggest. Alone or together, filled with favourite flowers, fruits and objects or displayed alone as sculptural focal points, these pieces enliven modern spaces with equal parts daring and grace.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Theresa Rand</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Echasse</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6549387575362</id>
+      <title>Small / Brass | Green Smoked Glass</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>4799949</s:sku>
+      <s:grams>987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4764537880642</id>
+    <published>2021-01-11T10:28:51+01:00</published>
+    <updated>2021-01-11T10:28:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bottle-grinder-ceramics-2-piece"/>
+    <title>Bottle Grinder, Ceramic, 2 pcs.</title>
+    <s:type>Spice Mill</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Adrogyne_Dining_Table_Bottle_Grinder_32a5c4c4-6412-40ef-b9c5-39d2ba7c800c.jpg?v=1678881461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Spice Mill<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 118" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>Atypical for traditional salt and pepper mills, Audo’s Bottle Grinders are shaped like bottles to cleverly trick the user into engaging with the design in a playful and experimental way. Fitted with a powerful ceramic mill that makes light work of grinding a wide range of spices, Bottle Grinders are easy to operate, fill and clean, and the upright design ensures surfaces remain free from unwanted residue. Available in a range of colours and finishes, the collection’s most recent additions are carefully crafted from ceramic, featuring an ivory or grey matte glaze finish that displays small, deliberate imperfections for a handmade look and feel. The versatile kitchen accessories come fitted with a harmonising walnut wood lid.</p>
+</div>
+</div>
+</div>
+</div>
+<p><span>Care instructions:</span><br><span>Avoid placing bottle grinders in direct sunlight. Use a soft dry cloth to clean. For stains, use a light dish-washing soap. Do not use any cleaners with chemicals or harsh abrasives. To avoid noisy grinding, make sure the grinder is properly dry before refilling.</span><br>Each set includes two bottle grinders.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bottle Grinders</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>type-Spice Mill</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4764537880642</id>
+      <title>Sand | Walnut</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>4414659</s:sku>
+      <s:grams>970</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518977568834</id>
+    <published>2020-04-28T12:07:48+02:00</published>
+    <updated>2020-04-28T12:07:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bottle-carafe-34oz"/>
+    <title>Bottle Carafe, 1 L</title>
+    <s:type>Serving Carafe</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Water-Bottle.jpg?v=1714984806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Serving Carafe<br>
+        <strong>Price: </strong>
+            40.00 - 50.00
+            <a href="https://audocph.com/products/bottle-carafe-34oz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 134" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>A tall, slim carafe that can be used for any liquid, this mouth-blown glass bottle carafe comes with a brass or steel lid. Use it for freshly made juice at breakfast or fruit-infused water during a meeting. The bottle is available in smoked as well as clear glass.</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Carafe</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518977568834</id>
+      <title>Glass Clear | Brass</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>4680839</s:sku>
+      <s:grams>498</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977568834</id>
+      <title>Glass Clear | Steel</title>
+      <s:price currency="EUR">40.00</s:price>
+      <s:sku>4680039</s:sku>
+      <s:grams>498</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518977208386</id>
+    <published>2020-04-28T12:07:46+02:00</published>
+    <updated>2020-04-28T12:07:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bottle-grinder-set"/>
+    <title>Bottle Grinder, 2 pcs.</title>
+    <s:type>Spice Mill</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Menu_Bottle_Grinder_New_Norm.jpg?v=1668763121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Spice Mill<br>
+        <strong>Price: </strong>
+            80.00 - 135.00
+            <a href="https://audocph.com/products/bottle-grinder-set">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 118" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>Bottle Grinder is a two-piece set of salt and pepper mills, each fitted with a powerful ceramic mill that makes light work of grinding a wide range of spices. Shaped as bottles that sit comfortably in the hand, the set is offered in a range of hardworking materials and colours, including Barley, a warm and calming neutral that works with any kitchen design scheme. Easy to operate, fill and clean, the upright design ensures surfaces remain free from unwanted residue while meals are seasoned to perfection.</p>
+</div>
+</div>
+</div>
+</div>
+<p><span>Care instructions:</span><br><span>Avoid placing bottle grinders in direct sunlight. Use a soft dry cloth to clean. For stains, use a light dish-washing soap. Do not use any cleaners with chemicals or harsh abrasives. To avoid noisy grinding, make sure the grinder is properly dry before refilling.</span><br>Each set includes two bottle grinders.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bottle Grinders</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>type-Spice Mill</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Barley - Walnut Lid</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>4425139</s:sku>
+      <s:grams>1023</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Bronzed Brass - Walnut Lid</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4415859</s:sku>
+      <s:grams>1023</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Blues - Beech Lid</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4415299</s:sku>
+      <s:grams>1023</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Carbon - Ash - Walnut Lid</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4415369</s:sku>
+      <s:grams>670</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Carbon - Ash - Beech Lid</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4415399</s:sku>
+      <s:grams>1025</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Hunting Green - Beige - Walnut Lid</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4415459</s:sku>
+      <s:grams>1025</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Carbon - Ash - Steel Lid</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4415599</s:sku>
+      <s:grams>1023</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Nudes - Walnut Lid</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4415769</s:sku>
+      <s:grams>1023</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518977208386</id>
+      <title>Brushed Brass - Walnut Lid</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4415839</s:sku>
+      <s:grams>1023</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518974193730</id>
+    <published>2020-04-28T12:07:21+02:00</published>
+    <updated>2020-04-28T12:07:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-bowl"/>
+    <title>Échasse Bowl</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Theresa Rand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Echasse_bowl.jpg?v=1607956943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theresa Rand<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reimagining the classic elegance of glass vases and bowls, the Échasse Collection brings a minimalist silhouette with distinguished, playful edge to modern and traditional spaces. Theresa Rand’s playful concept beautifully interprets the word “échasse”: French for “stilts”. The slender, stilt-like supporting legs delicately suspend the glass forms, creating a sense of lightness while ensuring stability.</p>
+<p>The Échasse Bowl—Available in two sizes in smoked glass and brushed brass, offers a modern, centerpiece-worthy take on the traditional serving bowl. Simple and purposeful, this is counter- and tabletop storage that is both modern and elegant.</p>
+<p>Its expression ethereal, its design elevated in every sense, the Échasse Collection offers infinite possibilities for experimentation, as its test tube origins suggest. Alone or together, filled with favourite flowers, fruits and objects or displayed alone as sculptural focal points, these pieces enliven modern spaces with equal parts daring and grace.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Theresa Rand</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Echasse</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518974193730</id>
+      <title>Large / Brass | Green Smoked Glass</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku>4798949</s:sku>
+      <s:grams>3649</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518956662850</id>
+    <published>2020-04-28T12:05:28+02:00</published>
+    <updated>2020-04-28T12:05:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/wine-breather-carafe-deluxe"/>
+    <title>Wine Breather Carafe, Deluxe</title>
+    <s:type>Serving Carafe</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_-_Wine_Breather_Deluxe.jpg?v=1596445058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Serving Carafe<br>
+        <strong>Price: </strong>
+            80.00 - 95.00
+            <a href="https://audocph.com/products/wine-breather-carafe-deluxe">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adding 10 times more oxygen to wine in under two minutes, it’s little wonder that Wine Breather Deluxe is an award-winning Audo bestseller. Simply press the decanter on to the top of an opened bottle of wine and flip it over so the wine pours into the decanter. You can serve the wine directly from elegant carafe, or tip it upside again to serve from the original wine bottle.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>type-Carafe</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518956662850</id>
+      <title>Glass Clear | Brass</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>4683829</s:sku>
+      <s:grams>1168</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518956662850</id>
+      <title>Glass Clear | Steel</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4683039</s:sku>
+      <s:grams>1168</s:grams>
+    </s:variant>
+  </entry>
+</feed>

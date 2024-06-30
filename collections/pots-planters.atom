@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/pots-planters.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-03-03T10:47:27+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6860305006658</id>
+    <published>2023-03-03T10:47:27+01:00</published>
+    <updated>2023-03-03T10:47:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-planter"/>
+    <title>Hydrous Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Planter_Hydrous_Watering_Can.jpg?v=1671613653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            65.00 - 120.00
+            <a href="https://audocph.com/products/hydrous-planter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Our clever, self-watering pot ensures easy plant care whether you are home or away. Shaped from stoneware glazed for a glossy finish, the practical design enables the plant to draw water to its roots as needed: a nylon wick transports the water from the saucer to the soil, ensuring correct hydration all year round. Available in two sizes in two colours. For indoor use only. <span data-mce-fragment="1"> </span><a href="https://audocph.com/collections/hydrous-collection" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ashen</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833659</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ochre</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833859</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø20 cm / Ashen</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>4834659</s:sku>
+      <s:grams>2097</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860291211330</id>
+    <published>2023-03-03T10:46:54+01:00</published>
+    <updated>2023-03-03T10:46:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plantas-planter"/>
+    <title>Plantas Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plantas_Planter_2.jpg?v=1671615350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            160.00 - 405.00
+            <a href="https://audocph.com/products/plantas-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Characterised by their curves and irregular, furrowed surface, the Plantas Planters are made from matte ivory stoneware with a textured, natural appearance. Each piece is finished by hand and therefore entirely unique. Made for indoor use, the Plantas Planters can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H17</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>4835649</s:sku>
+      <s:grams>2580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H24</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>4836649</s:sku>
+      <s:grams>3630</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H26</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4837649</s:sku>
+      <s:grams>5597</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H32</title>
+      <s:price currency="EUR">405.00</s:price>
+      <s:sku>4838649</s:sku>
+      <s:grams>9958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860289343554</id>
+    <published>2023-03-03T10:46:15+01:00</published>
+    <updated>2023-03-03T10:46:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/daiza-planter"/>
+    <title>Daiza Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Daiza_Planters_2.jpg?v=1671612702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            200.00 - 335.00
+            <a href="https://audocph.com/products/daiza-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Taking its cues from ancient amphoras, the Daiza Planter is shaped from stoneware and finished with a glossy, reactive glaze that lends the design a beautiful depth of colour and texture. The planters are elevated on iron feet, allowing them to be grouped in clusters. Made for indoor use, the Daiza Planter can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 25 cm</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4844649</s:sku>
+      <s:grams>5400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 48 cm</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>4848649</s:sku>
+      <s:grams>10400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 45 / Ø 35 cm</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>4847649</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 65 / Ø 25 cm</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4846649</s:sku>
+      <s:grams>7100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678065218</id>
+    <published>2023-02-15T14:48:02+01:00</published>
+    <updated>2023-02-15T14:48:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-flowerpot"/>
+    <title>Kubus Flowerpot</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Flowerpot.jpg?v=1694092950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            135.00 - 320.00
+            <a href="https://audocph.com/products/kubus-flowerpot">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pot for herbs, a vase or planter or a simple container; the possibilities are endless with the Kubus Flowerpot 14. Offered in three different sizes – Flowerpot 10, Flowerpot 14 and Flowerpot 23 – the container is deeper than the classic Kubus Bowl, making it a versatile storage solution for everyday objects. As the name suggests, it was originally designed as a home for houseplants and flowers, but with its elegant geometric shape it will sit happily in any space as a standalone piece. Available in white or black powder-coated metal, it stands on a surface or hangs on a wall.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>10 / White</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>BL24011</s:sku>
+      <s:grams>655</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>10 / Black</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>BL24001</s:sku>
+      <s:grams>655</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>14 / White</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku>BL24012</s:sku>
+      <s:grams>1082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>14 / Black</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku>BL24002</s:sku>
+      <s:grams>1082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>23 / White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL24013</s:sku>
+      <s:grams>2679</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>23 / Black</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL24003</s:sku>
+      <s:grams>2679</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4679353827394</id>
+    <published>2022-05-03T12:49:36+02:00</published>
+    <updated>2022-05-03T12:49:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-planter-69"/>
+    <title>Umanoff Planter, 69</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Planters_4_5a0e29bc-7550-4c72-bb25-1c5d8e0b86c2.jpg?v=1599202555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offered in three different sizes, the Umanoff Planter marries sleek powder coated steel lines with curved handwoven rattan for a natural contrast. Designed in 1961 by the late Arthur Umanoff, a master of mid-century modern, the elevated planter is suitable for both indoor and outdoor use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4679353827394</id>
+      <title>69</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku>5712539</s:sku>
+      <s:grams>4020</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4679355334722</id>
+    <published>2020-09-04T09:05:30+02:00</published>
+    <updated>2020-09-04T09:05:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-planter-32-5"/>
+    <title>Umanoff Planter, 32,5</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Planters_6_6e94b70d-01f3-4979-89ff-9772d93143b0.jpg?v=1599202756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offered in three different sizes, the Umanoff Planter marries sleek powder coated steel lines with curved handwoven rattan for a natural contrast. Designed in 1961 by the late Arthur Umanoff, a master of mid-century modern, the elevated planter is suitable for both indoor and outdoor use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:tag>Umanoff Planters</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4679355334722</id>
+      <title>Medium</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>5711539</s:sku>
+      <s:grams>4400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633490817090</id>
+    <published>2020-08-27T17:35:45+02:00</published>
+    <updated>2020-08-27T17:35:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-planter-1"/>
+    <title>Umanoff Planter, 27</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Planters.jpg?v=1595341516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offered in three different sizes, the Umanoff Planter marries sleek powder coated steel lines with curved handwoven rattan for a natural contrast. Designed in 1961 by the late Arthur Umanoff, a master of mid-century modern, the elevated planter is suitable for both indoor and outdoor use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:tag>Umanoff Planters</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633490817090</id>
+      <title>27</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>5710539</s:sku>
+      <s:grams>2380</s:grams>
+    </s:variant>
+  </entry>
+</feed>

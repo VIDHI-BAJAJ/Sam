@@ -1,0 +1,2059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/bar-stools-counter-chairs.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-28T08:46:44+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/4634301661250</id>
+    <published>2024-02-28T08:46:44+01:00</published>
+    <updated>2024-02-28T08:46:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-plus-bar-chair"/>
+    <title>Afteroom Bar Chair Plus, Fully Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Bar_Chair_Plus_Stance_Vase_46.jpg?v=1708954229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            535.00 - 805.00
+            <a href="https://audocph.com/products/afteroom-plus-bar-chair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>An homage to functionalism, the Afteroom Bar Chair Plus is a deconstructed design, stripped of unnecessary components to present a clean, minimalist aesthetic with high functional value. Its wide wood veneer backrest and generous upholstered seat ensure supreme sitting comfort, while the slender powder-coated metal frame is constructed for maximum stability with a foot ring that does double duty as a rest for feet. The result is a blissfully simple chair that embraces minimalism and clean lines without compromising on comfort.</p>
+<p><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>9450020-000300ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>9450020-000000ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Champion - 035</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>9455001-000101ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Fiord - 961</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9450002-00E60BZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9450009-000R00ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9450009-000100ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Dakar - 0250</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9450004-000J05ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Dakar - 0842</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9450004-002G05ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4662889873474</id>
+    <published>2024-02-28T08:46:43+01:00</published>
+    <updated>2024-02-28T08:46:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-counter-chair"/>
+    <title>Afteroom Counter Chair, Seat Upholstered</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AfteroomCounterChair_AfteroomBarChair_AfteroomDiningChair_39_9c503b9a-869f-4bd2-82b1-aee9b9fb1396.jpg?v=1708957429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            630.00 - 725.00
+            <a href="https://audocph.com/products/afteroom-counter-chair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embracing minimalism and clean lines without compromising on comfort, the Afteroom Counter Chair is an elevated design for kitchen counters and high tables. Using the same innovative concept as the collection’s dining chairs, the four-legged design reduces the material to a minimum while providing maximum support and stability. Seamlessly connecting to the wider collection, the wood veneer backrest provides a natural, warm finish, while the upholstered seat delivers added seating comfort and the opportunity to customise the fabric to suit design preferences and space.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8483000-010000ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8483000-000100ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8483009-020R00ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8483009-000100ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8688930750794</id>
+    <published>2024-02-28T08:46:30+01:00</published>
+    <updated>2024-02-28T08:46:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-counter-stool-upholstered-seat"/>
+    <title>Passage Counter Stool, Upholstered Seat</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Harbour_Column_Counter_Table_Passage_Counter_Stool_Etruscan_Pitcher_34.jpg?v=1708511267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            780.00 - 1100.00
+            <a href="https://audocph.com/products/passage-counter-stool-upholstered-seat">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The upholstered Passage Counter Stool represents an elevated iteration of the original design and a heightened level of comfort. With its upholstered seat, providing a plush and inviting sitting experience, the versatile design is anchored by a solid wood base, in lacquered walnut or FSC™-certified natural oak, not only adding a touch of natural warmth to the design but also ensuring stability and durability for long-lasting use. Customisable fabric upholstery options provide a personal touch while a brushed steel or brushed brass foot ring enhances the comfort level. The Passage Collection demonstrates meticulous attention to detail, highlighting a commitment to both comfort and aesthetics rooted in traditional woodworking techniques.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Natural Oak / Steel ring / Audo Bouclé 02</title>
+      <s:price currency="EUR">780.00</s:price>
+      <s:sku>1513700-000000ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Natural Oak / Steel ring / Vidar 0786</title>
+      <s:price currency="EUR">1005.00</s:price>
+      <s:sku>1513703-000U00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Natural Oak / Steel ring / Vidar 0723</title>
+      <s:price currency="EUR">1005.00</s:price>
+      <s:sku>1513703-000Q00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Walnut / Steel ring / Vidar 0693</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1513203-000P00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Walnut / Steel ring / Vidar 0526</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1513203-000G00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Walnut / Brass ring / Audo Bouclé 06</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>1513100-000100ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8693940126026</id>
+    <published>2024-02-28T08:46:29+01:00</published>
+    <updated>2024-02-28T08:46:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-stool-veneer"/>
+    <title>Afteroom Bar Stool, Veneer</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Bar_Stool_45.jpg?v=1708692864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 35">
+<div class="layoutArea">
+<div class="column">
+<p>With its characteristic clean lines and sturdy base in tubular black powder-coated steel, tethered with cross bars for support, the Afteroom Stool comes in three heights, making it easy to slide up to a bar, counter or table. Boasting a high standard of craftsmanship and durability for long-lasting use, in wood veneer the stool brings warmth and tactility to interiors while its sleek, minimalist profile ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8693940126026</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8489539</s:sku>
+      <s:grams>6200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693940126026</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8489849</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693940126026</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8489039</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8693964341578</id>
+    <published>2024-02-28T08:46:28+01:00</published>
+    <updated>2024-02-28T08:46:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-stool-upholstered-seat"/>
+    <title>Afteroom Bar Stool, Upholstered Seat</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9470020-000300ZZ_Angle.jpg?v=1708693319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            295.00 - 400.00
+            <a href="https://audocph.com/products/afteroom-bar-stool-upholstered-seat">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With its characteristic clean lines and sturdy base in tubular black powder-coated steel, tethered with cross bars for support, the Afteroom Stool comes in three heights, making it easy to slide up to a bar, counter or table. Boasting a high standard of craftsmanship and durability for long-lasting use, in customisable upholstery the stool brings added comfort, character and tactility to interiors while its sleek, minimalist profile ensures it fits seamlessly into any setting. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>9470020-000300ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>9470020-000000ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>9470009-000R00ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>9470009-000100ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8693951889738</id>
+    <published>2024-02-28T08:46:28+01:00</published>
+    <updated>2024-02-28T08:46:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-counter-stool-veneer"/>
+    <title>Afteroom Counter Stool, Veneer</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Counter_Stool_47.jpg?v=1708693900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 35">
+<div class="layoutArea">
+<div class="column">
+<p>With its characteristic clean lines and sturdy base in tubular black powder-coated steel, tethered with cross bars for support, the Afteroom Stool comes in three heights, making it easy to slide up to a bar, counter or table. Boasting a high standard of craftsmanship and durability for long-lasting use, in wood veneer the stool brings warmth and tactility to interiors while its sleek, minimalist profile ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8693951889738</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8488539</s:sku>
+      <s:grams>5800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693951889738</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8488849</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693951889738</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8488039</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8693984756042</id>
+    <published>2024-02-28T08:46:27+01:00</published>
+    <updated>2024-02-28T08:46:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-counter-stool-upholstered-seat"/>
+    <title>Afteroom Counter Stool, Upholstered Seat</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Harbour_Column_Counter_Table_Afteroom_Counter_Stool_51_0ac93c5c-3385-4a9d-81af-c7c51b25d238.jpg?v=1708693691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            280.00 - 400.00
+            <a href="https://audocph.com/products/afteroom-counter-stool-upholstered-seat">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With its characteristic clean lines and sturdy base in tubular black powder-coated steel, tethered with cross bars for support, the Afteroom Stool comes in three heights, making it easy to slide up to a bar, counter or table. Boasting a high standard of craftsmanship and durability for long-lasting use, in customisable upholstery the stool brings added comfort, character and tactility to interiors while its sleek, minimalist profile ensures it fits seamlessly into any setting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8693984756042</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku>9480020-000300ZZ</s:sku>
+      <s:grams>5800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693984756042</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku>9480020-000000ZZ</s:sku>
+      <s:grams>5800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693984756042</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>9480009-000R00ZZ</s:sku>
+      <s:grams>5800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693984756042</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>9480009-000100ZZ</s:sku>
+      <s:grams>5800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8697263456586</id>
+    <published>2024-02-28T08:46:23+01:00</published>
+    <updated>2024-02-28T08:46:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-counter-chair-plus-seat-upholstered"/>
+    <title>Afteroom Counter Chair Plus, Seat Upholstered</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Counter_Chair_Plus_53.jpg?v=1709798377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            630.00 - 725.00
+            <a href="https://audocph.com/products/afteroom-counter-chair-plus-seat-upholstered">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An homage to functionalism, the Afteroom Counter Chair Plus is a deconstructed design, stripped of unnecessary components to present a clean, minimalist aesthetic with high functional value. Its wide wood veneer backrest and generous upholstered seat ensure supreme sitting comfort, while the slender powder-coated metal frame is constructed for maximum stability with a foot ring that does double duty as a rest for feet. The result is a blissfully simple chair that embraces minimalism and clean lines without compromising on comfort.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8697263456586</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8484000-010000ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697263456586</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8484000-000100ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697263456586</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8484009-020R00ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697263456586</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8484009-000100ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8697290096970</id>
+    <published>2024-02-28T08:46:22+01:00</published>
+    <updated>2024-02-28T08:46:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-counter-chair-plus-veneer"/>
+    <title>Afteroom Counter Chair Plus, Veneer</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Dining_Counter_Bar_Chair_56_ca3f488f-fe22-467b-8b21-35fdb86eec82.jpg?v=1708953748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            495.00 - 510.00
+            <a href="https://audocph.com/products/afteroom-counter-chair-plus-veneer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An homage to functionalism, the Afteroom Counter Chair Plus is a deconstructed design, stripped of unnecessary components to present a clean, minimalist aesthetic with high functional value. Its wide backrest and generous seat in wood veneer ensure supreme sitting comfort, while the slender powder-coated metal frame is constructed for maximum stability with a foot ring that does double duty as a rest for feet. The result is a blissfully simple chair that embraces minimalism and clean lines without compromising on comfort.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8697290096970</id>
+      <title>Blak Painted Ash</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>8484849</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697290096970</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>8484039</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697290096970</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>8484539</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8697316770122</id>
+    <published>2024-02-28T08:46:21+01:00</published>
+    <updated>2024-02-28T08:46:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-chair-plus-veneer"/>
+    <title>Afteroom Bar Chair Plus, Veneer</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Bar_Chair_Plus_34.jpg?v=1709732105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            495.00 - 510.00
+            <a href="https://audocph.com/products/afteroom-bar-chair-plus-veneer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>An homage to functionalism, the Afteroom Bar Chair Plus is a deconstructed design, stripped of unnecessary components to present a clean, minimalist aesthetic with high functional value. Its wide backrest and generous seat in wood veneer ensure supreme sitting comfort, while the slender powder-coated metal frame is constructed for maximum stability with a foot ring that does double duty as a rest for feet. The result is a blissfully simple chair that embraces minimalism and clean lines without compromising on comfort.</p>
+<p><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8697316770122</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>8486539</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697316770122</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>8486039</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697316770122</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>8486849</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8697310511434</id>
+    <published>2024-02-28T08:46:21+01:00</published>
+    <updated>2024-02-28T08:46:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-chair-plus-seat-upholstered"/>
+    <title>Afteroom Bar Chair Plus, Seat Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/8486000-010000ZZ_Front.jpg?v=1708954790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            630.00 - 725.00
+            <a href="https://audocph.com/products/afteroom-bar-chair-plus-seat-upholstered">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>An homage to functionalism, the Afteroom Bar Chair Plus is a deconstructed design, stripped of unnecessary components to present a clean, minimalist aesthetic with high functional value. Its wide wood veneer backrest and generous upholstered seat ensure supreme sitting comfort, while the slender powder-coated metal frame is constructed for maximum stability with a foot ring that does double duty as a rest for feet. The result is a blissfully simple chair that embraces minimalism and clean lines without compromising on comfort.</p>
+<p><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8697310511434</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8486000-010000ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697310511434</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8486000-000100ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697310511434</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8486009-020R00ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697310511434</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8486009-000100ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8698876461386</id>
+    <published>2024-02-28T08:46:19+01:00</published>
+    <updated>2024-02-28T08:46:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-chair-veneer"/>
+    <title>Afteroom Bar Chair, Veneer</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Bar_Chair_45_175a5b9d-4376-40ec-ba82-b71e3cd995ba.jpg?v=1709023292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            485.00 - 495.00
+            <a href="https://audocph.com/products/afteroom-bar-chair-veneer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 33" class="page">
+<div class="layoutArea">
+<div class="column">
+<p>Embracing minimalism and clean lines without compromising on comfort, the Afteroom Bar Chair is an elevated design for kitchen bars and high tables. Using the same innovative concept as the collection’s dining chairs, the four-legged design reduces the material to a minimum while providing maximum support and stability. Seamlessly connecting to the wider collection, the Afteroom Bar Chair in wood veneer provides a natural, warm finish.</p>
+</div>
+</div>
+</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8698876461386</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8485539</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8698876461386</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8485039</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8698876461386</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>8485849</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8697353666890</id>
+    <published>2024-02-28T08:46:19+01:00</published>
+    <updated>2024-02-28T08:46:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-counter-chair-veneer"/>
+    <title>Afteroom Counter Chair, Veneer</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Bar_Chair_34_3e560b9b-2207-43be-9640-6a46b8556e25.jpg?v=1709798784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            485.00 - 495.00
+            <a href="https://audocph.com/products/afteroom-counter-chair-veneer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embracing minimalism and clean lines without compromising on comfort, the Afteroom Counter Chair is an elevated design for kitchen counters and high tables. Using the same innovative concept as the collection’s dining chairs, the four-legged design reduces the material to a minimum while providing maximum support and stability. Seamlessly connecting to the wider collection, the Afteroom Counter Chair in wood veneer provides a natural, warm finish.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8697353666890</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8483039</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697353666890</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8483539</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697353666890</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>8483849</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710669606978</id>
+    <published>2024-02-14T10:06:05+01:00</published>
+    <updated>2024-02-14T10:06:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-bar-chair-seat-upholstered"/>
+    <title>Co Bar Chair, Seat Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/0001_Audo_Co_Bar_Chair_34.jpg?v=1709799659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            510.00 - 655.00
+            <a href="https://audocph.com/products/co-bar-chair-seat-upholstered">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-020400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-020500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1180002-024R09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Remix 233</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-020901ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Sierra 1611</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>1180009-010100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Dakar 0250</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1181001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-010400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-010500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1180002-014R09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Remix 233</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-010901ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Sierra 0441</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>1180009-030D00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Sierra 1001</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>1180009-030R00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1181001-010100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Moss 0001</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1180002-004O09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Remix 233</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-000901ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Re-wool 0198</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-00EF09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1181001-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711374217282</id>
+    <published>2024-02-14T09:55:17+01:00</published>
+    <updated>2024-02-14T09:55:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-counter-chair-upholstered-seat"/>
+    <title>Co Counter Chair, Seat Upholstered</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1185001-000100ZZ_Co_Counter_Chair_Black_Steel_Black_Oak_Dakar_0842_Angle.jpg?v=1645621439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            510.00 - 655.00
+            <a href="https://audocph.com/products/co-counter-chair-upholstered-seat">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Moss 0001</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1184002-010009ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Re-wool 0198</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1184001-00EF09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1185001-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-010500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1184002-000309ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Sierra 0441</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1185009-020D00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Sierra 1001</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1185009-020R00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1185001-010100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-020400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-020500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1184002-020309ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Sierra 1611</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1185009-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Dakar 0250</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1185001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4634363461698</id>
+    <published>2023-08-23T14:32:57+02:00</published>
+    <updated>2023-08-23T14:32:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-counter-chair"/>
+    <title>Harbour Counter Chair, Plastic</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9365349-Harbour-Chair-Counter-BurnedRed-Black.jpg?v=1595401860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            455.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether you love to eat, work and hang out at the countertop bar, or prefer the elevation of the high top, the new bar and counter versions invite you to pull right up. The slender and sculptural geometric bases are designed with a comfy crossbar for the feet at just the right height to prolong comfort and keep your posture in top form. The bases are available in black powder coated steel. Audo offers various Harbour counter/bar Chair variants available for expedited delivery.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4634363461698</id>
+      <title>Black | Burned Red</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9343100-0001ZZZZ</s:sku>
+      <s:grams>11730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634363461698</id>
+      <title>Black | Olive</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9343100-0004ZZZZ</s:sku>
+      <s:grams>11730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634363461698</id>
+      <title>Black | White</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9343100-0005ZZZZ</s:sku>
+      <s:grams>11730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634363461698</id>
+      <title>Black | Khaki</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9343100-0002ZZZZ</s:sku>
+      <s:grams>11730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634363461698</id>
+      <title>Black | Black</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9343100-0000ZZZZ</s:sku>
+      <s:grams>11730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634363461698</id>
+      <title>Black | Light Grey</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9343100-0003ZZZZ</s:sku>
+      <s:grams>11730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4634344980546</id>
+    <published>2023-04-17T11:26:30+02:00</published>
+    <updated>2023-04-17T11:26:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-bar-chair"/>
+    <title>Harbour Bar Chair, Plastic</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9345349-Harbour-Chair-Bar-BurnedRed-Black.jpg?v=1595401410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            455.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>Whether you love to eat, work and hang out at the countertop bar, or prefer the elevation of the high top, the new bar and counter versions invite you to pull right up. The slender and sculptural geometric bases are designed with a comfy crossbar for the feet at just the right height to prolong comfort and keep your posture in top form. The bases are available in black powder coated steel. Audo offers various Harbour counter/bar Chair variants available for expedited delivery.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4634344980546</id>
+      <title>Black | Burned Red</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9345100-0001ZZZZ</s:sku>
+      <s:grams>11980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634344980546</id>
+      <title>Black | Khaki</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9345100-0002ZZZZ</s:sku>
+      <s:grams>11980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634344980546</id>
+      <title>Black | Olive</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9345100-0004ZZZZ</s:sku>
+      <s:grams>11980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634344980546</id>
+      <title>Black | Black</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9345100-0000ZZZZ</s:sku>
+      <s:grams>11980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634344980546</id>
+      <title>Black | White</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9345100-0005ZZZZ</s:sku>
+      <s:grams>11980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634344980546</id>
+      <title>Black | Light Grey</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>9345100-0003ZZZZ</s:sku>
+      <s:grams>11980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677803074</id>
+    <published>2023-02-15T14:48:10+01:00</published>
+    <updated>2023-02-15T14:48:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ml-42-bar-stool"/>
+    <title>ML 42 Bar Stool</title>
+    <s:type>Stool</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/bylassen_ML42_Stool_ML42_Counter_Stool_ML42_Bar_Stool.jpg?v=1676017296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Stool<br>
+        <strong>Price: </strong>
+            860.00 - 1260.00
+            <a href="https://audocph.com/products/ml-42-bar-stool">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When Mogens Lassen wanted to create a stool that was an extension of the body, he looked to those used by shoemakers, transferring their light and elegant look to his sculptural three-legged design. Now considered a collector’s item, the ML42 was first designed in 1942. Shaped from wood to support the body, it is offered in three different heights, each featuring a moulded seat and tripod-like legs. The addition of a metal foot bar on the bar and counter versions ensures further comfort when seated for extended periods. Lightweight and easy to move around, it is offered in black-stained beech, soap treated oak and brown-oiled oak.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Black Stained Beech / Stainless Steel</title>
+      <s:price currency="EUR">910.00</s:price>
+      <s:sku>BL41013</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Black Stained Beech / Brass</title>
+      <s:price currency="EUR">910.00</s:price>
+      <s:sku>BL41023</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Black Stained Beech / Copper</title>
+      <s:price currency="EUR">860.00</s:price>
+      <s:sku>BL41043</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Soap Treated Oak / Stainless Steel</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41113</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Soap Treated Oak / Brass</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41123</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Soap Treated Oak / Copper</title>
+      <s:price currency="EUR">1220.00</s:price>
+      <s:sku>BL41143</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Brown Oiled Oak / Stainless Steel</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41413</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Brown Oiled Oak / Brass</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41423</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Brown Oiled Oak / Copper</title>
+      <s:price currency="EUR">1220.00</s:price>
+      <s:sku>BL41443</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677835842</id>
+    <published>2023-02-15T14:48:09+01:00</published>
+    <updated>2023-02-15T14:48:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ml-42-counter-stool"/>
+    <title>ML 42 Counter Stool</title>
+    <s:type>Stool</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_ML_42_Counter_Stool_Stance_Vase_Strandgade_Drinking_Glass.jpg?v=1676561150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Stool<br>
+        <strong>Price: </strong>
+            820.00 - 1195.00
+            <a href="https://audocph.com/products/ml-42-counter-stool">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In 1942 Mogens Lassen designed the Stool ML42 as a piece for a furniture exhibition held at the Danish Museum of Decorative Art. He took inspiration from the stools used by the shoemakers of the past, and transferred the light, elegant look to the creation of this sculptural three-legged stool. The Stool ML42 is considered a collector’s item by international design connoisseurs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Black Stained Beech / Stainless Steel</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>BL41012</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Black Stained Beech / Brass</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>BL41022</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Black Stained Beech / Copper</title>
+      <s:price currency="EUR">845.00</s:price>
+      <s:sku>BL41042</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Soap Treated Oak / Stainless Steel</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41112</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Soap Treated Oak / Brass</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41122</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Brown Oiled Oak / Stainless Steel</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41412</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Brown Oiled Oak / Brass</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41422</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Soap Treated Oak / Copper</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41142</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Brown Oiled Oak / Copper</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41442</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711377920066</id>
+    <published>2022-03-10T13:47:50+01:00</published>
+    <updated>2022-03-10T13:47:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-counter-stool"/>
+    <title>Passage Counter Stool</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Passage_Bar_Stool_Passage_Counter_Stool.jpg?v=1709025202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            515.00 - 695.00
+            <a href="https://audocph.com/products/passage-counter-stool">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking to time-honoured Danish cabinetmaking traditions, the Passage Counter Stool in walnut or natural oak showcases modern design and woodworking through traditional techniques. Crafted from solid walnut or FSC™-certified solid oak with a lacquered finish, the rich colours and luxurious grain pattern inherent to the high-quality hardwood ensure an enduring aesthetic. Thoughtfully designed, a brushed brass or black foot ring ensures a comfortable seating experience for extended periods, while the stool's counter height aligns seamlessly with kitchens, bars and other communal spaces, making it a versatile design that effortlessly blends functionality with comfort. Its ingenious flat-pack construction encourages active participation in the assembly process.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711377920066</id>
+      <title>Natural Oak / Black</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku>9120039</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711377920066</id>
+      <title>Natural Oak / Brass</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku>9122039</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711377920066</id>
+      <title>Natural Oak / Stainless Steel</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku>9121039</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711377920066</id>
+      <title>Walnut / Black</title>
+      <s:price currency="EUR">615.00</s:price>
+      <s:sku>9122879</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711377920066</id>
+      <title>Walnut / Brass</title>
+      <s:price currency="EUR">695.00</s:price>
+      <s:sku>9120879</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711377920066</id>
+      <title>Walnut / Stainless Steel</title>
+      <s:price currency="EUR">615.00</s:price>
+      <s:sku>9121879</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711376150594</id>
+    <published>2022-03-10T13:38:49+01:00</published>
+    <updated>2022-03-10T13:38:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-counter-chair-fully-upholstered"/>
+    <title>Co Counter Chair, Fully Upholstered</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1187001-000000ZZ_Co_Counter_Chair_Black_Steel_Dakar_0842_Angle.jpg?v=1645620441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            550.00 - 725.00
+            <a href="https://audocph.com/products/co-counter-chair-fully-upholstered">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1186000-000400ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1186000-000500ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Moss 0001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1186002-020009ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Moss 0004</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1186002-020309ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Re-wool 0198</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1186001-02EF09ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Sierra 0441</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1186009-000D00ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1186009-000R00ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1186009-000100ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1187001-000100ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1187001-000000ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710704341058</id>
+    <published>2022-03-10T13:36:46+01:00</published>
+    <updated>2022-03-10T13:36:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-counter-chair-veneer"/>
+    <title>Co Counter Chair, Veneer</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Curiosity_Cabinat_Dancing_Pendant_Snaregade_Counter_Table_Co_Counter_Chair_02.jpg?v=1646909267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710704341058</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179121</s:sku>
+      <s:grams>9190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710704341058</id>
+      <title>Black Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179122</s:sku>
+      <s:grams>9190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710704341058</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179123</s:sku>
+      <s:grams>9190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710667640898</id>
+    <published>2022-03-10T13:35:38+01:00</published>
+    <updated>2022-03-10T13:35:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-bar-chair-fully-upholstered"/>
+    <title>Co Bar Chair, Fully Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1183001-010100ZZ_Co_Bar_Chair_Black_Steel_Dakar_0250_Angle.jpg?v=1645618639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            550.00 - 725.00
+            <a href="https://audocph.com/products/co-bar-chair-fully-upholstered">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1182000-000000ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1182000-000100ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Moss 0001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1182002-004O09ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Moss 0004</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1182002-004R09ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Re-wool 0198</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1182001-00EF0AZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Sierra 0441</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1182009-000D00ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1182009-000R00ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1182009-000100ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1183001-010100ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1183001-010000ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710703030338</id>
+    <published>2022-03-10T13:33:36+01:00</published>
+    <updated>2022-03-10T13:33:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-bar-chair-veneer"/>
+    <title>Co Bar Chair, Veneer</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Sofa_High_Back_W_Plug_Tearoom_Lounge_Chair_High_Back_Co_Bar_Chair.jpg?v=1646907787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710703030338</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179111</s:sku>
+      <s:grams>9560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710703030338</id>
+      <title>Black Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179112</s:sku>
+      <s:grams>9560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710703030338</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179113</s:sku>
+      <s:grams>9560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4662888333378</id>
+    <published>2020-08-27T15:04:02+02:00</published>
+    <updated>2020-08-27T15:04:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-chair"/>
+    <title>Afteroom Bar Chair, Seat Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Harbour_Column_Bar_Table_Afteroom_Bar_Chair_53_ca71e173-77a6-45be-9863-6cef4a9a6eaa.jpg?v=1709022289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            630.00 - 725.00
+            <a href="https://audocph.com/products/afteroom-bar-chair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 33" class="page">
+<div class="layoutArea">
+<div class="column">
+<p>Embracing minimalism and clean lines without compromising on comfort, the Afteroom Bar Chair is an elevated design for kitchen bars and high tables. Using the same innovative concept as the collection’s dining chairs, the four-legged design reduces the material to a minimum while providing maximum support and stability. Seamlessly connecting to the wider collection, the wood veneer backrest provides a natural, warm finish, while the upholstered seat delivers added seating comfort and the opportunity to customise the fabric to suit design preferences and space.</p>
+</div>
+</div>
+</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4662888333378</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8485000-010000ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662888333378</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8485000-000100ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662888333378</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8485009-050R00ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662888333378</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8485009-030100ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+  </entry>
+</feed>

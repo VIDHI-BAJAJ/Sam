@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/events.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-04-30T14:43:40+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8792613847370</id>
+    <published>2024-04-30T14:43:40+02:00</published>
+    <updated>2024-04-30T14:43:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/event-ticket-yoga-with-rave-coffee-dip"/>
+    <title>Event Ticket: Yoga with Rave, Coffee &amp; Dip</title>
+    <s:type></s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/raveyogabw_892f9ed7-3af5-4d9f-a90e-afbf6d1830a8.jpg?v=1714481560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Date: 25 May 2024<br data-mce-fragment="1">Time: 10.30 - 12.00<br data-mce-fragment="1">Price: 27 EUR<br data-mce-fragment="1">Location: Audo House<br></p>
+<p>Join us the 25th of May when Rave Yoga will be hosting a soothing yoga class including breathwork and aromatherapy in the Audo courtyard. Afterwards we will all take a cup of coffee and walk down to the harbour for a refreshing dip. </p>
+<p>Bring a loved one, meet like-minded individuals and share the self-care. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>event</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8792613847370</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku>31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

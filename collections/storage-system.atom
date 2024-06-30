@@ -1,0 +1,2669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/storage-system.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-03-11T11:15:49+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6711419895874</id>
+    <published>2024-03-11T11:15:49+01:00</published>
+    <updated>2024-03-11T11:15:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/curiosity-cabinet"/>
+    <title>Curiosity Cabinet</title>
+    <s:type>Cabinet</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_CuriosityCabinetLow_CuriosityCabinetHigh_345.jpg?v=1708509766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Cabinet<br>
+        <strong>Price: </strong>
+            2345.00 - 2415.00
+            <a href="https://audocph.com/products/curiosity-cabinet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p>A beautiful and modern rendition of a timeless furniture piece, the Curiosity Cabinet is carefully crafted in solid oak using traditional joinery techniques. Designed to store objects almost out of sight thanks to its elegant reeded glass doors that gently blur the contents within, it opens to reveal two height adjustable oak veneer shelves for ample room to store your objects. Brass hinges and handles complete the design. Available in low and high versions.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711419895874</id>
+      <title>Low</title>
+      <s:price currency="EUR">2345.00</s:price>
+      <s:sku>6511039</s:sku>
+      <s:grams>72400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711419895874</id>
+      <title>Tall</title>
+      <s:price currency="EUR">2415.00</s:price>
+      <s:sku>6512039</s:sku>
+      <s:grams>72400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8438711877962</id>
+    <published>2023-09-25T13:43:02+02:00</published>
+    <updated>2023-09-25T13:43:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-42"/>
+    <title>Frame, 42</title>
+    <s:type></s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Frame_42_Door_Frame_Shoe_Cabinet_Black_Ash_Stance_Vase_Sentiment_Paper_Weight.jpg?v=1698830503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            295.00 - 445.00
+            <a href="https://audocph.com/products/frame-42">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frame 42 is a flexible storage solution consisting of a square module in a cubistic frame. The simple storage system is inspired by the Kubus candleholder by Mogens Lassen, based on strict mathematical formulas and designed with the greatest precision. This variant is a classic Frame 42 module without doors and shelves.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>Open Module / Frame - Dark Grey</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>BL39161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>Open Module / Frame - Light Grey</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>BL39162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>Open Module / Frame - Fjord</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>BL39163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>Open Module / Frame - Sand</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>BL39164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>Open Module / Frame - Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL40160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>Open Module / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL40163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>Open Module / Frame - Smoked Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL40166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>With Door / Frame - Dark Grey</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>With Door / Frame - Light Grey</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>With Door / Frame - Fjord</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>With Door / Frame - Sand</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>With Door / Frame - Oak</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku>BL40360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>With Door / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku>BL40363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8438711877962</id>
+      <title>With Door / Frame - Smoked Oak</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku>BL40366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8472973672778</id>
+    <published>2023-08-01T15:52:32+02:00</published>
+    <updated>2023-08-01T15:52:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/suspension-bracket-frame"/>
+    <title>Suspension Bracket, Frame</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL40850_SuspensionBracketS8_Black_Front_300.jpg?v=1690897955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            30.00 - 45.00
+            <a href="https://audocph.com/products/suspension-bracket-frame">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Suspension brackets in 3 different lengths is perfect if you should hang more than one Frame to ensure an easy and both vertical hang up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8472973672778</id>
+      <title>S8</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>BL40850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8472973672778</id>
+      <title>S12</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>BL40851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8472973672778</id>
+      <title>S14</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>BL40852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678687810</id>
+    <published>2023-02-15T14:47:48+01:00</published>
+    <updated>2023-02-15T14:47:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-shelf"/>
+    <title>Frame Shelf</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/bylassen_Frame_70_With_Door_And_2_Shelves_Frame_70_With_2_Drawers_And_Shelf_Base_For_Frame_70.jpg?v=1676029029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            65.00 - 90.00
+            <a href="https://audocph.com/products/frame-shelf">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Frame shelf lets you further enhance your storage solution while keeping clutter at bay. The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, nightstand, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>35 &amp; 70 / Frame - Light Grey</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39722</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>35 &amp; 70 / Frame - Dark Grey</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39721</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>35 &amp; 70 / Frame - Sand</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39724</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>35 &amp; 70 / Frame - Fjord</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39723</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>35 &amp; 70 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40723</s:sku>
+      <s:grams>753</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>35 &amp; 70 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40726</s:sku>
+      <s:grams>753</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>35 &amp; 70 / Frame - Oak</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40720</s:sku>
+      <s:grams>753</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>42 / Frame - Light Grey</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39732</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>42 / Frame - Dark Grey</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39731</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>42 / Frame - Sand</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39734</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>42 / Frame - Fjord</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL39765</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>42 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40733</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>42 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40742</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>42 / Frame - Oak</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40730</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>49 / Frame - Light Grey</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>BL39738</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>49 / Frame - Dark Grey</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>BL39737</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>49 / Frame - Sand</title>
+      <s:price currency="EUR">75.00</s:price>
+      <s:sku>BL39740</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>49 / Frame - Fjord</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39739</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>49 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL40739</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>49 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL40743</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678687810</id>
+      <title>49 / Frame - Oak</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL40736</s:sku>
+      <s:grams>575</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678753346</id>
+    <published>2023-02-15T14:47:46+01:00</published>
+    <updated>2023-02-15T14:47:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-four"/>
+    <title>Frame Four Standard</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL39452_FrameSquareStandard_DarkGrey_300.jpg?v=1675778379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            1260.00 - 1560.00
+            <a href="https://audocph.com/products/frame-four">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frame Four Standard is a flexible storage solution consisting of a square module in a cubistic frame. The simple storage system is inspired by the Kubus candleholder by Mogens Lassen, based on strict mathematical formulas and designed with the greatest precision.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678753346</id>
+      <title>Frame - Dark Grey</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL39452</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678753346</id>
+      <title>Frame - Light Grey</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL39453</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678753346</id>
+      <title>Frame - Fjord</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL39458</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678753346</id>
+      <title>Frame - Sand</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL39459</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678753346</id>
+      <title>Frame - Oak</title>
+      <s:price currency="EUR">1560.00</s:price>
+      <s:sku>BL39451</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678753346</id>
+      <title>Frame - Black Stained Ash</title>
+      <s:price currency="EUR">1560.00</s:price>
+      <s:sku>BL39454</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678753346</id>
+      <title>Frame - Smoked Oak</title>
+      <s:price currency="EUR">1560.00</s:price>
+      <s:sku>BL39456</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678720578</id>
+    <published>2023-02-15T14:47:46+01:00</published>
+    <updated>2023-02-15T14:47:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-view"/>
+    <title>Frame View</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/byLassen_Frame_42_Frame_14_Kubus_Bowl_Small_ML42_Stool_View.jpg?v=1676029208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            1080.00 - 1335.00
+            <a href="https://audocph.com/products/frame-view">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frame View is a flexible storage solution consisting of a square module in a cubistic frame. The simple storage system is inspired by the Kubus candleholder by Mogens Lassen, based on strict mathematical formulas and designed with the greatest precision. Frame View can be used in countless contexts. Combine the Frame modules to create a classic bookcase, a room divider or something else entirely. The possible combinations are endless. Frame View consists of three Frame 42 modules with doors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678720578</id>
+      <title>Frame - Dark Grey</title>
+      <s:price currency="EUR">1080.00</s:price>
+      <s:sku>BL39462</s:sku>
+      <s:grams>21662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678720578</id>
+      <title>Frame - Light Grey</title>
+      <s:price currency="EUR">1080.00</s:price>
+      <s:sku>BL39463</s:sku>
+      <s:grams>21662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678720578</id>
+      <title>Frame - Fjord</title>
+      <s:price currency="EUR">1080.00</s:price>
+      <s:sku>BL39468</s:sku>
+      <s:grams>21662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678720578</id>
+      <title>Frame - Sand</title>
+      <s:price currency="EUR">1080.00</s:price>
+      <s:sku>BL39469</s:sku>
+      <s:grams>21662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678720578</id>
+      <title>Frame - Smoked Oak</title>
+      <s:price currency="EUR">1335.00</s:price>
+      <s:sku>BL39466</s:sku>
+      <s:grams>21662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678720578</id>
+      <title>Frame - Oak</title>
+      <s:price currency="EUR">1335.00</s:price>
+      <s:sku>BL39461</s:sku>
+      <s:grams>21662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678720578</id>
+      <title>Frame - Black Stained Ash</title>
+      <s:price currency="EUR">1335.00</s:price>
+      <s:sku>BL39464</s:sku>
+      <s:grams>21662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678786114</id>
+    <published>2023-02-15T14:47:45+01:00</published>
+    <updated>2023-02-15T14:47:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-sideboard-49"/>
+    <title>Frame Sideboard, 49</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL39422_Frame49SideboardWith1Drawer_DarkGrey_300.jpg?v=1675777997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            875.00 - 1060.00
+            <a href="https://audocph.com/products/frame-sideboard-49">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A flexible storage solution comprising a drawer module in a cubist powder-coated metal frame and base. The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in a range sizes and configurations and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>1 Drawer / Frame - Dark Grey</title>
+      <s:price currency="EUR">875.00</s:price>
+      <s:sku>BL39422</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>1 Drawer / Frame - Light Grey</title>
+      <s:price currency="EUR">875.00</s:price>
+      <s:sku>BL39423</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>1 Drawer / Frame - Fjord</title>
+      <s:price currency="EUR">875.00</s:price>
+      <s:sku>BL39428</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>1 Drawer / Frame - Sand</title>
+      <s:price currency="EUR">875.00</s:price>
+      <s:sku>BL39429</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>1 Drawer / Frame - Oak</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>BL39421</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>1 Drawer / Frame - Smoked Oak</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>BL39426</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>1 Drawer / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>BL39424</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>3 Drawers / Frame - Dark Grey</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>BL39432</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>3 Drawers / Frame - Light Grey</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>BL39433</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>3 Drawers / Frame - Fjord</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>BL39438</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>3 Drawers / Frame - Sand</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>BL39439</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>3 Drawers / Frame - Oak</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>BL39431</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>3 Drawers / Frame - Smoked Oak</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>BL39436</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678786114</id>
+      <title>3 Drawers / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>BL39434</s:sku>
+      <s:grams>16354</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678818882</id>
+    <published>2023-02-15T14:47:44+01:00</published>
+    <updated>2023-02-15T14:47:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-sideboard-49-trio"/>
+    <title>Frame Sideboard Trio, 49</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL39472_FrameSideboard49Trio_DarkGrey_300.jpg?v=1687159605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            2455.00 - 2725.00
+            <a href="https://audocph.com/products/frame-sideboard-49-trio">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Frame is a flexible storage solution consisting of three modules – with a shelf, drawer and three drawers respectively – mounted in a cubist frame. Drawers feature a soft-close system and hidden tracks. The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678818882</id>
+      <title>Frame - Dark Grey</title>
+      <s:price currency="EUR">2455.00</s:price>
+      <s:sku>BL39472</s:sku>
+      <s:grams>68836</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678818882</id>
+      <title>Frame - Light Grey</title>
+      <s:price currency="EUR">2455.00</s:price>
+      <s:sku>BL39473</s:sku>
+      <s:grams>68836</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678818882</id>
+      <title>Frame - Fjord</title>
+      <s:price currency="EUR">2455.00</s:price>
+      <s:sku>BL39478</s:sku>
+      <s:grams>68836</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678818882</id>
+      <title>Frame - Sand</title>
+      <s:price currency="EUR">2455.00</s:price>
+      <s:sku>BL39479</s:sku>
+      <s:grams>68836</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678818882</id>
+      <title>Frame - Oak</title>
+      <s:price currency="EUR">2685.00</s:price>
+      <s:sku>BL39471</s:sku>
+      <s:grams>68836</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678818882</id>
+      <title>Frame - Black Stained Ash</title>
+      <s:price currency="EUR">2725.00</s:price>
+      <s:sku>BL39474</s:sku>
+      <s:grams>68836</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678818882</id>
+      <title>Frame - Smoked Oak</title>
+      <s:price currency="EUR">2685.00</s:price>
+      <s:sku>BL39476</s:sku>
+      <s:grams>68836</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678851650</id>
+    <published>2023-02-15T14:47:43+01:00</published>
+    <updated>2023-02-15T14:47:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-sideboard-35"/>
+    <title>Frame Sideboard, 35</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/bylassen_Frame_35_Sideboard_With_2_Drawers_Mingle_Kubus_Flowerpot_14_Line.jpg?v=1711355923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            550.00 - 725.00
+            <a href="https://audocph.com/products/frame-sideboard-35">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frame 35 Sideboard is a flexible storage solution consisting of a square module in a cubist frame. The drawers feature a soft-close system and hidden tracks. The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>1 Drawer / Frame - Dark Grey</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>BL39402</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>1 Drawer / Frame - Light Grey</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>BL39403</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>1 Drawer / Frame - Fjord</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>BL39408</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>1 Drawer / Frame - Sand</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>BL39409</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>1 Drawer / Frame - Oak</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39401</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>1 Drawer / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39404</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>1 Drawer / Frame - Smoked Oak</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39406</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>2 Drawers / Frame - Dark Grey</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39412</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>2 Drawers / Frame - Light Grey</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39413</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>2 Drawers / Frame - Fjord</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39418</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>2 Drawers / Frame - Sand</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39419</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>2 Drawers / Frame - Oak</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>BL39411</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>2 Drawers / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>BL39414</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678851650</id>
+      <title>2 Drawers / Frame - Smoked Oak</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>BL39416</s:sku>
+      <s:grams>13818</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678884418</id>
+    <published>2023-02-15T14:47:42+01:00</published>
+    <updated>2023-02-15T14:47:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-shoe-cabinet"/>
+    <title>Frame Shoe Cabinet</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Frame_Shoe_Cabinet_Laminate_Beige_Stance_Vase.jpg?v=1698829613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            740.00 - 845.00
+            <a href="https://audocph.com/products/frame-shoe-cabinet">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With its characteristic frame, Frame Shoe Cabinet is based on the same design as the existing Frame modules, but with new dimensions that makes it even more useful for storing your shoes. The inside is made in metal to ensure that dirt and wet shoes do not damage the cabinet. Placed on the wall, Frame Shoe Cabinet takes up no floor space, which makes it an ideal storage solution for small hallways.</p>
+<p>Frame Shoe Cabinet is inspired by the Kubus candleholder by Mogens Lassen, based on strict mathematical formulas and designed with the greatest<br data-mce-fragment="1">precision.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678884418</id>
+      <title>Frame - Dark Grey</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39901</s:sku>
+      <s:grams>17728</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678884418</id>
+      <title>Frame - Light Grey</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39902</s:sku>
+      <s:grams>17728</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678884418</id>
+      <title>Frame - Fjord</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39903</s:sku>
+      <s:grams>17728</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678884418</id>
+      <title>Frame - Sand</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39904</s:sku>
+      <s:grams>17728</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678884418</id>
+      <title>Frame - black stained ash</title>
+      <s:price currency="EUR">845.00</s:price>
+      <s:sku>BL40903</s:sku>
+      <s:grams>17728</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678917186</id>
+    <published>2023-02-15T14:47:41+01:00</published>
+    <updated>2023-02-15T14:47:41+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-70"/>
+    <title>Frame, 70</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Frame_72_2_Shelf_Drawers_Door_Torso_Table_Lamp_Converge_Bookends_Stance_Vase_3.jpg?v=1698830467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            400.00 - 725.00
+            <a href="https://audocph.com/products/frame-70">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The versatile and sleek Frame 70 allows you to create entirely new combinations and a new geometric expression for existing or new Frame arrangements. The new Frame 70 is designed based on the same cubist thinking as the rest of the collection, but it is now taller and slimmer. This makes it possible to use it in narrow places or tight spaces. Frame 70 can also be used to a supplement, so the personal Frame arrangement gets a new and updated look.</p>
+<p>The Frame 70 module can be hung directly on the wall or stand on their own on the floor on the cubistic base “Base for Frame 35”, that both fits the Frame 70 and the Frame 35 modules. Combine the Frame modules to a classic bookcase, a room divider, or something else. The Frame modules are available with or without doors, shelves, or drawers, so you can find the storage solution that matches your need for organisation and storage. This variant contains a Frame 70 with a door and two shelves.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Open Shelves / Frame - Dark Grey</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>BL39801</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Open Shelves / Frame - Light Grey</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>BL39802</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Open Shelves / Frame - Fjord</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>BL39803</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Open Shelves / Frame - Sand</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>BL39804</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Open Shelves / Frame - Oak</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>BL42800</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Open Shelves / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>BL42803</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Open Shelves / Frame - Smoked Oak</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>BL42806</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>Door + 2 Shelves / Frame - Dark Grey</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>BL39811</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>Door + 2 Shelves / Frame - Light Grey</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>BL39812</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>Door + 2 Shelves / Frame - Fjord</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>BL39813</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>Door + 2 Shelves / Frame - Sand</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>BL39814</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>Door + 2 Shelves / Frame - Oak</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>BL42810</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>Door + 2 Shelves / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>BL42813</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>Door + 2 Shelves / Frame - Smoked Oak</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>BL42816</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Drawers + Open Shelf / Frame - Dark Grey</title>
+      <s:price currency="EUR">605.00</s:price>
+      <s:sku>BL39821</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Drawers + Open Shelf / Frame - Light Grey</title>
+      <s:price currency="EUR">605.00</s:price>
+      <s:sku>BL39822</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Drawers + Open Shelf / Frame - Fjord</title>
+      <s:price currency="EUR">605.00</s:price>
+      <s:sku>BL39823</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Drawers + Open Shelf / Frame - Sand</title>
+      <s:price currency="EUR">605.00</s:price>
+      <s:sku>BL39824</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Drawers + Open Shelf / Frame - Oak</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>BL42820</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Drawers + Open Shelf / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>BL42823</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678917186</id>
+      <title>2 Drawers + Open Shelf / Frame - Smoked Oak</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>BL42826</s:sku>
+      <s:grams>9957</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678949954</id>
+    <published>2023-02-15T14:47:39+01:00</published>
+    <updated>2023-02-15T14:47:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-49"/>
+    <title>Frame, 49</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Frame_Triptych_Bowl_Collapse_Vase_Kubus_1.jpg?v=1676559493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            510.00 - 830.00
+            <a href="https://audocph.com/products/frame-49">(29 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Open Shelf / Frame - Dark Grey</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>BL39271</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Open Shelf / Frame - Light Grey</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>BL39272</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Open Shelf / Frame - Fjord</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>BL39273</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Open Shelf / Frame - Sand</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>BL39274</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Open Shelf / Frame - Oak</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>BL40270</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Open Shelf / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>BL40273</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Open Shelf / Frame - Smoked Oak</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>BL40276</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Door + Shelf / Frame - Dark Grey</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku>BL39371</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Door + Shelf / Frame - Light Grey</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku>BL39372</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Door + Shelf / Frame - Fjord</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku>BL39373</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Door + Shelf / Frame - Sand</title>
+      <s:price currency="EUR">515.00</s:price>
+      <s:sku>BL39374</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Door + Shelf / Frame - Oak</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>BL40370</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Door + Shelf / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>BL40373</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>Door + Shelf / Frame - Smoked Oak</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>BL40376</s:sku>
+      <s:grams>17756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / Frame - Dark Grey</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39611</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / Frame - Light Grey</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39612</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / Frame - Fjord</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39613</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / Frame - Sand</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39614</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / White</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>BL39615</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / Frame - Oak</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL40610</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL40613</s:sku>
+      <s:grams>17756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>1 Drawer / Frame - Smoked Oak</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL40616</s:sku>
+      <s:grams>17756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>3 Drawers / Frame - Dark Grey</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39601</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>3 Drawers / Frame - Light Grey</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39602</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>3 Drawers / Frame - Fjord</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39603</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>3 Drawers / Frame - Sand</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>BL39604</s:sku>
+      <s:grams>10756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>3 Drawers / Frame - Oak</title>
+      <s:price currency="EUR">830.00</s:price>
+      <s:sku>BL40600</s:sku>
+      <s:grams>20756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>3 Drawers / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">830.00</s:price>
+      <s:sku>BL40603</s:sku>
+      <s:grams>20756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678949954</id>
+      <title>3 Drawers / Frame - Smoked Oak</title>
+      <s:price currency="EUR">830.00</s:price>
+      <s:sku>BL40606</s:sku>
+      <s:grams>20756</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678982722</id>
+    <published>2023-02-15T14:47:38+01:00</published>
+    <updated>2023-02-15T14:47:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-49-trio"/>
+    <title>Frame Trio, 49</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL39482_Frame49Trio_DarkGrey_300.jpg?v=1675780265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            1765.00 - 2685.00
+            <a href="https://audocph.com/products/frame-49-trio">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A flexible storage solution comprising three Frame modules mounted in cubist frames. Including a module with a shelf, a module with a door and a module with three drawers, this simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Drawers feature a soft close system and hidden tracks. Crafted with the greatest precision, Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678982722</id>
+      <title>Frame - Dark Grey</title>
+      <s:price currency="EUR">1765.00</s:price>
+      <s:sku>BL39482</s:sku>
+      <s:grams>35268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678982722</id>
+      <title>Frame - Light Grey</title>
+      <s:price currency="EUR">1765.00</s:price>
+      <s:sku>BL39483</s:sku>
+      <s:grams>35268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678982722</id>
+      <title>Frame - Fjord</title>
+      <s:price currency="EUR">1765.00</s:price>
+      <s:sku>BL39488</s:sku>
+      <s:grams>35268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678982722</id>
+      <title>Frame - Sand</title>
+      <s:price currency="EUR">1765.00</s:price>
+      <s:sku>BL39489</s:sku>
+      <s:grams>35268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678982722</id>
+      <title>Frame - Oak</title>
+      <s:price currency="EUR">2685.00</s:price>
+      <s:sku>BL39471</s:sku>
+      <s:grams>35268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678982722</id>
+      <title>Frame - Black Stained Ash</title>
+      <s:price currency="EUR">2035.00</s:price>
+      <s:sku>BL39481</s:sku>
+      <s:grams>35268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678982722</id>
+      <title>Frame - Smoked Oak</title>
+      <s:price currency="EUR">1995.00</s:price>
+      <s:sku>BL39486</s:sku>
+      <s:grams>35268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862679048258</id>
+    <published>2023-02-15T14:47:37+01:00</published>
+    <updated>2023-02-15T14:47:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-28"/>
+    <title>Frame, 28</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/bylassen_Frame_28_Frame_35_Frame_49.jpg?v=1676030827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            270.00 - 360.00
+            <a href="https://audocph.com/products/frame-28">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Frame 28 is a flexible storage solution consisting of a square module in a cubist frame. The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>Open / Frame - Dark Grey</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39141</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>Open / Frame - Light Grey</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39142</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>Open / Frame - Fjord</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39143</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>Open / Frame - Sand</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39144</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>Open / Frame - Oak</title>
+      <s:price currency="EUR">310.00</s:price>
+      <s:sku>BL40140</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>Open / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">310.00</s:price>
+      <s:sku>BL40143</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>Open / Frame - Smoked Oak</title>
+      <s:price currency="EUR">310.00</s:price>
+      <s:sku>BL40146</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>w. Door / Frame - Dark Grey</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL39341</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>w. Door / Frame - Light Grey</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL39342</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>w. Door / Frame - Fjord</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL39343</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>w. Door / Frame - Sand</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL39344</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>w. Door / Frame - Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL40340</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>w. Door / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL40343</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679048258</id>
+      <title>w. Door / Frame - Smoked Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL40346</s:sku>
+      <s:grams>4702</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862679081026</id>
+    <published>2023-02-15T14:47:36+01:00</published>
+    <updated>2023-02-15T14:47:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-box"/>
+    <title>Frame Box</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL40105_Frame10_White_300.jpg?v=1675780648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            95.00 - 140.00
+            <a href="https://audocph.com/products/frame-box">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made to support the Frame modules, Base is a cubist design in black powder coated metal and inspired by Mogens Lassen’s iconic Kubus candle holder. Based on a strict mathematical formula and crafted with the greatest precision, the simple design fits selected Frame modules from the Frame collection. Simply place the desired components on the base to create a bookcase, nightstand or something else entirely. Add doors and shelves accordingly – the possibilities are endless. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>small storage</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / White</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40105</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Dark Grey</title>
+      <s:price currency="EUR">100.00</s:price>
+      <s:sku>BL40101</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Light Grey</title>
+      <s:price currency="EUR">100.00</s:price>
+      <s:sku>BL40102</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Oak</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40100</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40103</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40106</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / White</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>BL40125</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Dark Grey</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40121</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Light Grey</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40122</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Oak</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40120</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40123</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40126</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / White</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40135</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Dark Grey</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40131</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Oak</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL40130</s:sku>
+      <s:grams>1621</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL40133</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL40136</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Light Grey</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40132</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862679113794</id>
+    <published>2023-02-15T14:47:35+01:00</published>
+    <updated>2023-02-15T14:47:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-base"/>
+    <title>Frame Base</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL40702_BaseForFrame35And70_Black_300.jpg?v=1675781038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            160.00 - 310.00
+            <a href="https://audocph.com/products/frame-base">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Base for Frame is a cubistic frame in black metal that is inspired by the Kubus candleholder by Mogens Lassen, based on strict mathematical formulas and designed with the greatest precision. The simple and cubistic base is available in two sizes: 35 and 42 as an addition to the Frame modules from the Frame collection. With the simple base, you can create a dresser, a bookcase, a nightstand or something else entirely. Simply place the desired number of Frame modules on the cubistic Frame base.</p>
+<p>The various Frame modules come in different sizes and colours. Depending on your exact storage needs, it is also possible to buy doors and shelves. The possible combinations are endless. It is a collection that truly unites functionality, quality and aesthetics.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679113794</id>
+      <title>Single H28 / Frame 35</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>BL40702</s:sku>
+      <s:grams>4056</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679113794</id>
+      <title>Single H28 / Frame 49</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>BL40700</s:sku>
+      <s:grams>4598</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679113794</id>
+      <title>Double H28 / Frame 35</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>BL40706</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679113794</id>
+      <title>Double H28 / Frame 49</title>
+      <s:price currency="EUR">310.00</s:price>
+      <s:sku>BL40704</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679113794</id>
+      <title>Double H14 / Frame 35</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>BL40710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679113794</id>
+      <title>Double H14 / Frame 49</title>
+      <s:price currency="EUR">310.00</s:price>
+      <s:sku>BL40708</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862679146562</id>
+    <published>2023-02-15T14:47:34+01:00</published>
+    <updated>2023-02-15T14:47:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-door"/>
+    <title>Frame Door</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL39751_DoorForFrame28_DarkGrey_300.jpg?v=1675781369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            60.00 - 120.00
+            <a href="https://audocph.com/products/frame-door">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Frame door allows you to further enhance your Frame storage solution while keeping clutter hidden. The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, nightstand, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 28 / Frame - Dark Grey</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>BL39751</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 28 / Frame - Light Grey</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>BL39752</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 28 / Frame - Fjord</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>BL39753</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 28 / Frame - Sand</title>
+      <s:price currency="EUR">60.00</s:price>
+      <s:sku>BL39754</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 28 / Frame - Oak</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40750</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 28 / Frame -Black Stained Ash</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40753</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 28 / Frame -Smoked Oak</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL40774</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 35 / Frame - Dark Grey</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39757</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 35 / Frame - Light Grey</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL39758</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 35 / Frame - Fjord</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39759</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 35 / Frame - Sand</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39760</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 35 / Frame - Oak</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40756</s:sku>
+      <s:grams>633</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 35 / Frame -Black Stained Ash</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40759</s:sku>
+      <s:grams>633</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 35 / Frame -Smoked Oak</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40775</s:sku>
+      <s:grams>633</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 42 / Frame - Dark Grey</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL39763</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 42 / Frame - Light Grey</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL39764</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 42 / Frame - Fjord</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>BL39765</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 42 / Frame - Sand</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>BL39766</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 42 / Frame - Oak</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40762</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 42 / Frame -Black Stained Ash</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40765</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 42 / Frame -Smoked Oak</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40776</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 49 / Frame - Dark Grey</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL39769</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 49 / Frame - Light Grey</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL39770</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 49 / Frame - Fjord</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL39774</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 49 / Frame - Sand</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL39775</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 49 / Frame - Oak</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40768</s:sku>
+      <s:grams>332</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 49 / Frame -Black Stained Ash</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40771</s:sku>
+      <s:grams>332</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 49 / Frame -Smoked Oak</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40777</s:sku>
+      <s:grams>332</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 70 / Frame - Dark Grey</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL39791</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 70 / Frame - Light Grey</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL39792</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 70 / Frame - Fjord</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL39793</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 70 / Frame - Sand</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL39794</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 70 / Frame - Oak</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40790</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 70 / Frame -Black Stained Ash</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40793</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679146562</id>
+      <title>Frame 70 / Frame -Smoked Oak</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40796</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862685175874</id>
+    <published>2023-02-15T14:47:25+01:00</published>
+    <updated>2023-02-15T14:47:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-35"/>
+    <title>Frame, 35</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Frame_35_w_Drawer_Frame_35_Door_Oak_Stance_Vase_Cubus_1.jpg?v=1698829850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            255.00 - 565.00
+            <a href="https://audocph.com/products/frame-35">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frame 35 is a flexible storage solution consisting of a square module mounted in a cubist frame. The simple storage system is inspired by Mogens Lassen’s iconic Kubus candle holder and based on a strict mathematical formula. Crafted with the greatest precision, the Frame modules are available in four sizes and can be hung on a wall or set on a floor. Combine Frame modules to create a bookcase, room divider or something else entirely – the possibilities are endless. Frame modules are available with or without doors, shelves and drawers, allowing you to create the perfect storage solution to match your needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / Frame - Dark Grey</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39151</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / Frame - Light Grey</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39152</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / Frame - Fjord</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39153</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / Frame - Sand</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL39154</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / White</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>BL39155</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / Frame - Oak</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>BL40150</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>BL40153</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>Open / Frame - Smoked Oak</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>BL40156</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>w. Door / Frame - Dark Grey</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39351</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>w. Door / Frame - Light Grey</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39352</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>w. Door / Frame - Fjord</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39353</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>w. Door / Frame - Sand</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>BL39354</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>w. Door / Frame - Oak</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku>BL40350</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>w. Door / Frame - Smoked Oak</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku>BL40356</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>1 Drawer / Frame - Dark Grey</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>BL39511</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>1 Drawer / Frame - Light Grey</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>BL39512</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>1 Drawer / Frame - Fjord</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>BL39513</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>1 Drawer / Frame - Sand</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>BL39514</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>1 Drawer / Frame - Oak</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>BL40510</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>1 Drawer / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>BL40513</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>1 Drawer / Frame - Smoked Oak</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>BL40516</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>2 Drawers / Frame - Dark Grey</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>BL39501</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>2 Drawers / Frame - Light Grey</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>BL39502</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>2 Drawers / Frame - Fjord</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>BL39503</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>2 Drawers / Frame - Sand</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>BL39504</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>2 Drawers / Frame - Oak</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>BL40500</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>2 Drawers / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>BL40503</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862685175874</id>
+      <title>2 Drawers / Frame - Smoked Oak</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>BL40506</s:sku>
+      <s:grams>9462</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576537763906</id>
+    <published>2021-06-02T17:34:39+02:00</published>
+    <updated>2021-06-02T17:34:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/zet-storage-system-magazine-shelf"/>
+    <title>Zet Storage System, Magazine Shelf</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Kaschkasch Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay2021-Day21094.jpg?v=1621260037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaschkasch Cologne<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Put your objects in the spotlight with Zet, a modular shelving system that delivers on freedom and function. Easily assembled or disassembled and relocated whenever you want, its delicate balance of order, convenience and style is shaped from materials selected for beauty and endurance. Based on just two components - wooden U-shaped shelves and a metal frame construction defined by diagonal Z-struts – it comes in six colours and with optional display shelves and </span><span data-mce-fragment="1">back panels. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kaschkasch Cologne</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Shelving Unit</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576537763906</id>
+      <title>Black</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>7350539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576537763906</id>
+      <title>Ivory</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>7350649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518955843650</id>
+    <published>2021-06-02T17:31:15+02:00</published>
+    <updated>2021-06-02T17:31:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/zet-storing-system-black"/>
+    <title>Zet Storage System</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Kaschkasch Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuTheLab2021-Day20428.jpg?v=1678875603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaschkasch Cologne<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            925.00 - 1635.00
+            <a href="https://audocph.com/products/zet-storing-system-black">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Put your objects in the spotlight with Zet, a modular shelving system that delivers on freedom and function. Easily assembled or disassembled and relocated whenever you want, its delicate balance of order, convenience and style is shaped from materials selected for beauty and endurance. Based on just two components - wooden U-shaped shelves and a metal frame construction defined by diagonal Z-struts – it comes in six colours and with optional display shelves and back panels.</p>
+<p>Each shelf can carry 39 kg.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kaschkasch Cologne</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Shelving Unit</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H70 / Black / Natural Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>7355039</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H70 / Black / Dark Stained Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>7355849</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H70 / Black / Black Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>7355539</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H114 / Black / Natural Oak</title>
+      <s:price currency="EUR">1350.00</s:price>
+      <s:sku>7365039</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H114 / Black / Dark Stained Oak</title>
+      <s:price currency="EUR">1350.00</s:price>
+      <s:sku>7365849</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H114 / Black / Black Oak</title>
+      <s:price currency="EUR">1350.00</s:price>
+      <s:sku>7365539</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H158 / Black / Natural Oak</title>
+      <s:price currency="EUR">1485.00</s:price>
+      <s:sku>7375039</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H158 / Ivory / Black Oak</title>
+      <s:price currency="EUR">1635.00</s:price>
+      <s:sku>7376539</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H70 / Ivory / Black Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>7356539</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H114 / Ivory / Black Oak</title>
+      <s:price currency="EUR">1350.00</s:price>
+      <s:sku>7366539</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H158 / Black / Black Oak</title>
+      <s:price currency="EUR">1485.00</s:price>
+      <s:sku>7375539</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955843650</id>
+      <title>H158 / Black / Dark Stained Oak</title>
+      <s:price currency="EUR">1485.00</s:price>
+      <s:sku>7375849</s:sku>
+      <s:grams>18112</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576541237314</id>
+    <published>2021-06-02T17:30:10+02:00</published>
+    <updated>2021-06-02T17:30:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/zet-storage-system-back-panel"/>
+    <title>Zet Storage System, Back Panel</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Kaschkasch Cologne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay2021-Day20068copy_2d21885a-e1ee-4848-b45f-c4096d6bc0e9.jpg?v=1621260051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaschkasch Cologne<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            200.00 - 335.00
+            <a href="https://audocph.com/products/zet-storage-system-back-panel">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Put your objects in the spotlight with Zet, a modular shelving system that delivers on freedom and function. Easily assembled or disassembled and relocated whenever you want, its delicate balance of order, convenience and style is shaped from materials selected for beauty and endurance. Based on just two components - wooden U-shaped shelves and a metal frame construction defined by diagonal Z-struts – it comes in six colours and with optional display shelves and <span data-mce-fragment="1">back panels.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kaschkasch Cologne</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Shelving Unit</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576541237314</id>
+      <title>Off White</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>7351659</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576541237314</id>
+      <title>Taupe</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>7351959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576541237314</id>
+      <title>Brick Red</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>7351399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

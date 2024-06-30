@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/daybeds-benches.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2020-08-27T15:03:18+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/4643398156354</id>
+    <published>2020-08-27T15:03:18+02:00</published>
+    <updated>2020-08-27T15:03:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-dining-sofa"/>
+    <title>Eave Dining Sofa</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9971002-00AK06ZZ_Eave_Dining_Sofa_200_Moss_022_Black_Front_749432f2-6d40-4004-b5fc-9ebfa37bc616.jpg?v=1693298181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            2320.00 - 4255.00
+            <a href="https://audocph.com/products/eave-dining-sofa">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The architecture-inspired Eave collection gains a new member this season with the addition of a banquette. Eave Dining Sofa is designed to meet the needs of contract and residential design, blurring the lines between the private and the public. Creating a welcoming fusion of sofa and bench to bring a homely aesthetic to new territories, the functional new design is set on slender metal legs for a light expression and easy access to the floor for cleaning. The softly minimalist sofa is offered in a range of standard sizes well suited for use in restaurants and hotels, but also for the home as a substitute for a bench or traditional dining chairs. Bespoke solutions accommodate individual requirements for height, length and depth, as well as upholstery fabric. Mastering the fine balance between creating a design that fits seamlessly into a space while retaining a sense of character that makes it stand out, Eave Banquette is a lasting piece of design crafted to the highest standards. With unlimited opportunities to extend the configuration, all you need to do is lean back and enjoy the meal.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Benches/Daybeds</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Planner</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>80 cm / Moss 022</title>
+      <s:price currency="EUR">2725.00</s:price>
+      <s:sku>9974002-00AF05ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>165 cm / Moss 022</title>
+      <s:price currency="EUR">3100.00</s:price>
+      <s:sku>9970002-01AF05ZZ</s:sku>
+      <s:grams>41000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>200 cm / Moss 022</title>
+      <s:price currency="EUR">3490.00</s:price>
+      <s:sku>9971002-00AK06ZZ</s:sku>
+      <s:grams>49000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>280 cm / Moss 022</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>9972002-02AG05ZZ</s:sku>
+      <s:grams>67000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>Right Corner / Moss 022</title>
+      <s:price currency="EUR">2320.00</s:price>
+      <s:sku>9973002-01AG05ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>Left Corner / Moss 022</title>
+      <s:price currency="EUR">2320.00</s:price>
+      <s:sku>9973002-00AG05ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>Left Corner / Fiord - 961</title>
+      <s:price currency="EUR">2320.00</s:price>
+      <s:sku>9973002-008V03ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>Right Corner / Fiord - 961</title>
+      <s:price currency="EUR">2320.00</s:price>
+      <s:sku>9973002-018V03ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>80 cm / Fiord - 961</title>
+      <s:price currency="EUR">2725.00</s:price>
+      <s:sku>9974002-008U03ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>165 cm / Fiord - 961</title>
+      <s:price currency="EUR">3100.00</s:price>
+      <s:sku>9970002-018U03ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>200 cm / Fiord - 961</title>
+      <s:price currency="EUR">3490.00</s:price>
+      <s:sku>9971002-008Z04ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643398156354</id>
+      <title>280 cm / Fiord - 961</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>9972002-028V03ZZ</s:sku>
+      <s:grams>32000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518983237698</id>
+    <published>2020-05-11T16:58:25+02:00</published>
+    <updated>2020-05-11T16:58:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bench"/>
+    <title>Afteroom Bench</title>
+    <s:type>Bench</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Afteroom_Bench_Location_09.jpg?v=1587486960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bench<br>
+        <strong>Price: </strong>
+            1505.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 35">
+<div class="layoutArea">
+<div class="column">
+<p><span>The Afteroom Bench is an evolution of Audo’s celebrated Afteroom Chair and a lasting tribute to the sleek lines, quality craftsmanship and marriage of function and form seen in Bauhaus modernism. By reducing the amount of material to a minimum, the visual appearance of the bench is enhanced to a maximum. Set on a slender, powder coated steel base, the oblong seat is gently padded for comfort </span><span>and upholstered in either black or cognac leather. A small, circular black marble tabletop extends from the side of design as an elegant platform for small objects. </span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Benches/Daybeds</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Bench</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518983237698</id>
+      <title>Dunes Anthrazite - 21003</title>
+      <s:price currency="EUR">1505.00</s:price>
+      <s:sku>8870505-000Y00ZZ</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518983237698</id>
+      <title>Dunes Cognac - 21000</title>
+      <s:price currency="EUR">1505.00</s:price>
+      <s:sku>8870505-000V00ZZ</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/outdoor.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-03-01T10:39:31+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6572246204482</id>
+    <published>2024-03-01T10:39:31+01:00</published>
+    <updated>2024-03-01T10:39:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-dining-chair-outdoor"/>
+    <title>Co Dining Chair, Outdoor</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Dining_Chair_Outdoor_Ray_Table_Lamp_Harbour_Column_Table_44.jpg?v=1718793380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            350.00 - 485.00
+            <a href="https://audocph.com/products/co-dining-chair-outdoor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed in weather-resistant recycled plastic for hassle-free upkeep, the Co Dining Chair, Outdoor is a practical and reliable choice for outdoor environments year-round. Its stackable design offers space-efficient solution for storage and convenient organisation when not in use. Despite its durability, the chair remains comfortable and lightweight, facilitating easy movement and rearrangement of outdoor seating arrangements as required, while its sleek and minimalist design, available with or without armrests, blends seamlessly into a range of settings, from patios to gardens.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>Without Armrest</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>1190044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>With Armrest</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>1191044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860288294978</id>
+    <published>2023-03-03T10:49:10+01:00</published>
+    <updated>2023-03-03T10:49:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-menu-plant-tools-set-of-3"/>
+    <title>Pallarès × Audo Plant Tools, Set of 3</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Tool_Set.jpg?v=1671615203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">The 3-piece set includes a trowel, garden fork and hoe —for digging, weeding and preparing soil for planting. Made by hand from carbon steel, each piece bears the hallmarks of fine metal craft. Designed with ergonomics in mind, they are fitted with solid oak handles for a comfortable grip.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860288294978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4860099</s:sku>
+      <s:grams>1767</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860287705154</id>
+    <published>2023-03-03T10:48:59+01:00</published>
+    <updated>2023-03-03T10:48:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-audo-plant-shears"/>
+    <title>Pallarès × Audo Plant Shears</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Plant_Pruner_2_1.jpg?v=1671615141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">The Garden Shears are made for everyday gardening but are especially useful for cleanly and precisely cutting the stems of flowers and smaller branches when pruning or creating floral arrangements.</p>
+<p data-mce-fragment="1">Designed with an ergonomic grip, they have a leather safety fastener. A handmade leather holder fitted with a belt loop ensures the safe storage of the tool when not in use. The natural leather will develop a rich patina with age and use. The shears and holder are packaged in a wooden crate.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860287705154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4862039</s:sku>
+      <s:grams>599</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860286492738</id>
+    <published>2023-03-03T10:48:48+01:00</published>
+    <updated>2023-03-03T10:48:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-audo-plant-pruner"/>
+    <title>Pallarès × Audo Plant Pruner</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Plant_Shears.jpg?v=1671615071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">Intended for everyday gardening use to trim larger branches and stems, the pruner has an ergonomic grip and leather safety fastener. A handmade leather holder fitted with a belt loop ensures the safe storage of the tool when not in use. The natural leather will develop a rich patina over time. The Pruner and holder are packaged in a wooden crate.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860286492738</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4861039</s:sku>
+      <s:grams>740</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860307759170</id>
+    <published>2023-03-03T10:48:24+01:00</published>
+    <updated>2023-03-03T10:48:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/meira-oil-lantern"/>
+    <title>Meira Oil Lantern</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Meira_Oil_Lanterns_5.jpg?v=1671613881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            135.00 - 230.00
+            <a href="https://audocph.com/products/meira-oil-lantern">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Inspired by ancient torches, the Meira Oil Lantern in powder-coated steel illuminates outdoor spaces as the sun sets. Designed with a refillable oil chamber, the ambient design emits a large, wide flame from its centre. The lanterns include a removable plastic cap to prevent water entering the chamber when not in use. Available in four sizes with a rust-resistant finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Lantern</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H13.5</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4851539</s:sku>
+      <s:grams>803</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H15</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>4852539</s:sku>
+      <s:grams>1950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H36</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4853539</s:sku>
+      <s:grams>3400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H53</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>4854539</s:sku>
+      <s:grams>5300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860306841666</id>
+    <published>2023-03-03T10:48:00+01:00</published>
+    <updated>2023-03-03T10:48:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-watering-stick"/>
+    <title>Hydrous Watering Stick, Set of 2</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plantas_Planter_Hydrous_Watering_Stick.jpg?v=1671613771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            34.00 - 45.00
+            <a href="https://audocph.com/products/hydrous-watering-stick">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Making light work of plant care, the Hydrous Watering Stick is a clever device for ensuring houseplants are watered correctly. Ideal for short breaks away from home or simply to assist plant enthusiasts, the porous, earthenware rod slowly releases water directly to the roots of the plant. The stick is simply filled with water, inserted into the soil and left to work its magic. Available in two sizes for different levels of hydration. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860306841666</id>
+      <title>H26</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>3720649</s:sku>
+      <s:grams>362</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860306841666</id>
+      <title>H36</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>3721649</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860305727554</id>
+    <published>2023-03-03T10:47:44+01:00</published>
+    <updated>2023-03-03T10:47:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-watering-can"/>
+    <title>Hydrous Watering Can</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Watering_Can_2.jpg?v=1671613713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Sleek and elegant, the Hydrous Watering Can features a long pouring spout designed to reach small potted plants or through thick foliage. The brushed stainless steel design has a wooden handle, offsetting the curved lines of the container while ensuring a good grip. <span data-mce-fragment="1"> </span><a href="https://audocph.com/collections/hydrous-collection" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860305727554</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>3710039</s:sku>
+      <s:grams>657</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860305006658</id>
+    <published>2023-03-03T10:47:27+01:00</published>
+    <updated>2023-03-03T10:47:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-planter"/>
+    <title>Hydrous Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Planter_Hydrous_Watering_Can.jpg?v=1671613653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            65.00 - 120.00
+            <a href="https://audocph.com/products/hydrous-planter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Our clever, self-watering pot ensures easy plant care whether you are home or away. Shaped from stoneware glazed for a glossy finish, the practical design enables the plant to draw water to its roots as needed: a nylon wick transports the water from the saucer to the soil, ensuring correct hydration all year round. Available in two sizes in two colours. For indoor use only. <span data-mce-fragment="1"> </span><a href="https://audocph.com/collections/hydrous-collection" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ashen</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833659</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ochre</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833859</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø20 cm / Ashen</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>4834659</s:sku>
+      <s:grams>2097</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860306186306</id>
+    <published>2023-03-03T10:47:15+01:00</published>
+    <updated>2023-03-03T10:47:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-plant-mister"/>
+    <title>Hydrous Plant Mister</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Watering_Can_Hydrous_Mister_Hydrous_Planter.jpg?v=1671613535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ideal for epiphytic houseplants such as orchids, succulents and tropicals, which take in moisture through their leaves, the Hydrous Plant Mister produces a delicate mist of water to increase humidity and help remove dust from leaves. Simply detailed with a wooden top, the brushed stainless steel design is a beautiful helper for caring for your plants. <a href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860306186306</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>3705039</s:sku>
+      <s:grams>262</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860291211330</id>
+    <published>2023-03-03T10:46:54+01:00</published>
+    <updated>2023-03-03T10:46:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plantas-planter"/>
+    <title>Plantas Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plantas_Planter_2.jpg?v=1671615350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            160.00 - 405.00
+            <a href="https://audocph.com/products/plantas-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Characterised by their curves and irregular, furrowed surface, the Plantas Planters are made from matte ivory stoneware with a textured, natural appearance. Each piece is finished by hand and therefore entirely unique. Made for indoor use, the Plantas Planters can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H17</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>4835649</s:sku>
+      <s:grams>2580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H24</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>4836649</s:sku>
+      <s:grams>3630</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H26</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4837649</s:sku>
+      <s:grams>5597</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H32</title>
+      <s:price currency="EUR">405.00</s:price>
+      <s:sku>4838649</s:sku>
+      <s:grams>9958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860291014722</id>
+    <published>2023-03-03T10:46:36+01:00</published>
+    <updated>2023-03-03T10:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hana-vase"/>
+    <title>Hana Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hana_Vase.jpg?v=1671613509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            55.00 - 200.00
+            <a href="https://audocph.com/products/hana-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Hana is inspired by ikebana, the ancient Japanese art of flower arranging that uses few but carefully chosen and artfully positioned stems. Shaped around a central ceramic flower frog, or kenzan, Hana lets you create foolproof floral displays, holding flower stalks and branches in place at different angles. The kenzan can be removed for a more traditional arrangement. Designed in Copenhagen by Krøyer-Sætter-Lassen, the vase is available in three sizes in three unique finishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H7 / Umber</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4827979</s:sku>
+      <s:grams>1636</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H14.5 / Ochre</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>4828419</s:sku>
+      <s:grams>714</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H26 / Ashen</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4829659</s:sku>
+      <s:grams>3007</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860289343554</id>
+    <published>2023-03-03T10:46:15+01:00</published>
+    <updated>2023-03-03T10:46:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/daiza-planter"/>
+    <title>Daiza Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Daiza_Planters_2.jpg?v=1671612702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            200.00 - 335.00
+            <a href="https://audocph.com/products/daiza-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Taking its cues from ancient amphoras, the Daiza Planter is shaped from stoneware and finished with a glossy, reactive glaze that lends the design a beautiful depth of colour and texture. The planters are elevated on iron feet, allowing them to be grouped in clusters. Made for indoor use, the Daiza Planter can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 25 cm</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4844649</s:sku>
+      <s:grams>5400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 48 cm</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>4848649</s:sku>
+      <s:grams>10400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 45 / Ø 35 cm</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>4847649</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 65 / Ø 25 cm</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4846649</s:sku>
+      <s:grams>7100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860290490434</id>
+    <published>2023-03-03T10:45:49+01:00</published>
+    <updated>2023-03-03T10:45:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cresco-propagation-vases"/>
+    <title>Cresco Propagation Vases, Set of 2</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Cresco_Propagation_Set_4.jpg?v=1671612621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A set of two vases designed to propagate plant cuttings or sprout larger seeds, the Cresco Propagation Vases let nature take centre stage. Easy to use and elegant to look at, the shapely glass vessels allow light to reach the growing roots while the concave, handmade ceramic lid supports the plant as it grows. To use, simply fill the glass vase with water, place the lid on top and let nature work its magic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860290490434</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4849039</s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678196290</id>
+    <published>2023-02-15T14:47:58+01:00</published>
+    <updated>2023-02-15T14:47:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/lightin"/>
+    <title>Light&apos;In</title>
+    <s:type>Candle Holder</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Kubus_Light_In.jpg?v=1675775241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Candle Holder<br>
+        <strong>Price: </strong>
+            160.00 - 230.00
+            <a href="https://audocph.com/products/lightin">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Light’in is a decorative lantern, suitable for both indoor and outdoor use. Made from glass and powder coated metal, its simple yet impactful look brings atmospheric glow to any setting.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Candleholder</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678196290</id>
+      <title>Small</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>BL25003</s:sku>
+      <s:grams>1090</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678196290</id>
+      <title>Medium</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>BL25002</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678196290</id>
+      <title>Large</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>BL25004</s:sku>
+      <s:grams>881</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6750748049474</id>
+    <published>2022-06-13T11:58:51+02:00</published>
+    <updated>2022-06-13T11:58:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ray-table-lamp-portable"/>
+    <title>Ray Table Lamp, Portable</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Daniel Schofield</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Ray_Table_Lamp.jpg?v=1664978184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daniel Schofield<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Daniel Schofield’s Ray Table Lamp for Audo has a distinctive silhouette inspired by old mining lamps. Its simplified design in powder-coated metal and glass features a practical top handle that makes it easy to carry the lamp to wherever light is needed – from a living room shelf or dining room table to a bedside cabinet. Emitting a soft, muted glow from its energy-saving LED bulb, the dimmable design is adjustable to three settings. Available in two beautiful colours that complement any interior design scheme.</p>
+<p><br data-mce-fragment="1">To preserve battery life, switch the lamp off when charging and do not leave plugged in while in use. The Portable lamp is compatible with Audo's <a href="https://audocph.com/products/charging-board">Charging Board</a>.<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Daniel Schofield</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6750748049474</id>
+      <title>Black</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>1890539Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6750748049474</id>
+      <title>Matte Dusty Green</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>1890469Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6750747623490</id>
+    <published>2022-06-13T11:57:22+02:00</published>
+    <updated>2022-06-13T11:57:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-table-lamp-portable"/>
+    <title>Hashira Table Lamp, Portable</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Table_Lamp_Portable_Plinth_Granad.jpg?v=1654776165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hashira Collection, designed for Audo by Norm Architects, takes its cues from Japanese paper lanterns. The portable iteration of the mood-enhancing design delivers ambient lighting on the go, bringing a warm glow and subtle tactility to spaces indoors and out. Small in scale yet big in impact, it has the freedom and flexibility to move anywhere you want. Fitted with a concealed USB charger socket at the base, the lamp provides 10 hours of adjustable light when fully charged. Place it on our <a href="https://audocph.com/products/charging-board">Charging Board</a>, which reanimates multiple devices in a single sitting, or charge using a standard socket.<br><br></p>
+<p>To preserve battery life, switch the lamp off when charging and do not leave plugged in while in use.<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6750747623490</id>
+      <title>Raw</title>
+      <s:price currency="EUR">190.00</s:price>
+      <s:sku>1508699Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4679353827394</id>
+    <published>2022-05-03T12:49:36+02:00</published>
+    <updated>2022-05-03T12:49:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-planter-69"/>
+    <title>Umanoff Planter, 69</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Planters_4_5a0e29bc-7550-4c72-bb25-1c5d8e0b86c2.jpg?v=1599202555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offered in three different sizes, the Umanoff Planter marries sleek powder coated steel lines with curved handwoven rattan for a natural contrast. Designed in 1961 by the late Arthur Umanoff, a master of mid-century modern, the elevated planter is suitable for both indoor and outdoor use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4679353827394</id>
+      <title>69</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku>5712539</s:sku>
+      <s:grams>4020</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518976782402</id>
+    <published>2021-10-21T10:16:53+02:00</published>
+    <updated>2021-10-21T10:16:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/carrie-portable-led-lamp"/>
+    <title>Carrie Table Lamp, Portable, Brass</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Carrie_Table_Lamp_Leather_11_29e3f84f-8387-4622-8acd-949a17e238cb.jpg?v=1660200353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            215.00 - 240.00
+            <a href="https://audocph.com/products/carrie-portable-led-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 110">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>Bound with soft yet durable leather on its browned metal handle (only bronzed brass), the portable Carrie LED Lamp holds a warm orb of light in its basket-like base. Providing up to ten hours of light when fully charged, the lamp moves effortlessly from the table to the terrace or a bookcase to a desk, illuminating the dark with its sophisticated glow. The cordless design charges via a concealed magnetic connector and USB cable. The cable charges with a standard USB charger plug. Comes without charger plug.</p>
+<p>Important usage information: To keep the internal battery healthy, only leave the Carrie plugged in during charging, with the lamp off. Do not leave plugged in while in use. Is compatible with Audo's Charging Board.</p>
+<p><a href="https://audocph.com/products/glass-shade-carrie-portable" data-mce-href="https://audocph.com/products/glass-shade-carrie-portable">Bronzed brass - Spare shade available</a> - <a href="https://audocph.com/products/charging-cable-portable" data-mce-href="https://audocph.com/products/charging-cable-portable">Spare Charging cable</a> available.</p>
+<p><a href="https://audocph.com/products/1-pc-glass-shade-w-glue-for-carrie-lamp" data-mce-href="https://audocph.com/products/1-pc-glass-shade-w-glue-for-carrie-lamp">Brushed brass - Spare shade available</a> - <a href="https://audocph.com/products/1-pc-usb-cord-for-carrie-lamp" data-mce-href="https://audocph.com/products/1-pc-usb-cord-for-carrie-lamp">USB Cord available.</a></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carrie</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518976782402</id>
+      <title>Bronzed Brass | Leather</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>4864859Y</s:sku>
+      <s:grams>1070</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518976782402</id>
+      <title>Brushed Brass</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4863839</s:sku>
+      <s:grams>1066</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637858521154</id>
+    <published>2021-09-14T12:38:16+02:00</published>
+    <updated>2021-09-14T12:38:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/carrie-table-lamp-portable"/>
+    <title>Carrie Table Lamp, Portable</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Carrie_Table_Lamp_Zet_Storage_System_1_MarioDepicolzuane_sconflictedcopy2021-12-01.jpg?v=1668690354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            215.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With a sleek, functional handle and a warm orb of light nestled gently in a basket-like base, the Carrie Portable Lamp is useful anywhere. Crafted in glass and metal – with a plastic base version available for outdoor use – Carrie is unique for its multiple uses and mutability: the cordless design comes with a concealed USB charger at its base for easy charging. The warm, ambient light is adjustable to three settings, and fully charged, it will stay on for at least ten hours on highest setting. Made with freedom and flexibility in mind, it comes in a range of beautiful colours.</p>
+<p>To preserve battery life, switch the lamp off when charging and do not leave plugged in while in use. <span>Place it on our </span><a href="https://audocph.com/products/charging-board">Charging Board</a><span>, which reanimates multiple devices in a single sitting, or charge using a standard socket.</span></p>
+<p>Sparepart available for the <a href="https://audocph.com/products/glass-shade-carrie-portable">glass shade</a>.</p>
+<p><a href="https://audocph.com/products/charging-cable-portable">Spare Charging cable</a> available.</p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carrie</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637858521154</id>
+      <title>Black</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>4864539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637858521154</id>
+      <title>Burned Red</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>4864349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637858521154</id>
+      <title>Olive</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>4864429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637858521154</id>
+      <title>White</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>4864639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637859536962</id>
+    <published>2021-09-14T12:37:50+02:00</published>
+    <updated>2021-09-14T12:37:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/column-table-lamp-portable"/>
+    <title>Column Table Lamp, Portable</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Column_Table_Lamp_Portable_Plinth_Tall_2.jpg?v=1686659785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With a shape inspired by the bollards used to secure vessels to a jetty, the portable Column Table Lamp combines technology and mood-setting style in a striking mushroom shape. Powered by battery for the ultimate in freedom and flexibility, the small-scale lamp delivers an inviting glow – adjustable to three settings – to spaces indoors and out. The cordless design charges via a concealed USB socket at its base and is also compatible with Audo’s <a href="https://audocph.com/products/charging-board">Charging Board</a>, which reanimates multiple devices in a single sitting. Lightweight and durable, with a beautiful finish in either anodised or brushed aluminium, it is a design you will want to use in all your favourite spots.<br data-mce-fragment="1"></p>
+<p>To preserve battery life, switch the lamp off when charging and do not leave plugged in while in use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637859536962</id>
+      <title>Anodised Aluminium</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>1881869Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637859536962</id>
+      <title>Brushed Aluminium</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>1881039Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4679355334722</id>
+    <published>2020-09-04T09:05:30+02:00</published>
+    <updated>2020-09-04T09:05:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-planter-32-5"/>
+    <title>Umanoff Planter, 32,5</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Planters_6_6e94b70d-01f3-4979-89ff-9772d93143b0.jpg?v=1599202756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offered in three different sizes, the Umanoff Planter marries sleek powder coated steel lines with curved handwoven rattan for a natural contrast. Designed in 1961 by the late Arthur Umanoff, a master of mid-century modern, the elevated planter is suitable for both indoor and outdoor use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:tag>Umanoff Planters</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4679355334722</id>
+      <title>Medium</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>5711539</s:sku>
+      <s:grams>4400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633490817090</id>
+    <published>2020-08-27T17:35:45+02:00</published>
+    <updated>2020-08-27T17:35:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-planter-1"/>
+    <title>Umanoff Planter, 27</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Planters.jpg?v=1595341516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offered in three different sizes, the Umanoff Planter marries sleek powder coated steel lines with curved handwoven rattan for a natural contrast. Designed in 1961 by the late Arthur Umanoff, a master of mid-century modern, the elevated planter is suitable for both indoor and outdoor use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:tag>Umanoff Planters</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633490817090</id>
+      <title>27</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>5710539</s:sku>
+      <s:grams>2380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4521248096322</id>
+    <published>2020-08-27T15:01:33+02:00</published>
+    <updated>2020-08-27T15:01:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-table-rectangular-with-star-base"/>
+    <title>Harbour Column Table, 60x70 With Star Base</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Harbour_Column_Lounge_Table_Harbour_Column_Dining_Table_017565b9-d0b9-498b-8a58-3f7388b99341.jpg?v=1678874117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            850.00 - 1440.00
+            <a href="https://audocph.com/products/harbour-column-table-rectangular-with-star-base">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Building on the clean, light and versatile design of the Harbour Chair, Norm Architects are expanding the Harbour family with the elegant Harbour Column Table. “We sought to create a column table that would solve the issue of blending in and standing out,” says Norm Architects’ Jonas Bjerre-Poulsen. In other words, a design with a strong profile – yet the ability to work in harmony with surroundings of all styles.</p>
+<p>The Harbour Column Table features a simple tabletop paired with a subtle yet sophisticated clover-shaped column profile: the same one you’ll see in the new swivel version of the Harbour Chair. The pairing gives the modern design a classic, exclusive feel. While the table was originally designed for the Harbour Chair, it also works beautifully with other seating types and styles. At the heart of the Harbour family, after all, is a desire to meet our constantly evolving needs with adaptability and grace.</p>
+<p>At Audo House – Audo’s testing ground for new products and a creative hub that’s part office, part café, and part co-working space – the Harbour Column Table has demonstrated an exceptional ability to meet every functional demand, while also pleasing the senses with its balanced, slim silhouette and tactility. The table is available with both round and rectangular tabletops, and in three heights – so finding the right one for your space is easy. You just might wonder how you managed without it.</p>
+<p>The Harbour Column Table is available with four tabletop sizes: three round, one rectangular. Each can be crafted in charcoal linoleum, black oak veneer, or off white marblento suit your space and design preferences. The column base is constructed in steel and aluminum in a black powder-coated finish, with dining, counter and bar heights to fit numerous needs in homes, workplaces, cafés, lobbies – the possibilities are endless. Mix and match bases and tabletops to create your ideal pairing.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Bar Table</s:tag>
+    <s:tag>type-Counter Table</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9335539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9335149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9335659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Bar / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1425.00</s:price>
+      <s:sku>9335139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9330539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9330149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9330659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Counter / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1425.00</s:price>
+      <s:sku>9330139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Black Oak</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9325539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9325149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1160.00</s:price>
+      <s:sku>9325659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4521248096322</id>
+      <title>Dining / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1440.00</s:price>
+      <s:sku>9325139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518943752258</id>
+    <published>2020-08-27T14:57:11+02:00</published>
+    <updated>2020-08-27T14:57:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-4-seat-lounge-table"/>
+    <title>Harbour Column Table, Round With Star Base</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_WM_String_Dining_Chair_Harbour_Column_Table_Ray_Table_Lamp_8c8eeb44-c7f0-484a-a565-ff84bff998e4.jpg?v=1664978228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            850.00 - 1535.00
+            <a href="https://audocph.com/products/harbour-column-4-seat-lounge-table">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Building on the clean, light and versatile design of the Harbour Chair, Norm Architects are expanding the Harbour family with the elegant Harbour Column Table. “We sought to create a column table that would solve the issue of blending in and standing out,” says Norm Architects’ Jonas Bjerre-Poulsen. In other words, a design with a strong profile – yet the ability to work in harmony with surroundings of all styles.</p>
+<p>The Harbour Column Table features a simple tabletop paired with a subtle yet sophisticated clover-shaped column profile: the same one you’ll see in the new swivel version of the Harbour Chair. The pairing gives the modern design a classic, exclusive feel. While the table was originally designed for the Harbour Chair, it also works beautifully with other seating types and styles. At the heart of the Harbour family, after all, is a desire to meet our constantly evolving needs with adaptability and grace.</p>
+<p>At Audo House – Audo’s testing ground for new products and a creative hub that’s part office, part café, and part co-working space – the Harbour Column Table has demonstrated an exceptional ability to meet every functional demand, while also pleasing the senses with its balanced, slim silhouette and tactility. The table is available with both round and rectangular tabletops, and in three heights – so finding the right one for your space is easy. You just might wonder how you managed without it.</p>
+<p>The Harbour Column Table is available with four tabletop sizes: three round, one rectangular. Each can be crafted in charcoal linoleum, black oak veneer, or off white marblento suit your space and design preferences. The column base is constructed in steel and aluminum in a black powder-coated finish, with dining, counter and bar heights to fit numerous needs in homes, workplaces, cafés, lobbies – the possibilities are endless. Mix and match bases and tabletops to create your ideal pairing.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Bar Table</s:tag>
+    <s:tag>type-Counter Table</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1360.00</s:price>
+      <s:sku>9326139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9326149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">865.00</s:price>
+      <s:sku>9326539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1160.00</s:price>
+      <s:sku>9326659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1535.00</s:price>
+      <s:sku>9327139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">1040.00</s:price>
+      <s:sku>9327149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">1040.00</s:price>
+      <s:sku>9327539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Dining / 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1335.00</s:price>
+      <s:sku>9327659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1345.00</s:price>
+      <s:sku>9331139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9331149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9331539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9331659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1520.00</s:price>
+      <s:sku>9332139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9332149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9332539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Counter / 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1320.00</s:price>
+      <s:sku>9332659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1345.00</s:price>
+      <s:sku>9336139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9336149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Black Oak</title>
+      <s:price currency="EUR">850.00</s:price>
+      <s:sku>9336539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 60 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1145.00</s:price>
+      <s:sku>9336659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Kunis Breccia</title>
+      <s:price currency="EUR">1520.00</s:price>
+      <s:sku>9337139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9337149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Black Oak</title>
+      <s:price currency="EUR">1025.00</s:price>
+      <s:sku>9337539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518943752258</id>
+      <title>Bar / 80 cm / Black | Estremoz Marble</title>
+      <s:price currency="EUR">1320.00</s:price>
+      <s:sku>9337659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518964789314</id>
+    <published>2020-05-12T11:08:04+02:00</published>
+    <updated>2020-05-12T11:08:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/studio-wm-string-dining-chair"/>
+    <title>WM String Dining Chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Studio WM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_WMDiningChair_Cyclade.jpg?v=1708597759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Studio WM<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wendy Legro and Maarten Collignon are the founders of Studio WM - a design studio based in Rotterdam, The Netherlands.</p>
+<p>Guided by all senses, their mission is to create seemingly simple designs that reflect the love that is put into them - and their details - for years to come. Their Wire design is available as a Dining chair and a low Lounge Chair. They both have the same light and airy appearance and the thin structure of the wire frame gives them a delicate feel, while also providing a fine contrast to any cushion you put on the dining chair - or the blankets, pillows and soft items you lay in the lounge version.</p>
+<p>Studio WM explains, "The strength of metal gave us the freedom to push the boundaries and seek for the thinnest, most light construction to bring light into the design in a literal and figurative sense. The contrast between the thin metal wire and soft pillow evokes the urge to touch and use the product." The WM Chairs are very durable and suitable for both indoor and outdoor use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Studio WM</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>WM String</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518964789314</id>
+      <title>White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>9520639</s:sku>
+      <s:grams>4452</s:grams>
+    </s:variant>
+  </entry>
+</feed>

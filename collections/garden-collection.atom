@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/garden-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-03-03T10:49:10+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6860288294978</id>
+    <published>2023-03-03T10:49:10+01:00</published>
+    <updated>2023-03-03T10:49:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-menu-plant-tools-set-of-3"/>
+    <title>Pallarès × Audo Plant Tools, Set of 3</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Tool_Set.jpg?v=1671615203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">The 3-piece set includes a trowel, garden fork and hoe —for digging, weeding and preparing soil for planting. Made by hand from carbon steel, each piece bears the hallmarks of fine metal craft. Designed with ergonomics in mind, they are fitted with solid oak handles for a comfortable grip.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860288294978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4860099</s:sku>
+      <s:grams>1767</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860287705154</id>
+    <published>2023-03-03T10:48:59+01:00</published>
+    <updated>2023-03-03T10:48:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-audo-plant-shears"/>
+    <title>Pallarès × Audo Plant Shears</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Plant_Pruner_2_1.jpg?v=1671615141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">The Garden Shears are made for everyday gardening but are especially useful for cleanly and precisely cutting the stems of flowers and smaller branches when pruning or creating floral arrangements.</p>
+<p data-mce-fragment="1">Designed with an ergonomic grip, they have a leather safety fastener. A handmade leather holder fitted with a belt loop ensures the safe storage of the tool when not in use. The natural leather will develop a rich patina with age and use. The shears and holder are packaged in a wooden crate.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860287705154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4862039</s:sku>
+      <s:grams>599</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860286492738</id>
+    <published>2023-03-03T10:48:48+01:00</published>
+    <updated>2023-03-03T10:48:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-audo-plant-pruner"/>
+    <title>Pallarès × Audo Plant Pruner</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Plant_Shears.jpg?v=1671615071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">Intended for everyday gardening use to trim larger branches and stems, the pruner has an ergonomic grip and leather safety fastener. A handmade leather holder fitted with a belt loop ensures the safe storage of the tool when not in use. The natural leather will develop a rich patina over time. The Pruner and holder are packaged in a wooden crate.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860286492738</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4861039</s:sku>
+      <s:grams>740</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860307759170</id>
+    <published>2023-03-03T10:48:24+01:00</published>
+    <updated>2023-03-03T10:48:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/meira-oil-lantern"/>
+    <title>Meira Oil Lantern</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Meira_Oil_Lanterns_5.jpg?v=1671613881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            135.00 - 230.00
+            <a href="https://audocph.com/products/meira-oil-lantern">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Inspired by ancient torches, the Meira Oil Lantern in powder-coated steel illuminates outdoor spaces as the sun sets. Designed with a refillable oil chamber, the ambient design emits a large, wide flame from its centre. The lanterns include a removable plastic cap to prevent water entering the chamber when not in use. Available in four sizes with a rust-resistant finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Lantern</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H13.5</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4851539</s:sku>
+      <s:grams>803</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H15</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>4852539</s:sku>
+      <s:grams>1950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H36</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4853539</s:sku>
+      <s:grams>3400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H53</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>4854539</s:sku>
+      <s:grams>5300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860306841666</id>
+    <published>2023-03-03T10:48:00+01:00</published>
+    <updated>2023-03-03T10:48:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-watering-stick"/>
+    <title>Hydrous Watering Stick, Set of 2</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plantas_Planter_Hydrous_Watering_Stick.jpg?v=1671613771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            34.00 - 45.00
+            <a href="https://audocph.com/products/hydrous-watering-stick">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Making light work of plant care, the Hydrous Watering Stick is a clever device for ensuring houseplants are watered correctly. Ideal for short breaks away from home or simply to assist plant enthusiasts, the porous, earthenware rod slowly releases water directly to the roots of the plant. The stick is simply filled with water, inserted into the soil and left to work its magic. Available in two sizes for different levels of hydration. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860306841666</id>
+      <title>H26</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>3720649</s:sku>
+      <s:grams>362</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860306841666</id>
+      <title>H36</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>3721649</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860305727554</id>
+    <published>2023-03-03T10:47:44+01:00</published>
+    <updated>2023-03-03T10:47:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-watering-can"/>
+    <title>Hydrous Watering Can</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Watering_Can_2.jpg?v=1671613713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Sleek and elegant, the Hydrous Watering Can features a long pouring spout designed to reach small potted plants or through thick foliage. The brushed stainless steel design has a wooden handle, offsetting the curved lines of the container while ensuring a good grip. <span data-mce-fragment="1"> </span><a href="https://audocph.com/collections/hydrous-collection" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860305727554</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>3710039</s:sku>
+      <s:grams>657</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860305006658</id>
+    <published>2023-03-03T10:47:27+01:00</published>
+    <updated>2023-03-03T10:47:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-planter"/>
+    <title>Hydrous Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Planter_Hydrous_Watering_Can.jpg?v=1671613653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            65.00 - 120.00
+            <a href="https://audocph.com/products/hydrous-planter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Our clever, self-watering pot ensures easy plant care whether you are home or away. Shaped from stoneware glazed for a glossy finish, the practical design enables the plant to draw water to its roots as needed: a nylon wick transports the water from the saucer to the soil, ensuring correct hydration all year round. Available in two sizes in two colours. For indoor use only. <span data-mce-fragment="1"> </span><a href="https://audocph.com/collections/hydrous-collection" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ashen</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833659</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ochre</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833859</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø20 cm / Ashen</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>4834659</s:sku>
+      <s:grams>2097</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860306186306</id>
+    <published>2023-03-03T10:47:15+01:00</published>
+    <updated>2023-03-03T10:47:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-plant-mister"/>
+    <title>Hydrous Plant Mister</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Watering_Can_Hydrous_Mister_Hydrous_Planter.jpg?v=1671613535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ideal for epiphytic houseplants such as orchids, succulents and tropicals, which take in moisture through their leaves, the Hydrous Plant Mister produces a delicate mist of water to increase humidity and help remove dust from leaves. Simply detailed with a wooden top, the brushed stainless steel design is a beautiful helper for caring for your plants. <a href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860306186306</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>3705039</s:sku>
+      <s:grams>262</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860291211330</id>
+    <published>2023-03-03T10:46:54+01:00</published>
+    <updated>2023-03-03T10:46:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plantas-planter"/>
+    <title>Plantas Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plantas_Planter_2.jpg?v=1671615350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            160.00 - 405.00
+            <a href="https://audocph.com/products/plantas-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Characterised by their curves and irregular, furrowed surface, the Plantas Planters are made from matte ivory stoneware with a textured, natural appearance. Each piece is finished by hand and therefore entirely unique. Made for indoor use, the Plantas Planters can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H17</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>4835649</s:sku>
+      <s:grams>2580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H24</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>4836649</s:sku>
+      <s:grams>3630</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H26</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4837649</s:sku>
+      <s:grams>5597</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H32</title>
+      <s:price currency="EUR">405.00</s:price>
+      <s:sku>4838649</s:sku>
+      <s:grams>9958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860291014722</id>
+    <published>2023-03-03T10:46:36+01:00</published>
+    <updated>2023-03-03T10:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hana-vase"/>
+    <title>Hana Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hana_Vase.jpg?v=1671613509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            55.00 - 200.00
+            <a href="https://audocph.com/products/hana-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Hana is inspired by ikebana, the ancient Japanese art of flower arranging that uses few but carefully chosen and artfully positioned stems. Shaped around a central ceramic flower frog, or kenzan, Hana lets you create foolproof floral displays, holding flower stalks and branches in place at different angles. The kenzan can be removed for a more traditional arrangement. Designed in Copenhagen by Krøyer-Sætter-Lassen, the vase is available in three sizes in three unique finishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H7 / Umber</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4827979</s:sku>
+      <s:grams>1636</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H14.5 / Ochre</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>4828419</s:sku>
+      <s:grams>714</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H26 / Ashen</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4829659</s:sku>
+      <s:grams>3007</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860289343554</id>
+    <published>2023-03-03T10:46:15+01:00</published>
+    <updated>2023-03-03T10:46:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/daiza-planter"/>
+    <title>Daiza Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Daiza_Planters_2.jpg?v=1671612702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            200.00 - 335.00
+            <a href="https://audocph.com/products/daiza-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Taking its cues from ancient amphoras, the Daiza Planter is shaped from stoneware and finished with a glossy, reactive glaze that lends the design a beautiful depth of colour and texture. The planters are elevated on iron feet, allowing them to be grouped in clusters. Made for indoor use, the Daiza Planter can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 25 cm</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4844649</s:sku>
+      <s:grams>5400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 48 cm</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>4848649</s:sku>
+      <s:grams>10400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 45 / Ø 35 cm</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>4847649</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 65 / Ø 25 cm</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4846649</s:sku>
+      <s:grams>7100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860290490434</id>
+    <published>2023-03-03T10:45:49+01:00</published>
+    <updated>2023-03-03T10:45:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cresco-propagation-vases"/>
+    <title>Cresco Propagation Vases, Set of 2</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Cresco_Propagation_Set_4.jpg?v=1671612621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A set of two vases designed to propagate plant cuttings or sprout larger seeds, the Cresco Propagation Vases let nature take centre stage. Easy to use and elegant to look at, the shapely glass vessels allow light to reach the growing roots while the concave, handmade ceramic lid supports the plant as it grows. To use, simply fill the glass vase with water, place the lid on top and let nature work its magic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860290490434</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4849039</s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+  </entry>
+</feed>

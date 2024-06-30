@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/sparepart-lighting.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-05-15T14:13:23+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8817749000522</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/phare-lamp-plug-with-indicator-light-in-black"/>
+    <title>Phare Lamp, Plug with Indicator Light in Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1755002_web.jpg?v=1715771075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A seperate plug for charging with indicator light in black for the Phare Lamp.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817749000522</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.20</s:price>
+      <s:sku>1755002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817745297738</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/wall-mount-for-frame-49-shoe-cabinet-copy"/>
+    <title>Driver Multiplug for Reverse Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/630016.jpg?v=1715770230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            16.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A multiplug for the Reverse Lamp featuring different types of plugs for different countries. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817745297738</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.74</s:price>
+      <s:sku>630016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817763451210</id>
+    <published>2024-05-15T14:13:22+02:00</published>
+    <updated>2024-05-15T14:13:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bank-pendant-fitting-in-black"/>
+    <title>Bank Pendant, Fitting in Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1860100.jpg?v=1715772318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            23.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A separate fitting for the Bank Pendant Light in black for CE. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817763451210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.43</s:price>
+      <s:sku>1860100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817757913418</id>
+    <published>2024-05-15T14:13:22+02:00</published>
+    <updated>2024-05-15T14:13:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bulb-jwda-ce-e27-8w-a60-matt"/>
+    <title>Bulb (JWDA - CE) E27, 8W, A60, Matt</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1840001.jpg?v=1715771562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            23.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A separate bulb for the JWDA Lamp - E27, 8W, A60 in Matt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817757913418</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.43</s:price>
+      <s:sku>1840001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817753260362</id>
+    <published>2024-05-15T14:13:22+02:00</published>
+    <updated>2024-05-15T14:13:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/phare-lamp-plug-with-indicator-light-in-black-copy"/>
+    <title>Charging Plug (CE), Portable</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1755005.jpg?v=1715771460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A separate plug for charging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817753260362</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.86</s:price>
+      <s:sku>1755005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684493701450</id>
+    <published>2024-02-28T08:46:32+01:00</published>
+    <updated>2024-02-28T08:46:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tubulaire-canopy"/>
+    <title>Tubulaire Canopy</title>
+    <s:type>canopy</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1760530_Tubulaire_Rail_Canopy_130.jpg?v=1708007339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>canopy<br>
+        <strong>Price: </strong>
+            230.00 - 805.00
+            <a href="https://audocph.com/products/tubulaire-canopy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to hold pendant lighting, the black powder-coated metal Circular Canopy is an adaptable solution for different spatial and aesthetic requirements. Offered in three sizes, the sleek and contemporary design creates an understated light source that enhances visibility, functionality and ambience in a room.</p>
+<p><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="auto" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">Designed to hold pendant lighting, the </span></span><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="none" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">black powder-coated metal Rail Canopy is an </span></span><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="auto" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">adaptable solution for different spatial and aesthetic requirements. The sleek and contemporary design adds a touch of sophistication to any space, enhancing visibility, functionality and ambience. Whether used alone or as part of a larger configuration, it provides an understated solution tailored to specific needs and environments.</span></span><span data-ccp-props='{"201341983":0,"335551550":6,"335551620":6,"335559739":0,"335559740":240}' class="EOP SCXW54785381 BCX0"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Rail Canopy</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>1760530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø57 cm</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>1765530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø107 cm</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1766530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø157 cm</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1767530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600488648770</id>
+    <published>2024-01-26T11:12:17+01:00</published>
+    <updated>2024-01-26T11:12:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-glass-shade-w-glue-for-carrie-lamp"/>
+    <title>1 pc. glass shade w glue for Carrie Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4863000.jpg?v=1624956629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. glass shade with glue for<a href="https://audocph.com/products/carrie-portable-led-lamp"> Carrie Table Lamp, Portable, Brushed Brass</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600488648770</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.00</s:price>
+      <s:sku>4863000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608215433546</id>
+    <published>2023-12-15T13:13:24+01:00</published>
+    <updated>2023-12-15T13:13:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/led-hashira-ray-table-portable"/>
+    <title>LED Hashira/Ray Table Portable</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1755027.jpg?v=1702642409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Replacement <span data-mce-fragment="1">LED for the <a href="https://audocph.com/products/hashira-table-lamp-portable">Hashira Table Lamp, Portable</a> &amp; <a href="https://audocph.com/products/ray-table-lamp-portable">Ray Table Lamp, Portable</a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608215433546</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.00</s:price>
+      <s:sku>1755027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608154190154</id>
+    <published>2023-12-15T12:12:01+01:00</published>
+    <updated>2023-12-15T12:12:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/led-hashira-wall"/>
+    <title>LED Hashira Wall</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1755017.jpg?v=1702638676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED bulb for the <a href="https://audocph.com/products/hashira-wall-lamp">Hashira Wall Lamp</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608154190154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>1755017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600490549314</id>
+    <published>2023-05-31T18:49:47+02:00</published>
+    <updated>2023-05-31T18:49:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-ceramic-socket-black-for-tribeca-range"/>
+    <title>1 pc. ceramic socket, black for Tribeca Range</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1910000.jpg?v=1624956974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. ceramic socket, black for Tribeca Range</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600490549314</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.00</s:price>
+      <s:sku>1910000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600491335746</id>
+    <published>2023-03-30T16:34:17+02:00</published>
+    <updated>2023-03-30T16:34:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-plate-brass-for-warren-wall-lamp"/>
+    <title>1 pc. plate, brass for Warren Wall Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1950801.jpg?v=1624957277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. plate, brass for Warren Wall Lamp</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600491335746</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>1950801</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600487174210</id>
+    <published>2022-10-07T13:32:29+02:00</published>
+    <updated>2022-10-07T13:32:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-g9-bulb-3-5-w-ce-for-jwda-lamp"/>
+    <title>1 pc. G9 bulb, 3,5 W (CE) for JWDA Table Lamp / Pendant Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1800000.jpg?v=1630950360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. G9 bulb, 3,5 W (CE) for <a href="https://audocph.com/products/jwda-table-lamp">JWDA Table Lamp</a> &amp; <a href="https://audocph.com/products/jwda-pendant-lamp">JWDA Pendant Lamp</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600487174210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>1800000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518944866370</id>
+    <published>2022-10-07T13:31:56+02:00</published>
+    <updated>2022-10-07T13:31:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/g9-led-bulb-for-cast-series-lighting"/>
+    <title>G9 LED Bulb for Cast series lighting</title>
+    <s:type>Bulb</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1220000_WEB.jpg?v=1665144100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Bulb<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A dimmable LED bulb that is compatible with our Cast Collection of lighting products.<br><strong data-mce-fragment="1">This item can not currently be UL-listed.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518944866370</id>
+      <title>G9 LED</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>1220000</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6780987801666</id>
+    <published>2022-08-16T09:33:21+02:00</published>
+    <updated>2022-08-16T09:33:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/screw-carrie-led-bronzed-brass"/>
+    <title>Screw Carrie LED Bronzed Brass</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1755021_4863003.jpg?v=1659361531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6780987801666</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>1755021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6780989702210</id>
+    <published>2022-08-16T09:26:52+02:00</published>
+    <updated>2022-08-16T09:26:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/glass-shade-jwda-portable"/>
+    <title>JWDA Table Lamp, Portable, Glass Shade</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1755003.jpg?v=1659361672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 pc. Glass Shade for the<a href="https://audocph.com/products/jwda-table-lamp-portable"> JWDA Table Lamp, Portable.</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6780989702210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.00</s:price>
+      <s:sku>1755003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6780989014082</id>
+    <published>2022-08-16T09:17:07+02:00</published>
+    <updated>2022-08-16T09:17:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/glass-shade-carrie-portable"/>
+    <title>Glass Shade Carrie portable</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1755004.jpg?v=1659361624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spare shade with socket for the <em><a href="https://audocph.com/products/carrie-table-lamp-portable">Carrie Table Lamp, Portable</a></em>, and in <em><a href="https://audocph.com/products/carrie-portable-led-lamp?variant=32630100164674">Bronzed Brass</a></em>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6780989014082</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">89.95</s:price>
+      <s:sku>1755004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6766403944514</id>
+    <published>2022-06-29T11:22:20+02:00</published>
+    <updated>2022-06-29T11:22:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bulb-e27"/>
+    <title>Bulb E27</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/2700639_Bulb_E27_A60_6W.jpg?v=1656494504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimmable LED bulb with a matt surface.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6766403944514</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">42.00</s:price>
+      <s:sku>2700639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6766404010050</id>
+    <published>2022-06-29T11:22:05+02:00</published>
+    <updated>2022-06-29T11:22:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bulb-e14"/>
+    <title>Bulb E14</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/2701639_Bulb_E14_A45_4W.jpg?v=1656494521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dimmable LED bulb with a matt surface.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6766404010050</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>2701639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6750748770370</id>
+    <published>2022-06-13T12:01:57+02:00</published>
+    <updated>2022-06-13T12:01:57+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/universal-charger"/>
+    <title>Universal Charger</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/630013_Universal_Charger_front.jpg?v=1654073332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Universal Charger is a USB charger with five interchangeable plugs with an output of five volts and two amperes. The five interchangeable plugs are suitable for North America, Australia, China, Europe and the UK. The Universal Charger can be used to all Audo portable lamps.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6750748770370</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>630013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600487141442</id>
+    <published>2022-03-16T12:41:46+01:00</published>
+    <updated>2022-03-16T12:41:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-set-screws-w-hex-key-for-bank-pendant"/>
+    <title>1 Set screws w hex key for Bank Pendant</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1860101_Bank_Pendant_Screw_Set.jpg?v=1647430900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Set screws w hex key for Bank Pendant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600487141442</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>1860101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6726686670914</id>
+    <published>2022-03-16T12:40:44+01:00</published>
+    <updated>2022-03-16T12:40:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-lamp-glass-shade-shiny"/>
+    <title>JWDA Table Lamp, Glass Shade, Small</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1800100_JWDA_Lamp_Glass_Shade_Shiny.jpg?v=1647430836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            55.00 - 65.00
+            <a href="https://audocph.com/products/jwda-lamp-glass-shade-shiny">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replaceable Glass Shade for the <a href="https://audocph.com/products/jwda-table-lamp-small">JWDA Table Lamp, small</a>. Choose between shiny or matte opal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6726686670914</id>
+      <title>Shiny</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>1800100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6726686670914</id>
+      <title>Matt</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>1800110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6726367510594</id>
+    <published>2022-03-16T12:37:54+01:00</published>
+    <updated>2022-03-16T12:37:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/top-knob-torso-table-lamp-black-57"/>
+    <title>Top Knob Torso Table Lamp, Black 57</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1755015.jpg?v=1647349020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top Knob Torso Table Lamp, Black 57</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6726367510594</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.00</s:price>
+      <s:sku>1755015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6726365675586</id>
+    <published>2022-03-16T12:37:11+01:00</published>
+    <updated>2022-03-16T12:37:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/top-knob-torso-table-lamp-sand-37"/>
+    <title>Top Knob Torso Table Lamp, Sand 37</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1755014.jpg?v=1647348586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top Knob Torso Table Lamp, Sand 37</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6726365675586</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.00</s:price>
+      <s:sku>1755014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6726365446210</id>
+    <published>2022-03-15T14:59:36+01:00</published>
+    <updated>2022-03-15T14:59:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/charging-cable-portable"/>
+    <title>Charging Cable, Portable</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1755006.jpg?v=1647348472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Charging Cable, Portable</p>
+<p>Compatible with the below products:</p>
+<p><a href="https://audocph.com/products/jwda-table-lamp-portable">JWDA Table Lamp, Portable</a></p>
+<p><a href="https://audocph.com/products/carrie-table-lamp-portable">Carrie Table Lamp, Portable</a></p>
+<p><a href="https://audocph.com/products/column-table-lamp-portable">Column Table Lamp, Portable</a></p>
+<p><a href="https://audocph.com/products/hashira-table-lamp-portable">Hashira Table Lamp, Portable</a></p>
+<p><a href="https://audocph.com/products/ray-table-lamp-portable">Ray Table Lamp, Portable</a></p>
+<p><a href="https://audocph.com/products/torso-table-lamp-portable">Torso, Table Lamp, Portable</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6726365446210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.00</s:price>
+      <s:sku>1755006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600516403266</id>
+    <published>2022-01-28T13:40:32+01:00</published>
+    <updated>2022-01-28T13:40:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-levitate-glass-shade-40"/>
+    <title>1 pc. Levitate, Glass Shade, 40</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1371100.jpg?v=1630950337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. Levitate, Glass Shade, 40</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600516403266</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">13.00</s:price>
+      <s:sku>1371100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

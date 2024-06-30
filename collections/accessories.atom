@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/accessories.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-03-11T13:11:09+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/4762514358338</id>
+    <published>2024-03-11T13:11:09+01:00</published>
+    <updated>2024-03-11T13:11:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ribbon-basket"/>
+    <title>Ribbon Basket</title>
+    <s:type>Waste Bin</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BI9A7993.jpg?v=1621259257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Waste Bin<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>A modern storage solution with a traditionalist feel, the Ribbon Basket contrasts sleek powder coated steel with soft, inviting curves. Crafted with precision, vertically positioned metal strips are formed into a gently rounded lip that makes it easy to carry the basket from room to room. Cushioned on the bottom with tonal leather for an exclusive feel and elevated on silicone feet for stability and protection, it adds instant graphic appeal to a room, as a practical and decorative home for magazines, home textiles, accessories and more. <a href="https://audocph.com/blogs/news/norm-architects-ribbon-basket">Read about the design process here</a>.</p>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>small storage</s:tag>
+    <s:tag>type-Waste Bin</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4762514358338</id>
+      <title>Ivory</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>4300649</s:sku>
+      <s:grams>4670</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8682949312842</id>
+    <published>2024-02-28T08:46:40+01:00</published>
+    <updated>2024-02-28T08:46:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-coat-hanger-large"/>
+    <title>Afteroom Coat Hanger, Large</title>
+    <s:type>Coat Hanger</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AfteroomCoatHangerLarge_21.jpg?v=1708508586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Coat Hanger<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Afteroom Coat Hanger draws inspiration from Bauhaus principles: well-crafted, functional and minimalist design with geometric shapes that infuse a sense of clarity. Easily affixed to a wall, with hidden screws that underpin its clean aesthetic, circular ‘dots’ in powder-coated metal allow you to hang clothing, bags and more in a hallway or bedroom. It can be hung both horizontally and vertically, beautifying blank walls in any space by transforming walls from stark canvases into works of art.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hangers</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Coat Hanger</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8682949312842</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>8920539</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8572391063882</id>
+    <published>2023-11-14T12:30:11+01:00</published>
+    <updated>2023-11-14T12:30:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-8-white"/>
+    <title>Kubus 8, White</title>
+    <s:type>Candle Holder</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL10108_Kubus8_White_With_Candle_Angle_300_b691b276-1574-4883-8d43-88ac145a598b.jpg?v=1699961375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Candle Holder<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mogens Lassen designed the very first Kubus candle holder in 1962 for the interior of a restaurant in northern Zealand, Denmark. The geometric candleholder series has since become a much-loved icon of Danish design thanks to its timeless, Modernist form and enduring function. Kubus 8 is a mood-enhancing addition to any space. With room for eight candles it creates a cosy atmosphere wherever it is placed. It is available in a range of metals and finishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Candleholder</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8572391063882</id>
+      <title>White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL10108</s:sku>
+      <s:grams>1322</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807212752962</id>
+    <published>2023-08-30T10:12:14+02:00</published>
+    <updated>2023-08-30T10:12:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/twist-tapered-candles-set-of-4"/>
+    <title>Twist Tapered Candles, Set of 4</title>
+    <s:type>Candle</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/0000s_0000_Audo_Spire_Smooth_Candle_Twist_Tapered_Candle_Neutral_Warm_Ivory.jpg?v=1691666907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Candle<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Emitting a warm glow when lit, Twist is a new rendition of traditional taper candles. Shaped into an architectural form, the winding silhouette adds a fresh and modern feel to spaces. Made from plant-based wax, Twist is available in a four-piece set in neutral, warm or cool colours.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Type-Candle</s:tag>
+    <s:tag>Unscented Candles</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807212752962</id>
+      <title>Neutral</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>3100449</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807212752962</id>
+      <title>Ivory</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>3100649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807212752962</id>
+      <title>Warm</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>3100849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807215996994</id>
+    <published>2023-08-30T10:12:05+02:00</published>
+    <updated>2023-08-30T10:12:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/spire-smooth-tapered-candles-set-of-6"/>
+    <title>Spire Smooth Tapered Candles, Set of 6</title>
+    <s:type>Candle</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Clip_Candle_Holder_Table_Spire_Smooth_Twist_Tapered_Candle_Natural_Ivory_BACKGROUND_EDITED_WEB.jpg?v=1693385957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Candle<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Elegant and ambient, the Spire Candle is a new take on the classic votive, elevating any setting with its elongated, tapered form. Made with consideration from plant-based wax and available in a set of six, the unscented design is offered in three different colourways: neutral, warm and cool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Candles</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Type-Candle</s:tag>
+    <s:tag>Unscented Candles</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807215996994</id>
+      <title>Neutral</title>
+      <s:price currency="EUR">36.00</s:price>
+      <s:sku>3101449</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807215996994</id>
+      <title>Ivory</title>
+      <s:price currency="EUR">36.00</s:price>
+      <s:sku>3101649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807215996994</id>
+      <title>Ochre</title>
+      <s:price currency="EUR">36.00</s:price>
+      <s:sku>3101859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8479835029834</id>
+    <published>2023-08-25T13:10:29+02:00</published>
+    <updated>2023-08-25T13:10:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bottle-grinder-small-set-of-2"/>
+    <title>Bottle Grinder, Small, 2 pcs.</title>
+    <s:type></s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Bottle_Grinders_Small_11_WEB.jpg?v=1692711432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bottle Grinders, Small is a two-piece set of salt and pepper mills, each fitted with a powerful ceramic mill that makes light work of grinding a wide range of spices. Shaped as bottles that sit comfortably in the hand, the set is smaller than the original Bottle Grinder design, making it ideal for use where space is at a premium.<br data-mce-fragment="1"></p>
+<p>Easy to operate, fill and clean, the upright design ensures surfaces remain free from unwanted residue while meals are seasoned to perfection. Offered in a range of hardworking materials and colours, including Hunting Green, Ash and Blue, which work with any interior design scheme.<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bottle Grinders</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8479835029834</id>
+      <title>Blues - Beech Lid</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4413299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8479835029834</id>
+      <title>Carbon - Ash- Beech Lid</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4413399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8479835029834</id>
+      <title>Hunting Green - Beige - Walnut Lid</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4413459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860288294978</id>
+    <published>2023-03-03T10:49:10+01:00</published>
+    <updated>2023-03-03T10:49:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-menu-plant-tools-set-of-3"/>
+    <title>Pallarès × Audo Plant Tools, Set of 3</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Tool_Set.jpg?v=1671615203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">The 3-piece set includes a trowel, garden fork and hoe —for digging, weeding and preparing soil for planting. Made by hand from carbon steel, each piece bears the hallmarks of fine metal craft. Designed with ergonomics in mind, they are fitted with solid oak handles for a comfortable grip.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860288294978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4860099</s:sku>
+      <s:grams>1767</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860287705154</id>
+    <published>2023-03-03T10:48:59+01:00</published>
+    <updated>2023-03-03T10:48:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-audo-plant-shears"/>
+    <title>Pallarès × Audo Plant Shears</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Plant_Pruner_2_1.jpg?v=1671615141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">The Garden Shears are made for everyday gardening but are especially useful for cleanly and precisely cutting the stems of flowers and smaller branches when pruning or creating floral arrangements.</p>
+<p data-mce-fragment="1">Designed with an ergonomic grip, they have a leather safety fastener. A handmade leather holder fitted with a belt loop ensures the safe storage of the tool when not in use. The natural leather will develop a rich patina with age and use. The shears and holder are packaged in a wooden crate.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860287705154</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4862039</s:sku>
+      <s:grams>599</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860286492738</id>
+    <published>2023-03-03T10:48:48+01:00</published>
+    <updated>2023-03-03T10:48:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pallares-audo-plant-pruner"/>
+    <title>Pallarès × Audo Plant Pruner</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Pallarès x Audo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pallares_Plant_Shears.jpg?v=1671615071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pallarès x Audo<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made exclusively for Audo by Spanish toolmakers Pallarés, a century-old manufacturer of knives and tools of the highest quality.</p>
+<p data-mce-fragment="1">Intended for everyday gardening use to trim larger branches and stems, the pruner has an ergonomic grip and leather safety fastener. A handmade leather holder fitted with a belt loop ensures the safe storage of the tool when not in use. The natural leather will develop a rich patina over time. The Pruner and holder are packaged in a wooden crate.</p>
+<p data-mce-fragment="1">Carbon steel is incredibly strong and long-lasting and requires minimal care to maximise its lifespan. Clean and hand dry after use. To prevent corrosion, always ensure tools are kept dry when not in use. Do not leave outside overnight or out in the rain. Rust deposits can be removed with oil.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Pallarès x Audo</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860286492738</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4861039</s:sku>
+      <s:grams>740</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860307759170</id>
+    <published>2023-03-03T10:48:24+01:00</published>
+    <updated>2023-03-03T10:48:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/meira-oil-lantern"/>
+    <title>Meira Oil Lantern</title>
+    <s:type>Lantern</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Meira_Oil_Lanterns_5.jpg?v=1671613881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Lantern<br>
+        <strong>Price: </strong>
+            135.00 - 230.00
+            <a href="https://audocph.com/products/meira-oil-lantern">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Inspired by ancient torches, the Meira Oil Lantern in powder-coated steel illuminates outdoor spaces as the sun sets. Designed with a refillable oil chamber, the ambient design emits a large, wide flame from its centre. The lanterns include a removable plastic cap to prevent water entering the chamber when not in use. Available in four sizes with a rust-resistant finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Lantern</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H13.5</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4851539</s:sku>
+      <s:grams>803</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H15</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>4852539</s:sku>
+      <s:grams>1950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H36</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4853539</s:sku>
+      <s:grams>3400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860307759170</id>
+      <title>H53</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>4854539</s:sku>
+      <s:grams>5300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860306841666</id>
+    <published>2023-03-03T10:48:00+01:00</published>
+    <updated>2023-03-03T10:48:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-watering-stick"/>
+    <title>Hydrous Watering Stick, Set of 2</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plantas_Planter_Hydrous_Watering_Stick.jpg?v=1671613771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            34.00 - 45.00
+            <a href="https://audocph.com/products/hydrous-watering-stick">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Making light work of plant care, the Hydrous Watering Stick is a clever device for ensuring houseplants are watered correctly. Ideal for short breaks away from home or simply to assist plant enthusiasts, the porous, earthenware rod slowly releases water directly to the roots of the plant. The stick is simply filled with water, inserted into the soil and left to work its magic. Available in two sizes for different levels of hydration. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860306841666</id>
+      <title>H26</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>3720649</s:sku>
+      <s:grams>362</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860306841666</id>
+      <title>H36</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>3721649</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860305727554</id>
+    <published>2023-03-03T10:47:44+01:00</published>
+    <updated>2023-03-03T10:47:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-watering-can"/>
+    <title>Hydrous Watering Can</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Watering_Can_2.jpg?v=1671613713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Sleek and elegant, the Hydrous Watering Can features a long pouring spout designed to reach small potted plants or through thick foliage. The brushed stainless steel design has a wooden handle, offsetting the curved lines of the container while ensuring a good grip. <span data-mce-fragment="1"> </span><a href="https://audocph.com/collections/hydrous-collection" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860305727554</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>3710039</s:sku>
+      <s:grams>657</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860305006658</id>
+    <published>2023-03-03T10:47:27+01:00</published>
+    <updated>2023-03-03T10:47:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-planter"/>
+    <title>Hydrous Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Planter_Hydrous_Watering_Can.jpg?v=1671613653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            65.00 - 120.00
+            <a href="https://audocph.com/products/hydrous-planter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Our clever, self-watering pot ensures easy plant care whether you are home or away. Shaped from stoneware glazed for a glossy finish, the practical design enables the plant to draw water to its roots as needed: a nylon wick transports the water from the saucer to the soil, ensuring correct hydration all year round. Available in two sizes in two colours. For indoor use only. <span data-mce-fragment="1"> </span><a href="https://audocph.com/collections/hydrous-collection" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a><span data-mce-fragment="1">.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ashen</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833659</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø12 cm / Ochre</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>4833859</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860305006658</id>
+      <title>Ø20 cm / Ashen</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>4834659</s:sku>
+      <s:grams>2097</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860306186306</id>
+    <published>2023-03-03T10:47:15+01:00</published>
+    <updated>2023-03-03T10:47:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hydrous-plant-mister"/>
+    <title>Hydrous Plant Mister</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hydrous_Watering_Can_Hydrous_Mister_Hydrous_Planter.jpg?v=1671613535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Ideal for epiphytic houseplants such as orchids, succulents and tropicals, which take in moisture through their leaves, the Hydrous Plant Mister produces a delicate mist of water to increase humidity and help remove dust from leaves. Simply detailed with a wooden top, the brushed stainless steel design is a beautiful helper for caring for your plants. <a href="https://audocph.com/collections/hydrous-collection">Explore the full Hydrous Collection</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860306186306</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>3705039</s:sku>
+      <s:grams>262</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860291211330</id>
+    <published>2023-03-03T10:46:54+01:00</published>
+    <updated>2023-03-03T10:46:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plantas-planter"/>
+    <title>Plantas Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plantas_Planter_2.jpg?v=1671615350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            160.00 - 405.00
+            <a href="https://audocph.com/products/plantas-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Characterised by their curves and irregular, furrowed surface, the Plantas Planters are made from matte ivory stoneware with a textured, natural appearance. Each piece is finished by hand and therefore entirely unique. Made for indoor use, the Plantas Planters can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H17</title>
+      <s:price currency="EUR">160.00</s:price>
+      <s:sku>4835649</s:sku>
+      <s:grams>2580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H24</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>4836649</s:sku>
+      <s:grams>3630</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H26</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4837649</s:sku>
+      <s:grams>5597</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291211330</id>
+      <title>H32</title>
+      <s:price currency="EUR">405.00</s:price>
+      <s:sku>4838649</s:sku>
+      <s:grams>9958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860291014722</id>
+    <published>2023-03-03T10:46:36+01:00</published>
+    <updated>2023-03-03T10:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hana-vase"/>
+    <title>Hana Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hana_Vase.jpg?v=1671613509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            55.00 - 200.00
+            <a href="https://audocph.com/products/hana-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Hana is inspired by ikebana, the ancient Japanese art of flower arranging that uses few but carefully chosen and artfully positioned stems. Shaped around a central ceramic flower frog, or kenzan, Hana lets you create foolproof floral displays, holding flower stalks and branches in place at different angles. The kenzan can be removed for a more traditional arrangement. Designed in Copenhagen by Krøyer-Sætter-Lassen, the vase is available in three sizes in three unique finishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H7 / Umber</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4827979</s:sku>
+      <s:grams>1636</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H14.5 / Ochre</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>4828419</s:sku>
+      <s:grams>714</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H26 / Ashen</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4829659</s:sku>
+      <s:grams>3007</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860289343554</id>
+    <published>2023-03-03T10:46:15+01:00</published>
+    <updated>2023-03-03T10:46:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/daiza-planter"/>
+    <title>Daiza Planter</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Daiza_Planters_2.jpg?v=1671612702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            200.00 - 335.00
+            <a href="https://audocph.com/products/daiza-planter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Taking its cues from ancient amphoras, the Daiza Planter is shaped from stoneware and finished with a glossy, reactive glaze that lends the design a beautiful depth of colour and texture. The planters are elevated on iron feet, allowing them to be grouped in clusters. Made for indoor use, the Daiza Planter can also be used outside when the guidelines included with purchase are followed. Available in four sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 25 cm</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4844649</s:sku>
+      <s:grams>5400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 37 / Ø 48 cm</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>4848649</s:sku>
+      <s:grams>10400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 45 / Ø 35 cm</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>4847649</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860289343554</id>
+      <title>H 65 / Ø 25 cm</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4846649</s:sku>
+      <s:grams>7100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860290490434</id>
+    <published>2023-03-03T10:45:49+01:00</published>
+    <updated>2023-03-03T10:45:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cresco-propagation-vases"/>
+    <title>Cresco Propagation Vases, Set of 2</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Cresco_Propagation_Set_4.jpg?v=1671612621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A set of two vases designed to propagate plant cuttings or sprout larger seeds, the Cresco Propagation Vases let nature take centre stage. Easy to use and elegant to look at, the shapely glass vessels allow light to reach the growing roots while the concave, handmade ceramic lid supports the plant as it grows. To use, simply fill the glass vase with water, place the lid on top and let nature work its magic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860290490434</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4849039</s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677934146</id>
+    <published>2023-02-15T14:48:07+01:00</published>
+    <updated>2023-02-15T14:48:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/line-candleholder"/>
+    <title>Kubus Line</title>
+    <s:type>Candle Holder</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Pedestal_Kubus_Line_Candle_Holder_2_copy2.jpg?v=1676883108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Candle Holder<br>
+        <strong>Price: </strong>
+            135.00 - 170.00
+            <a href="https://audocph.com/products/line-candleholder">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mogens Lassen designed the very first Kubus candle holder in 1962 for the interior of a restaurant in northern Zealand, Denmark. Since then, it has evolved into a series of iconic geometric designs that decorate spaces across the world. With its Modernist form and enduring function, Kubus Line is a mood-enhancing addition to any space, creating a cosy atmosphere wherever it is placed. It is available in a range of metals and finishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Candle Holder</s:tag>
+    <s:tag>type-Candleholder</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677934146</id>
+      <title>Black</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL10002</s:sku>
+      <s:grams>436</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677934146</id>
+      <title>White</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL10102</s:sku>
+      <s:grams>436</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677934146</id>
+      <title>Grey</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>BL10302</s:sku>
+      <s:grams>436</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677934146</id>
+      <title>Nickel-plated</title>
+      <s:price currency="EUR">165.00</s:price>
+      <s:sku>BL10202</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677934146</id>
+      <title>Gold-plated</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>BL10502</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677966914</id>
+    <published>2023-02-15T14:48:05+01:00</published>
+    <updated>2023-02-15T14:48:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-lolo"/>
+    <title>Kubus Vase Lolo</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Vase_lolo_3.jpg?v=1694093013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kubus Lolo is a natural extension of the Kubus series, which includes the Kubus Line candle holder and Kubus Bowl as well as Mogens Lassen’s original candle holder design, the vase is frame by a metal cube and crafted with a central chamber to hold flowers or branches. The minimalist, Bauhaus-inspired design makes an equally striking statement left unfilled.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677966914</id>
+      <title>Black</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL22001</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677966914</id>
+      <title>White</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL22011</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677999682</id>
+    <published>2023-02-15T14:48:04+01:00</published>
+    <updated>2023-02-15T14:48:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-bowl-inlay"/>
+    <title>Kubus Bowl Inlay</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL21001_Kubus_bowl_Inlay_small_black.jpg?v=1676024236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            16.00 - 22.00
+            <a href="https://audocph.com/products/kubus-bowl-inlay">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Kubus Bowl is inspired by Mogens Lassen’s iconic Kubus candle holder and features elements of Bauhaus design – one of the Danish designer’s primary sources of inspiration. When placed in the Kubus Bowl, the inlay protects the surface before using to store food, plants or other objects.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>Black / Small</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>BL21001</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>Black / Large</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>BL21002</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>White / Small</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>BL21011</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>White / Large</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>BL21012</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678032450</id>
+    <published>2023-02-15T14:48:03+01:00</published>
+    <updated>2023-02-15T14:48:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-bowl"/>
+    <title>Kubus Bowl</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Kubus_Bowl_Centerpiece_3.jpg?v=1694092795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            90.00 - 525.00
+            <a href="https://audocph.com/products/kubus-bowl">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Kubus Bowl is inspired by Mogens Lassen’s iconic Kubus candle holder and features elements of Bauhaus design – one of the Danish designer’s primary sources of inspiration. The German artistic movement, with its signature angular, geometric style, brought accessible and functional design to the people. The Kubus Bowl is a natural extension of the iconic Kubus candle holder series. Suited to a multitude of uses – as a herb pot, container for knick knacks and more – an <a href="https://audocph.com/products/kubus-bowl-inlay">inlay </a>is available separately to protect the surface before being used to hold food, plants or other items.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / Black</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL20000</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / White</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL20100</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / Nickel-plated</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL20200</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / Gold-plated</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL20700</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Small / Black</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL20001</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Small / White</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL20101</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Small / Gold-plated</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>BL20701</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Large / Black</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL20002</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Large / White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL20102</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Large / Gold-plated</title>
+      <s:price currency="EUR">525.00</s:price>
+      <s:sku>BL20702</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678065218</id>
+    <published>2023-02-15T14:48:02+01:00</published>
+    <updated>2023-02-15T14:48:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-flowerpot"/>
+    <title>Kubus Flowerpot</title>
+    <s:type>Planter</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Flowerpot.jpg?v=1694092950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Planter<br>
+        <strong>Price: </strong>
+            135.00 - 320.00
+            <a href="https://audocph.com/products/kubus-flowerpot">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pot for herbs, a vase or planter or a simple container; the possibilities are endless with the Kubus Flowerpot 14. Offered in three different sizes – Flowerpot 10, Flowerpot 14 and Flowerpot 23 – the container is deeper than the classic Kubus Bowl, making it a versatile storage solution for everyday objects. As the name suggests, it was originally designed as a home for houseplants and flowers, but with its elegant geometric shape it will sit happily in any space as a standalone piece. Available in white or black powder-coated metal, it stands on a surface or hangs on a wall.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Planter</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>10 / White</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>BL24011</s:sku>
+      <s:grams>655</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>10 / Black</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>BL24001</s:sku>
+      <s:grams>655</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>14 / White</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku>BL24012</s:sku>
+      <s:grams>1082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>14 / Black</title>
+      <s:price currency="EUR">195.00</s:price>
+      <s:sku>BL24002</s:sku>
+      <s:grams>1082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>23 / White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL24013</s:sku>
+      <s:grams>2679</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678065218</id>
+      <title>23 / Black</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL24003</s:sku>
+      <s:grams>2679</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678097986</id>
+    <published>2023-02-15T14:48:01+01:00</published>
+    <updated>2023-02-15T14:48:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-bowl-centerpiece"/>
+    <title>Kubus Bowl Centerpiece</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Kubus_Centrepiece_25.jpg?v=1676560341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            180.00 - 525.00
+            <a href="https://audocph.com/products/kubus-bowl-centerpiece">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">An object to adorn the centre of a table or the surface of a counter or shelf, the Kubus Centerpiece is both a practical container and a beautiful decoration. It draws on simple geometric shapes: a square and a circle. Lower in stature than <a href="https://audocph.com/products/kubus-bowl">Kubus Bowl</a>, it can also be put to use as a plant holder or display bowl for fruit and vegetables. Each bowl comes with a protective inlay, making it suitable for use with both food and plants.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / Black</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL23001</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / White</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL23101</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / Nickel-plated</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>BL23201</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / Gold-plated</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>BL23701</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Large / Black</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL23002</s:sku>
+      <s:grams>2574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Large / White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL23102</s:sku>
+      <s:grams>2574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Large / Gold-plated</title>
+      <s:price currency="EUR">525.00</s:price>
+      <s:sku>BL23702</s:sku>
+      <s:grams>2574</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678130754</id>
+    <published>2023-02-15T14:48:00+01:00</published>
+    <updated>2023-02-15T14:48:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-wall-bracket"/>
+    <title>Kubus Wall Bracket</title>
+    <s:type>Candle Holder</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL11003_WallBracketForKubus_Black_300.jpg?v=1675771185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Candle Holder<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Kubus Wall Bracket allows for seamless wall-mounting of the Kubus Bowl, Vase and Flowerpot designs. Suspend plant-filled containers on the wall to create an indoor oasis that. Sold as a set of two.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678130754</id>
+      <title>Black</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>BL11003</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/storage-shelving.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-28T08:46:37+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8684445401418</id>
+    <published>2024-02-28T08:46:37+01:00</published>
+    <updated>2024-02-28T08:46:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-large"/>
+    <title>Corbel Shelf, Large</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Corbel_Shelf_Long_53.jpg?v=1708509570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            390.00 - 535.00
+            <a href="https://audocph.com/products/corbel-shelf-large">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Corbel Shelf takes its name and design cues from architectural weight-bearing brackets traditionally made from stone or wood. Designed for versatility, it serves a range of different purposes and needs in dining, kitchen and living room areas, maximising the utility of a space and infusing the design with a sense of structural elegance. The shelf can also be paired with the corresponding desk to create a minimalist home office. thoughtfully crafted to maintain a clean and decluttered aesthetic. The small distance to the wall allows for neat cord management. The wall-mounted design is offered in marble or dark-stained oak with dark-stained oak and bronzed steel brackets, catering to different interior styles and preferences.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684445401418</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>7090840</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684445401418</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>7090630</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637878607938</id>
+    <published>2021-09-14T12:30:00+02:00</published>
+    <updated>2021-09-14T12:30:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/epoch-shelf"/>
+    <title>Epoch Shelf</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuTheAudoSummer20210053.jpg?v=1630950073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            185.00 - 240.00
+            <a href="https://audocph.com/products/epoch-shelf">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed for Audo by Nina Bruun, the Epoch Shelf is crafted in wood veneer and offered in two natural finishes: natural or dark stained oak. The multipurpose, space-saving design features on the one side a deep shelf for everyday clutter and on the other a shelf on which to place decorative objects. Multiples can be suspended in horizontal or vertical rows.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>50 / Natural Oak</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>6205039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>50 / Dark Stained Oak</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>6205849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>79 / Natural Oak</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>6207039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>79 / Dark Stained Oak</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>6207849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637879820354</id>
+    <published>2021-09-14T12:29:41+02:00</published>
+    <updated>2021-09-14T12:29:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/epoch-rack"/>
+    <title>Epoch Rack</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Epoch_Rack_Harbour_Side_Dining_Chair_Houkime_Rug_1.jpg?v=1631622862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            170.00 - 215.00
+            <a href="https://audocph.com/products/epoch-rack">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With its careful combination of gently rounded edges, warm wood and discreet functionality, the Epoch Clothes Rack offers streamlined storage for spaces large and small. Designed for Audo by Nina Bruun and crafted in natural or dark stained oak, the wall-mounted rack features hidden clothing hooks, and the space-saving design can be suspended alone or in rows of multiples.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Rack</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>50 / Natural Oak</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>6215039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>50 / Dark Stained Oak</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>6215849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>79 / Natural Oak</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>6217039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>79 / Dark Stained Oak</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>6217849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637855866946</id>
+    <published>2021-09-14T12:11:01+02:00</published>
+    <updated>2021-09-14T12:11:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/rail-shelf"/>
+    <title>Rail Shelf</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Keiji Ashizawa Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Rail_Desk_Rail_Shelf_Harbour_Side_Chair_Brasilia_Ottoman.jpg?v=1630949927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keiji Ashizawa Design<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Rail Shelf, created for Audo by Japanese designer Keiji Ashizawa, takes its cues from the world of architecture and the way in which we use space. The wall-mounted design features a lightweight steel bracket, inspired by metalwork handrails, and a tactile wooden shelf, offered in natural or dark stained oak. Elegantly minimal, Rail Shelf fits neatly into spaces to provide an understated backdrop for favourite objects.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637855866946</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>1207039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637855866946</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>1207849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633397067842</id>
+    <published>2021-01-11T11:58:38+01:00</published>
+    <updated>2021-01-11T11:58:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-shelf-marble"/>
+    <title>Plinth Shelf</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Brasilia_Lounge_Chair_Sheepskin_Plinth_Shelf.jpg?v=1646839265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            415.00 - 440.00
+            <a href="https://audocph.com/products/plinth-shelf-marble">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The minimalist profile of the Plinth Shelf is shaped from either Grey Kendzo marble or Kunis Breccia stone. The honed marble and stone carry an air of sophistication and elegance to elevate any space. Equal parts elegant and purposeful, the 60 cm long shelf can be attached horizontally to a wall for use as a display ledge or bookshelf, or vertically as a wall-mounted podium on which to showcase a favourite object.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633397067842</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>7050960</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633397067842</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku>7050130</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633398706242</id>
+    <published>2020-08-27T17:35:43+02:00</published>
+    <updated>2020-08-27T17:35:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-medium"/>
+    <title>Corbel Shelf, Medium</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Corbel-Shelf_Water-Bottle.jpg?v=1602568878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The modernist Corbel Shelf is a wall-hung podium that combines contrasting materials to arresting effect. The invention of design studio Krøyer-Sætter-Lassen, the versatile design in marble, dark stained oak and plated steel takes it’s name and design cues from architectural weight-bearing brackets traditionally made from stone or wood.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633398706242</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>7080630</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518973177922</id>
+    <published>2020-04-28T12:07:10+02:00</published>
+    <updated>2020-04-28T12:07:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/gridy-fungi-shelves"/>
+    <title>Gridy Fungi Shelves</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Gridy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Gridy_Fungi_Shelf_Location_01.jpg?v=1651217592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gridy<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            85.00 - 155.00
+            <a href="https://audocph.com/products/gridy-fungi-shelves">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful shelves inspired by one of natures more whimsical features; the shelf fungus that grows horizontally out of trees in the woods.</p>
+<p>Use Fungi Shelves besides the bed, as a decorative element in the living room, to display colorful spices in the kitchen or maybe as the extra shelf holding the back up light in the kids’ room. Choose between 3 different sizes – and bring the outdoors in.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Gridy</s:tag>
+    <s:tag>Gridy</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Small / Black Oak</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>6600539</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Small / Light Oak</title>
+      <s:price currency="EUR">85.00</s:price>
+      <s:sku>6600039</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Medium / Black Oak</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>6700539</s:sku>
+      <s:grams>874</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Medium / Dark Oak</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>6700939</s:sku>
+      <s:grams>874</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Medium / Light Oak</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>6700039</s:sku>
+      <s:grams>874</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Large / Black Oak</title>
+      <s:price currency="EUR">155.00</s:price>
+      <s:sku>6800539</s:sku>
+      <s:grams>1756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Large / Dark Oak</title>
+      <s:price currency="EUR">155.00</s:price>
+      <s:sku>6800939</s:sku>
+      <s:grams>1756</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973177922</id>
+      <title>Large / Light Oak</title>
+      <s:price currency="EUR">155.00</s:price>
+      <s:sku>6800039</s:sku>
+      <s:grams>1756</s:grams>
+    </s:variant>
+  </entry>
+</feed>

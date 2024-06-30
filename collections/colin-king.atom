@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/colin-king.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2022-09-30T11:10:05+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6807137255490</id>
+    <published>2022-09-30T11:10:05+02:00</published>
+    <updated>2022-09-30T11:10:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/sentiment-paper-weight"/>
+    <title>Sentiment Paper Weight</title>
+    <s:type>Object</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Sentiment_Paper_Weight_5.jpg?v=1664268449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Object<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Sentiment Paper Weight has been cast from a hand-shaped form that captures the essence of a ripe, late-autumn pear. Made from brass with a beautiful antique finish, the graceful design is ideal placed atop a stack of papers or as a decorative element in an interior setting.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807137255490</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>4825839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807129456706</id>
+    <published>2022-09-30T11:09:48+02:00</published>
+    <updated>2022-09-30T11:09:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/taper-bowl"/>
+    <title>Taper Bowl</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Taper_Bowl_Surround_Vase_2.jpg?v=1664268225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With its familiar feel, reminiscent of ancient vessels, the Taper Bowl has a restrained look that lends itself to any setting. Designed for Audo by master stylist Colin King, the conical metal design features a brass finish that lends warmth to interiors. Versatile in use, it works equally well as a catch-all for small items as it does left unfilled as a decorative object.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807129456706</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4426839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807127326786</id>
+    <published>2022-09-30T11:09:29+02:00</published>
+    <updated>2022-09-30T11:09:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/divot-tray"/>
+    <title>Divot Tray</title>
+    <s:type>Tray</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Divot_Tray.jpg?v=1664268133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Tray<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A stylish statement piece on a desk, a coffee table or a dining table – for keys, incense, candles or more – the Divot Tray profiles serene, graphic shapes. Turning a humble material into a refined object with a timeless expression, the cast metal design has a beautiful brass finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>type-Tray</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807127326786</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>4427839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807125655618</id>
+    <published>2022-09-30T11:09:12+02:00</published>
+    <updated>2022-09-30T11:09:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/converge-bookends"/>
+    <title>Converge Bookends</title>
+    <s:type>Object</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Converge_Book_Ends_2.jpg?v=1664268039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Object<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to neatly hold books in place, the abstract forms of the Converge Bookends are shaped from lava stone – a dark and porous material with a textured surface. Use as intended, one at either side of a line of books, or interlock together to create a sculpture that delights with its intriguing shape and touch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807125655618</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>4210149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807124115522</id>
+    <published>2022-09-30T11:08:55+02:00</published>
+    <updated>2022-09-30T11:08:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/rond-bowl"/>
+    <title>Rond Bowl</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Rond_Bowl_Wood_2.jpg?v=1664267932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dramatic in scale and expression, the Rond Bowl is an ideal centrepiece for a dining or a coffee table, anchoring a large surface space. Expertly cast in concrete, the versatile design has an intriguing surface that adds textural appeal to spaces and an exaggerated lip that lends dimension to the piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807124115522</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>4826939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807122182210</id>
+    <published>2022-09-30T11:08:33+02:00</published>
+    <updated>2022-09-30T11:08:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/releve-platter"/>
+    <title>Relevé Platter</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Releve_Platter_2.jpg?v=1694093111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A simple platter that leaves a striking impression as a centrepiece on a dining or coffee table, the sculpted acacia wood design appears to float on air. Created for Audo by master stylist Colin King, its elevated base and upward curving edges cradle the contents within.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>type-Tray</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807122182210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">130.00</s:price>
+      <s:sku>4787539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807120740418</id>
+    <published>2022-09-30T11:08:10+02:00</published>
+    <updated>2022-09-30T11:08:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/surround-vase"/>
+    <title>Surround Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Pedestal_Surround_Vase_2.jpg?v=1664267735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfectly proportioned, the Surround Vase is shaped from a single piece of solid wood that displays unique natural grain patterns. The rotund, tactile design, created for Audo by master stylist Colin King, is equally impactful styled with a few stems of flowers as it is left unfilled.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807120740418</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>4428939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807109500994</id>
+    <published>2022-09-30T11:07:39+02:00</published>
+    <updated>2022-09-30T11:07:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/stance-vase"/>
+    <title>Stance Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Stance_Vase_Releve_Platter.jpg?v=1664267621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            230.00 - 240.00
+            <a href="https://audocph.com/products/stance-vase">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple. Sophisticated. Sculptural. The Stance Vase is inspired by traditional display stands to provide support for branches or long-stemmed flowers. The bronzed brass vase patinates beautifully over time and the understated design lends itself to any setting. Available in two sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807109500994</id>
+      <title>H40</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>4784859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807109500994</id>
+      <title>H50</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4785859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637866319938</id>
+    <published>2021-09-14T12:34:48+02:00</published>
+    <updated>2021-09-14T12:34:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/interconnect-candle-holder"/>
+    <title>Interconnect Candle Holder</title>
+    <s:type>Candle Holder</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Plinth_Low_Interconnect_Candle_Holder_Eave_Modular_Sofa_56.jpg?v=1709109388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Candle Holder<br>
+        <strong>Price: </strong>
+            350.00 - 505.00
+            <a href="https://audocph.com/products/interconnect-candle-holder">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Interconnect Candle Holder is a bold and illuminating centrepiece of exaggerated proportions, designed for Audo by Colin King. As a source of cosy candlelight, it is characterised by its deceptively simple geometric form: a sphere, an angle and a line, which unite to create a unique design. Available in polished brass, bronzed brass or painted steel, it goes beyond its intended use to function as a sculpture.</p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Candleholders</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Candle Holder</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637866319938</id>
+      <title>Bronzed brass</title>
+      <s:price currency="EUR">505.00</s:price>
+      <s:sku>4709859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637866319938</id>
+      <title>Black</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>4709539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637866319938</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>4709839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

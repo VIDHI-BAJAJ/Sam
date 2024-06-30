@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/ingeborg-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-02-15T14:47:24+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6872482119746</id>
+    <published>2023-02-15T14:47:24+01:00</published>
+    <updated>2023-02-15T14:47:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-lounge-chair-sheepskin"/>
+    <title>Ingeborg Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Ingeborg_LoungeChair_Ottoman_Sheep_Moonlight_Stance_Vase_1.jpg?v=1697025142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            5370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Named after the designer’s artist mother, Ingeborg Winding, the Ingeborg Lounge Chair from 1940 welcomes the sitter with open arms and an irresistibly charming expression. The lounge design features elegant sculptural armrests and an angled frame for comfort. Despite the chair’s petite stature, Ingeborg makes a strong statement in any room. Beautiful from every angle, it fits effortlessly into a given space without taking up too much room. Originally designed with sheepskin upholstery, Ingeborg is today reworked from original archival drawings and available in a range of upholstery fabrics and with natural or dark-oiled oak heartwood legs. The chair pairs beautifully with the corresponding sofa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-010E02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-010G02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Natural Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-010J02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-040E02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-040G02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Dark Stained Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-040J02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6872483070018</id>
+    <published>2023-02-15T14:47:23+01:00</published>
+    <updated>2023-02-15T14:47:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-ottoman-sheepskin"/>
+    <title>Ingeborg Ottoman, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/byLassen_Ingeborg_Lounge_Chair_Ingeborg_ottoman.jpg?v=1696934079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Originally Ingeborg Lounge Chair and the corresponding Ottoman was designed in 1940 by Flemming Lassen. The chair was designed by Master carpenter Jakob Kjær, who manufactured Flemming Lassen's furniture for The Carpenters guild Annual Furniture Exhibition. The charming little easy chair is named after Flemming and Mogens Lassen's mother, the artist Ingeborg Winding. Despite its petite size, Ingeborg brightens any room with its charm and exclusive style. Ingeborg looks beautiful from all angles. It can be placed anywhere in a room without taking up too much space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-010E02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-010G02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Natural Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-010J02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-040E02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-040G02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Dark Stained Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-040J02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6872483201090</id>
+    <published>2023-02-15T14:47:22+01:00</published>
+    <updated>2023-02-15T14:47:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-sofa-sheepskin"/>
+    <title>Ingeborg Sofa, Sheepskin</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/byLassen_IngeborgSofa_KlampenborgLamp_300.jpg?v=1676038301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            7625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The elegant 2.5-seater Ingeborg sofa was designed by Flemming Lassen in 1940 but never put into wider production. Recently rediscovered in the archives and painstakingly recreated from original sketches, it has since become a much sought-after piece in modern design circles. With its characteristic armrests, buttoned back and wooden legs, the deceptively spacious design is both beautiful to look at and comfortable to sit in. Profiling the same expression as its counterpart chair, together the two designs create a snug and embracing duo in any modern living space. The <span data-mce-fragment="1">Ingeborg Sofa is available in a range of beautiful upholstery fabrics. Legs </span><span data-mce-fragment="1">are available in oak or smoked oak.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-010E02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-010G02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Natural Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-010J02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-040E02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-040G02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Dark Stained Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-040J02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6883421683778</id>
+    <published>2023-02-15T14:47:20+01:00</published>
+    <updated>2023-02-15T14:47:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-sofa-textile"/>
+    <title>Ingeborg Sofa, Textile</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Ingeborg_Lounge_Sofa_Plinth_Low_Divot_Tray_Collapse_Vase_Umanoff_Triangular_Side_Table_Surround_Vase_34.jpg?v=1676560030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            5370.00 - 6455.00
+            <a href="https://audocph.com/products/ingeborg-sofa-textile">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>The Ingeborg sofa, an elegant 2.5-seater, was originally designed by Flemming Lassen in 1940 but never widely produced. Recently rediscovered in the archives, it has gained immense popularity among modern design enthusiasts after being meticulously recreated from original sketches. Featuring characteristic armrests, a buttoned back, and wooden legs, this deceptively spacious design is visually stunning and offers comfortable seating. Mirroring the expression of the corresponding chair, these two designs create a cozy and embracing duo that complements any contemporary living space. The Ingeborg Sofa comes in various exquisite upholstery fabrics, while the legs are available in oak or smoked oak options.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / FIord 0782</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500502-013003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1500603-012M05ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-010D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-011402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-011802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / FIord 0782</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500502-043003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1500603-042M05ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-040D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-041402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-041802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6883423453250</id>
+    <published>2023-02-15T14:47:19+01:00</published>
+    <updated>2023-02-15T14:47:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-ottoman-textile"/>
+    <title>Ingeborg Ottoman, Textile</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/byLassen_IngeborgLoungeChair_IngeborgFootstool_KubusBowlCenterpieceLarge_300.jpg?v=1692703168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1450.00 - 1665.00
+            <a href="https://audocph.com/products/ingeborg-ottoman-textile">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Ingeborg Lounge Chair and Ottoman were originally designed in 1940 by Flemming Lassen, with the chair itself crafted by Master carpenter Jakob Kjær for The Carpenters Guild Annual Furniture Exhibition. This delightful little chair pays tribute to the artist Ingeborg Winding, mother of Flemming and Mogens Lassen, and effortlessly brings charm and exclusive style to any room. With its petite size, Ingeborg shines from every angle and can be placed in any space without overwhelming it.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Fiord 0751</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-012103ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Fiord 0782</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-013003ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Zero 0001</title>
+      <s:price currency="EUR">1515.00</s:price>
+      <s:sku>1500403-012M05ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-010D02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-011402ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-011802ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Fiord 0751</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-042103ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Fiord 0782</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-043003ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Zero 0001</title>
+      <s:price currency="EUR">1515.00</s:price>
+      <s:sku>1500403-042M05ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-040D02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-041402ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-041802ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6883424632898</id>
+    <published>2023-02-15T14:47:18+01:00</published>
+    <updated>2023-02-15T14:47:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-lounge-chair-textile"/>
+    <title>Ingeborg Lounge Chair, Textile</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Ingeborg_Lounge_Chair_Sofa_Plinth_Low_Divot_Tray_Collapse_Vase_55.jpg?v=1676559688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            3045.00 - 3705.00
+            <a href="https://audocph.com/products/ingeborg-lounge-chair-textile">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Inspired by the designer's artist mother, Ingeborg Winding, the Ingeborg Lounge Chair (1940) welcomes with open arms and an irresistibly charming expression. Its elegant sculptural armrests and angled frame ensure comfort in a compact size, making a bold statement in any room. With its versatile beauty and space-saving design, Ingeborg effortlessly blends into any space. Originally featuring sheepskin upholstery, the chair has been reimagined from archival drawings and now offers a range of upholstery fabrics and oak leg options. It pairs harmoniously with the matching sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Fiord 0751</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-012103ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / FIord 0782</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-013003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">3275.00</s:price>
+      <s:sku>1500303-012M04ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-010D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-011402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-011802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Fiord 0751</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-042103ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / FIord 0782</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-043003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">3275.00</s:price>
+      <s:sku>1500303-042M04ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-040D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-041402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-041802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

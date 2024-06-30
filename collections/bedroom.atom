@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/bedroom.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-28T08:46:37+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8684445401418</id>
+    <published>2024-02-28T08:46:37+01:00</published>
+    <updated>2024-02-28T08:46:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-large"/>
+    <title>Corbel Shelf, Large</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Corbel_Shelf_Long_53.jpg?v=1708509570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            390.00 - 535.00
+            <a href="https://audocph.com/products/corbel-shelf-large">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Corbel Shelf takes its name and design cues from architectural weight-bearing brackets traditionally made from stone or wood. Designed for versatility, it serves a range of different purposes and needs in dining, kitchen and living room areas, maximising the utility of a space and infusing the design with a sense of structural elegance. The shelf can also be paired with the corresponding desk to create a minimalist home office. thoughtfully crafted to maintain a clean and decluttered aesthetic. The small distance to the wall allows for neat cord management. The wall-mounted design is offered in marble or dark-stained oak with dark-stained oak and bronzed steel brackets, catering to different interior styles and preferences.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684445401418</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>7090840</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684445401418</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>7090630</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684454543690</id>
+    <published>2024-02-28T08:46:36+01:00</published>
+    <updated>2024-02-28T08:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-steel"/>
+    <title>Androgyne Side Table, Steel Base</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AndrogyneSideTable_RadiohusSofa_73.jpg?v=1708508805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p>With its contemporary elegance and minimalist appeal, the Androgyne Side Table becomes more than just furniture—it becomes a statement piece that enhances the overall aesthetic of any space. Crafted from stainless steel, renowned for its durability and corrosion resistance, the brushed finish introduces an intriguing texture to the metal, creating an interplay of light and shadow that make the design a focal point in any room. The collection’s tabletop, offered in a range of materials, can be added to the design.</p>
+<p><strong>Please note, a tabletop can be purchased separately. <a href="https://audocph.com/products/androgyne-side-table-top">Find it here.</a></strong></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684454543690</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1181039</s:sku>
+      <s:grams>13382</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637843120194</id>
+    <published>2024-02-14T10:42:35+01:00</published>
+    <updated>2024-02-14T10:42:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/brasilia-ottoman"/>
+    <title>Brasilia Ottoman</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Anderssen &amp; Voll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Brasilia_Ottoman.jpg?v=1630946303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anderssen &amp; Voll<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            765.00 - 1410.00
+            <a href="https://audocph.com/products/brasilia-ottoman">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for Audo by Anderssen &amp; Voll, Brasilia Ottoman is distinguished by its robust, cylindrical legs and softly curved cushion. Informed by mid-20th century Danish craftsmanship and Brazilian Modernism, the versatile design has lasting appeal – as a footrest with the accompanying chair, as a low-lying seat for unexpected guests, or as a resting place for a newspaper or tray. Available in three wood options and a range of soft fabrics from our extensive range, it can be tailored to use anywhere.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Anderssen and Voll</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">765.00</s:price>
+      <s:sku>8150000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Moss 0011</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>8150002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Sheepskin Root</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8153003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Dunes Camel 21004</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8153002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Sheepskin Nature</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8153003-000D01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">765.00</s:price>
+      <s:sku>8151000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Moss 0011</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>8151002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Sheepskin Root</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8154003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Dunes Camel 21004</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8154002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Audo Bouclé 02</title>
+      <s:price currency="EUR">770.00</s:price>
+      <s:sku>8152000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Moss 0011</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku>8152002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Cabanon Soft FCL7029-04</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>8152004-001307ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Sheepskin Root</title>
+      <s:price currency="EUR">1410.00</s:price>
+      <s:sku>8155003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Dunes Camel 21004</title>
+      <s:price currency="EUR">1345.00</s:price>
+      <s:sku>8155002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633456541762</id>
+    <published>2023-09-18T17:08:26+02:00</published>
+    <updated>2023-09-18T17:08:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/knitting-chair-1"/>
+    <title>Knitting Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay2021-Day20075.jpg?v=1621259792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            4270.00 - 4765.00
+            <a href="https://audocph.com/products/knitting-chair-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>First launched as a limited edition in 1951, Ib Kofod-Larsen’s Knitting Chair is reimagined with a natural oak, dark stained oak, and walnut frame. The distinctive piece is meticulously handcrafted in Sweden by skilled artisans, merging traditional craftsmanship techniques with modern technology to create an unforgettable and timeless design of the highest quality.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633456541762</id>
+      <title>Dark Stained Oak | Root</title>
+      <s:price currency="EUR">4270.00</s:price>
+      <s:sku>9680006-020D02ZZ</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633456541762</id>
+      <title>Natural Oak | Nature</title>
+      <s:price currency="EUR">4270.00</s:price>
+      <s:sku>9680006-030E02ZZ</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633456541762</id>
+      <title>Walnut | Sahara</title>
+      <s:price currency="EUR">4765.00</s:price>
+      <s:sku>9682006-000C02ZZ</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8448929300810</id>
+    <published>2023-07-03T10:39:15+02:00</published>
+    <updated>2023-07-03T10:39:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-penguin-rocking-chair-fully-upholstered"/>
+    <title>The Penguin Rocking Chair, Fully Upholstered</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Penguin_Rocking_Chair_111_37d70e58-802c-498e-b713-450fec606bab.jpg?v=1691146864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1595.00 - 1825.00
+            <a href="https://audocph.com/products/the-penguin-rocking-chair-fully-upholstered">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Penguin Rocking Chair draws inspiration from the American modernists of the 1950s and 1960s. The chair's construction is characterized by an open design, featuring a curved back and seat upholstered in fabric or leather, all held together by a sturdy steel frame. This chair, created by furniture designer Ib Kofod-Larsen in 1953, embodies Danish cultural heritage and design history. With its elegant silhouette, sculptural form, and organic lines and curves, it remains a contemporary masterpiece that resonates even more strongly in the present.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Re-wool 218</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>1231001-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Re-wool 448</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>1231001-000800ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Hallingdal 65 0110</title>
+      <s:price currency="EUR">1635.00</s:price>
+      <s:sku>1231002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Hallingdal 65 600</title>
+      <s:price currency="EUR">1635.00</s:price>
+      <s:sku>1231002-000X00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>1231005-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Dakar 0329</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>1231005-000700ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>1231005-000T00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518961905730</id>
+    <published>2023-06-28T09:34:27+02:00</published>
+    <updated>2023-06-28T09:34:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tr-bulb-ceiling-wall-lamp"/>
+    <title>TR Bulb, Ceiling/Wall Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Tim Rundle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Harbour-Chair_TR_Stem-Vase_Androgyne-Table_0acbead7-ea64-4f81-b4d3-86b220ebc084.jpg?v=1687937519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tim Rundle<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            215.00 - 400.00
+            <a href="https://audocph.com/products/tr-bulb-ceiling-wall-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TR Bulb is a clever solution for modern city living, inspired by the way people are increasingly becoming urban nomads, moving between cities and countries to pursue careers and life experiences. The first collaboration between Audo and Tim Rundle, TR Bulb is designed to be taken from apartment to apartment – installed by simply screwing it into the pendant sockets hanging in ceilings all over the world, no electrical expertise required. The dimmable LED bulb, with its elegant, spherical form hides the lamp fitting, while the opal glass diffuser creates an even, harmonious glow, preventing glare.</p>
+<p>Audo has partnered with the London-based Rundle to diversify the range of offerings from the TR series. “When a light has such a simple form, subtle differences can create a distinctly different character. The new shiny version offers a more classical feeling to the design”, Rundle says.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceiling Lamps</s:tag>
+    <s:tag>designer-Tim Rundle</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>TR</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518961905730</id>
+      <title>Black | Matte</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1494639</s:sku>
+      <s:grams>2332</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518961905730</id>
+      <title>Brass | Matte</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>1464639</s:sku>
+      <s:grams>2149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8445114319178</id>
+    <published>2023-06-23T15:31:21+02:00</published>
+    <updated>2023-06-23T15:31:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/brasilia-lounge-chair-sheepskin"/>
+    <title>Brasilia Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Anderssen &amp; Voll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Brasilia_Lounge_Chair_Sheepskin_Brasilia_Ottoman_Plint_Cubic_383eab06-7c8d-4850-a2af-94a49ac81e42.jpg?v=1687526637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anderssen &amp; Voll<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            4255.00 - 4565.00
+            <a href="https://audocph.com/products/brasilia-lounge-chair-sheepskin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Scandinavian mid-century design aesthetics and Brazilian Modernism meet on the low-lying Brasilia Lounge Chair, designed for Audo by Anderssen &amp; Voll. The luxurious armchair-lounge chair hybrid offers unparalleled sitting comfort thanks to its robust frame and soft upholstery. Characterised by its stout and sturdy legs, made using traditional joinery techniques, and exaggerated armrests and cushioning seat and backrest, upholstered in a range of soft fabrics, it creates a sense of comfort and ease in any setting.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Anderssen and Voll</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Nature / Natural Oak</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>8053003-000D01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Root / Natural Oak</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>8053003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Root / Dark Stained Oak</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>8054003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Root / Walnut</title>
+      <s:price currency="EUR">4565.00</s:price>
+      <s:sku>8055003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807173070914</id>
+    <published>2022-09-30T11:11:49+02:00</published>
+    <updated>2022-09-30T11:11:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/collector-wall-lamp"/>
+    <title>Collector Wall Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Alf Svensson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_3daysofdesign2022_TheAudo_ByMarioDepicolzuane_19.jpg?v=1664265976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alf Svensson<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Swedish designer Alf Svensson devised the Collector series of lighting in the 1950s. One of three designs, the wall-mounted lamp is defined by its solid brass band that holds a conical metal shade which projects the light in two directions. Small perforations in the shade allows the light to shine through. The name references the collectability of the series, profiling mid-century lighting design at its very best.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Alf Svensson</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807173070914</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>1395649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6717695066178</id>
+    <published>2022-06-24T11:07:13+02:00</published>
+    <updated>2022-06-24T11:07:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-penguin-rocking-chair-upholstered-seat"/>
+    <title>The Penguin Rocking Chair</title>
+    <s:type>Rocking Chairs</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Penguin_Rocking_Chair_6.jpg?v=1649154815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Rocking Chairs<br>
+        <strong>Price: </strong>
+            980.00 - 1530.00
+            <a href="https://audocph.com/products/the-penguin-rocking-chair-upholstered-seat">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Penguin Rocking Chair leans towards the American modernists from the 1950s and 1960s. So beautiful that it can be displayed as a work of art in any home, it is open in its construction with a curved back of oak or walnut veneer and has a seat upholstered in fabric or leather against the stringent steel frame. Contrasting and playful, while being well-proportioned and fully formed, the chair, designed by furniture designer Ib Kofod-Larsen in 1953, is a piece of Danish cultural heritage and design history – and maybe more modern than ever before with its beautiful silhouette and sculptural, organic lines and curves.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Re-wool 218</title>
+      <s:price currency="EUR">1235.00</s:price>
+      <s:sku>1204001-040000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Re-wool 448</title>
+      <s:price currency="EUR">1235.00</s:price>
+      <s:sku>1204001-040100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Hallingdal 65 0110</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>1204002-040000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Hallingdal 65 600</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>1204002-040100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Dakar 0250</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1204005-040000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Dakar 0329</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1204005-040100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Dakar 0842</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1204005-040200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Re-wool 218</title>
+      <s:price currency="EUR">1330.00</s:price>
+      <s:sku>1206001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Re-wool 448</title>
+      <s:price currency="EUR">1330.00</s:price>
+      <s:sku>1206001-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Hallingdal 65 0110</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>1206002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Hallingdal 65 600</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>1206002-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Dakar 0250</title>
+      <s:price currency="EUR">1530.00</s:price>
+      <s:sku>1206005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Dakar 0329</title>
+      <s:price currency="EUR">1530.00</s:price>
+      <s:sku>1206005-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Dakar 0842</title>
+      <s:price currency="EUR">1530.00</s:price>
+      <s:sku>1206005-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Natural Oak / Natural Oak</title>
+      <s:price currency="EUR">980.00</s:price>
+      <s:sku>1206025-01ZZZZZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6717695066178</id>
+      <title>Walnut / Walnut</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1206026-00ZZZZZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710644572226</id>
+    <published>2022-04-01T10:56:09+02:00</published>
+    <updated>2022-04-01T10:56:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/torso-table-lamp-57-limited"/>
+    <title>Torso Table Lamp, 57, Limited</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Torso_Table_Lamp_57_Babelia_Plage_de_Coquillages_5.jpg?v=1647850591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            620.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The exclusive, limited edition of the Torso Table Lamp is swathed in tactile fabric by the Milanese textile house, Dedar. Inspired by the atmosphere at The Audo, Audo’s Copenhagen home and hub for creativity and collaboration, the textured ceramic lamp features an integrated brass dimmer that adjusts the light at the tap of a finger. The addition of the luxurious fabric shade makes it a functional work of art.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Table Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710644572226</id>
+      <title>Babelia Plage De Coquillages</title>
+      <s:price currency="EUR">620.00</s:price>
+      <s:sku>1289699</s:sku>
+      <s:grams>4680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710644375618</id>
+    <published>2022-04-01T10:55:53+02:00</published>
+    <updated>2022-04-01T10:55:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/torso-table-lamp-37-limited"/>
+    <title>Torso Table Lamp, 37, Limited</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Torso_Table_Lamp_37_Babelia_Plage_de_Coquillages.jpg?v=1701951566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            520.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The exclusive, limited edition of the Torso Table Lamp is swathed in tactile fabric by the Milanese textile house, Dedar. Inspired by the atmosphere at The Audo, Audo’s Copenhagen home and hub for creativity and collaboration, the textured ceramic lamp features an integrated brass dimmer that adjusts the light at the tap of a finger. The addition of the luxurious fabric shade makes it a functional work of art.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Table Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710644375618</id>
+      <title>Babelia Plage De Coquillages</title>
+      <s:price currency="EUR">520.00</s:price>
+      <s:sku>1288699</s:sku>
+      <s:grams>2780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711379492930</id>
+    <published>2022-03-10T13:52:26+01:00</published>
+    <updated>2022-03-10T13:52:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cast-sconce-lamp-with-diffuser"/>
+    <title>Cast Sconce Wall Lamp with Diffuser, Dimmable</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Thomas Chung &amp; Jordan Murphy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Cast_Sconce_Wall_Lamp_W_Diffuser.jpg?v=1646923390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thomas Chung &amp; Jordan Murphy<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 113">
+<div class="layoutArea">
+<div class="column">
+<p>The Cast Sconce Wall Lamp unites triangular, linear and round elements into a sophisticated silhouette. Purposeful and with presence, its geometric form adds to the ambience of a room both when turned on and off. The LED light is controlled by a dimmer switch on the cord. A beautiful complement to the pendants from the same collection, its distinct identity means it also hangs comfortably on its own, bringing soft, glare-free light to living, working and commercial spaces. The thoughtfully designed brushed brass arm, cast aluminium shade and corresponding mounting plate create an engaging form that naturally assimilates into the design of any room.</p>
+<p>The lamp is unable to be adjusted once mounted. Please ensure the correct shade angle before attaching to a wall.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Thomas Chung &amp; Jordan Murphy</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711379492930</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1251539</s:sku>
+      <s:grams>1630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710129819714</id>
+    <published>2022-03-10T13:32:08+01:00</published>
+    <updated>2022-03-10T13:32:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-wall-lamp"/>
+    <title>Hashira Wall Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Wall_Lamp_Raw_Brasilia_Lounge_Chair_Sheepskin_2.jpg?v=1678458940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hashira Collection is a modern, Nordic take on the traditional Japanese rice paper lantern. Conceived for Audo by Norm Architects, the collection’s wall lamp perfectly balances aesthetics and proportion, simplicity and character. The translucent fabric shade – available in white linen and raw slub linen – acts as a diffuser, projecting the light in multiple directions while creating a cosy, glare-free ambience. The tactile fabric also adds palpable appeal that enhances the softness of an interior. Spreading ambient light in a room, it looks equally elegant mounted alone on a wall as it does in pairs above a bed or sofa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710129819714</id>
+      <title>Raw</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1506699</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637878607938</id>
+    <published>2021-09-14T12:30:00+02:00</published>
+    <updated>2021-09-14T12:30:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/epoch-shelf"/>
+    <title>Epoch Shelf</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuTheAudoSummer20210053.jpg?v=1630950073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            185.00 - 240.00
+            <a href="https://audocph.com/products/epoch-shelf">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed for Audo by Nina Bruun, the Epoch Shelf is crafted in wood veneer and offered in two natural finishes: natural or dark stained oak. The multipurpose, space-saving design features on the one side a deep shelf for everyday clutter and on the other a shelf on which to place decorative objects. Multiples can be suspended in horizontal or vertical rows.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>50 / Natural Oak</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>6205039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>50 / Dark Stained Oak</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>6205849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>79 / Natural Oak</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>6207039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>79 / Dark Stained Oak</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>6207849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637879820354</id>
+    <published>2021-09-14T12:29:41+02:00</published>
+    <updated>2021-09-14T12:29:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/epoch-rack"/>
+    <title>Epoch Rack</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Epoch_Rack_Harbour_Side_Dining_Chair_Houkime_Rug_1.jpg?v=1631622862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            170.00 - 215.00
+            <a href="https://audocph.com/products/epoch-rack">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With its careful combination of gently rounded edges, warm wood and discreet functionality, the Epoch Clothes Rack offers streamlined storage for spaces large and small. Designed for Audo by Nina Bruun and crafted in natural or dark stained oak, the wall-mounted rack features hidden clothing hooks, and the space-saving design can be suspended alone or in rows of multiples.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Rack</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>50 / Natural Oak</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>6215039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>50 / Dark Stained Oak</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>6215849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>79 / Natural Oak</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>6217039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>79 / Dark Stained Oak</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>6217849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576543498306</id>
+    <published>2021-09-01T15:38:05+02:00</published>
+    <updated>2021-09-01T15:38:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/losaria-pillow"/>
+    <title>Losaria Pillow</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Losaria_Pillow_2_dce3d9c1-7779-4927-ae94-de79985b4684.jpg?v=1630949980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            125.00 - 135.00
+            <a href="https://audocph.com/products/losaria-pillow">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Part of Audo’s Cocoon Textile Collection, the Losaria Pillow is a luxurious choice. Losaria is produced in Europe and is comprised of long lasting and breathable materials selected for tactility and the finest quality. To create the cover, a soft mix of Italian pure and bouclé wool is woven together with silk giving the pillows an elegant, classic pattern. The inner cushion is made from 100% recycled polyester filler that is originally derived from plastic bottles. The cover of the inner cushion is also made from polyester, ensuring the product is mono-material. The prevalence of mono-materials in the Losaria Pillow means that at the end of its long life, the wool cover and recycled polyester inner cushion may be reused once again. Losaria is offered in two sizes for living or bedrooms and is cast in an earthy palette of Burnt Sienna, Ochre, Indigo and Ivory.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Pillow</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>RUGS &amp; HOME TEXTILES</s:tag>
+    <s:tag>Textile</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210389</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Ochre</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210859</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Indigo</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210719</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Ivory</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210649</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x60 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>5211389</s:sku>
+      <s:grams>1430</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x60 / Pillow | Ochre</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>5211859</s:sku>
+      <s:grams>1430</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x60 / Pillow | Indigo</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>5211719</s:sku>
+      <s:grams>1430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576452436034</id>
+    <published>2021-06-02T17:19:47+02:00</published>
+    <updated>2021-06-02T17:19:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-o50"/>
+    <title>Androgyne Side Table, Ø50</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay20210714.jpg?v=1621260349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            670.00 - 1115.00
+            <a href="https://audocph.com/products/androgyne-side-table-o50">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Perfectly proportioned with an intriguing combination of masculine and feminine elements, the Androgyne Side Table is a lesson in contrasts. Making clever use of craftsmanship, the round tabletop overhangs the wide, flat legged base in a meeting of solid and soft lines. Both base and top are sold separately and are available in natural or dark stained oak, walnut and Kunis Breccia stone respectively for a complete and customised furniture piece.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Natural Oak | Natural Oak</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1119039</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Dark Stained Oak | Dark Stained Oak</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1119849</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Walnut | Walnut</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1119879</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Natural Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1119019</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Dark Stained Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1119819</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Walnut | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1115.00</s:price>
+      <s:sku>1119869</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6572308234306</id>
+    <published>2021-06-02T12:59:07+02:00</published>
+    <updated>2021-06-02T12:59:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/mimoides-pillow"/>
+    <title>Mimoides Pillow</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BI9A8030.jpg?v=1621259294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            70.00 - 110.00
+            <a href="https://audocph.com/products/mimoides-pillow">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p><br></p>
+<p>Part of Audo’s Cocoon Textile Collection, the sumptuous Mimoides Pillow is produced in Europe from the finest quality materials selected for tactility. The cover of the Mimoides Pillow is sewn using Lithuanian linen that grows softer with time. The linen is yarn-dyed for durable, rich colour profiles. The smaller pillows have an extra silk stitching, forming a striking frame at the outer edges.</p>
+<p>The inner cushion is made from 100% recycled polyester filler, originally derived from plastic bottles. The cover of the inner cushion is also made from polyester, ensuring the product is mono-material.</p>
+<p>The prevalence of mono-materials in the Mimoides Pillow means that at the end of its long life, the linen cover and recycled polyester inner cushion may be reused once again. Mimoides is offered in two sizes for living or bedrooms and is cast in an earthy palette of Burnt Sienna, Ochre, Indigo and Birch.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Responsible</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>Designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>RUGS &amp; HOME TEXTILES</s:tag>
+    <s:tag>Textile</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:tag>Type-Textiles</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>40 x 40 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>5217389</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>40 x 40 / Pillow | Ochre</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>5217859</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>40 x 40 / Pillow | Indigo</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>5217719</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>60 x 60 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>5216389</s:sku>
+      <s:grams>1010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>60 x 60 / Pillow | Ochre</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>5216859</s:sku>
+      <s:grams>1010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>60 x 60 / Pillow | Indigo</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>5216719</s:sku>
+      <s:grams>1010</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4762192511042</id>
+    <published>2021-01-11T12:20:15+01:00</published>
+    <updated>2021-01-11T12:20:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-stool"/>
+    <title>Passage Stool</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Reverse_Table_Lamp_Passage_Stool_2.jpg?v=1709025712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            305.00 - 470.00
+            <a href="https://audocph.com/products/passage-stool">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carefully crafted with all the hallmarks of great carpentry, the Passage Stool in solid walnut or FSC™-certified solid oak with a lacquered finish has a warm expression and an organic silhouette that invite to touch. Devised as a flatpack for quick and easy self-assembly, connecting the user to the design, the versatile piece can be used anywhere where an extra seat is required – at the dining table, office desk, or even as a side table or landing place for clothing in a bedroom or bathroom – and multiples can be stacked together when not in use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4762192511042</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">305.00</s:price>
+      <s:sku>9110039</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762192511042</id>
+      <title>Walnut</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>9110879</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633397067842</id>
+    <published>2021-01-11T11:58:38+01:00</published>
+    <updated>2021-01-11T11:58:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-shelf-marble"/>
+    <title>Plinth Shelf</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Brasilia_Lounge_Chair_Sheepskin_Plinth_Shelf.jpg?v=1646839265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            415.00 - 440.00
+            <a href="https://audocph.com/products/plinth-shelf-marble">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The minimalist profile of the Plinth Shelf is shaped from either Grey Kendzo marble or Kunis Breccia stone. The honed marble and stone carry an air of sophistication and elegance to elevate any space. Equal parts elegant and purposeful, the 60 cm long shelf can be attached horizontally to a wall for use as a display ledge or bookshelf, or vertically as a wall-mounted podium on which to showcase a favourite object.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633397067842</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>7050960</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633397067842</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku>7050130</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4747262918722</id>
+    <published>2020-12-08T11:42:11+01:00</published>
+    <updated>2020-12-08T11:42:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-top"/>
+    <title>Androgyne Side Table, Table Top</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Androgyne-Table-6_e990345c-029a-453c-ba62-93f1e90882ca.jpg?v=1699277743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            215.00 - 440.00
+            <a href="https://audocph.com/products/androgyne-side-table-top">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Please note, the base is sold separately. <a href="https://audocph.com/products/androgyne-side-table">Find it here.</a></strong></p>
+<p> </p>
+<p><span>The table’s refined marble top, which barely hangs over the legs to create an overall sense of balance, and contrasting wide, flat legs – laser-cut for precision – make it an easy fit for a range of décor styles. Both base and top are available separately and in ivory </span><span>or black powder coated steel and white or black marble respectively for total customization.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Emperador Marble</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181989</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Calacatta Viola</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku>1181319</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Black Marble Top</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181539</s:sku>
+      <s:grams>7800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Crystal Rose Marble Top</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181649</s:sku>
+      <s:grams>7800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4637101686850</id>
+    <published>2020-08-27T17:35:46+02:00</published>
+    <updated>2020-08-27T17:35:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/torso-table-lamp-57"/>
+    <title>Torso Table Lamp, 57</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay20210775.jpg?v=1621258814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The transformative powers of light come into play on the Torso Table Lamp by Krøyer-Sætter-Lassen, designed with a timeless look that lends itself to any setting. The elongated base — cast from black-glazed stoneware and elongated for an understated yet sculptural expression — holds a tactile linen shade that diffuses the light to create instant ambience. A brass touch dimmer allows for a personal setting.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Table Lamp</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4637101686850</id>
+      <title>Black / Off White</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>1284539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633398706242</id>
+    <published>2020-08-27T17:35:43+02:00</published>
+    <updated>2020-08-27T17:35:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-medium"/>
+    <title>Corbel Shelf, Medium</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Corbel-Shelf_Water-Bottle.jpg?v=1602568878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The modernist Corbel Shelf is a wall-hung podium that combines contrasting materials to arresting effect. The invention of design studio Krøyer-Sætter-Lassen, the versatile design in marble, dark stained oak and plated steel takes it’s name and design cues from architectural weight-bearing brackets traditionally made from stone or wood.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633398706242</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>7080630</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633373769794</id>
+    <published>2020-08-27T17:35:42+02:00</published>
+    <updated>2020-08-27T17:35:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/torso-table-lamp"/>
+    <title>Torso Table Lamp, Off White, 37</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BI9A7803.jpg?v=1621258776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taking its design cues from childhood homes filled with treasures shaped by the human hand, the Torso Table Lamp by Krøyer-Sætter-Lassen is a modern lamp with a timeless look. Uniting raw stoneware with ethereal linen and functional metal details, the portly base, tactile shade and brass touch dimmer create the perfect balance between hard and soft, beauty and purpose.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Table Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633373769794</id>
+      <title>37</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>1283659</s:sku>
+      <s:grams>1460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633313771586</id>
+    <published>2020-08-27T17:35:40+02:00</published>
+    <updated>2020-08-27T17:35:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/nimbus-table-mirror"/>
+    <title>Nimbus Table Mirror</title>
+    <s:type>Table Mirror</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NimbusTableMirror_2.jpg?v=1678882161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Table Mirror<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span lang="EN-GB">Designed for Audo by Krøyer-Sætter-Lassen, the Nimbus Table Mirror in polished or bronzed brass updates the classic looking glass to modern sensibilities. More than just a mirror, the gently curved halo-like stand brings elegance and visual intrigue to spaces, making it as beautiful to look at as it is to look into.</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Table Mirrors</s:tag>
+    <s:tag>type-Table Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633313771586</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>8033839</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633313771586</id>
+      <title>Bronzed Brass</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>8033859</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+  </entry>
+</feed>

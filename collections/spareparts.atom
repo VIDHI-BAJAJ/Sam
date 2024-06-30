@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/spareparts.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-05-15T14:13:26+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8817732354378</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-front-legs-natural-oak"/>
+    <title>Tired Man, Front Legs, Natural Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199103_web.jpg?v=1715768094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            87.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the front legs in Natural Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817732354378</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">87.86</s:price>
+      <s:sku>199103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817679892810</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-plastic-round-part-for-wheel-copy"/>
+    <title>Tired Man, Hind Legs, Natural Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199102_web.jpg?v=1715767443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            46.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the hind legs in Natural Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817679892810</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.02</s:price>
+      <s:sku>199102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817649746250</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-plastic-round-part-for-wheel"/>
+    <title>Tired Man, Plastic Round Part for Wheel</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199100_web_2a3181b0-18af-40e4-8ea8-34265cc7c7b5.jpg?v=1715767374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the plastic round part for wheels.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817649746250</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.25</s:price>
+      <s:sku>199100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817742807370</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-chair-casters-for-star-base-black-aluminium-copy"/>
+    <title>Harbour Chair, Casters for Star Base, Polished Aluminium</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/560019_web.jpg?v=1715769894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            112.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for the Harbour Chair, seperate casters for a star base in Polished Aluminium.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817742807370</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">112.97</s:price>
+      <s:sku>560019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817738711370</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-chair-casters-for-star-base-black-aluminium"/>
+    <title>Harbour Chair, Casters for Star Base, Black Aluminium</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/560018_web.jpg?v=1715769348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            62.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for the Harbour Chair, seperate casters for a star base in Black Aluminium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817738711370</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">62.76</s:price>
+      <s:sku>560018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817737564490</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-front-legs-dark-stained-oak"/>
+    <title>Tired Man, Front Legs, Dark Stained Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199105_web.jpg?v=1715768972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            87.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the front legs in Dark Stained Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817737564490</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">87.86</s:price>
+      <s:sku>199105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817736188234</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-hind-legs-dark-stained-oak"/>
+    <title>Tired Man, Hind Legs, Dark Stained Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199104_packs.jpg?v=1715768727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            46.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the hind legs in Dark Stained Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817736188234</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.02</s:price>
+      <s:sku>199104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817749000522</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/phare-lamp-plug-with-indicator-light-in-black"/>
+    <title>Phare Lamp, Plug with Indicator Light in Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1755002_web.jpg?v=1715771075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A seperate plug for charging with indicator light in black for the Phare Lamp.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817749000522</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.20</s:price>
+      <s:sku>1755002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817747984714</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-screws-for-backrest"/>
+    <title>Afteroom, Screws for backrest</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/710040.jpg?v=1715770564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            0.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of two screws for the backrest for the Afteroom Chairs. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817747984714</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.84</s:price>
+      <s:sku>710040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817745297738</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/wall-mount-for-frame-49-shoe-cabinet-copy"/>
+    <title>Driver Multiplug for Reverse Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/630016.jpg?v=1715770230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            16.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A multiplug for the Reverse Lamp featuring different types of plugs for different countries. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817745297738</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.74</s:price>
+      <s:sku>630016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817744740682</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/wall-mount-for-frame-49-shoe-cabinet"/>
+    <title>Wall Mount for Frame 49+ Shoe Cabinet</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/601011_Wall_Mount_Frame_49_Shoe_cabinet.jpg?v=1715770016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            10.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of spare parts to mount the Frame 49+ shoe cabinet to the wall.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817744740682</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.88</s:price>
+      <s:sku>601011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817763451210</id>
+    <published>2024-05-15T14:13:22+02:00</published>
+    <updated>2024-05-15T14:13:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bank-pendant-fitting-in-black"/>
+    <title>Bank Pendant, Fitting in Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1860100.jpg?v=1715772318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            23.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A separate fitting for the Bank Pendant Light in black for CE. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817763451210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.43</s:price>
+      <s:sku>1860100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817757913418</id>
+    <published>2024-05-15T14:13:22+02:00</published>
+    <updated>2024-05-15T14:13:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bulb-jwda-ce-e27-8w-a60-matt"/>
+    <title>Bulb (JWDA - CE) E27, 8W, A60, Matt</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1840001.jpg?v=1715771562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            23.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A separate bulb for the JWDA Lamp - E27, 8W, A60 in Matt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817757913418</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.43</s:price>
+      <s:sku>1840001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817753260362</id>
+    <published>2024-05-15T14:13:22+02:00</published>
+    <updated>2024-05-15T14:13:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/phare-lamp-plug-with-indicator-light-in-black-copy"/>
+    <title>Charging Plug (CE), Portable</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1755005.jpg?v=1715771460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A separate plug for charging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817753260362</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.86</s:price>
+      <s:sku>1755005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817803493706</id>
+    <published>2024-05-15T14:12:32+02:00</published>
+    <updated>2024-05-15T14:12:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/gridy-and-epoch-screws-and-rawplugs"/>
+    <title>Gridy and Epoch Shelves, Screws and Rawplugs</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/6600000.jpg?v=1715774375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            8.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of screws and rawplugs for Gridy Funghi Shelves and the Epoch Shelf.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817803493706</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.33</s:price>
+      <s:sku>6600000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817809883466</id>
+    <published>2024-05-15T14:12:31+02:00</published>
+    <updated>2024-05-15T14:12:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-hardware-copy"/>
+    <title>Co Chair, Insert with Plastic Glide in Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9303504_web.jpg?v=1715774784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            14.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of 4 inserts w plastic glide in black for the Co Chair.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817809883466</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.23</s:price>
+      <s:sku>9303504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817807032650</id>
+    <published>2024-05-15T14:12:31+02:00</published>
+    <updated>2024-05-15T14:12:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/gridy-and-epoch-shelves-screws-and-rawplugs-copy"/>
+    <title>Corbel Shelf Hardware</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/7000600.jpg?v=1715774519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A complete set of hardware for the Corbel Shelf to mount.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817807032650</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.86</s:price>
+      <s:sku>7000600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684493701450</id>
+    <published>2024-02-28T08:46:32+01:00</published>
+    <updated>2024-02-28T08:46:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tubulaire-canopy"/>
+    <title>Tubulaire Canopy</title>
+    <s:type>canopy</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1760530_Tubulaire_Rail_Canopy_130.jpg?v=1708007339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>canopy<br>
+        <strong>Price: </strong>
+            230.00 - 805.00
+            <a href="https://audocph.com/products/tubulaire-canopy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to hold pendant lighting, the black powder-coated metal Circular Canopy is an adaptable solution for different spatial and aesthetic requirements. Offered in three sizes, the sleek and contemporary design creates an understated light source that enhances visibility, functionality and ambience in a room.</p>
+<p><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="auto" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">Designed to hold pendant lighting, the </span></span><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="none" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">black powder-coated metal Rail Canopy is an </span></span><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="auto" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">adaptable solution for different spatial and aesthetic requirements. The sleek and contemporary design adds a touch of sophistication to any space, enhancing visibility, functionality and ambience. Whether used alone or as part of a larger configuration, it provides an understated solution tailored to specific needs and environments.</span></span><span data-ccp-props='{"201341983":0,"335551550":6,"335551620":6,"335559739":0,"335559740":240}' class="EOP SCXW54785381 BCX0"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Rail Canopy</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>1760530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø57 cm</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>1765530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø107 cm</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1766530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø157 cm</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1767530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8661669970250</id>
+    <published>2024-01-29T14:08:18+01:00</published>
+    <updated>2024-01-29T14:08:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/flower-divider-lolo-black"/>
+    <title>Flower Divider - Lolo, Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL22001_Kubus_Lolo_Black_Top_Angle_300_1833344b-bfa4-4c3f-a9e7-ccf3d97156cb.jpg?v=1706533703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flower divider for the <a href="https://audocph.com/products/kubus-lolo">Kubus Vase Lolo</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8661669970250</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.00</s:price>
+      <s:sku>BL626100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600488648770</id>
+    <published>2024-01-26T11:12:17+01:00</published>
+    <updated>2024-01-26T11:12:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-glass-shade-w-glue-for-carrie-lamp"/>
+    <title>1 pc. glass shade w glue for Carrie Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/4863000.jpg?v=1624956629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. glass shade with glue for<a href="https://audocph.com/products/carrie-portable-led-lamp"> Carrie Table Lamp, Portable, Brushed Brass</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600488648770</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.00</s:price>
+      <s:sku>4863000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608224411978</id>
+    <published>2023-12-15T13:21:11+01:00</published>
+    <updated>2023-12-15T13:21:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/flower-divider-lily-black"/>
+    <title>Flower Divider - Lily, Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL626120.jpg?v=1702642859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608224411978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku>BL626120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608223461706</id>
+    <published>2023-12-15T13:20:05+01:00</published>
+    <updated>2023-12-15T13:20:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/flora-flower-divider"/>
+    <title>Flora, Flower Divider</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL626111.jpg?v=1702642808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608223461706</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.00</s:price>
+      <s:sku>BL626111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608220348746</id>
+    <published>2023-12-15T13:17:59+01:00</published>
+    <updated>2023-12-15T13:17:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/glass-tube-for-lightin-small"/>
+    <title>Glass Tube for LightIn, Small</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL199002.jpg?v=1702642657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608220348746</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">4.00</s:price>
+      <s:sku>BL199002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608219234634</id>
+    <published>2023-12-15T13:16:47+01:00</published>
+    <updated>2023-12-15T13:16:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/lightin-glass-tube-medium"/>
+    <title>Glass Tube for LightIn, Medium</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL199001.jpg?v=1702642586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608219234634</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.00</s:price>
+      <s:sku>BL199001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608218546506</id>
+    <published>2023-12-15T13:15:39+01:00</published>
+    <updated>2023-12-15T13:15:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-coat-hanger-screws-rawplugs-2-pcs-for-small"/>
+    <title>Afteroom Coat Hanger, Screws &amp; Rawplugs, 2 pcs. for Small</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/8910000.jpg?v=1702642542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For the <a href="https://audocph.com/products/afteroom-coat-hanger-small">Afteroom Coat Hanger, Small</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Accessories</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608218546506</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.95</s:price>
+      <s:sku>8910000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

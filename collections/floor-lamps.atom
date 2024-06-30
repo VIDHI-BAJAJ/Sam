@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/floor-lamps.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-04-05T13:57:02+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8363073601866</id>
+    <published>2023-04-05T13:57:02+02:00</published>
+    <updated>2023-04-05T13:57:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-floor-lamp-white"/>
+    <title>Hashira Floor Lamp, White</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_HashiraFloorLamp_HarbourLoungeChair_GravelRug.jpg?v=1680701925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hashira Floor Lamp stands tall with its cylindrical silhouette, merging the essence of western textile lamp shades to evoke a sense of familiarity. Its translucent fabric shade serves multiple purposes: diffusing the light in various directions, creating a warm and comfortable ambiance, and enhancing the interior's softness both visually and physically. This unique combination not only adds a touch of charm but also contributes to the acoustics and tactile experience of the space.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8363073601866</id>
+      <title>White</title>
+      <s:price currency="EUR">800.00</s:price>
+      <s:sku>1501059</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807157375042</id>
+    <published>2022-09-30T11:10:40+02:00</published>
+    <updated>2022-09-30T11:10:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/wing-floor-lamp"/>
+    <title>Wing Floor Lamp</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Kenneth Bergenblad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Tired_Man_Wing_Floor_Lamp.jpg?v=1664266314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kenneth Bergenblad<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            820.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A design with timeless appeal, the modernist and minimal Wing Floor Lamp brings character to any setting thanks to its playful aesthetic. Created in the late 1970s by the award-winning Swedish designer Kenneth Bergenblad, the lamp’s simple idiom brings together past, present and future. Alluding to the wings of a bird, the polished aluminium shade rotates to allow you to direct the light to wherever it is needed and create playful movement on the architectural design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kenneth Bergenblad</s:tag>
+    <s:tag>Floor Lamp</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807157375042</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1392109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710152855618</id>
+    <published>2022-03-10T13:51:19+01:00</published>
+    <updated>2022-03-10T13:51:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-high-floor-lamp"/>
+    <title>Hashira High Floor Lamp, Raw</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Floor_Lamp_High_Tearoom_Sofa_High_Back_Plinth_Low.jpg?v=1646913077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 113">
+<div class="layoutArea">
+<div class="column">
+<p>Filling spaces with ambient light, the Hashira High Floor Lamp by Norm Architects is characterised by its tall and tactile shade and slender, graphic frame. The elegant, powder-coated steel base lends an elevated, airy expression to the design, its black metal surface creating a contrast to the pale linen shade, which acts as a diffuser, projecting the light in multiple directions while creating cosy, glare-free ambience. A dimmer switch controls the brightness. Adding to the softness of a room, acoustically as well as tactually, the shade delicately reveals the structure within. A purposeful source of light in a living room, dining room, hallway or bedroom, the floor lamp brings a sense of understated luxury and ease to interior spaces everywhere.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710152855618</id>
+      <title>Raw</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku>1507699</s:sku>
+      <s:grams>12600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945325122</id>
+    <published>2020-08-27T14:57:29+02:00</published>
+    <updated>2020-08-27T14:57:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-floor-lamp"/>
+    <title>Hashira Floor Lamp, Raw</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Floor_Lamp_Brasilia_Ottoman_NNDW_Cup_Houkime_Rug_1.jpg?v=1631617441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rising majestically from the floor, the cylindrical silhouette of the Hashira Floor Lamp iteration is combined with elements of western textile lamp shades to lend the design a familiar feel. The translucent fabric shade not only acts as a diffuser, projecting the light in multiple directions while creating a cosy, glare-free ambience, it also adds palpable appeal that enhances the softness of an interior – acoustically as well as tactilely.</p>
+<p>Light Bulb Socket: E27<br></p>
+<p><b>Bulb not included</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945325122</id>
+      <title>Raw</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku>1501699</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518949093442</id>
+    <published>2020-05-11T23:30:15+02:00</published>
+    <updated>2020-05-11T23:30:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-floor-lamp"/>
+    <title>JWDA Floor Lamp</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Jonas Wagell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_JWDA-Floor-Lamp.jpg?v=1587484596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jonas Wagell<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            1610.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JWDA Floor Lamp is part of a collection of lighting inspired by traditional oil lamps. Crafted from contrasting materials, the elegant yet bold design is a lesson in refinement and a study in geometry. An elliptical opal glass shade, a slender metal stem, and a rectangular marble base fitted with a dimmer switch come together to create this timeless addition to modern spaces.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Jonas Wagell</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518949093442</id>
+      <title>White Marble | Bronzed Brass</title>
+      <s:price currency="EUR">1610.00</s:price>
+      <s:sku>1840639</s:sku>
+      <s:grams>20490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518949093442</id>
+      <title>Travertine | Brushed Brass</title>
+      <s:price currency="EUR">1610.00</s:price>
+      <s:sku>1840619</s:sku>
+      <s:grams>20490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518968066114</id>
+    <published>2020-04-28T12:06:33+02:00</published>
+    <updated>2020-04-28T12:06:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/peek-floor-lamp"/>
+    <title>Peek Floor Lamp</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Jonas Wagell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_PeekFloorLamp_Plinth.jpg?v=1678879779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jonas Wagell<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            525.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Swedish designer Jonas Wagell designed the Peek lamp as a floor lamp to accompany a sofa he designed a few years ago. The design is simplistic, humble and somewhat quirky.</p>
+<p>He explains, "I find that floor lamps are often big and quite dominant in interiors. I needed a lamp which was small and humble and simply "popped up" where you needed some light. The Peek lamp has a heavy base with a long slender stem and a shade, which gracefully peeks over the back of a sofa or armchair."</p>
+<p>The shape and silhouette of the Peek floor lamp was the basis for the smaller Peek table lamp. Use the floor lamp as a reading light by the sofa, or as ambient room lighting. The top end of the stem has a touch-sensitive dot that functions as a dimmer.</p>
+<p>Jonas Wagell on the design: "Although the form derives from a functional requirement I believe it's important that the lamp has personality and an expression. I strive to create simplistic objects and products that are intuitive and easy to understand. In essence, the Peek lamps only consist of three parts; base, stem and shade. The form is reduced to the necessities and the expression becomes iconic."</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Jonas Wagell</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518968066114</id>
+      <title>Powder Coated White</title>
+      <s:price currency="EUR">525.00</s:price>
+      <s:sku>1320639</s:sku>
+      <s:grams>4113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

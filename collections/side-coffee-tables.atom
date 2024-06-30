@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/side-coffee-tables.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-28T08:46:39+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8683108106570</id>
+    <published>2024-02-28T08:46:39+01:00</published>
+    <updated>2024-02-28T08:46:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/branch-side-table"/>
+    <title>Branch Side Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_BranchSideTable_AndrogyneSideTable_TearoomSideChairSwivel_PlinthTall_12.jpg?v=1708508944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            535.00 - 605.00
+            <a href="https://audocph.com/products/branch-side-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Whether used as an occasional table or a temporary workstation, the height adjustable Branch Side Table adapts to changing needs, offering a versatile and seamless solution for dynamic living spaces. Its compact and flexible design allows it to be conveniently pushed close to a sofa or chair, optimising space, while its black steel base and charcoal linoleum or dark-stained oak tabletop add a touch of sophistication in a quality that ensures it withstands the demands of daily use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8683108106570</id>
+      <title>Linoleum Charcoal</title>
+      <s:price currency="EUR">605.00</s:price>
+      <s:sku>1105539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8683108106570</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>1105849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684436062538</id>
+    <published>2024-02-28T08:46:38+01:00</published>
+    <updated>2024-02-28T08:46:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/volume-side-table"/>
+    <title>Volume Side Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Ted Synnott</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Knitting_Chair_Volume_Side_Table_43.jpg?v=1708512073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ted Synnott<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW175031154 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW175031154 BCX0" data-mce-fragment="1">The Volume Side Table introduces a fresh approach to contemporary furniture that stands out in any setting. Crafted from aluminium, it boasts a sleek and modern appearance with curved lines offsetting straight lines to create a balanced look. The polishing process on the metal enhances its visual appeal, giving the table a unique sheen that adds character. The lacquer-protected surface ensures low maintenance, making it easy to clean and maintain the side table's sleek appearance with minimal effort whether used indoors or outdoors.</span></span><span class="EOP SCXW175031154 BCX0" data-ccp-props='{"201341983":0,"335551550":6,"335551620":6,"335559739":0,"335559740":240}' data-mce-fragment="1"> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Ted Synnott</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684436062538</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>7100009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684454543690</id>
+    <published>2024-02-28T08:46:36+01:00</published>
+    <updated>2024-02-28T08:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-steel"/>
+    <title>Androgyne Side Table, Steel Base</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AndrogyneSideTable_RadiohusSofa_73.jpg?v=1708508805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p>With its contemporary elegance and minimalist appeal, the Androgyne Side Table becomes more than just furniture—it becomes a statement piece that enhances the overall aesthetic of any space. Crafted from stainless steel, renowned for its durability and corrosion resistance, the brushed finish introduces an intriguing texture to the metal, creating an interplay of light and shadow that make the design a focal point in any room. The collection’s tabletop, offered in a range of materials, can be added to the design.</p>
+<p><strong>Please note, a tabletop can be purchased separately. <a href="https://audocph.com/products/androgyne-side-table-top">Find it here.</a></strong></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684454543690</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1181039</s:sku>
+      <s:grams>13382</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862679343170</id>
+    <published>2023-01-03T12:39:10+01:00</published>
+    <updated>2023-01-03T12:39:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jager-lounge-table"/>
+    <title>Jäger Lounge Table</title>
+    <s:type>Lounge Table</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Tired_Man_Jager_Lounge_Table_Eave_Ignus_Flameless_Candle_Cairn_pouf.jpg?v=1673260596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Lounge Table<br>
+        <strong>Price: </strong>
+            2535.00 - 2820.00
+            <a href="https://audocph.com/products/jager-lounge-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">An archival design from 1941, Mogens Lassen’s foldable Jäger Lounge Table is reissued to a modern audience. Its name comes from the merchant for which it was created, and its design is inspired by the folding stools and beds found in Tutankhamen's Egyptian tomb. Shaped from wood – oiled oak or oiled walnut – brass fittings detail the iconic piece of Danish design. The table also features a brass plaque engraved with a unique serial number.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Lounge Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679343170</id>
+      <title>Walnut</title>
+      <s:price currency="EUR">2820.00</s:price>
+      <s:sku>1103879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679343170</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">2535.00</s:price>
+      <s:sku>1103039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860278562882</id>
+    <published>2023-01-03T10:25:32+01:00</published>
+    <updated>2023-01-03T10:25:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-nesting-side-table"/>
+    <title>Umanoff Nesting Side Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Umanoff_Nesting_Side_Table_88.jpg?v=1671615269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed by Arthur Umanoff during the 1950s, the Umanoff Nesting Side Table is a stackable, space-saving choice when room size is limited—and a beautiful piece of mid-century modern design. Coloured laminated panels in geometric shapes add a decorative and practical note to the sleek, solid walnut design. Equal parts traditional and unconventional, the three tables accent a space whether placed together or used individually.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860278562882</id>
+      <title>Walnut | Black</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>1187539</s:sku>
+      <s:grams>2800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860278562882</id>
+      <title>Walnut | Burgundy</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>1187379</s:sku>
+      <s:grams>2800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860278562882</id>
+      <title>Walnut | Fog</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>1187179</s:sku>
+      <s:grams>2800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807072145474</id>
+    <published>2022-09-30T11:06:12+02:00</published>
+    <updated>2022-09-30T11:06:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-bridge"/>
+    <title>Plinth Bridge</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Seal_Lounge_Chair_Plinth_Bridge_Plinth_Low.jpg?v=1664267099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1800.00 - 2350.00
+            <a href="https://audocph.com/products/plinth-bridge">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Plinth Bridge has a classic silhouette and modern material appeal. Designed for use independently as well as in combination with the Plinth Grand and Plinth Low podiums – forming a bridge across the low-slung designs for elevated surface space – the sleek design is offered in a range of beautiful, natural materials: from classic White Carrera marble and the intriguing purple-veined Calacatta Viola to sand-coloured Kunis Breccia stone.</p>
+<p><em>N.B. The Plinth Bridge cannot be used for seating.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">2350.00</s:price>
+      <s:sku>7040319</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7040960</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7040530</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7040630</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7040130</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807074996290</id>
+    <published>2022-09-30T11:05:48+02:00</published>
+    <updated>2022-09-30T11:05:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-pedestal"/>
+    <title>Plinth Pedestal</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Pedestal_Surround_Vase_4.jpg?v=1664267002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1490.00 - 1960.00
+            <a href="https://audocph.com/products/plinth-pedestal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A part of our ever-growing Plinth Collection of multifunctional marble and stone furniture pieces, the Plinth Pedestal is a space-saving display for ornamental objects. Elevating in every sense, its slender silhouette is offered in a range of beautiful, natural materials that form the perfect backdrop for family heirlooms, a flower-filled vase, decorative lamp and more.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>7025319</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku>7025960</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku>7025530</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku>7025630</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>7025130</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710666428482</id>
+    <published>2022-04-12T09:07:56+02:00</published>
+    <updated>2022-04-12T09:07:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-grand"/>
+    <title>Plinth Grand</title>
+    <s:type>Lounge Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Sofa_High_Back_Tearoom_Lounge_Chair_High_Back_W_Plug_Plinth_Grand_Interconnect_Candle_Holder_Torso_Limited.jpg?v=1646835887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Lounge Table<br>
+        <strong>Price: </strong>
+            3180.00 - 4145.00
+            <a href="https://audocph.com/products/plinth-grand">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A supersized version of our classic Plinth Low podium, the Plinth Grand is a monumental and multifunctional design. Designed by Norm Architects and offered in four marble types with unique veining as well as Kunis Breccia stone, each piece is carefully assembled by hand for the perfect alignment. The design lends itself to a variety of uses and spaces: shaped into a perfectly balanced rectangle, Plinth Grand is ideal as a statement-making coffee table or low-lying display for decorative objects. It is also a sculptural object in its own right, elevating a space with its sophistication and light-reflecting finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Lounge Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">3450.00</s:price>
+      <s:sku>7030960</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">3180.00</s:price>
+      <s:sku>7030530</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">3450.00</s:price>
+      <s:sku>7030630</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">4145.00</s:price>
+      <s:sku>7030319</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">4145.00</s:price>
+      <s:sku>7030130</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576452436034</id>
+    <published>2021-06-02T17:19:47+02:00</published>
+    <updated>2021-06-02T17:19:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-o50"/>
+    <title>Androgyne Side Table, Ø50</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay20210714.jpg?v=1621260349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            670.00 - 1115.00
+            <a href="https://audocph.com/products/androgyne-side-table-o50">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Perfectly proportioned with an intriguing combination of masculine and feminine elements, the Androgyne Side Table is a lesson in contrasts. Making clever use of craftsmanship, the round tabletop overhangs the wide, flat legged base in a meeting of solid and soft lines. Both base and top are sold separately and are available in natural or dark stained oak, walnut and Kunis Breccia stone respectively for a complete and customised furniture piece.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Natural Oak | Natural Oak</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1119039</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Dark Stained Oak | Dark Stained Oak</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1119849</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Walnut | Walnut</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1119879</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Natural Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1119019</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Dark Stained Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1119819</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Walnut | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1115.00</s:price>
+      <s:sku>1119869</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4762192511042</id>
+    <published>2021-01-11T12:20:15+01:00</published>
+    <updated>2021-01-11T12:20:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-stool"/>
+    <title>Passage Stool</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Reverse_Table_Lamp_Passage_Stool_2.jpg?v=1709025712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            305.00 - 470.00
+            <a href="https://audocph.com/products/passage-stool">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carefully crafted with all the hallmarks of great carpentry, the Passage Stool in solid walnut or FSC™-certified solid oak with a lacquered finish has a warm expression and an organic silhouette that invite to touch. Devised as a flatpack for quick and easy self-assembly, connecting the user to the design, the versatile piece can be used anywhere where an extra seat is required – at the dining table, office desk, or even as a side table or landing place for clothing in a bedroom or bathroom – and multiples can be stacked together when not in use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4762192511042</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">305.00</s:price>
+      <s:sku>9110039</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762192511042</id>
+      <title>Walnut</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>9110879</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4762177863746</id>
+    <published>2021-01-11T12:18:24+01:00</published>
+    <updated>2021-01-11T12:18:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-lounge-table"/>
+    <title>Passage Lounge Table</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Passage_Lounge_Table_Sentiment_Paper_Weight_Eave_Modular_Sofa_54.jpg?v=1709026961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            535.00 - 1745.00
+            <a href="https://audocph.com/products/passage-lounge-table">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether playing host to drinks or home to the remote control or of-the-moment reads, the versatile Passage Lounge Table brings a feeling of soft serenity to spaces thanks to its calming round shape and solid wood construction. Offered in lacquered walnut or FSC™-certified oak, each piece displays unique grain patterns inherent to the high-quality hardwoods. Cleverly designed as a flatpack, self-assembly kit, inviting you to engage with the design, it is offered in three sizes, allowing you to pair multiples together in a nest-like formation.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Cafe Table</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Natural Oak / Ø50</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>9150039</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Natural Oak / Ø70</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9170039</s:sku>
+      <s:grams>10500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Natural Oak / Ø90</title>
+      <s:price currency="EUR">1075.00</s:price>
+      <s:sku>9190039</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Dark Lacquered Oak / Ø50</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>9150959</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Dark Lacquered Oak / Ø70</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9170959</s:sku>
+      <s:grams>10500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Dark Lacquered Oak / Ø90</title>
+      <s:price currency="EUR">1075.00</s:price>
+      <s:sku>9190959</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Walnut / Ø50</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9150879</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Walnut / Ø70</title>
+      <s:price currency="EUR">1250.00</s:price>
+      <s:sku>9170879</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762177863746</id>
+      <title>Walnut / Ø90</title>
+      <s:price currency="EUR">1745.00</s:price>
+      <s:sku>9190879</s:sku>
+      <s:grams>6800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4747262918722</id>
+    <published>2020-12-08T11:42:11+01:00</published>
+    <updated>2020-12-08T11:42:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-top"/>
+    <title>Androgyne Side Table, Table Top</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Androgyne-Table-6_e990345c-029a-453c-ba62-93f1e90882ca.jpg?v=1699277743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            215.00 - 440.00
+            <a href="https://audocph.com/products/androgyne-side-table-top">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Please note, the base is sold separately. <a href="https://audocph.com/products/androgyne-side-table">Find it here.</a></strong></p>
+<p> </p>
+<p><span>The table’s refined marble top, which barely hangs over the legs to create an overall sense of balance, and contrasting wide, flat legs – laser-cut for precision – make it an easy fit for a range of décor styles. Both base and top are available separately and in ivory </span><span>or black powder coated steel and white or black marble respectively for total customization.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Emperador Marble</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181989</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Calacatta Viola</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku>1181319</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Black Marble Top</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181539</s:sku>
+      <s:grams>7800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Crystal Rose Marble Top</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181649</s:sku>
+      <s:grams>7800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4706479898690</id>
+    <published>2020-10-16T10:05:23+02:00</published>
+    <updated>2020-10-16T10:05:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-tall"/>
+    <title>Plinth Tall</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Tall_Kunis_Breccia_a1c588c0-2540-4960-8f59-31f1102dd20d.jpg?v=1678871730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1380.00 - 1800.00
+            <a href="https://audocph.com/products/plinth-tall">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Equal parts beautiful and timeless, the Plinth Collection comprises multi-functional podiums for every space. Profiling the beauty of natural materials and uncompromising craftsmanship, each design is precision assembled to reveal the inherent beauty and uniqueness of the material. In addition to Calacatta Viola, Grey Kendzo, Nero Marquina and White Carrera marble, the Plinth Collection is available in Kunis Breccia, an artistic blend of stones in warm tones which creates subtle texture and adds a new dimension with its refined and inviting expression. Perfectly symmetrical, Plinth Tall, Plinth Low and Plinth Cubic in Kunis Breccia each showcase other items whilst standing as a sculptural piece on its own.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Grey Marble Kendzo</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7020960</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Black Marble Marquina</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7020530</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / White Marble Carrara</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7020630</s:sku>
+      <s:grams>42500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7020319</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Sand Kunis Breccia</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7020130</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4706475016258</id>
+    <published>2020-10-16T09:59:52+02:00</published>
+    <updated>2020-10-16T09:59:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-low"/>
+    <title>Plinth Low</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Low_Plinth_Grand_Plinth_Tall_Plinth_Shelf.jpg?v=1646841921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            2215.00 - 2765.00
+            <a href="https://audocph.com/products/plinth-low">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Equal parts beautiful and timeless, the Plinth Collection comprises multi-functional podiums for every space. Profiling the beauty of natural materials and uncompromising craftsmanship, each design is precision assembled to reveal the inherent beauty and uniqueness of the material. In addition to Calacatta Viola, Grey Kendzo, Nero Marquina and White Carrera marble, the Plinth Collection is available in Kunis Breccia, an artistic blend of stones in warm tones which creates subtle texture and adds a new dimension with its refined and inviting expression. Perfectly symmetrical, Plinth Tall, Plinth Low and Plinth Cubic in Kunis Breccia each showcase other items whilst standing as a sculptural piece on its own.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">2765.00</s:price>
+      <s:sku>7000319</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7000960</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7000530</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7000630</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">2765.00</s:price>
+      <s:sku>7000130</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4681934536770</id>
+    <published>2020-09-08T14:47:45+02:00</published>
+    <updated>2020-09-08T14:47:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-lounge-table"/>
+    <title>Harbour Column Lounge Table</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Harbour_Column_Lounge_Table_Harbour_Lounge_Chair_c490b51e-801f-4d4a-8dae-aaa826789847.jpg?v=1599567915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            970.00 - 1465.00
+            <a href="https://audocph.com/products/harbour-column-lounge-table">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Building on the clean, light and versatile design of the Harbour Chair, Norm Architects are expanding the Harbour family with the elegant Harbour Column Table. “We sought to create a column table that would solve the issue of blending in and standing out,” says Norm Architects’ Jonas Bjerre-Poulsen. In other words, a design with a strong profile – yet the ability to work in harmony with surroundings of all styles.</p>
+<p>The Harbour Column Table features a simple tabletop paired with a subtle yet sophisticated clover-shaped column profile: the same one you’ll see in the new swivel version of the Harbour Chair. The pairing gives the modern design a classic, exclusive feel. While the table was originally designed for the Harbour Chair, it also works beautifully with other seating types and styles. At the heart of the Harbour family, after all, is a desire to meet our constantly evolving needs with adaptability and grace.</p>
+<p>At Audo House – Audo’s testing ground for new products and a creative hub that’s part office, part café, and part co-working space – the Harbour Column Table has demonstrated an exceptional ability to meet every functional demand, while also pleasing the senses with its balanced, slim silhouette and tactility. The table is available with both round and rectangular tabletops, and in three heights – so finding the right one for your space is easy. You just might wonder how you managed without it.</p>
+<p>The Harbour Column Table is available with four tabletop sizes: three round, one rectangular. Each can be crafted in charcoal linoleum, black oak veneer, or off white marblento suit your space and design preferences. The column base is constructed in steel and aluminum in a black powder-coated finish, with dining, counter and bar heights to fit numerous needs in homes, workplaces, cafés, lobbies – the possibilities are endless. Mix and match bases and tabletops to create your ideal pairing.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Lounge Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4681934536770</id>
+      <title>Black | Kunis Breccia</title>
+      <s:price currency="EUR">1465.00</s:price>
+      <s:sku>9303139</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4681934536770</id>
+      <title>Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>9303149</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4681934536770</id>
+      <title>Black | Black Oak</title>
+      <s:price currency="EUR">970.00</s:price>
+      <s:sku>9303539</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4681934536770</id>
+      <title>Black | Estremoz Marble</title>
+      <s:price currency="EUR">1265.00</s:price>
+      <s:sku>9303659</s:sku>
+      <s:grams>24950</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633481510978</id>
+    <published>2020-08-27T17:35:45+02:00</published>
+    <updated>2020-08-27T17:35:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/umanoff-side-table"/>
+    <title>Umanoff Side Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Umanoff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Umanoff_Side_Table_03.jpg?v=1679060651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Umanoff<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            820.00 - 965.00
+            <a href="https://audocph.com/products/umanoff-side-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As relevant today as it was when first designed by Arthur Umanoff in the 1950s, the reissued Umanoff Side Table balances walnut and brass on its rounded top and tripod-inspired frame to create a table that challenges convention. Despite its decidedly small footprint, the versatile piece makes a big impact as a mid-century modern design for piles of books, mugs of coffee or flower-filled vases. The Umanoff Side Table is available in two sizes.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Umanoff</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633481510978</id>
+      <title>45</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1188879</s:sku>
+      <s:grams>2210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633481510978</id>
+      <title>60</title>
+      <s:price currency="EUR">965.00</s:price>
+      <s:sku>1189879</s:sku>
+      <s:grams>2440</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633406341186</id>
+    <published>2020-08-27T17:35:43+02:00</published>
+    <updated>2020-08-27T17:35:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-lounge-table-wood"/>
+    <title>Androgyne Lounge Table, Wood</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Androgyne_Lounge_Table_4.jpg?v=1655114964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            925.00 - 2120.00
+            <a href="https://audocph.com/products/androgyne-lounge-table-wood">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Originally developed by Norwegian architect and designer Danielle Siggerud as a modern and versatile table for Audo’s former showroom café, the Androgyne Collection profiles simple silhouettes and refined materials. Celebrating craftsmanship and wood, the Androgyne Lounge Table is versioned in natural or dark stained oak or walnut, as well as with the option of a kunis breccia stone or calacatta viola marble tabletop. With a shape and function made for everyday settings, the versatile, modernist design makes it possible to use as both a lounge table or bench for piles of books or statement decorations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Cafe Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Natural Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>1184019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Natural Oak | Natural Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>1184039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Dark Stained Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>1184819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Dark Stained Oak | Dark Stained Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>1184849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Walnut | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1540.00</s:price>
+      <s:sku>1184869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Walnut | Walnut</title>
+      <s:price currency="EUR">1325.00</s:price>
+      <s:sku>1184879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Natural Oak | Calacatta Viola</title>
+      <s:price currency="EUR">1855.00</s:price>
+      <s:sku>1189019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Dark Stained Oak | Calacatta Viola</title>
+      <s:price currency="EUR">1855.00</s:price>
+      <s:sku>1189819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Walnut | Calacatta Viola</title>
+      <s:price currency="EUR">2120.00</s:price>
+      <s:sku>1189869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633398706242</id>
+    <published>2020-08-27T17:35:43+02:00</published>
+    <updated>2020-08-27T17:35:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-medium"/>
+    <title>Corbel Shelf, Medium</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Corbel-Shelf_Water-Bottle.jpg?v=1602568878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The modernist Corbel Shelf is a wall-hung podium that combines contrasting materials to arresting effect. The invention of design studio Krøyer-Sætter-Lassen, the versatile design in marble, dark stained oak and plated steel takes it’s name and design cues from architectural weight-bearing brackets traditionally made from stone or wood.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633398706242</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>7080630</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945488962</id>
+    <published>2020-08-27T14:57:34+02:00</published>
+    <updated>2020-08-27T14:57:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-lounge-table"/>
+    <title>Androgyne Lounge Table, Stone/Marble</title>
+    <s:type>Lounge Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Androgyne_Lounge_Table_5.jpg?v=1655112096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Lounge Table<br>
+        <strong>Price: </strong>
+            3005.00 - 3530.00
+            <a href="https://audocph.com/products/androgyne-lounge-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 70" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Imagined by Norwegian architect and designer Danielle Siggerud for Audo’s former showroom café, the Androgyne Collection profiles simple silhouettes and refined materials. </span><span>A monumental design crafted from kunis breccia stone, marked by characteristic veins and mineral fragments in warm hues, the Androgyne Lounge Table continues the simple silhouette of the collection while introducing natural materials and a shape and function made for everyday settings. The versatile design makes it possible to use as both a lounge table or bench for piles of books or statement decorations.</span></p>
+<p><span>The Androgyne Lounge Table, now available in Calacatta Viola marble, is a striking centrepiece in classic and modern spaces alike. Sourced in Italy, the off-white marble’s characteristic purple veining and natural inclusions create beautifully unique surface patterns that add dimension to the design.</span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945488962</id>
+      <title>Kunis Breccia</title>
+      <s:price currency="EUR">3005.00</s:price>
+      <s:sku>1184139</s:sku>
+      <s:grams>60775</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945488962</id>
+      <title>Calacatta Viola</title>
+      <s:price currency="EUR">3530.00</s:price>
+      <s:sku>1189319</s:sku>
+      <s:grams>60775</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518980976706</id>
+    <published>2020-05-12T15:52:20+02:00</published>
+    <updated>2020-05-12T15:52:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table"/>
+    <title>Androgyne Side Table, Base</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/androgyne.jpg?v=1678874248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Please note, the tabletop is sold separately. <a href="https://audocph.com/products/androgyne-side-table-top">Find it here.</a></strong></p>
+<p> </p>
+<p><span>The perfectly proportioned table comprises a sturdy powder coated steel base on which a rounded marble tabletop is balanced. The table’s refined marble top, which barely hangs over the legs to create an overall sense of balance, and contrasting wide, flat legs – laser-cut for precision – make it an easy fit for a range of décor styles. Both base and top are available separately and in ivory </span><span>or black powder coated steel and white or black marble respectively for total customization.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518980976706</id>
+      <title>Black Base</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>1180539</s:sku>
+      <s:grams>13382</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980976706</id>
+      <title>Ivory Base</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>1180649</s:sku>
+      <s:grams>13594</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518970785858</id>
+    <published>2020-05-12T09:15:51+02:00</published>
+    <updated>2020-05-12T09:15:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/marble-plinth"/>
+    <title>Plinth Cubic</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Tall_Triptych_Bowl.jpg?v=1646906616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1380.00 - 1800.00
+            <a href="https://audocph.com/products/marble-plinth">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Equal parts beautiful and timeless, the Plinth Collection comprises multi-functional podiums for every space. Profiling the beauty of natural materials and uncompromising craftsmanship, each design is precision assembled to reveal the inherent beauty and uniqueness of the material. In addition to Calacatta Viola, Grey Kendzo, Nero Marquina and White Carrera marble, the Plinth Collection is available in Kunis Breccia, an artistic blend of stones in warm tones which creates subtle texture and adds a new dimension with its refined and inviting expression. Perfectly symmetrical, Plinth Tall, Plinth Low and Plinth Cubic in Kunis Breccia each showcase other items whilst standing as a sculptural piece on its own.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7010960</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7010530</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7010630</s:sku>
+      <s:grams>42500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7010319</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7010130</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518968590402</id>
+    <published>2020-04-28T12:06:37+02:00</published>
+    <updated>2020-04-28T12:06:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/nono-table"/>
+    <title>NoNo Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Eave_Modular_NoNo.jpg?v=1687785666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            535.00 - 845.00
+            <a href="https://audocph.com/products/nono-table">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NoNo Table is characterised by lightness. The elegant and slim legs provide the full support for the solid glass tabletop that beautifully reflects its surroundings. The modern materials emphasize the clean and stylish aesthetics. And the simplistic yet eye-catching design makes NoNo a great addition to any living area.</p>
+<p>NoNo is the result of an encounter between two Scandinavian studios, Note Design Studio and Norm Architects. During a visit to Milan, the Swedish and Danish designers met by coincidence – and started talking. Amongst many other things, the topic of the conversation was a shared interest in the juxtaposition of solid tops supported by slender legs. The idea of a collaboration quickly followed. NoNo is available in two sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518968590402</id>
+      <title>Small / Beige Glass</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>8560049</s:sku>
+      <s:grams>15755</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518968590402</id>
+      <title>Large / Dark Green Glass</title>
+      <s:price currency="EUR">845.00</s:price>
+      <s:sku>8561499</s:sku>
+      <s:grams>18420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518968590402</id>
+      <title>Large / Brown Glass</title>
+      <s:price currency="EUR">845.00</s:price>
+      <s:sku>8561939</s:sku>
+      <s:grams>18420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518957219906</id>
+    <published>2020-04-28T12:05:33+02:00</published>
+    <updated>2020-04-28T12:05:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/turning-table"/>
+    <title>Turning Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Theresa Rand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Turning_Table_3.jpg?v=1678875458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theresa Rand<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            565.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>German designer Theresa Rand was experimenting with ways of combining a table and storage when she stumbled upon the idea of a lid that opens by rotating it around one of the legs. The result is elegant, unpretentious and utterly addictive (show it to guests and they will be opening and shutting Turning Table for hours).</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Theresa Rand</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518957219906</id>
+      <title>Black Ash &amp; Brass</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>6900539</s:sku>
+      <s:grams>10767</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518957219906</id>
+      <title>Natural Oak &amp; Black Chrome</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>6900049</s:sku>
+      <s:grams>10767</s:grams>
+    </s:variant>
+  </entry>
+</feed>

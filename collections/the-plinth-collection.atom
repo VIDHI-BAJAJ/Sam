@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/the-plinth-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2022-09-30T11:06:12+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6807072145474</id>
+    <published>2022-09-30T11:06:12+02:00</published>
+    <updated>2022-09-30T11:06:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-bridge"/>
+    <title>Plinth Bridge</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Seal_Lounge_Chair_Plinth_Bridge_Plinth_Low.jpg?v=1664267099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1800.00 - 2350.00
+            <a href="https://audocph.com/products/plinth-bridge">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Plinth Bridge has a classic silhouette and modern material appeal. Designed for use independently as well as in combination with the Plinth Grand and Plinth Low podiums – forming a bridge across the low-slung designs for elevated surface space – the sleek design is offered in a range of beautiful, natural materials: from classic White Carrera marble and the intriguing purple-veined Calacatta Viola to sand-coloured Kunis Breccia stone.</p>
+<p><em>N.B. The Plinth Bridge cannot be used for seating.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">2350.00</s:price>
+      <s:sku>7040319</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7040960</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7040530</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7040630</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807072145474</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7040130</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807074996290</id>
+    <published>2022-09-30T11:05:48+02:00</published>
+    <updated>2022-09-30T11:05:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-pedestal"/>
+    <title>Plinth Pedestal</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Pedestal_Surround_Vase_4.jpg?v=1664267002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1490.00 - 1960.00
+            <a href="https://audocph.com/products/plinth-pedestal">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A part of our ever-growing Plinth Collection of multifunctional marble and stone furniture pieces, the Plinth Pedestal is a space-saving display for ornamental objects. Elevating in every sense, its slender silhouette is offered in a range of beautiful, natural materials that form the perfect backdrop for family heirlooms, a flower-filled vase, decorative lamp and more.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>7025319</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku>7025960</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku>7025530</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">1490.00</s:price>
+      <s:sku>7025630</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807074996290</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>7025130</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710666428482</id>
+    <published>2022-04-12T09:07:56+02:00</published>
+    <updated>2022-04-12T09:07:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-grand"/>
+    <title>Plinth Grand</title>
+    <s:type>Lounge Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Sofa_High_Back_Tearoom_Lounge_Chair_High_Back_W_Plug_Plinth_Grand_Interconnect_Candle_Holder_Torso_Limited.jpg?v=1646835887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Lounge Table<br>
+        <strong>Price: </strong>
+            3180.00 - 4145.00
+            <a href="https://audocph.com/products/plinth-grand">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A supersized version of our classic Plinth Low podium, the Plinth Grand is a monumental and multifunctional design. Designed by Norm Architects and offered in four marble types with unique veining as well as Kunis Breccia stone, each piece is carefully assembled by hand for the perfect alignment. The design lends itself to a variety of uses and spaces: shaped into a perfectly balanced rectangle, Plinth Grand is ideal as a statement-making coffee table or low-lying display for decorative objects. It is also a sculptural object in its own right, elevating a space with its sophistication and light-reflecting finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Lounge Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">3450.00</s:price>
+      <s:sku>7030960</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">3180.00</s:price>
+      <s:sku>7030530</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">3450.00</s:price>
+      <s:sku>7030630</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">4145.00</s:price>
+      <s:sku>7030319</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710666428482</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">4145.00</s:price>
+      <s:sku>7030130</s:sku>
+      <s:grams>170000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633397067842</id>
+    <published>2021-01-11T11:58:38+01:00</published>
+    <updated>2021-01-11T11:58:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-shelf-marble"/>
+    <title>Plinth Shelf</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Brasilia_Lounge_Chair_Sheepskin_Plinth_Shelf.jpg?v=1646839265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            415.00 - 440.00
+            <a href="https://audocph.com/products/plinth-shelf-marble">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The minimalist profile of the Plinth Shelf is shaped from either Grey Kendzo marble or Kunis Breccia stone. The honed marble and stone carry an air of sophistication and elegance to elevate any space. Equal parts elegant and purposeful, the 60 cm long shelf can be attached horizontally to a wall for use as a display ledge or bookshelf, or vertically as a wall-mounted podium on which to showcase a favourite object.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633397067842</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>7050960</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633397067842</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku>7050130</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4706479898690</id>
+    <published>2020-10-16T10:05:23+02:00</published>
+    <updated>2020-10-16T10:05:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-tall"/>
+    <title>Plinth Tall</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Tall_Kunis_Breccia_a1c588c0-2540-4960-8f59-31f1102dd20d.jpg?v=1678871730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1380.00 - 1800.00
+            <a href="https://audocph.com/products/plinth-tall">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Equal parts beautiful and timeless, the Plinth Collection comprises multi-functional podiums for every space. Profiling the beauty of natural materials and uncompromising craftsmanship, each design is precision assembled to reveal the inherent beauty and uniqueness of the material. In addition to Calacatta Viola, Grey Kendzo, Nero Marquina and White Carrera marble, the Plinth Collection is available in Kunis Breccia, an artistic blend of stones in warm tones which creates subtle texture and adds a new dimension with its refined and inviting expression. Perfectly symmetrical, Plinth Tall, Plinth Low and Plinth Cubic in Kunis Breccia each showcase other items whilst standing as a sculptural piece on its own.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Grey Marble Kendzo</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7020960</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Black Marble Marquina</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7020530</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / White Marble Carrara</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7020630</s:sku>
+      <s:grams>42500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7020319</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706479898690</id>
+      <title>Tall / Sand Kunis Breccia</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7020130</s:sku>
+      <s:grams>42000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4706475016258</id>
+    <published>2020-10-16T09:59:52+02:00</published>
+    <updated>2020-10-16T09:59:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/plinth-low"/>
+    <title>Plinth Low</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Low_Plinth_Grand_Plinth_Tall_Plinth_Shelf.jpg?v=1646841921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            2215.00 - 2765.00
+            <a href="https://audocph.com/products/plinth-low">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Equal parts beautiful and timeless, the Plinth Collection comprises multi-functional podiums for every space. Profiling the beauty of natural materials and uncompromising craftsmanship, each design is precision assembled to reveal the inherent beauty and uniqueness of the material. In addition to Calacatta Viola, Grey Kendzo, Nero Marquina and White Carrera marble, the Plinth Collection is available in Kunis Breccia, an artistic blend of stones in warm tones which creates subtle texture and adds a new dimension with its refined and inviting expression. Perfectly symmetrical, Plinth Tall, Plinth Low and Plinth Cubic in Kunis Breccia each showcase other items whilst standing as a sculptural piece on its own.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">2765.00</s:price>
+      <s:sku>7000319</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7000960</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7000530</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">2215.00</s:price>
+      <s:sku>7000630</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4706475016258</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">2765.00</s:price>
+      <s:sku>7000130</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518970785858</id>
+    <published>2020-05-12T09:15:51+02:00</published>
+    <updated>2020-05-12T09:15:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/marble-plinth"/>
+    <title>Plinth Cubic</title>
+    <s:type>Plinth</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Tall_Triptych_Bowl.jpg?v=1646906616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Plinth<br>
+        <strong>Price: </strong>
+            1380.00 - 1800.00
+            <a href="https://audocph.com/products/marble-plinth">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Equal parts beautiful and timeless, the Plinth Collection comprises multi-functional podiums for every space. Profiling the beauty of natural materials and uncompromising craftsmanship, each design is precision assembled to reveal the inherent beauty and uniqueness of the material. In addition to Calacatta Viola, Grey Kendzo, Nero Marquina and White Carrera marble, the Plinth Collection is available in Kunis Breccia, an artistic blend of stones in warm tones which creates subtle texture and adds a new dimension with its refined and inviting expression. Perfectly symmetrical, Plinth Tall, Plinth Low and Plinth Cubic in Kunis Breccia each showcase other items whilst standing as a sculptural piece on its own.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Plinth</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Grey Marble Kendzo</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7010960</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Black Marble Marquina</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7010530</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>7010630</s:sku>
+      <s:grams>42500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7010319</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518970785858</id>
+      <title>Sand Kunis Breccia</title>
+      <s:price currency="EUR">1800.00</s:price>
+      <s:sku>7010130</s:sku>
+      <s:grams>45000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

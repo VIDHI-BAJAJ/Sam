@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/vases-bowls.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-03-03T10:46:36+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6860291014722</id>
+    <published>2023-03-03T10:46:36+01:00</published>
+    <updated>2023-03-03T10:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hana-vase"/>
+    <title>Hana Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hana_Vase.jpg?v=1671613509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            55.00 - 200.00
+            <a href="https://audocph.com/products/hana-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Hana is inspired by ikebana, the ancient Japanese art of flower arranging that uses few but carefully chosen and artfully positioned stems. Shaped around a central ceramic flower frog, or kenzan, Hana lets you create foolproof floral displays, holding flower stalks and branches in place at different angles. The kenzan can be removed for a more traditional arrangement. Designed in Copenhagen by Krøyer-Sætter-Lassen, the vase is available in three sizes in three unique finishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H7 / Umber</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>4827979</s:sku>
+      <s:grams>1636</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H14.5 / Ochre</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>4828419</s:sku>
+      <s:grams>714</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860291014722</id>
+      <title>H26 / Ashen</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4829659</s:sku>
+      <s:grams>3007</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860290490434</id>
+    <published>2023-03-03T10:45:49+01:00</published>
+    <updated>2023-03-03T10:45:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cresco-propagation-vases"/>
+    <title>Cresco Propagation Vases, Set of 2</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Cresco_Propagation_Set_4.jpg?v=1671612621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A set of two vases designed to propagate plant cuttings or sprout larger seeds, the Cresco Propagation Vases let nature take centre stage. Easy to use and elegant to look at, the shapely glass vessels allow light to reach the growing roots while the concave, handmade ceramic lid supports the plant as it grows. To use, simply fill the glass vase with water, place the lid on top and let nature work its magic.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>Garden</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860290490434</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>4849039</s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677966914</id>
+    <published>2023-02-15T14:48:05+01:00</published>
+    <updated>2023-02-15T14:48:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-lolo"/>
+    <title>Kubus Vase Lolo</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Vase_lolo_3.jpg?v=1694093013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Kubus Lolo is a natural extension of the Kubus series, which includes the Kubus Line candle holder and Kubus Bowl as well as Mogens Lassen’s original candle holder design, the vase is frame by a metal cube and crafted with a central chamber to hold flowers or branches. The minimalist, Bauhaus-inspired design makes an equally striking statement left unfilled.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677966914</id>
+      <title>Black</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL22001</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677966914</id>
+      <title>White</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL22011</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677999682</id>
+    <published>2023-02-15T14:48:04+01:00</published>
+    <updated>2023-02-15T14:48:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-bowl-inlay"/>
+    <title>Kubus Bowl Inlay</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL21001_Kubus_bowl_Inlay_small_black.jpg?v=1676024236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            16.00 - 22.00
+            <a href="https://audocph.com/products/kubus-bowl-inlay">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Kubus Bowl is inspired by Mogens Lassen’s iconic Kubus candle holder and features elements of Bauhaus design – one of the Danish designer’s primary sources of inspiration. When placed in the Kubus Bowl, the inlay protects the surface before using to store food, plants or other objects.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>Black / Small</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>BL21001</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>Black / Large</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>BL21002</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>White / Small</title>
+      <s:price currency="EUR">16.00</s:price>
+      <s:sku>BL21011</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677999682</id>
+      <title>White / Large</title>
+      <s:price currency="EUR">22.00</s:price>
+      <s:sku>BL21012</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678032450</id>
+    <published>2023-02-15T14:48:03+01:00</published>
+    <updated>2023-02-15T14:48:03+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-bowl"/>
+    <title>Kubus Bowl</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Kubus_Bowl_Centerpiece_3.jpg?v=1694092795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            90.00 - 525.00
+            <a href="https://audocph.com/products/kubus-bowl">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Kubus Bowl is inspired by Mogens Lassen’s iconic Kubus candle holder and features elements of Bauhaus design – one of the Danish designer’s primary sources of inspiration. The German artistic movement, with its signature angular, geometric style, brought accessible and functional design to the people. The Kubus Bowl is a natural extension of the iconic Kubus candle holder series. Suited to a multitude of uses – as a herb pot, container for knick knacks and more – an <a href="https://audocph.com/products/kubus-bowl-inlay">inlay </a>is available separately to protect the surface before being used to hold food, plants or other items.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / Black</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL20000</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / White</title>
+      <s:price currency="EUR">90.00</s:price>
+      <s:sku>BL20100</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / Nickel-plated</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL20200</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Mini / Gold-plated</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>BL20700</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Small / Black</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL20001</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Small / White</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL20101</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Small / Gold-plated</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>BL20701</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Large / Black</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL20002</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Large / White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL20102</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678032450</id>
+      <title>Large / Gold-plated</title>
+      <s:price currency="EUR">525.00</s:price>
+      <s:sku>BL20702</s:sku>
+      <s:grams>994</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862678097986</id>
+    <published>2023-02-15T14:48:01+01:00</published>
+    <updated>2023-02-15T14:48:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/kubus-bowl-centerpiece"/>
+    <title>Kubus Bowl Centerpiece</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Kubus_Centrepiece_25.jpg?v=1676560341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            180.00 - 525.00
+            <a href="https://audocph.com/products/kubus-bowl-centerpiece">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">An object to adorn the centre of a table or the surface of a counter or shelf, the Kubus Centerpiece is both a practical container and a beautiful decoration. It draws on simple geometric shapes: a square and a circle. Lower in stature than <a href="https://audocph.com/products/kubus-bowl">Kubus Bowl</a>, it can also be put to use as a plant holder or display bowl for fruit and vegetables. Each bowl comes with a protective inlay, making it suitable for use with both food and plants.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Kubus</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / Black</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL23001</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / White</title>
+      <s:price currency="EUR">180.00</s:price>
+      <s:sku>BL23101</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / Nickel-plated</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>BL23201</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Small / Gold-plated</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>BL23701</s:sku>
+      <s:grams>1171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Large / Black</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL23002</s:sku>
+      <s:grams>2574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Large / White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>BL23102</s:sku>
+      <s:grams>2574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862678097986</id>
+      <title>Large / Gold-plated</title>
+      <s:price currency="EUR">525.00</s:price>
+      <s:sku>BL23702</s:sku>
+      <s:grams>2574</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807129456706</id>
+    <published>2022-09-30T11:09:48+02:00</published>
+    <updated>2022-09-30T11:09:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/taper-bowl"/>
+    <title>Taper Bowl</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Taper_Bowl_Surround_Vase_2.jpg?v=1664268225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With its familiar feel, reminiscent of ancient vessels, the Taper Bowl has a restrained look that lends itself to any setting. Designed for Audo by master stylist Colin King, the conical metal design features a brass finish that lends warmth to interiors. Versatile in use, it works equally well as a catch-all for small items as it does left unfilled as a decorative object.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807129456706</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4426839</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807124115522</id>
+    <published>2022-09-30T11:08:55+02:00</published>
+    <updated>2022-09-30T11:08:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/rond-bowl"/>
+    <title>Rond Bowl</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Rond_Bowl_Wood_2.jpg?v=1664267932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dramatic in scale and expression, the Rond Bowl is an ideal centrepiece for a dining or a coffee table, anchoring a large surface space. Expertly cast in concrete, the versatile design has an intriguing surface that adds textural appeal to spaces and an exaggerated lip that lends dimension to the piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807124115522</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>4826939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807120740418</id>
+    <published>2022-09-30T11:08:10+02:00</published>
+    <updated>2022-09-30T11:08:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/surround-vase"/>
+    <title>Surround Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Pedestal_Surround_Vase_2.jpg?v=1664267735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfectly proportioned, the Surround Vase is shaped from a single piece of solid wood that displays unique natural grain patterns. The rotund, tactile design, created for Audo by master stylist Colin King, is equally impactful styled with a few stems of flowers as it is left unfilled.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807120740418</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>4428939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807109500994</id>
+    <published>2022-09-30T11:07:39+02:00</published>
+    <updated>2022-09-30T11:07:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/stance-vase"/>
+    <title>Stance Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Colin King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Stance_Vase_Releve_Platter.jpg?v=1664267621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colin King<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            230.00 - 240.00
+            <a href="https://audocph.com/products/stance-vase">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple. Sophisticated. Sculptural. The Stance Vase is inspired by traditional display stands to provide support for branches or long-stemmed flowers. The bronzed brass vase patinates beautifully over time and the understated design lends itself to any setting. Available in two sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Colin King</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807109500994</id>
+      <title>H40</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>4784859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807109500994</id>
+      <title>H50</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>4785859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807096000578</id>
+    <published>2022-09-30T11:06:59+02:00</published>
+    <updated>2022-09-30T11:06:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/collapse-vase"/>
+    <title>Collapse Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Sofia Tufvasson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Collapse_Vase_3.jpg?v=1685705997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sofia Tufvasson<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            95.00 - 135.00
+            <a href="https://audocph.com/products/collapse-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Drawing inspiration from the fluid drapes of fabric, the Collapse Vase has a soft, organic expression. Whether clustered, paired or used alone, it lends sculptural beauty to modern spaces – with or without the addition of flowers. Each piece is unique due to the firing process.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Sofia Tufvasson</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807096000578</id>
+      <title>H20 / Black</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>4481539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807096000578</id>
+      <title>H20 / White</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>4481639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6807096000578</id>
+      <title>H30 / Black</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>4482539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711398072386</id>
+    <published>2022-04-01T09:12:50+02:00</published>
+    <updated>2022-04-01T09:12:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/triptych-bowl"/>
+    <title>Triptych Bowl</title>
+    <s:type>Serving Bowl</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Triptych_Bowl.jpg?v=1676634626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Serving Bowl<br>
+        <strong>Price: </strong>
+            45.00 - 105.00
+            <a href="https://audocph.com/products/triptych-bowl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted with a reactive glaze that gives each piece a unique expression according to where in the kiln it is placed when fired, the stoneware Tryptych Bowl is perfectly sized to hold all manner of objects. It also makes a beautiful addition to spaces as a decorative object in its own right. Tapering to a narrow base, the wide-rimmed design is shaped into three different sizes, each in a different colour. The decorative, speckled surface of the bowl lends a nostalgic feel to an interior, reminiscent of prized find or heirloom object. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Serving Bowl</s:tag>
+    <s:tag>Wine &amp; Food Lover</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711398072386</id>
+      <title>Ø15 Créme</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>2045649</s:sku>
+      <s:grams>1050</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711398072386</id>
+      <title>Ø30 Mocha</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>2047939</s:sku>
+      <s:grams>4160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711397515330</id>
+    <published>2022-04-01T09:12:05+02:00</published>
+    <updated>2022-04-01T09:12:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/aer-bowl"/>
+    <title>Aer Bowl</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Gabriel Tan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Aer_Bowl_Passage_Lounge_Table.jpg?v=1647435677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gabriel Tan<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The undulating Aer Bowl in smoke glass brings sculptural appeal to surfaces—whether filled with treats or placed on a surface as a decorative object. Taking its cues from the spiralling movement of air seen through smoke or mist, the dish is asymmetrical in shape, gently tapering to one side, and rippled in texture. When placed close to natural light—on a window sill or table top—it takes on an ethereal feel, where reflections and refractions of light bring the design and the surface on which it stands to life. Each mouth-blown bowl displays different visual characteristics that reflect its uniqueness.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Gabriel Tan</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:tag>type-objects</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711397515330</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>4730949</s:sku>
+      <s:grams>2840</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711396204610</id>
+    <published>2022-04-01T09:11:11+02:00</published>
+    <updated>2022-04-01T09:11:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/strandgade-stem-vase"/>
+    <title>Strandgade Stem Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Triptych_bowl_Strandgade_Stem_Vase_1.jpg?v=1647435447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The stoneware Strandgade Stem Vase has an asymmetrical form that lends itself to a single cut flower stem or decorative branch. Adding a touch of nostalgia to table settings, shelves or windowsills, the minimalist design fits effortlessly into any interior scheme. Part of the Strandgade Collection, designed for Audo by Copenhagen-based architects Mentze Ottenstein and named after the historic street on which they live, the vase reimagines the traditions of togetherness. Each piece varies in size and shape due to its handcrafted nature.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711396204610</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>4479429</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6549387575362</id>
+    <published>2021-03-22T15:28:14+01:00</published>
+    <updated>2021-03-22T15:28:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-bowl-small"/>
+    <title>Échasse Bowl, Small</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Theresa Rand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Echasse-bowl_3_4cb21e6f-ec32-4085-b947-87dfb192c73d.jpg?v=1616423118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theresa Rand<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reimagining the classic elegance of glass vases and bowls, the Échasse Collection brings a minimalist silhouette with distinguished, playful edge to modern and traditional spaces. Theresa Rand’s playful concept beautifully interprets the word “échasse”: French for “stilts”. The slender, stilt-like supporting legs delicately suspend the glass forms, creating a sense of lightness while ensuring stability.</p>
+<p>The Échasse Bowl—Available in two sizes in smoked glass and brushed brass, offers a modern, centerpiece-worthy take on the traditional serving bowl. Simple and purposeful, this is counter- and tabletop storage that is both modern and elegant.</p>
+<p>Its expression ethereal, its design elevated in every sense, the Échasse Collection offers infinite possibilities for experimentation, as its test tube origins suggest. Alone or together, filled with favourite flowers, fruits and objects or displayed alone as sculptural focal points, these pieces enliven modern spaces with equal parts daring and grace.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Theresa Rand</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Echasse</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6549387575362</id>
+      <title>Small / Brass | Green Smoked Glass</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>4799949</s:sku>
+      <s:grams>987</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518974193730</id>
+    <published>2020-04-28T12:07:21+02:00</published>
+    <updated>2020-04-28T12:07:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-bowl"/>
+    <title>Échasse Bowl</title>
+    <s:type>Decorative Bowl</s:type>
+    <s:vendor>Theresa Rand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Echasse_bowl.jpg?v=1607956943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theresa Rand<br>
+        <strong>Type: </strong>Decorative Bowl<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reimagining the classic elegance of glass vases and bowls, the Échasse Collection brings a minimalist silhouette with distinguished, playful edge to modern and traditional spaces. Theresa Rand’s playful concept beautifully interprets the word “échasse”: French for “stilts”. The slender, stilt-like supporting legs delicately suspend the glass forms, creating a sense of lightness while ensuring stability.</p>
+<p>The Échasse Bowl—Available in two sizes in smoked glass and brushed brass, offers a modern, centerpiece-worthy take on the traditional serving bowl. Simple and purposeful, this is counter- and tabletop storage that is both modern and elegant.</p>
+<p>Its expression ethereal, its design elevated in every sense, the Échasse Collection offers infinite possibilities for experimentation, as its test tube origins suggest. Alone or together, filled with favourite flowers, fruits and objects or displayed alone as sculptural focal points, these pieces enliven modern spaces with equal parts daring and grace.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Theresa Rand</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Echasse</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Decorative Bowl</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518974193730</id>
+      <title>Large / Brass | Green Smoked Glass</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku>4798949</s:sku>
+      <s:grams>3649</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518973603906</id>
+    <published>2020-04-28T12:07:18+02:00</published>
+    <updated>2020-04-28T12:07:18+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/echasse-vase"/>
+    <title>Échasse Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Theresa Rand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay20210866.jpg?v=1621258896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theresa Rand<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            200.00 - 575.00
+            <a href="https://audocph.com/products/echasse-vase">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reimagining the classic elegance of glass vases and bowls, the Échasse Collection brings a minimalist silhouette with distinguished, playful edge to modern and traditional spaces. Theresa Rand’s playful concept beautifully interprets the word “échasse”: French for “stilts”. The slender, stilt-like supporting legs delicately suspend the glass forms, creating a sense of lightness while ensuring stability.</p>
+<p>The Échasse Vase—The first piece in the now-iconic Collection was inspired by laboratory test tubes. The drop-shaped form is as elegant when holding flowers on a desk, living room floor, or leave it unfilled. The smoked glass version with brushed brass legs is available in three sizes. The unique colour gradients of the glass give the design depth and contrast against the legs’ clean lines. The smallest vase is now available with clear glass and bronzed brass legs; a classic pairing to complement any interior palette, in a size ideal for more compact spaces.</p>
+<p>Its expression ethereal, its design elevated in every sense, the Échasse Collection offers infinite possibilities for experimentation, as its test tube origins suggest. Alone or together, filled with favorite flowers, fruits and objects or displayed alone as sculptural focal points, these pieces enliven modern spaces with equal parts daring and grace.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Theresa Rand</s:tag>
+    <s:tag>Echasse</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518973603906</id>
+      <title>Small / Brass | Green Smoked Glass</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4795949</s:sku>
+      <s:grams>1363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973603906</id>
+      <title>Medium / Brass | Green Smoked Glass</title>
+      <s:price currency="EUR">375.00</s:price>
+      <s:sku>4796949</s:sku>
+      <s:grams>4139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973603906</id>
+      <title>Large / Brass | Green Smoked Glass</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>4797949</s:sku>
+      <s:grams>9086</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973603906</id>
+      <title>Small / Bronzed Brass | Amber</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>4795929</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973603906</id>
+      <title>Large / Bronzed Brass | Amber</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>4797929</s:sku>
+      <s:grams>9090</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518948536386</id>
+    <published>2020-04-28T12:04:44+02:00</published>
+    <updated>2020-04-28T12:04:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/aer-vase"/>
+    <title>Aer Vase</title>
+    <s:type>Vase</s:type>
+    <s:vendor>Gabriel Tan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Aer_Vase.jpg?v=1648799458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gabriel Tan<br>
+        <strong>Type: </strong>Vase<br>
+        <strong>Price: </strong>
+            110.00 - 320.00
+            <a href="https://audocph.com/products/aer-vase">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designer Gabriel Tan’s appreciation of simplicity, sculptural beauty and functionality come together in the Aer Collection. The rippled, asymmetrical silhouette of the Aer Vase is perfect for admiring from afar and exploring up close. Undulating in liquid-like waves, it was designed to resemble the spiralling movement of air seen through smoke or mist. Tapering gently to its base, the smoke-coloured glass has a tactile, almost ethereal quality, gently embracing a bouquet or adding sculptural appeal to a space as a standalone object. Each mouth-blown vase displays different visual characteristics that reflect its uniqueness.</p>
+<p>Available in three sizes – 19, 33 &amp; 49 cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Gabriel Tan</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Vase</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518948536386</id>
+      <title>19 cm</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>4735949</s:sku>
+      <s:grams>5148</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518948536386</id>
+      <title>33 cm</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>4736949</s:sku>
+      <s:grams>5148</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518948536386</id>
+      <title>49 cm</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>4737949</s:sku>
+      <s:grams>5406</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/jwda.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-05-15T14:13:22+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8817757913418</id>
+    <published>2024-05-15T14:13:22+02:00</published>
+    <updated>2024-05-15T14:13:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bulb-jwda-ce-e27-8w-a60-matt"/>
+    <title>Bulb (JWDA - CE) E27, 8W, A60, Matt</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1840001.jpg?v=1715771562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            23.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A separate bulb for the JWDA Lamp - E27, 8W, A60 in Matt.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817757913418</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">23.43</s:price>
+      <s:sku>1840001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8613773443402</id>
+    <published>2023-12-21T15:28:32+01:00</published>
+    <updated>2023-12-21T15:28:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-table-lamp-small"/>
+    <title>JWDA Table Lamp, Small</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>Jonas Wagell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_JWDA_Table_Lamp_6_3b4ee7ac-0d2c-4876-a10c-3392b503e797.jpg?v=1703169127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jonas Wagell<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            230.00 - 240.00
+            <a href="https://audocph.com/products/jwda-table-lamp-small">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An instant classic, the JWDA Lamp is the kind of sculptural piece that turns heads and brings new life to a room. The contrast of the delicate, rounded glass with the sturdy metal base makes for a balanced and intriguing silhouette.</p>
+<p><a href="https://audocph.com/products/1-pc-g9-bulb-3-5-w-ce-for-jwda-lamp">Bulb available</a>.<br><a href="https://audocph.com/products/jwda-lamp-glass-shade-shiny">Spare shade available</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Jonas Wagell</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Table Lamp</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8613773443402</id>
+      <title>Light Grey Concrete</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1800129</s:sku>
+      <s:grams>1752</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8613773443402</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1800839</s:sku>
+      <s:grams>1844</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8613773443402</id>
+      <title>Black Painted Steel</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>1810539</s:sku>
+      <s:grams>1819</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8613773443402</id>
+      <title>Bronzed Brass</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>1800859</s:sku>
+      <s:grams>1752</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8613773443402</id>
+      <title>Alabaster White</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1800360</s:sku>
+      <s:grams>1752</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8613773443402</id>
+      <title>Ammonite Grey</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1800089</s:sku>
+      <s:grams>1752</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600487174210</id>
+    <published>2022-10-07T13:32:29+02:00</published>
+    <updated>2022-10-07T13:32:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-g9-bulb-3-5-w-ce-for-jwda-lamp"/>
+    <title>1 pc. G9 bulb, 3,5 W (CE) for JWDA Table Lamp / Pendant Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1800000.jpg?v=1630950360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. G9 bulb, 3,5 W (CE) for <a href="https://audocph.com/products/jwda-table-lamp">JWDA Table Lamp</a> &amp; <a href="https://audocph.com/products/jwda-pendant-lamp">JWDA Pendant Lamp</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600487174210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>1800000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6780989702210</id>
+    <published>2022-08-16T09:26:52+02:00</published>
+    <updated>2022-08-16T09:26:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/glass-shade-jwda-portable"/>
+    <title>JWDA Table Lamp, Portable, Glass Shade</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1755003.jpg?v=1659361672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 pc. Glass Shade for the<a href="https://audocph.com/products/jwda-table-lamp-portable"> JWDA Table Lamp, Portable.</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6780989702210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">26.00</s:price>
+      <s:sku>1755003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6726686670914</id>
+    <published>2022-03-16T12:40:44+01:00</published>
+    <updated>2022-03-16T12:40:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-lamp-glass-shade-shiny"/>
+    <title>JWDA Table Lamp, Glass Shade, Small</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1800100_JWDA_Lamp_Glass_Shade_Shiny.jpg?v=1647430836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            55.00 - 65.00
+            <a href="https://audocph.com/products/jwda-lamp-glass-shade-shiny">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replaceable Glass Shade for the <a href="https://audocph.com/products/jwda-table-lamp-small">JWDA Table Lamp, small</a>. Choose between shiny or matte opal.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6726686670914</id>
+      <title>Shiny</title>
+      <s:price currency="EUR">55.00</s:price>
+      <s:sku>1800100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6726686670914</id>
+      <title>Matt</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>1800110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637860192322</id>
+    <published>2021-09-14T12:37:29+02:00</published>
+    <updated>2021-09-14T12:37:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-table-lamp-portable"/>
+    <title>JWDA Table Lamp, Portable</title>
+    <s:type>Portable Lamp</s:type>
+    <s:vendor>Jonas Wagell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_JWDA_Table_Lamp_Portable_Echasse_Vase.jpg?v=1630948649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jonas Wagell<br>
+        <strong>Type: </strong>Portable Lamp<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our classic JWDA Lamp in a cordless version. Inspired by traditional oil lamps and crafted in contrasting materials, the JWDA Portable has the freedom and flexibility to move anywhere you want. Delivering 10 hours of adjustable light when fully charged, the small-scale design is defined by its elliptical glass shade and solid metal base with a brass dimmer switch. The cordless design charges via a concealed magnetic connector and USB cable. The cable charges with a standard USB charger plug. Comes without charger plug. The lamp is compatible with Audo's <a href="https://audocph.com/products/charging-board">Charging Board</a>.</p>
+<p><a href="https://audocph.com/products/g4-bulb-1-5w-portable">Spare bulb available</a>.</p>
+<p><a href="https://audocph.com/products/glass-shade-jwda-portable">Spare shade available</a>.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Jonas Wagell</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Portable Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637860192322</id>
+      <title>Black</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>1870539Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637860192322</id>
+      <title>Alabaster White</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>1870649Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637860192322</id>
+      <title>Dusty Green</title>
+      <s:price currency="EUR">200.00</s:price>
+      <s:sku>1870469Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600515518530</id>
+    <published>2021-07-01T15:26:17+02:00</published>
+    <updated>2021-07-01T15:26:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-lamp-shade-matt-opal-for-jwda-floor-lamp"/>
+    <title>JWDA Floor Lamp, Glass Shade</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1840600.jpg?v=1624962833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. lamp shade, matt opal, for <a href="https://audocph.com/products/jwda-floor-lamp">JWDA Floor Lamp</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600515518530</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1840600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600515158082</id>
+    <published>2021-07-01T15:26:08+02:00</published>
+    <updated>2021-07-01T15:26:08+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-lamp-shade-matt-opal-for-jwda-lamp-marble"/>
+    <title>JWDA Table Lamp, Glass Shade, Large</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1830000.jpg?v=1624962783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spare glass shade for <a href="https://audocph.com/products/jwda-table-lamp">JWDA Table Lamp, Large</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600515158082</id>
+      <title>Matt opal</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>1830000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6600515158082</id>
+      <title>Shiny</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>1840002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600514797634</id>
+    <published>2021-07-01T15:25:41+02:00</published>
+    <updated>2021-07-01T15:25:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-lamp-shade-for-jwda-pendant-lamp"/>
+    <title>JWDA Pendant Lamp, Glass Shade</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1820000.jpg?v=1624962673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. lamp shade for <a href="https://audocph.com/products/jwda-pendant-lamp">JWDA Pendant Lamp</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600514797634</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">65.00</s:price>
+      <s:sku>1820000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518949093442</id>
+    <published>2020-05-11T23:30:15+02:00</published>
+    <updated>2020-05-11T23:30:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-floor-lamp"/>
+    <title>JWDA Floor Lamp</title>
+    <s:type>Floor Lamp</s:type>
+    <s:vendor>Jonas Wagell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_JWDA-Floor-Lamp.jpg?v=1587484596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jonas Wagell<br>
+        <strong>Type: </strong>Floor Lamp<br>
+        <strong>Price: </strong>
+            1610.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The JWDA Floor Lamp is part of a collection of lighting inspired by traditional oil lamps. Crafted from contrasting materials, the elegant yet bold design is a lesson in refinement and a study in geometry. An elliptical opal glass shade, a slender metal stem, and a rectangular marble base fitted with a dimmer switch come together to create this timeless addition to modern spaces.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Jonas Wagell</s:tag>
+    <s:tag>Floor Lamps</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Floor Lamp</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518949093442</id>
+      <title>White Marble | Bronzed Brass</title>
+      <s:price currency="EUR">1610.00</s:price>
+      <s:sku>1840639</s:sku>
+      <s:grams>20490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518949093442</id>
+      <title>Travertine | Brushed Brass</title>
+      <s:price currency="EUR">1610.00</s:price>
+      <s:sku>1840619</s:sku>
+      <s:grams>20490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518971834434</id>
+    <published>2020-04-28T12:07:04+02:00</published>
+    <updated>2020-04-28T12:07:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-pendant-lamp"/>
+    <title>JWDA Metallic Pendant Lamp</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Jonas Wagell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuAW16_JWDA_Pendant_Polished_Brass.jpg?v=1587486131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jonas Wagell<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JWDA pendant is part of a Collection of lamps inspired by traditional oil lamps. The lamp is made from honest materials ennobled by the refinement of its design. Simplified and reduced of clutter to its essence, JWDA is minimalist lamp – but with a strong character. It roundedness expresses warmth and friendliness. The lamp represents a study in the contrasts between the raw character of the concrete, the delicate glass and refined brass. Unusually for a pendant lamp, JWDA features a dimmer switch on its base, a practical function that makes this a perfect pendant to hang over a dining table or office desk.</p>
+<p><a href="https://audocph.com/products/1-pc-g9-bulb-3-5-w-ce-for-jwda-lamp">Spare part available</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Jonas Wagell</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>type-pendant</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518971834434</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>1820839</s:sku>
+      <s:grams>2470</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518971768898</id>
+    <published>2020-04-28T12:07:02+02:00</published>
+    <updated>2020-04-28T12:07:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/jwda-table-lamp"/>
+    <title>JWDA Table Lamp, Large</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>Jonas Wagell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_JWDA_Table_Lamp_Calacatta_Viola.jpg?v=1655108540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jonas Wagell<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            335.00 - 415.00
+            <a href="https://audocph.com/products/jwda-table-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An instant classic, the JWDA Lamp is the kind of sculptural piece that turns heads and brings new life to a room. The contrast of the delicate, rounded glass with the sturdy metal base makes for a balanced and intriguing silhouette.</p>
+<p>The timeless JWDA Table Lamp is now available in beautiful Calacatta Viola marble. Delivering ambient light from its elliptical, opal glass shade, it rests on a base of Calacatta Viola marble that features striking purple veining unique to each piece.</p>
+<p><a href="https://audocph.com/products/1-pc-g9-bulb-3-5-w-ce-for-jwda-lamp">Bulb available</a>.<br><a href="https://audocph.com/products/1-pc-lamp-shade-matt-opal-for-jwda-lamp-marble">Spare shade available</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Jonas Wagell</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>type-Table Lamp</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518971768898</id>
+      <title>Rose Marble Calacatta Viola</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>1830319</s:sku>
+      <s:grams>1752</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518971768898</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>1830639</s:sku>
+      <s:grams>2702</s:grams>
+    </s:variant>
+  </entry>
+</feed>

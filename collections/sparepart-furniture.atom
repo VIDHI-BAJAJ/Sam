@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/sparepart-furniture.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-05-15T14:13:26+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8817732354378</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-front-legs-natural-oak"/>
+    <title>Tired Man, Front Legs, Natural Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199103_web.jpg?v=1715768094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            87.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the front legs in Natural Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817732354378</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">87.86</s:price>
+      <s:sku>199103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817679892810</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-plastic-round-part-for-wheel-copy"/>
+    <title>Tired Man, Hind Legs, Natural Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199102_web.jpg?v=1715767443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            46.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the hind legs in Natural Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817679892810</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.02</s:price>
+      <s:sku>199102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817649746250</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-plastic-round-part-for-wheel"/>
+    <title>Tired Man, Plastic Round Part for Wheel</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199100_web_2a3181b0-18af-40e4-8ea8-34265cc7c7b5.jpg?v=1715767374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the plastic round part for wheels.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817649746250</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.25</s:price>
+      <s:sku>199100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817742807370</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-chair-casters-for-star-base-black-aluminium-copy"/>
+    <title>Harbour Chair, Casters for Star Base, Polished Aluminium</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/560019_web.jpg?v=1715769894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            112.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for the Harbour Chair, seperate casters for a star base in Polished Aluminium.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817742807370</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">112.97</s:price>
+      <s:sku>560019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817738711370</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-chair-casters-for-star-base-black-aluminium"/>
+    <title>Harbour Chair, Casters for Star Base, Black Aluminium</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/560018_web.jpg?v=1715769348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            62.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for the Harbour Chair, seperate casters for a star base in Black Aluminium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817738711370</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">62.76</s:price>
+      <s:sku>560018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817737564490</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-front-legs-dark-stained-oak"/>
+    <title>Tired Man, Front Legs, Dark Stained Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199105_web.jpg?v=1715768972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            87.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the front legs in Dark Stained Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817737564490</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">87.86</s:price>
+      <s:sku>199105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817736188234</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-hind-legs-dark-stained-oak"/>
+    <title>Tired Man, Hind Legs, Dark Stained Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199104_packs.jpg?v=1715768727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            46.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the hind legs in Dark Stained Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817736188234</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.02</s:price>
+      <s:sku>199104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817747984714</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-screws-for-backrest"/>
+    <title>Afteroom, Screws for backrest</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/710040.jpg?v=1715770564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            0.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of two screws for the backrest for the Afteroom Chairs. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817747984714</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">0.84</s:price>
+      <s:sku>710040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817744740682</id>
+    <published>2024-05-15T14:13:23+02:00</published>
+    <updated>2024-05-15T14:13:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/wall-mount-for-frame-49-shoe-cabinet"/>
+    <title>Wall Mount for Frame 49+ Shoe Cabinet</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/601011_Wall_Mount_Frame_49_Shoe_cabinet.jpg?v=1715770016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            10.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of spare parts to mount the Frame 49+ shoe cabinet to the wall.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817744740682</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.88</s:price>
+      <s:sku>601011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817803493706</id>
+    <published>2024-05-15T14:12:32+02:00</published>
+    <updated>2024-05-15T14:12:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/gridy-and-epoch-screws-and-rawplugs"/>
+    <title>Gridy and Epoch Shelves, Screws and Rawplugs</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/6600000.jpg?v=1715774375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            8.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of screws and rawplugs for Gridy Funghi Shelves and the Epoch Shelf.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817803493706</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.33</s:price>
+      <s:sku>6600000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817809883466</id>
+    <published>2024-05-15T14:12:31+02:00</published>
+    <updated>2024-05-15T14:12:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-hardware-copy"/>
+    <title>Co Chair, Insert with Plastic Glide in Black</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9303504_web.jpg?v=1715774784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            14.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A set of 4 inserts w plastic glide in black for the Co Chair.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817809883466</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.23</s:price>
+      <s:sku>9303504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817807032650</id>
+    <published>2024-05-15T14:12:31+02:00</published>
+    <updated>2024-05-15T14:12:31+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/gridy-and-epoch-shelves-screws-and-rawplugs-copy"/>
+    <title>Corbel Shelf Hardware</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/7000600.jpg?v=1715774519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            5.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A complete set of hardware for the Corbel Shelf to mount.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817807032650</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.86</s:price>
+      <s:sku>7000600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8608112378186</id>
+    <published>2023-12-15T11:24:31+01:00</published>
+    <updated>2023-12-15T11:24:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-glides-4-pcs"/>
+    <title>Androgyne Side Table, Glides, 4 pcs.</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1180010.jpg?v=1702635873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8608112378186</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>1180010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8472973672778</id>
+    <published>2023-08-01T15:52:32+02:00</published>
+    <updated>2023-08-01T15:52:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/suspension-bracket-frame"/>
+    <title>Suspension Bracket, Frame</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/BL40850_SuspensionBracketS8_Black_Front_300.jpg?v=1690897955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            30.00 - 45.00
+            <a href="https://audocph.com/products/suspension-bracket-frame">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Suspension brackets in 3 different lengths is perfect if you should hang more than one Frame to ensure an easy and both vertical hang up.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8472973672778</id>
+      <title>S8</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>BL40850</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8472973672778</id>
+      <title>S12</title>
+      <s:price currency="EUR">30.00</s:price>
+      <s:sku>BL40851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8472973672778</id>
+      <title>S14</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>BL40852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8432507257162</id>
+    <published>2023-06-07T10:54:29+02:00</published>
+    <updated>2023-06-07T10:54:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-armrest-black-oak"/>
+    <title>Co Chair Armrest, Black Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/580016.jpg?v=1686128054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparepart for the Co Chair w. Armrests</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8432507257162</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>580016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8363144675658</id>
+    <published>2023-06-06T15:07:42+02:00</published>
+    <updated>2023-06-06T15:07:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/zet-connection-feet"/>
+    <title>Zet Connection Feet</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7355005.jpg?v=1680699171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparepart for the Zet Storage System</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8363144675658</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>7355005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8363139367242</id>
+    <published>2023-06-06T15:07:14+02:00</published>
+    <updated>2023-06-06T15:07:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-armrest-dark-stained-oak"/>
+    <title>Co Chair Armrest, Dark Stained Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/580015.jpg?v=1680698907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparepart for the Co Chair w. Armrests</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8363139367242</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>580015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8363137237322</id>
+    <published>2023-06-06T15:06:51+02:00</published>
+    <updated>2023-06-06T15:06:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-armrest"/>
+    <title>Co Chair Armrest, Natural Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/580014.jpg?v=1680698768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparepart for the Co Chair w. Armrests</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8363137237322</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.00</s:price>
+      <s:sku>580014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6806361800770</id>
+    <published>2022-09-07T10:53:36+02:00</published>
+    <updated>2022-09-07T10:53:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-base-for-glides-sparepart"/>
+    <title>Harbour, Base For Glides, Sparepart</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9303503.jpg?v=1662540817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6806361800770</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.00</s:price>
+      <s:sku>9303503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600517484610</id>
+    <published>2022-06-21T16:42:23+02:00</published>
+    <updated>2022-06-21T16:42:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-set-of-screws-for-wall-mounting-of-rail-desk"/>
+    <title>1 Set of screws for wall mounting of Rail Desk</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1205001_Rail_Desk_Screw_Set.jpg?v=1655822524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Set of screws for wall mounting of Rail Desk</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600517484610</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1.00</s:price>
+      <s:sku>1205001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600485929026</id>
+    <published>2021-07-02T13:25:45+02:00</published>
+    <updated>2021-07-02T13:25:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-column-table-screws-black-4-pcs"/>
+    <title>Harbour Column table, screws, black, 8 pcs.</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9303500_WEB_2.jpg?v=1692004426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harbour Column table, screws, black. Bag with 8 screws M6x20, 4 x 6x12 and 1 allen key</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600485929026</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.00</s:price>
+      <s:sku>9303500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600484814914</id>
+    <published>2021-07-02T13:25:21+02:00</published>
+    <updated>2021-07-02T13:25:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-afteroom-wood-base-w-wo-felt"/>
+    <title>Harbour/Afteroom wood base, w/wo felt</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9270100_dd71eb66-32b4-482e-ad82-13657c20d129.jpg?v=1644843691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harbour/Afteroom wood base, 4 pcs felt glides and 4 pcs plastic glides</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600484814914</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">7.00</s:price>
+      <s:sku>9270100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600484061250</id>
+    <published>2021-07-02T13:24:51+02:00</published>
+    <updated>2021-07-02T13:24:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/habour-co-felt-glides-4-pcs"/>
+    <title>Habour/Co, felt glides, 4 pcs</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9275100.jpg?v=1644843537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harbour/Co, felt glides, 4 pcs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600484061250</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">17.00</s:price>
+      <s:sku>9275100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600504737858</id>
+    <published>2021-07-01T15:37:01+02:00</published>
+    <updated>2021-07-01T15:37:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-lounge-table-table-top-kunis-breccia-screws-black-4-pcs"/>
+    <title>Androgyne Lounge Table, Table Top, Kunis Breccia , screws, black, 4 pcs.</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1184500.jpg?v=1624960318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 pcs. M6x10 countersunk hex screw for Androgyne Lounge Table, Table top, Kunis Breccia</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600504737858</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">8.00</s:price>
+      <s:sku>1184500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600483536962</id>
+    <published>2021-07-01T15:36:52+02:00</published>
+    <updated>2021-07-01T15:36:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-glides-w-wo-felt-grey-blk"/>
+    <title>Afteroom, glides w/wo felt, Grey/Blk</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/8420100.jpg?v=1644843621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Afteroom glides, 4 pcs felt glides and 4 pcs plastic glides, for both grey and black frames</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600483536962</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>8420100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

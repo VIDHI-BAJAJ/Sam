@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/ml-42-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-02-15T14:48:10+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6862677803074</id>
+    <published>2023-02-15T14:48:10+01:00</published>
+    <updated>2023-02-15T14:48:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ml-42-bar-stool"/>
+    <title>ML 42 Bar Stool</title>
+    <s:type>Stool</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/bylassen_ML42_Stool_ML42_Counter_Stool_ML42_Bar_Stool.jpg?v=1676017296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Stool<br>
+        <strong>Price: </strong>
+            860.00 - 1260.00
+            <a href="https://audocph.com/products/ml-42-bar-stool">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When Mogens Lassen wanted to create a stool that was an extension of the body, he looked to those used by shoemakers, transferring their light and elegant look to his sculptural three-legged design. Now considered a collector’s item, the ML42 was first designed in 1942. Shaped from wood to support the body, it is offered in three different heights, each featuring a moulded seat and tripod-like legs. The addition of a metal foot bar on the bar and counter versions ensures further comfort when seated for extended periods. Lightweight and easy to move around, it is offered in black-stained beech, soap treated oak and brown-oiled oak.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Black Stained Beech / Stainless Steel</title>
+      <s:price currency="EUR">910.00</s:price>
+      <s:sku>BL41013</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Black Stained Beech / Brass</title>
+      <s:price currency="EUR">910.00</s:price>
+      <s:sku>BL41023</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Black Stained Beech / Copper</title>
+      <s:price currency="EUR">860.00</s:price>
+      <s:sku>BL41043</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Soap Treated Oak / Stainless Steel</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41113</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Soap Treated Oak / Brass</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41123</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Soap Treated Oak / Copper</title>
+      <s:price currency="EUR">1220.00</s:price>
+      <s:sku>BL41143</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Brown Oiled Oak / Stainless Steel</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41413</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Brown Oiled Oak / Brass</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>BL41423</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677803074</id>
+      <title>Brown Oiled Oak / Copper</title>
+      <s:price currency="EUR">1220.00</s:price>
+      <s:sku>BL41443</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677835842</id>
+    <published>2023-02-15T14:48:09+01:00</published>
+    <updated>2023-02-15T14:48:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ml-42-counter-stool"/>
+    <title>ML 42 Counter Stool</title>
+    <s:type>Stool</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_ML_42_Counter_Stool_Stance_Vase_Strandgade_Drinking_Glass.jpg?v=1676561150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Stool<br>
+        <strong>Price: </strong>
+            820.00 - 1195.00
+            <a href="https://audocph.com/products/ml-42-counter-stool">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In 1942 Mogens Lassen designed the Stool ML42 as a piece for a furniture exhibition held at the Danish Museum of Decorative Art. He took inspiration from the stools used by the shoemakers of the past, and transferred the light, elegant look to the creation of this sculptural three-legged stool. The Stool ML42 is considered a collector’s item by international design connoisseurs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Black Stained Beech / Stainless Steel</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>BL41012</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Black Stained Beech / Brass</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>BL41022</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Black Stained Beech / Copper</title>
+      <s:price currency="EUR">845.00</s:price>
+      <s:sku>BL41042</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Soap Treated Oak / Stainless Steel</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41112</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Soap Treated Oak / Brass</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41122</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Brown Oiled Oak / Stainless Steel</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41412</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Brown Oiled Oak / Brass</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41422</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Soap Treated Oak / Copper</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41142</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677835842</id>
+      <title>Brown Oiled Oak / Copper</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>BL41442</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862684127298</id>
+    <published>2023-02-15T14:47:26+01:00</published>
+    <updated>2023-02-15T14:47:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ml-42-stool"/>
+    <title>ML 42 Stool</title>
+    <s:type>Stool</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/byLassen_ML42_stool.jpg?v=1676038111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Stool<br>
+        <strong>Price: </strong>
+            780.00 - 1125.00
+            <a href="https://audocph.com/products/ml-42-stool">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>In 1942, Mogens Lassen conceptualized the iconic Stool ML42 for a furniture exhibition hosted at the Danish Museum of Decorative Art. Drawing inspiration from the stools employed by traditional shoemakers, he masterfully translated their light and graceful aesthetics into the creation of this sculptural three-legged stool. Today, the ML42 Stool  is widely regarded as a coveted collector's item among global aficionados of design.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862684127298</id>
+      <title>Soap Treated Oak</title>
+      <s:price currency="EUR">1115.00</s:price>
+      <s:sku>BL41111</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862684127298</id>
+      <title>Black Stained Beech</title>
+      <s:price currency="EUR">780.00</s:price>
+      <s:sku>BL41011</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862684127298</id>
+      <title>Brown Oiled Oak</title>
+      <s:price currency="EUR">1125.00</s:price>
+      <s:sku>BL41411</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

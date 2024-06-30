@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/tired-man-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-05-15T14:13:26+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8817732354378</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-front-legs-natural-oak"/>
+    <title>Tired Man, Front Legs, Natural Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199103_web.jpg?v=1715768094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            87.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the front legs in Natural Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817732354378</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">87.86</s:price>
+      <s:sku>199103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817679892810</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-plastic-round-part-for-wheel-copy"/>
+    <title>Tired Man, Hind Legs, Natural Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199102_web.jpg?v=1715767443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            46.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the hind legs in Natural Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817679892810</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.02</s:price>
+      <s:sku>199102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817649746250</id>
+    <published>2024-05-15T14:13:26+02:00</published>
+    <updated>2024-05-15T14:13:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-plastic-round-part-for-wheel"/>
+    <title>Tired Man, Plastic Round Part for Wheel</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199100_web_2a3181b0-18af-40e4-8ea8-34265cc7c7b5.jpg?v=1715767374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            19.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the plastic round part for wheels.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817649746250</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.25</s:price>
+      <s:sku>199100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817737564490</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-front-legs-dark-stained-oak"/>
+    <title>Tired Man, Front Legs, Dark Stained Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199105_web.jpg?v=1715768972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            87.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the front legs in Dark Stained Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817737564490</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">87.86</s:price>
+      <s:sku>199105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8817736188234</id>
+    <published>2024-05-15T14:13:25+02:00</published>
+    <updated>2024-05-15T14:13:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-hind-legs-dark-stained-oak"/>
+    <title>Tired Man, Hind Legs, Dark Stained Oak</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/199104_packs.jpg?v=1715768727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            46.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spare parts for The Tired Man Lounge Chair, the hind legs in Dark Stained Oak. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Furniture</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8817736188234</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">46.02</s:price>
+      <s:sku>199104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677082178</id>
+    <published>2023-02-15T14:48:17+01:00</published>
+    <updated>2023-02-15T14:48:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-ottoman"/>
+    <title>The Tired Man Ottoman, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Tired_Man_Ottoman_12_WEB_6bab40f3-91af-49d4-a0ab-db9e21d0ddd3.jpg?v=1697193525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Tired Man Ottoman has been designed from Flemming Lassen's original armchair. The soft lines and round shapes from the armchair is continued in the Ottoman. Relaunched in 2015, the award-winning design is offered in plush sheepskin in a nod to the original, and with natural or dark-oiled oak heartwood legs and front brass casters for easy movement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-010E02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-010G02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-040E02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-040G02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677114946</id>
+    <published>2023-02-15T14:48:16+01:00</published>
+    <updated>2023-02-15T14:48:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man"/>
+    <title>The Tired Man Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Tired_Man_Rond_Bowl_Converge_Book_Ends.jpg?v=1675773981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            9155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Tired Man was launched at the Copenhagen Cabinetmakers’ Guild Exhibition in 1935 and has since become an icon of Danish design. The epitome of craftsmanship and comfort, the characteristically curved armchair was designed by Flemming Lassen to feel “as warm and snug as a polar bear cub in the arms of its mother.” Relaunched in 2015, the award-winning design is offered in plush upholstery, including sheepskin in a nod to the original, and with natural or dark-oiled oak heartwood legs and front brass casters for easy movement. A corresponding footstool ensures further comfort.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-010E02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-010G02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-050E02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-050G02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/light-bulbs.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2022-10-07T13:45:50+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6751566692418</id>
+    <published>2022-10-07T13:45:50+02:00</published>
+    <updated>2022-10-07T13:45:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/g4-bulb-1-5w-portable"/>
+    <title>G4 Bulb 1,5W, Portable, Dimmable</title>
+    <s:type>Bulb</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1800002_G4_Bulb_1_5W_Portable.jpg?v=1653045939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Bulb<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Compatible with the <a href="https://audocph.com/products/column-table-lamp-portable">Column Table Lamp, Portable</a>, <a href="https://audocph.com/products/jwda-table-lamp-portable">JWDA Table Lamp, Portable</a> and <a href="https://audocph.com/products/torso-table-lamp-portable">Torso Table Lamp, Portable</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751566692418</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>1800002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600487174210</id>
+    <published>2022-10-07T13:32:29+02:00</published>
+    <updated>2022-10-07T13:32:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-g9-bulb-3-5-w-ce-for-jwda-lamp"/>
+    <title>1 pc. G9 bulb, 3,5 W (CE) for JWDA Table Lamp / Pendant Lamp</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1800000.jpg?v=1630950360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. G9 bulb, 3,5 W (CE) for <a href="https://audocph.com/products/jwda-table-lamp">JWDA Table Lamp</a> &amp; <a href="https://audocph.com/products/jwda-pendant-lamp">JWDA Pendant Lamp</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600487174210</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.00</s:price>
+      <s:sku>1800000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518944866370</id>
+    <published>2022-10-07T13:31:56+02:00</published>
+    <updated>2022-10-07T13:31:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/g9-led-bulb-for-cast-series-lighting"/>
+    <title>G9 LED Bulb for Cast series lighting</title>
+    <s:type>Bulb</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1220000_WEB.jpg?v=1665144100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Bulb<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A dimmable LED bulb that is compatible with our Cast Collection of lighting products.<br><strong data-mce-fragment="1">This item can not currently be UL-listed.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518944866370</id>
+      <title>G9 LED</title>
+      <s:price currency="EUR">18.00</s:price>
+      <s:sku>1220000</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6766403944514</id>
+    <published>2022-06-29T11:22:20+02:00</published>
+    <updated>2022-06-29T11:22:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bulb-e27"/>
+    <title>Bulb E27</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/2700639_Bulb_E27_A60_6W.jpg?v=1656494504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimmable LED bulb with a matt surface.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6766403944514</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">42.00</s:price>
+      <s:sku>2700639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6766404010050</id>
+    <published>2022-06-29T11:22:05+02:00</published>
+    <updated>2022-06-29T11:22:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bulb-e14"/>
+    <title>Bulb E14</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/2701639_Bulb_E14_A45_4W.jpg?v=1656494521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dimmable LED bulb with a matt surface.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6766404010050</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">35.00</s:price>
+      <s:sku>2701639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6600494547010</id>
+    <published>2021-07-01T15:24:41+02:00</published>
+    <updated>2021-07-01T15:24:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/1-pc-g9-bulb-1-5-w-ce-for-cast-range"/>
+    <title>1 pc. G9 bulb, 1,5 W (CE) for Cast Range</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1210000.jpg?v=1624958232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pc. G9 bulb, 1,5 W (CE) for Cast Range</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6600494547010</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">3.00</s:price>
+      <s:sku>1210000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518973374530</id>
+    <published>2020-04-28T12:07:15+02:00</published>
+    <updated>2020-04-28T12:07:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/globe-led-bulb-g95-e26"/>
+    <title>Globe LED Bulb</title>
+    <s:type>Bulb</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/2500639_GlobeBulb_Opal_01.jpg?v=1595243481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Bulb<br>
+        <strong>Price: </strong>
+            45.00 - 50.00
+            <a href="https://audocph.com/products/globe-led-bulb-g95-e26">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Globe Bulb is a beautiful, frosted LED bulb. Low-power and dimmable, this bulb is a great addition to any lighting. Add it to dimmable lighting for mood effects.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Audo Copenhagen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Outlet</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:tag>Volume Discount</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518973374530</id>
+      <title>G95 / Opal glass</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>2510639</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973374530</id>
+      <title>G95 / Clear glass</title>
+      <s:price currency="EUR">45.00</s:price>
+      <s:sku>2610039</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518973374530</id>
+      <title>G125 / Clear glass</title>
+      <s:price currency="EUR">50.00</s:price>
+      <s:sku>2611039</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518962135106</id>
+    <published>2020-04-28T12:06:02+02:00</published>
+    <updated>2020-04-28T12:06:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tr-bulb"/>
+    <title>TR Bulb</title>
+    <s:type>Bulb</s:type>
+    <s:vendor>Tim Rundle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1470639_TR-Bulb_fea229ab-c11b-42fa-a3cd-c30389e85880.jpg?v=1595242300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tim Rundle<br>
+        <strong>Type: </strong>Bulb<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for longevity, the TR Bulb uses LED technology, which, with normal use, should last many years. Easy installation in any E26 socket. The globe is constructed from white opal glass, and the core structure is made from aluminium to draw heat away from the LED, allowing the bulb to run at its optimum temperature.</p>
+<p>The original TR bulb dims from low to bright at a fixed 2700 Kelvin color temperature. This means that the brightness begins at a low warm candle light color and can transition to a brighter warm color. The color temperature of the light is fixed, the only difference in illumination is the brightness. This bulb helps create a cozy and romantic environment for any occasion such as dinner parties, rainy stay-in evenings, or when its time to wind down and read a book.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Tim Rundle</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:tag>TR</s:tag>
+    <s:tag>TR Bulb</s:tag>
+    <s:tag>type-Bulb</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518962135106</id>
+      <title>Matte Bulb</title>
+      <s:price currency="EUR">105.00</s:price>
+      <s:sku>1470639</s:sku>
+      <s:grams>1162</s:grams>
+    </s:variant>
+  </entry>
+</feed>

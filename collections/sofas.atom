@@ -1,0 +1,3361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/sofas.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-01-26T10:38:59+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6883428630594</id>
+    <published>2024-01-26T10:38:59+01:00</published>
+    <updated>2024-01-26T10:38:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/mingle-sofa-sheepskin"/>
+    <title>Mingle Sofa, Sheepskin</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/byLassen_Mingle_2.jpg?v=1675774331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            9420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed by Flemming Lassen in 1935 and first presented at the Copenhagen Cabinetmakers’ Guild exhibition the same year, the Mingle sofa was lauded for its qualities as a small yet elegant sofa. Created for comfort and conversation, the sofa was inspired Lassen's travels throughout France and Italy - he wanted a design that would encourage people to connect. Looking to classic French elegance and Italian cordiality, the Mingle sofa was born. Its armrests embrace the sitter, transforming the sofa into a cosy place to relax.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6883428630594</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1501307-010E02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883428630594</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1501307-010G02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883428630594</id>
+      <title>Natural Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1501307-010J02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883428630594</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1501307-040E02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883428630594</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1501307-040G02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883428630594</id>
+      <title>Dark Stained Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1501307-040J02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677901378</id>
+    <published>2024-01-26T10:38:35+01:00</published>
+    <updated>2024-01-26T10:38:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/mingle-sofa-textile"/>
+    <title>Mingle Sofa, Textile</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/bylassen_Mingle_Udgaet_1.jpg?v=1676561051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            5810.00 - 6105.00
+            <a href="https://audocph.com/products/mingle-sofa-textile">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>In 1935, Flemming Lassen designed the remarkable Mingle sofa, which made its debut at the prestigious Copenhagen Cabinetmakers' Guild exhibition. Praised for its combination of compactness and elegance, this sofa was specifically crafted to foster comfort and facilitate engaging conversations. Drawing inspiration from Lassen's journeys across France and Italy, the design aimed to encourage interpersonal connections. Embracing the essence of classic French elegance and Italian hospitality, the Mingle sofa envelops its occupants with inviting armrests, transforming any space into a cozy haven for relaxation and meaningful interactions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Natural Oak / Vidar 0182</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-011O04ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Natural Oak / Vidar 0323</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-011Q04ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Natural Oak / Vidar 0472</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-011X04ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Natural Oak / Vidar 0582</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-012104ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">6105.00</s:price>
+      <s:sku>1501304-010D02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Dark Stained Oak / Vidar 0182</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-041O04ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Dark Stained Oak / Vidar 0323</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-041Q04ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Dark Stained Oak / Vidar 0472</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-041X04ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Dark Stained Oak / Vidar 0582</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1501303-042104ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677901378</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">6105.00</s:price>
+      <s:sku>1501304-040D02ZZ</s:sku>
+      <s:grams>33800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481711522122</id>
+    <published>2023-08-28T14:38:35+02:00</published>
+    <updated>2023-08-28T14:38:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-96-configurations-11-12"/>
+    <title>Eave Modular Sofa, 96, 3-seater, Configurations 11-12</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Eave_96_Boucle_02_combination_11.jpg?v=1702029066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            5335.00 - 7635.00
+            <a href="https://audocph.com/products/eave-modular-sofa-96-configurations-11-12">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>A modular sofa designed with comfort and ease in mind, this configuration offers both space to sit and recline thanks to its thoughtful combination of chaise longue, corner and open section modules with down-filled seats and curved backrests.</p>
+<p><a href="https://audocph.com/pages/eave">Be inspired to create your own combinations here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988000-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988000-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988000-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">5980.00</s:price>
+      <s:sku>9988001-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">6900.00</s:price>
+      <s:sku>9988002-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">6900.00</s:price>
+      <s:sku>9988002-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">6900.00</s:price>
+      <s:sku>9988002-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">7635.00</s:price>
+      <s:sku>9988003-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 11 | Right Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">7635.00</s:price>
+      <s:sku>9988003-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988100-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988100-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988100-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9988100-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">5980.00</s:price>
+      <s:sku>9988101-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">6900.00</s:price>
+      <s:sku>9988102-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">6900.00</s:price>
+      <s:sku>9988102-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">6900.00</s:price>
+      <s:sku>9988102-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">7635.00</s:price>
+      <s:sku>9988103-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481711522122</id>
+      <title>Configuration 12 | Left Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">7635.00</s:price>
+      <s:sku>9988103-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481709785418</id>
+    <published>2023-08-28T14:36:37+02:00</published>
+    <updated>2023-08-28T14:36:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-96-configurations-9-10"/>
+    <title>Eave Modular Sofa, 96, 3.5-Seater, Configurations 9-10</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_96_Boucle_02_configuration_9.jpg?v=1702029197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            5005.00 - 7505.00
+            <a href="https://audocph.com/products/eave-modular-sofa-96-configurations-9-10">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>Ideal for larger spaces, one open end module, one chaise longue module and and an open section come together to provide the perfect proportions and comfort level for lounging.</p>
+<p><a href="https://audocph.com/pages/eave">Be inspired to create your own combinations here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987800-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987800-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987800-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987800-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Champion 035</title>
+      <s:price currency="EUR">5655.00</s:price>
+      <s:sku>9987801-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Moss 018</title>
+      <s:price currency="EUR">6800.00</s:price>
+      <s:sku>9987802-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Moss 022</title>
+      <s:price currency="EUR">6800.00</s:price>
+      <s:sku>9987802-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Savanna 202</title>
+      <s:price currency="EUR">6800.00</s:price>
+      <s:sku>9987802-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Safire 001</title>
+      <s:price currency="EUR">7505.00</s:price>
+      <s:sku>9987803-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 9 | Right Corner / Safire 012</title>
+      <s:price currency="EUR">7505.00</s:price>
+      <s:sku>9987803-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987900-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987900-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987900-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">5005.00</s:price>
+      <s:sku>9987900-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Champion 035</title>
+      <s:price currency="EUR">5655.00</s:price>
+      <s:sku>9987901-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Moss 018</title>
+      <s:price currency="EUR">6800.00</s:price>
+      <s:sku>9987902-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Moss 022</title>
+      <s:price currency="EUR">6800.00</s:price>
+      <s:sku>9987902-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Savanna 202</title>
+      <s:price currency="EUR">6800.00</s:price>
+      <s:sku>9987902-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Safire 001</title>
+      <s:price currency="EUR">7505.00</s:price>
+      <s:sku>9987903-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481709785418</id>
+      <title>Configuration 10 | Left Corner / Safire 012</title>
+      <s:price currency="EUR">7505.00</s:price>
+      <s:sku>9987903-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481708310858</id>
+    <published>2023-08-28T14:35:26+02:00</published>
+    <updated>2023-08-28T14:35:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-96-configurations-7-8"/>
+    <title>Eave Modular Sofa, 96, 2.5-seater, Configurations 7-8</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_96_Boucle_02_configuration_7.jpg?v=1702028954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4030.00 - 5570.00
+            <a href="https://audocph.com/products/eave-modular-sofa-96-configurations-7-8">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>Made with lounging in mind, the generous yet perfectly balanced proportions of this module sofa feature one open end module and one chaise longue module, each with extra deep seats and softly curved backrests.</p>
+<p><a href="https://audocph.com/pages/eave">Be inspired to create your own combinations here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987600-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987600-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987600-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987600-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Champion 035</title>
+      <s:price currency="EUR">4490.00</s:price>
+      <s:sku>9987601-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Moss 018</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9987602-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Moss 022</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9987602-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Savanna 202</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9987602-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Safire 001</title>
+      <s:price currency="EUR">5570.00</s:price>
+      <s:sku>9987603-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 7 | Left Corner / Safire 012</title>
+      <s:price currency="EUR">5570.00</s:price>
+      <s:sku>9987603-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987700-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987700-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987700-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">4030.00</s:price>
+      <s:sku>9987700-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Champion 035</title>
+      <s:price currency="EUR">4490.00</s:price>
+      <s:sku>9987701-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Moss 018</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9987702-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Moss 022</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9987702-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Savanna 202</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9987702-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Safire 001</title>
+      <s:price currency="EUR">5570.00</s:price>
+      <s:sku>9987703-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481708310858</id>
+      <title>Configuration 8 | Right Corner / Safire 012</title>
+      <s:price currency="EUR">5570.00</s:price>
+      <s:sku>9987703-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481705427274</id>
+    <published>2023-08-28T14:34:28+02:00</published>
+    <updated>2023-08-28T14:34:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-96-configurations-5-6"/>
+    <title>Eave Modular Sofa, 96, 3-seater, Configurations 5-6</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_96_Boucle_02_configuration_5.jpg?v=1702029141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4155.00 - 5710.00
+            <a href="https://audocph.com/products/eave-modular-sofa-96-configurations-5-6">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>With an emphasis on comfort, the extra deep, down-filled seats and curved back- and armrests of this modular sofa, with chaise longue and corner segments, offer added space and support when sitting or reclining.</p>
+<p><a href="https://audocph.com/pages/eave">Be inspired to create your own combinations here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987400-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987400-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987400-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987400-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">4630.00</s:price>
+      <s:sku>9987401-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987402-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987402-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987402-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987403-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 5 | Right Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987403-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987500-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987500-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987500-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987500-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">4630.00</s:price>
+      <s:sku>9987501-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987502-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987502-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987502-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987503-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481705427274</id>
+      <title>Configuration 6 | Left Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987503-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481700905290</id>
+    <published>2023-08-28T14:33:46+02:00</published>
+    <updated>2023-08-28T14:33:46+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-96-configurations-3-4"/>
+    <title>Eave Modular Sofa, 96, 2.5-seater, Configurations 3-4</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_96_Boucle_02_configuration_3.jpg?v=1702028880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4155.00 - 5710.00
+            <a href="https://audocph.com/products/eave-modular-sofa-96-configurations-3-4">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>Made with lounging in mind, the generous yet perfectly balanced proportions of this module sofa feature one open end module and one chaise longue module, each with extra deep seats and softly curved backrests.</p>
+<p><a href="https://audocph.com/pages/eave">Be inspired to create your own combinations here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 02</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987200-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 06</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987200-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 08</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987200-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 16</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987200-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Champion 035</title>
+      <s:price currency="EUR">4630.00</s:price>
+      <s:sku>9987201-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Moss 018</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987202-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Moss 022</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987202-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Savanna 202</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987202-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Safire 001</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987203-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 3 | Right Open End / Safire 012</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987203-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 02</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987300-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 06</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987300-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 08</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987300-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 16</title>
+      <s:price currency="EUR">4155.00</s:price>
+      <s:sku>9987300-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Champion 035</title>
+      <s:price currency="EUR">4630.00</s:price>
+      <s:sku>9987301-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Moss 018</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987302-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Moss 022</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987302-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Savanna 202</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9987302-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Safire 001</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987303-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481700905290</id>
+      <title>Configuration 4 | Left Open End / Safire 012</title>
+      <s:price currency="EUR">5710.00</s:price>
+      <s:sku>9987303-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481527529802</id>
+    <published>2023-08-28T14:32:43+02:00</published>
+    <updated>2023-08-28T14:32:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-96-configuration-2"/>
+    <title>Eave Modular Sofa, 96, 3-Seater, Configuration 2</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_96_Boucle_02_configuration_2.jpg?v=1702028985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4670.00 - 7375.00
+            <a href="https://audocph.com/products/eave-modular-sofa-96-configuration-2">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</span></p>
+<p>Streamlined in its expression and comforting in its upholstered craft, this modular sofa configuration comprises three modules with extra depth for more room to recline.</p>
+<p><a href="https://audocph.com/pages/eave">Be inspired to create your own combinations here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">4670.00</s:price>
+      <s:sku>9987100-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">4670.00</s:price>
+      <s:sku>9987100-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Audo Bouclé 08</title>
+      <s:price currency="EUR">4670.00</s:price>
+      <s:sku>9987100-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Audo Bouclé 16</title>
+      <s:price currency="EUR">4670.00</s:price>
+      <s:sku>9987100-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Champion 035</title>
+      <s:price currency="EUR">5335.00</s:price>
+      <s:sku>9987101-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Moss 018</title>
+      <s:price currency="EUR">6695.00</s:price>
+      <s:sku>9987102-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Moss 022</title>
+      <s:price currency="EUR">6695.00</s:price>
+      <s:sku>9987102-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Savanna 202</title>
+      <s:price currency="EUR">6695.00</s:price>
+      <s:sku>9987102-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Safire 001</title>
+      <s:price currency="EUR">7375.00</s:price>
+      <s:sku>9987103-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481527529802</id>
+      <title>Safire 012</title>
+      <s:price currency="EUR">7375.00</s:price>
+      <s:sku>9987103-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481521434954</id>
+    <published>2023-08-28T14:29:58+02:00</published>
+    <updated>2023-08-28T14:29:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-96-configuration-1"/>
+    <title>Eave Modular Sofa, 96, 2-seater, Configuration 1</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_96_Boucle_02_configuration_1.jpg?v=1702028643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            3360.00 - 5310.00
+            <a href="https://audocph.com/products/eave-modular-sofa-96-configuration-1">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>Ideal for rooms where space is at a premium, this two-seater modular sofa comprises two closed end modules that offer the cocooning comfort that has come to be synonymous with the Eave collection.</p>
+<p><a href="https://audocph.com/pages/eave">Be inspired to create your own combinations here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">3360.00</s:price>
+      <s:sku>9987000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">3360.00</s:price>
+      <s:sku>9987000-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Audo Bouclé 08</title>
+      <s:price currency="EUR">3360.00</s:price>
+      <s:sku>9987000-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Audo Bouclé 16</title>
+      <s:price currency="EUR">3360.00</s:price>
+      <s:sku>9987000-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Champion 035</title>
+      <s:price currency="EUR">3850.00</s:price>
+      <s:sku>9987001-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Moss 018</title>
+      <s:price currency="EUR">4825.00</s:price>
+      <s:sku>9987002-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Moss 022</title>
+      <s:price currency="EUR">4825.00</s:price>
+      <s:sku>9987002-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Savanna 202</title>
+      <s:price currency="EUR">4825.00</s:price>
+      <s:sku>9987002-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Safire 001</title>
+      <s:price currency="EUR">5310.00</s:price>
+      <s:sku>9987003-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481521434954</id>
+      <title>Safire 012</title>
+      <s:price currency="EUR">5310.00</s:price>
+      <s:sku>9987003-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481490960714</id>
+    <published>2023-08-28T14:26:17+02:00</published>
+    <updated>2023-08-28T14:26:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-86-3-seater-configurations-11-12"/>
+    <title>Eave Modular Sofa, 86, 3-seater, Configurations 11-12</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_86_Boucle_07_configuration_11.jpg?v=1702027678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4515.00 - 6965.00
+            <a href="https://audocph.com/products/eave-modular-sofa-86-3-seater-configurations-11-12">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>With its corner, open section and chaise longue modules, this modern sofa configuration features a down-filled seat and curved back- and armrests for added support when sitting.</p>
+<p><span data-mce-fragment="1">Order a suggested configuration of Eave modules or browse through </span><a href="https://audocph.com/collections/modular-sofas" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/modular-sofas">the modular sections</a><span data-mce-fragment="1"> and </span><span data-mce-fragment="1">design your own sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986800-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986800-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986800-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986800-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9986801-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">6260.00</s:price>
+      <s:sku>9986802-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">6260.00</s:price>
+      <s:sku>9986802-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">6260.00</s:price>
+      <s:sku>9986802-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">6965.00</s:price>
+      <s:sku>9986803-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 11 | Right Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">6965.00</s:price>
+      <s:sku>9986803-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986900-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986900-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986900-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986900-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">5170.00</s:price>
+      <s:sku>9986901-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">6260.00</s:price>
+      <s:sku>9986902-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">6260.00</s:price>
+      <s:sku>9986902-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">6260.00</s:price>
+      <s:sku>9986902-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">6965.00</s:price>
+      <s:sku>9986903-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481490960714</id>
+      <title>Configuration 12 | Left Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">6965.00</s:price>
+      <s:sku>9986903-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481489715530</id>
+    <published>2023-08-28T14:24:05+02:00</published>
+    <updated>2023-08-28T14:24:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-86-configurations-9-10"/>
+    <title>Eave Modular Sofa, 86, 3.5-seater, Configurations 9-10</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_86_Boucle_07_configuration_9.jpg?v=1702027739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4705.00 - 6980.00
+            <a href="https://audocph.com/products/eave-modular-sofa-86-configurations-9-10">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>Spacious and inviting, this three-piece module sofa configuration comprises one open end module, one chaise longue module and one open section module. The modern sofa design adds to the comfort of a living room.</p>
+<p><span data-mce-fragment="1">Order a suggested combination of Eave modules or browse through </span><a href="https://audocph.com/collections/modular-sofas" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/modular-sofas">the modular sections</a><span data-mce-fragment="1"> and </span><span data-mce-fragment="1">design your own sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986600-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986600-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986600-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986600-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Champion 035</title>
+      <s:price currency="EUR">5350.00</s:price>
+      <s:sku>9986601-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Moss 018</title>
+      <s:price currency="EUR">6245.00</s:price>
+      <s:sku>9986602-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Moss 022</title>
+      <s:price currency="EUR">6245.00</s:price>
+      <s:sku>9986602-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Savanna 202</title>
+      <s:price currency="EUR">6245.00</s:price>
+      <s:sku>9986602-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Safire 001</title>
+      <s:price currency="EUR">6980.00</s:price>
+      <s:sku>9986603-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 9 | Right Corner / Safire 012</title>
+      <s:price currency="EUR">6980.00</s:price>
+      <s:sku>9986603-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986700-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986700-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986700-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">4705.00</s:price>
+      <s:sku>9986700-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Champion 035</title>
+      <s:price currency="EUR">5350.00</s:price>
+      <s:sku>9986701-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Moss 018</title>
+      <s:price currency="EUR">6245.00</s:price>
+      <s:sku>9986702-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Moss 022</title>
+      <s:price currency="EUR">6245.00</s:price>
+      <s:sku>9986702-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Savanna 202</title>
+      <s:price currency="EUR">6245.00</s:price>
+      <s:sku>9986702-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Safire 001</title>
+      <s:price currency="EUR">6980.00</s:price>
+      <s:sku>9986703-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481489715530</id>
+      <title>Configuration 10 | Left Corner / Safire 012</title>
+      <s:price currency="EUR">6980.00</s:price>
+      <s:sku>9986703-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481487356234</id>
+    <published>2023-08-28T14:22:58+02:00</published>
+    <updated>2023-08-28T14:22:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-86-configurations-7-8"/>
+    <title>Eave Modular Sofa, 86, 2.5-seater, Configurations 7-8</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_86_Boucle_07_configuration_7.jpg?v=1702299113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            3515.00 - 5055.00
+            <a href="https://audocph.com/products/eave-modular-sofa-86-configurations-7-8">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character.</p>
+<p>A compact design for smaller spaces, this modular sofa configuration combines one open end module and one chaise longue module to create a design with balanced proportions, precise upholstery and down-filled comfort.</p>
+<p><span data-mce-fragment="1">Order a suggested combination of Eave modules or browse through </span><a href="https://audocph.com/collections/modular-sofas" data-mce-href="https://audocph.com/collections/modular-sofas" data-mce-fragment="1">the modular sections</a><span data-mce-fragment="1"> and </span><span data-mce-fragment="1">design your own sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986400-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986400-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986400-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986400-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Champion 035</title>
+      <s:price currency="EUR">3975.00</s:price>
+      <s:sku>9986401-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Moss 018</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986402-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Moss 022</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986402-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Savanna 202</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986402-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Safire 001</title>
+      <s:price currency="EUR">5055.00</s:price>
+      <s:sku>9986403-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 7 | Left Corner / Safire 012</title>
+      <s:price currency="EUR">5055.00</s:price>
+      <s:sku>9986403-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 02</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986500-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 06</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986500-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 08</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986500-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Audo Bouclé 16</title>
+      <s:price currency="EUR">3515.00</s:price>
+      <s:sku>9986500-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Champion 035</title>
+      <s:price currency="EUR">3975.00</s:price>
+      <s:sku>9986501-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Moss 018</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986502-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Moss 022</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986502-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Savanna 202</title>
+      <s:price currency="EUR">4515.00</s:price>
+      <s:sku>9986502-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Safire 001</title>
+      <s:price currency="EUR">5055.00</s:price>
+      <s:sku>9986503-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481487356234</id>
+      <title>Configuration 8 | Right Corner / Safire 012</title>
+      <s:price currency="EUR">5055.00</s:price>
+      <s:sku>9986503-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481484931402</id>
+    <published>2023-08-28T14:21:03+02:00</published>
+    <updated>2023-08-28T14:21:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-86-configuration-5-6"/>
+    <title>Eave Modular Sofa, 86, 3-seater, Configurations 5-6</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_86_Boucle_07_configuration_5.jpg?v=1702027697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            3645.00 - 5195.00
+            <a href="https://audocph.com/products/eave-modular-sofa-86-configuration-5-6">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character. <br></p>
+<p>A chaise longue and a closed end module combine to create a carefully balanced sofa that offers comfort and ease.</p>
+<p><span data-mce-fragment="1">Order a suggested combination of Eave modules or browse through </span><a href="https://audocph.com/collections/modular-sofas" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/modular-sofas">the modular sections</a><span data-mce-fragment="1"> and </span><span data-mce-fragment="1">design your own sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986200-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986200-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986200-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986200-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">4120.00</s:price>
+      <s:sku>9986201-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986202-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986202-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986202-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986203-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 5 | Right Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986203-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 02</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986300-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 06</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986300-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 08</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986300-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Audo Bouclé 16</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986300-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Champion 035</title>
+      <s:price currency="EUR">4120.00</s:price>
+      <s:sku>9986301-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Moss 018</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986302-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Moss 022</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986302-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Savanna 202</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986302-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Safire 001</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986303-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481484931402</id>
+      <title>Configuration 6 | Left Chaise Longue / Safire 012</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986303-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8481478443338</id>
+    <published>2023-08-28T14:18:14+02:00</published>
+    <updated>2023-08-28T14:18:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-86-configuration-3-4"/>
+    <title>Eave Modular Sofa, 86, 2.5-Seater, Configurations 3-4</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_86_Boucle_07_configuration_3.jpg?v=1702027469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            3645.00 - 5195.00
+            <a href="https://audocph.com/products/eave-modular-sofa-86-configuration-3-4">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character. <br></p>
+<p>With its open end and corner modules, this sofa configuration offers unparalleled comfort and a softly minimal aesthetic in one united design.</p>
+<p><span data-mce-fragment="1">Order a suggested combination of Eave modules or browse through </span><a href="https://audocph.com/collections/modular-sofas" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/modular-sofas">the modular sections</a><span data-mce-fragment="1"> and </span><span data-mce-fragment="1">design your own sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 02</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 06</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986000-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 08</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986000-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Audo Bouclé 16</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986000-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Champion 035</title>
+      <s:price currency="EUR">4120.00</s:price>
+      <s:sku>9986001-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Moss 018</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986002-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Moss 022</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986002-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Savanna 202</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986002-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Safire 001</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986003-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 3 | Right Open End / Safire 012</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986003-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 02</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986100-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 06</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986100-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 08</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986100-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Audo Bouclé 16</title>
+      <s:price currency="EUR">3645.00</s:price>
+      <s:sku>9986100-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Champion 035</title>
+      <s:price currency="EUR">4120.00</s:price>
+      <s:sku>9986101-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Moss 018</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986102-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Moss 022</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986102-000L00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Savanna 202</title>
+      <s:price currency="EUR">4655.00</s:price>
+      <s:sku>9986102-000P01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Safire 001</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986103-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8481478443338</id>
+      <title>Configuration 4 | Left Open End / Safire 012</title>
+      <s:price currency="EUR">5195.00</s:price>
+      <s:sku>9986103-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576459219010</id>
+    <published>2023-08-23T11:47:48+02:00</published>
+    <updated>2023-08-23T11:47:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-86-2-seater"/>
+    <title>Eave Modular Sofa, 86, 2 Seater, Configuration 1</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_86_Boucle_07_configuration_1.jpg?v=1702027424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            3130.00 - 5030.00
+            <a href="https://audocph.com/products/eave-modular-sofa-86-2-seater">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Eave Sofa is now offered in a Modular version, with fixed combinations making it easier to order.</p>
+<p data-mce-fragment="1">Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character. A perfect blend of style and comfort, Eave is a generous sofa that will encourage owners to relax. The seating angle is also ideal for offices or public spaces, enabling the user to sit actively engaging with work. <a href="https://presscloud.com/file/83/834471295625862/Audo_Cph_Eave_Collection_Overview.pdf" target="_blank" rel="noopener noreferrer">Figure out your own configuration to suit your space.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">3130.00</s:price>
+      <s:sku>9975000-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">3130.00</s:price>
+      <s:sku>9975000-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Audo Bouclé 08</title>
+      <s:price currency="EUR">3130.00</s:price>
+      <s:sku>9975000-000600ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Audo Bouclé 16</title>
+      <s:price currency="EUR">3130.00</s:price>
+      <s:sku>9975000-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Champion 035</title>
+      <s:price currency="EUR">3615.00</s:price>
+      <s:sku>9975001-000H05ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Moss 018</title>
+      <s:price currency="EUR">4540.00</s:price>
+      <s:sku>9975002-000T01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Moss 022</title>
+      <s:price currency="EUR">4540.00</s:price>
+      <s:sku>9975002-000X01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Savanna 202</title>
+      <s:price currency="EUR">4540.00</s:price>
+      <s:sku>9975002-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Safire 001</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9975003-010000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576459219010</id>
+      <title>Safire 012</title>
+      <s:price currency="EUR">5030.00</s:price>
+      <s:sku>9975003-010B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677049410</id>
+    <published>2023-02-15T14:48:18+01:00</published>
+    <updated>2023-02-15T14:48:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/vilhelm-sofa"/>
+    <title>Vilhelm Sofa</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Vilhelm_Sofa_Jager_Lounge_Table_Gravel_Rug_Wing_Floor_Lamp_Releve_Platter.jpg?v=1676561435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            7475.00 - 8430.00
+            <a href="https://audocph.com/products/vilhelm-sofa">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A sleek yet sumptuous three-seater sofa designed by Flemming Lassen in 1935, Vilhelm takes its name from the designer’s father and its design cues from the mid-century movement. Reintroduced in 2019 and updated to modern needs, Vilhelm invites relaxation with its gently rounded form and padded upholstery. The back and armrests offer privacy and are expertly detailed with buttons. Strong in terms of craft and presence, it welcomes life with its functional form.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677049410</id>
+      <title>Natural Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">7475.00</s:price>
+      <s:sku>1500803-012M05ZZ</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677049410</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">8430.00</s:price>
+      <s:sku>1500704-040D02ZZ</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677049410</id>
+      <title>Dark Stained Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">7475.00</s:price>
+      <s:sku>1500803-042M05ZZ</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677049410</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">8430.00</s:price>
+      <s:sku>1500704-010D02ZZ</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862679212098</id>
+    <published>2023-02-15T14:47:31+01:00</published>
+    <updated>2023-02-15T14:47:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/constance-sofa"/>
+    <title>Constance Sofa</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Constance_Sofa_77_PDP.jpg?v=1684913919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            6510.00 - 7100.00
+            <a href="https://audocph.com/products/constance-sofa">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Named posthumously after Flemming Larsen’s wife, Irene Constance, the Constance Sofa is one of two designs in a series of inviting furniture pieces. The plush and shapely piece rests on wooden legs and features an exaggerated form with deep seat cushions, curved back and armrests and button details. Deceptively lightweight despite its portly shape, the award-winning piece was first designed in 1935 for the Copenhagen Cabinetmakers’ Guild’s annual exhibition in 1935. Set on wooden legs, it is available in a range of upholstery options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Natural Oak / Zero 0001</title>
+      <s:price currency="EUR">6805.00</s:price>
+      <s:sku>1501503-012M05ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1501504-010D02ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Natural Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1501504-011402ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Natural Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1501504-011802ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Natural Oak / Hallingdal 65 153 | Hallingdal 65 173</title>
+      <s:price currency="EUR">6510.00</s:price>
+      <s:sku>1501730</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Walnut / Zero 0001</title>
+      <s:price currency="EUR">6805.00</s:price>
+      <s:sku>1501703-022M05ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Walnut / Grand Mohair 1103</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1501704-020D02ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Walnut / Grand Mohair 8205</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1501704-021402ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Walnut / Grand Mohair 2600</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1501704-021802ZZ</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679212098</id>
+      <title>Walnut / Hallingdal 65 153 | Hallingdal 65 173</title>
+      <s:price currency="EUR">6510.00</s:price>
+      <s:sku>1501731</s:sku>
+      <s:grams>54000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6872483201090</id>
+    <published>2023-02-15T14:47:22+01:00</published>
+    <updated>2023-02-15T14:47:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-sofa-sheepskin"/>
+    <title>Ingeborg Sofa, Sheepskin</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/byLassen_IngeborgSofa_KlampenborgLamp_300.jpg?v=1676038301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            7625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The elegant 2.5-seater Ingeborg sofa was designed by Flemming Lassen in 1940 but never put into wider production. Recently rediscovered in the archives and painstakingly recreated from original sketches, it has since become a much sought-after piece in modern design circles. With its characteristic armrests, buttoned back and wooden legs, the deceptively spacious design is both beautiful to look at and comfortable to sit in. Profiling the same expression as its counterpart chair, together the two designs create a snug and embracing duo in any modern living space. The <span data-mce-fragment="1">Ingeborg Sofa is available in a range of beautiful upholstery fabrics. Legs </span><span data-mce-fragment="1">are available in oak or smoked oak.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-010E02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-010G02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Natural Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-010J02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-040E02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-040G02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483201090</id>
+      <title>Dark Stained Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">7625.00</s:price>
+      <s:sku>1500507-040J02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6883421683778</id>
+    <published>2023-02-15T14:47:20+01:00</published>
+    <updated>2023-02-15T14:47:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-sofa-textile"/>
+    <title>Ingeborg Sofa, Textile</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Ingeborg_Lounge_Sofa_Plinth_Low_Divot_Tray_Collapse_Vase_Umanoff_Triangular_Side_Table_Surround_Vase_34.jpg?v=1676560030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            5370.00 - 6455.00
+            <a href="https://audocph.com/products/ingeborg-sofa-textile">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>The Ingeborg sofa, an elegant 2.5-seater, was originally designed by Flemming Lassen in 1940 but never widely produced. Recently rediscovered in the archives, it has gained immense popularity among modern design enthusiasts after being meticulously recreated from original sketches. Featuring characteristic armrests, a buttoned back, and wooden legs, this deceptively spacious design is visually stunning and offers comfortable seating. Mirroring the expression of the corresponding chair, these two designs create a cozy and embracing duo that complements any contemporary living space. The Ingeborg Sofa comes in various exquisite upholstery fabrics, while the legs are available in oak or smoked oak options.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / FIord 0782</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500502-013003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1500603-012M05ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-010D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-011402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Natural Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-011802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / FIord 0782</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500502-043003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">5810.00</s:price>
+      <s:sku>1500603-042M05ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-040D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-041402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883421683778</id>
+      <title>Dark Stained Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">6455.00</s:price>
+      <s:sku>1500504-041802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751158796354</id>
+    <published>2022-10-12T14:35:34+02:00</published>
+    <updated>2022-10-12T14:35:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/radiohus-sofa-p3"/>
+    <title>Radiohus Sofa P3</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Vilhelm Lauritzen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Radiohus_Sofa_Plinth_Grand_Oda_Lounge_Chair.jpg?v=1654852577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vilhelm Lauritzen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            7100.00 - 7840.00
+            <a href="https://audocph.com/products/radiohus-sofa-p3">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">An exclusive and rare design from Vilhelm Lauritzen, the Radiohus Sofa was designed for Denmark’s Radio House – today the Royal Danish Academy of Music – in 1936. A pioneering piece of Nordic Functionalism, the elegant design shunned the conservative and straight lines of the time in favour of a more futuristic expression. Beautiful from all angles, its curved lines and open construction welcome and embrace the sitter, while the quilted back highlights the exactness of its design. A piece of furniture that requires space, let it stand freely in a room. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Vilhelm Lauritzen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Natural Oak / Re-wool 218</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1221001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Natural Oak / Hallingdal 65 0110</title>
+      <s:price currency="EUR">7395.00</s:price>
+      <s:sku>1221002-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">7395.00</s:price>
+      <s:sku>1221002-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Natural Oak / Re-wool 218 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7250.00</s:price>
+      <s:sku>1222301-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Natural Oak / Hallingdal 65 110 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7545.00</s:price>
+      <s:sku>1222302-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Natural Oak / Hallingdal 65 200 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7545.00</s:price>
+      <s:sku>1222302-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Walnut / Re-wool 218</title>
+      <s:price currency="EUR">7395.00</s:price>
+      <s:sku>1222001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Walnut / Hallingdal 65 0110</title>
+      <s:price currency="EUR">7690.00</s:price>
+      <s:sku>1222002-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Walnut / Hallingdal 65 200</title>
+      <s:price currency="EUR">7690.00</s:price>
+      <s:sku>1222002-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Walnut / Re-wool 218 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7545.00</s:price>
+      <s:sku>1222401-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Walnut / Hallingdal 65 110 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7840.00</s:price>
+      <s:sku>1222402-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158796354</id>
+      <title>Walnut / Hallingdal 65 200 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7840.00</s:price>
+      <s:sku>1222402-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751158730818</id>
+    <published>2022-10-12T14:35:22+02:00</published>
+    <updated>2022-10-12T14:35:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/radiohus-sofa-p2"/>
+    <title>Radiohus Sofa P2</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Vilhelm Lauritzen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Radiohus_Sofa_Wing_Floor_Lamp_Plinth_Pedestal_Surround_Vase_2.jpg?v=1664270700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vilhelm Lauritzen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            6350.00 - 7100.00
+            <a href="https://audocph.com/products/radiohus-sofa-p2">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">An exclusive and rare design from Vilhelm Lauritzen, the Radiohus Sofa was designed for Denmark’s Radio House – today the Royal Danish Academy of Music – in 1936. A pioneering piece of Nordic Functionalism, the elegant design shunned the conservative and straight lines of the time in favour of a more futuristic expression. Beautiful from all angles, its curved lines and open construction welcome and embrace the sitter, while the quilted back highlights the exactness of its design. A piece of furniture that requires space, let it stand freely in a room.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Vilhelm Lauritzen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Natural Oak / Re-wool 218</title>
+      <s:price currency="EUR">6350.00</s:price>
+      <s:sku>1218001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Natural Oak / Hallingdal 65 0110</title>
+      <s:price currency="EUR">6655.00</s:price>
+      <s:sku>1218002-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">6655.00</s:price>
+      <s:sku>1218002-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Natural Oak / Re-wool 218 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">6510.00</s:price>
+      <s:sku>1222101-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Natural Oak / Hallingdal 65 110 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">6805.00</s:price>
+      <s:sku>1222102-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Natural Oak / Hallingdal 65 200 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">6805.00</s:price>
+      <s:sku>1222102-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Walnut / Re-wool 218</title>
+      <s:price currency="EUR">6655.00</s:price>
+      <s:sku>1219001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Walnut / Hallingdal 65 0110</title>
+      <s:price currency="EUR">6950.00</s:price>
+      <s:sku>1219002-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Walnut / Hallingdal 65 200</title>
+      <s:price currency="EUR">6950.00</s:price>
+      <s:sku>1219002-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Walnut / Re-wool 218 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">6805.00</s:price>
+      <s:sku>1222201-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Walnut / Hallingdal 65 110 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1222202-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751158730818</id>
+      <title>Walnut / Hallingdal 65 200 | Dakar 0250 Buttons</title>
+      <s:price currency="EUR">7100.00</s:price>
+      <s:sku>1222202-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751157944386</id>
+    <published>2022-10-12T14:35:07+02:00</published>
+    <updated>2022-10-12T14:35:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pagode-sofa"/>
+    <title>Pagode Sofa</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Tove &amp; Edvard Kindt-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pagode_Sofa_Androgyne_Lounge_Table.jpg?v=1654852447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tove &amp; Edvard Kindt-Larsen<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            5635.00 - 6335.00
+            <a href="https://audocph.com/products/pagode-sofa">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">An elegant masterpiece by the husband-and-wife designer duo Tove and Edvard Kindt-Larsen, the Pagode Sofa is unknown to most. Avantgarde and artistic for its time, its low, almost flat, armrests and beautiful V-shaped legs make it light and precise in its design language – and give the sofa a contemporary look. Taking its name from Asian architecture, it is expressive and unique in its simplicity – much like the temples it refers to. First presented to the world in 1956, today it remains a striking piece of design. Available in natural oak or walnut and upholstered in leather.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Tove &amp; Edvard Kindt-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Natural Oak / Re-wool 218</title>
+      <s:price currency="EUR">5635.00</s:price>
+      <s:sku>1216001-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Natural Oak / Re-wool 448</title>
+      <s:price currency="EUR">5635.00</s:price>
+      <s:sku>1216001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Natural Oak / Hallingdal 65 0110</title>
+      <s:price currency="EUR">5920.00</s:price>
+      <s:sku>1216002-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">5920.00</s:price>
+      <s:sku>1216002-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Walnut / Re-wool 218</title>
+      <s:price currency="EUR">6055.00</s:price>
+      <s:sku>1217001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Walnut / Re-wool 448</title>
+      <s:price currency="EUR">6055.00</s:price>
+      <s:sku>1217001-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Walnut / Hallingdal 65 0110</title>
+      <s:price currency="EUR">6335.00</s:price>
+      <s:sku>1217002-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157944386</id>
+      <title>Walnut / Hallingdal 65 200</title>
+      <s:price currency="EUR">6335.00</s:price>
+      <s:sku>1217002-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711373004866</id>
+    <published>2022-03-10T15:35:07+01:00</published>
+    <updated>2022-03-10T15:35:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-sofa-high-back"/>
+    <title>Tearoom, Sofa, High Back</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Sofa_High_Back_Tearoom_Lounge_Chair_High_Back_W_Plug_Plinth_Interconnect_Candle_Holder_Torso_Limited1.jpg?v=1646639926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4230.00 - 6350.00
+            <a href="https://audocph.com/products/tearoom-sofa-high-back">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tearoom Collection offers indulgent retreats and mood-lifting comfort for a multitude of settings. The inspiration for the collection came from Charles Rennie Mackintosh’s Willow Chair, created between 1902 and 1904 for the Willow Tea Rooms in Glasgow. Beckoning us to bask in a bit of luxury, the high-backed Tearoom Sofa elevates relaxation with its sculptural, modern and tactile form. Made with public spaces in mind – a hotel lobby, workspace or lounge setting, as a standalone or placed back-to-back in multiples – the clean silhouette features a contoured back offers moments of quiet contemplation in busy spaces. Beneath the upholstery, a wood and foam construction creates the ideal pairing of sturdiness and lush comfort. The addition of a USB-C port and power socket at the base makes it a practical spot for work as well as play.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Audo Bouclé 02</title>
+      <s:price currency="EUR">4230.00</s:price>
+      <s:sku>9607000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Champion - 035</title>
+      <s:price currency="EUR">4845.00</s:price>
+      <s:sku>9607001-009W05ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Hallingdal 65 200</title>
+      <s:price currency="EUR">5475.00</s:price>
+      <s:sku>9607002-004602ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Safire 006</title>
+      <s:price currency="EUR">6105.00</s:price>
+      <s:sku>9607003-000N01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Audo Bouclé 02</title>
+      <s:price currency="EUR">4470.00</s:price>
+      <s:sku>9607200-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Champion - 035</title>
+      <s:price currency="EUR">5085.00</s:price>
+      <s:sku>9607201-000A05ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Hallingdal 65 200</title>
+      <s:price currency="EUR">5715.00</s:price>
+      <s:sku>9607202-003G02ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Safire 006</title>
+      <s:price currency="EUR">6350.00</s:price>
+      <s:sku>9607203-000700ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576468951106</id>
+    <published>2021-06-02T18:32:15+02:00</published>
+    <updated>2021-06-02T18:32:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/eave-modular-sofa-86-3-seater"/>
+    <title>Eave Modular Sofa, 86, 3 Seater, Configuration 2</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Modular_Sofa_86_Boucle_07_configuration_2.jpg?v=1702027654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4810.00 - 6955.00
+            <a href="https://audocph.com/products/eave-modular-sofa-86-3-seater">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by architecture Eave Modular Sofa takes its name from “eaves” – the lower edges of the roof that overhang a wall. The sofa’s distinctive detail is its internal “eaves” – curved upholstered armrests that lend the sofa its expressive character. A perfect blend of style and comfort, Eave is a generous sofa that will encourage owners to relax. The seating angle is also ideal for offices or public spaces, enabling the user to sit actively engaging with work. Figure out your own configuration to suit your space.<br></p>
+<p><span data-mce-fragment="1">Order a suggested combination of Eave modules or browse through </span><a href="https://audocph.com/collections/modular-sofas" data-mce-fragment="1" data-mce-href="https://audocph.com/collections/modular-sofas">the modular sections</a><span data-mce-fragment="1"> and </span><span data-mce-fragment="1">design your own sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">4810.00</s:price>
+      <s:sku>9976000-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">4810.00</s:price>
+      <s:sku>9976000-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Audo Bouclé 08</title>
+      <s:price currency="EUR">4810.00</s:price>
+      <s:sku>9976000-000600ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Audo Bouclé 16</title>
+      <s:price currency="EUR">4810.00</s:price>
+      <s:sku>9976000-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Champion 035</title>
+      <s:price currency="EUR">4990.00</s:price>
+      <s:sku>9976001-000H00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Moss 018</title>
+      <s:price currency="EUR">6275.00</s:price>
+      <s:sku>9976002-020T01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Moss 022</title>
+      <s:price currency="EUR">6275.00</s:price>
+      <s:sku>9976002-020X01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Savanna 202</title>
+      <s:price currency="EUR">6275.00</s:price>
+      <s:sku>9976002-020300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Safire 001</title>
+      <s:price currency="EUR">6955.00</s:price>
+      <s:sku>9976003-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576468951106</id>
+      <title>Safire 012</title>
+      <s:price currency="EUR">6955.00</s:price>
+      <s:sku>9976003-000B00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576532947010</id>
+    <published>2021-06-02T17:17:22+02:00</published>
+    <updated>2021-06-02T17:17:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/offset-sofa-w-loose-cover"/>
+    <title>Offset Sofa w. Loose Cover</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay2021-Day21008.jpg?v=1692883591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            2400.00 - 3355.00
+            <a href="https://audocph.com/products/offset-sofa-w-loose-cover">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span><strong>This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p data-mce-fragment="1">Offset is the result of research into ‘balance’ by Norm Architects. The studio wanted to create a sofa as simply as possible while embracing a set of paradoxes: making it substantial yet delicate in appearance, architectural yet inviting and homey.</p>
+<p data-mce-fragment="1">The Offset Loose Cover introduces increased longevity, functionality and versatility to the collection, with a removable and washable exterior crafted from a custom-made cotton and linen blend textile in three timeless colours. The soft, natural and easy to clean cover creates a relaxed silhouette for the Offset, imbuing spaces with a sense of casual elegance.</p>
+<p data-mce-fragment="1">The internal body of the sofa has an inherently longer life than its cover, which can become worn with time and daily use. By creating a removable cover for the Offset, it is possible to retain the body whilst simply replacing the cover—extending the product’s lifespan and reducing the instance of waste. In this way, the Offset Loose Cover can also adapt to evolving lifestyles, design and colour preferences to be cherished for generations.</p>
+<p data-mce-fragment="1">The frame of the Offset sofa is constructed from wood and the back and side cushions are made from a double foam core encased in a feather down and foam blend for superior comfort and durability. The loose cover is secured to the sofa and armrests in one streamlined piece, with a concealed Velcro strip allowing for convenient removal.</p>
+<p><strong><br><em>The Offset Loose Cover (Cotlin) is not UK or US suitable.</em></strong></p>
+<p><strong><em>Please refer to the <a href="https://presscloud.com/file/81/810232365128170/Audo_Care_Instructions.pdf">Care &amp; Maintenance Guide</a> for washing instructions etc.</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Responsible</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>1 Seater / Audo Cotlin - Oat</title>
+      <s:price currency="EUR">2510.00</s:price>
+      <s:sku>9852001</s:sku>
+      <s:grams>44000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>1 Seater / Audo Cotlin - Wheat</title>
+      <s:price currency="EUR">2400.00</s:price>
+      <s:sku>9852002</s:sku>
+      <s:grams>44000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>1 Seater / Audo Cotlin - Poppy Seed</title>
+      <s:price currency="EUR">2510.00</s:price>
+      <s:sku>9852003</s:sku>
+      <s:grams>44000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>2 Seater / Audo Cotlin - Oat</title>
+      <s:price currency="EUR">2965.00</s:price>
+      <s:sku>9853001</s:sku>
+      <s:grams>44000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>2 Seater / Audo Cotlin - Wheat</title>
+      <s:price currency="EUR">2835.00</s:price>
+      <s:sku>9853002</s:sku>
+      <s:grams>73000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>2 Seater / Audo Cotlin - Poppy Seed</title>
+      <s:price currency="EUR">2965.00</s:price>
+      <s:sku>9853003</s:sku>
+      <s:grams>73000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>3 Seater / Audo Cotlin - Oat</title>
+      <s:price currency="EUR">3355.00</s:price>
+      <s:sku>9854001</s:sku>
+      <s:grams>44000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>3 Seater / Audo Cotlin - Wheat</title>
+      <s:price currency="EUR">3355.00</s:price>
+      <s:sku>9854002</s:sku>
+      <s:grams>83000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576532947010</id>
+      <title>3 Seater / Audo Cotlin - Poppy Seed</title>
+      <s:price currency="EUR">3355.00</s:price>
+      <s:sku>9854003</s:sku>
+      <s:grams>83000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

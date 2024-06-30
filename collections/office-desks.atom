@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/office-desks.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-28T08:46:38+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8684439929162</id>
+    <published>2024-02-28T08:46:38+01:00</published>
+    <updated>2024-02-28T08:46:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-desk-1"/>
+    <title>Corbel Desk</title>
+    <s:type>Desk</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Task_Chair_Corbel_Desk_Reverse_Table_Lamp_23.jpg?v=1708509485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Desk<br>
+        <strong>Price: </strong>
+            590.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to seamlessly transition into home settings, catering to remote work and the need for stylish yet functional home office furniture, the Corbel Wall Desk delivers a flexible, space-saving solution particularly beneficial for smaller spaces. The shelf takes its name and design cues from architectural weight-bearing brackets traditionally made from stone or wood. This inspiration infuses the design with a sense of structural elegance. Designed with a small distance to the wall for neat cord management, solid wood edges enhance the table top's durability, while the smooth linoleum desk surface contributes to a practical and professional workspace. The wall-mounted design can be paired with the series shelf to create a minimalist home office setup.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Desk</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Office Desks</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Office Desk</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684439929162</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>7093840</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6572830687298</id>
+    <published>2021-06-02T17:18:42+02:00</published>
+    <updated>2021-06-02T17:18:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-eclipse-desk"/>
+    <title>The Eclipse Desk</title>
+    <s:type>Office Desk</s:type>
+    <s:vendor>Fred Rigby Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Eclipse_Desk_Ready_Dining_Chair.jpg?v=1655111303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fred Rigby Studio<br>
+        <strong>Type: </strong>Office Desk<br>
+        <strong>Price: </strong>
+            2510.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>The Eclipse Desk is a celebration of materials and form. Named after its concave and convex form that resembles the illuminated passage of celestial bodies in the sky, the Fred Rigby design has a distinctive, asymmetrical silhouette that invites to touch. Available in  black-lacquered oak and oiled natural oak with a black painted leg, the tabletop is fitted with a lid that lifts to reveal hidden storage within the supportive steel column, ensuring desk space remains free of clutter. </span>Designed to stand alone as a centrepiece in the middle of a room or for placement up against a wall as a more conventional piece of home office furniture, its intriguing form draws the eye. <a href="https://audocph.com/blogs/news/the-eclipse-desk-by-fred-rigby-studio">Read about Fred Rigby and his design process</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Fred Rigby Studio</s:tag>
+    <s:tag>Fred Rigby</s:tag>
+    <s:tag>Fred Rigby Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Office Desks</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Office Desk</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6572830687298</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">2510.00</s:price>
+      <s:sku>1020039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572830687298</id>
+      <title>Black Lacquered Oak</title>
+      <s:price currency="EUR">2510.00</s:price>
+      <s:sku>1020889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4762148012098</id>
+    <published>2021-01-08T15:49:32+01:00</published>
+    <updated>2021-01-08T15:49:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/snaregade-conference-table"/>
+    <title>Snaregade Conference Table</title>
+    <s:type>Dining Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Snaregade_Conference_Table_Passage_Stool_Reverse_Table_Lamp_Houkime_Rug_2.jpg?v=1678870776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dining Table<br>
+        <strong>Price: </strong>
+            2200.00 - 2495.00
+            <a href="https://audocph.com/products/snaregade-conference-table">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Snaregade Collection offers a range of versatile tables suited to any setting and every occasion. The latest addition to the series is the Snaregade Conference Table, a large rectangular design in a range of elegant materials made with workspaces in mind – whether at home or in the office. Crafted with a central mounting hole with a corresponding cover and cable tray, it ensures the surface remains free from the clutter of electrical plugs and wires. Snaregade Conference Table also has an optional Seat runner - for mounting Co Chairs under the tabletop. The Seat runner is not included and must be purchased separately.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Desks</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4762148012098</id>
+      <title>Black | Charcoal Linoleum</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1145149</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762148012098</id>
+      <title>Black | Mushroom Linoleum</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1145679</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762148012098</id>
+      <title>Light Grey | Black Oak</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1145159</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762148012098</id>
+      <title>Light Grey | Charcoal Linoleum</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1145189</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762148012098</id>
+      <title>Light Grey | Mushroom Linoleum</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1145689</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762148012098</id>
+      <title>Black | Dark Stained Oak</title>
+      <s:price currency="EUR">2495.00</s:price>
+      <s:sku>1145849</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945423426</id>
+    <published>2020-04-28T12:04:25+02:00</published>
+    <updated>2020-04-28T12:04:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/rail-desk"/>
+    <title>Rail Desk</title>
+    <s:type>Desk</s:type>
+    <s:vendor>Keiji Ashizawa Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Ishinomaki_Rail_Shelf_Column_Table_Lamp_0ee27f91-3c37-4810-ab83-636b583cdf2d.jpg?v=1630950031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keiji Ashizawa Design<br>
+        <strong>Type: </strong>Desk<br>
+        <strong>Price: </strong>
+            445.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Audo’s new Rail Desk, imagined by Japanese designer Keiji Ashizawa, explores the way in which we use space and how design elements can be adapted to serve different functions. Looking to the world of architecture, the neat, precisionmade piece conveys a sense of serene practicality. With multiple functions – as a desk, counter or shelf to store books, hung at any height you choose – it lends itself to almost any setting and fits neatly into living areas as well as bedrooms where space is at a premium. The minimalist steel bracket attaches to a wall and takes its cues from the handrail of a staircase. The wooden platform, available in natural or stained oak, provides a tactile contrast to the precision metalwork.<br></p>
+<p> </p>
+<p>“Neat. Serene. Practical. This small desk has multiple functions; as a little library or workspace, or as additional counter space. The beautiful design fits into any space, and the combinational of tactile wood and lightweight steel create an expression of minimal beauty.” – Keiji Ashizawa<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Desk</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Desks</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945423426</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku>1205039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945423426</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">445.00</s:price>
+      <s:sku>1205849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

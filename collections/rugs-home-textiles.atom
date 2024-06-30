@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/rugs-home-textiles.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2022-04-01T09:39:10+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6711418028098</id>
+    <published>2022-04-01T09:39:10+02:00</published>
+    <updated>2022-04-01T09:39:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/graphium-tea-towel"/>
+    <title>Graphium Tea Towel</title>
+    <s:type>Tea Towel</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Balcony_Serving_Tray_NNDW_Cup_Handle_Graphium_Tea_Towel_2.jpg?v=1647510786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Tea Towel<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Imagined in Denmark and crafted in Italy, the Graphium Tea Towel is an indispensable kitchen textile design made from cotton. Woven with sophisticated stripes that enhance the design, the absorbent tea towel is quick to dry. Soft yet long-lasting, the luxurious design makes light work of kitchen chores while adding a sophisticated blend of traditional and modernity to the space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Tea Towel</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711418028098</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2822619</s:sku>
+      <s:grams>520</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711417798722</id>
+    <published>2022-04-01T09:38:33+02:00</published>
+    <updated>2022-04-01T09:38:33+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/troides-tea-towel"/>
+    <title>Troides Tea Towel</title>
+    <s:type>Tea Towel</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Epoch_Rack_Troides_Tea_Towel_2.jpg?v=1647510598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Tea Towel<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>A staple in any well-functioning kitchen, the humble tea towel is reimagined in the perfect blend of tradition and modernity. Detailed with a bold, block weave pattern in two colourways, the chequered cotton. Troides design is made for modern kitchens using a traditional technique. Hardwearing yet elegant, it quickly absorbs and dries while wearing better with use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Responsible</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Tea Towel</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711417798722</id>
+      <title>Troides Burnt Sienna</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2812389</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417798722</id>
+      <title>Troides Indigo</title>
+      <s:price currency="EUR">20.00</s:price>
+      <s:sku>2812719</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711417602114</id>
+    <published>2022-04-01T09:37:52+02:00</published>
+    <updated>2022-04-01T09:37:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/papilio-tea-towel"/>
+    <title>Papilio Tea Towel</title>
+    <s:type>Tea Towel</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Epoch_Rack_Papilio_Tea_Towel_2.jpg?v=1647510320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Tea Towel<br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Part of our covetable collection of tableware that reimagines the traditions of entertaining at home, the Papillo Tea Towel is considered in both design and craftsmanship. Contrasting stripes of natural linen create a timeless, graphic pattern with a tactile handle. The tea towel makes an elegant and practical addition to kitchen spaces, evoking a sense of nostalgia with its classic look.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Responsible</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Tea Towel</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711417602114</id>
+      <title>Papilio Burnt Sienna</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku>2802389</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417602114</id>
+      <title>Papilio Indigo</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku>2802719</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417602114</id>
+      <title>Papilio Ochre</title>
+      <s:price currency="EUR">27.00</s:price>
+      <s:sku>2802859</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711417110594</id>
+    <published>2022-04-01T09:37:07+02:00</published>
+    <updated>2022-04-01T09:37:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cressida-napkin"/>
+    <title>Cressida Napkin</title>
+    <s:type>Napkin</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NNDW_Plate_Cressida_Napkin_1.jpg?v=1647510039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Napkin<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf" data-mce-href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Heritage and craftsmanship come together on the Cressida Napkin. Made with longevity and durability in mind, the natural linen design lends a touch of tradition to tables thanks to its classic graphic weave that is accented with subtle slub stripes of primary colour. A beautiful way to bring tableware traditions back to modern homes, its understated design enhances any setting.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Napkin</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Burnt Sienna</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910389</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Ecru</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910619</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Indigo</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910719</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711417110594</id>
+      <title>Cressida Ochre</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2910859</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711415963714</id>
+    <published>2022-04-01T09:35:22+02:00</published>
+    <updated>2022-04-01T09:35:22+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/byasa-napkin"/>
+    <title>Byasa Napkin</title>
+    <s:type>Napkin</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_MENU_Byasa_Napkin_Cressida_Napkin.jpg?v=1647509680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Napkin<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Featuring a traditional stripe pattern, the graphic lines of the Byasa Napkin add understated pattern to table settings. Woven from natural linen for beauty, durability and longevity, the tactile serviette lends a touch of classic style to mealtimes, reimagining past traditions in a thoroughly modern context.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Napkin</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711415963714</id>
+      <title>Byasa Burnt Sienna</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2900389</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711415963714</id>
+      <title>Byasa Ecru</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2900619</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711415963714</id>
+      <title>Byasa Ochre</title>
+      <s:price currency="EUR">12.00</s:price>
+      <s:sku>2900859</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576543498306</id>
+    <published>2021-09-01T15:38:05+02:00</published>
+    <updated>2021-09-01T15:38:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/losaria-pillow"/>
+    <title>Losaria Pillow</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Losaria_Pillow_2_dce3d9c1-7779-4927-ae94-de79985b4684.jpg?v=1630949980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            125.00 - 135.00
+            <a href="https://audocph.com/products/losaria-pillow">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p>Part of Audo’s Cocoon Textile Collection, the Losaria Pillow is a luxurious choice. Losaria is produced in Europe and is comprised of long lasting and breathable materials selected for tactility and the finest quality. To create the cover, a soft mix of Italian pure and bouclé wool is woven together with silk giving the pillows an elegant, classic pattern. The inner cushion is made from 100% recycled polyester filler that is originally derived from plastic bottles. The cover of the inner cushion is also made from polyester, ensuring the product is mono-material. The prevalence of mono-materials in the Losaria Pillow means that at the end of its long life, the wool cover and recycled polyester inner cushion may be reused once again. Losaria is offered in two sizes for living or bedrooms and is cast in an earthy palette of Burnt Sienna, Ochre, Indigo and Ivory.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Pillow</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>RUGS &amp; HOME TEXTILES</s:tag>
+    <s:tag>Textile</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210389</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Ochre</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210859</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Indigo</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210719</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x40 / Pillow | Ivory</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>5210649</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x60 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>5211389</s:sku>
+      <s:grams>1430</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x60 / Pillow | Ochre</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>5211859</s:sku>
+      <s:grams>1430</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576543498306</id>
+      <title>60x60 / Pillow | Indigo</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>5211719</s:sku>
+      <s:grams>1430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6572308234306</id>
+    <published>2021-06-02T12:59:07+02:00</published>
+    <updated>2021-06-02T12:59:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/mimoides-pillow"/>
+    <title>Mimoides Pillow</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Mentze Ottenstein + Rosholm</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BI9A8030.jpg?v=1621259294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein + Rosholm<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            70.00 - 110.00
+            <a href="https://audocph.com/products/mimoides-pillow">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://presscloud.com/file/14/149175383962893/Audo_Cph_MadeResponsibly_Criteria.pdf"><span data-mce-fragment="1"><strong data-mce-fragment="1">This product fulfils 8/9 Responsibility Criteria</strong>. <strong data-mce-fragment="1">Read more</strong></span></a></p>
+<p><br></p>
+<p>Part of Audo’s Cocoon Textile Collection, the sumptuous Mimoides Pillow is produced in Europe from the finest quality materials selected for tactility. The cover of the Mimoides Pillow is sewn using Lithuanian linen that grows softer with time. The linen is yarn-dyed for durable, rich colour profiles. The smaller pillows have an extra silk stitching, forming a striking frame at the outer edges.</p>
+<p>The inner cushion is made from 100% recycled polyester filler, originally derived from plastic bottles. The cover of the inner cushion is also made from polyester, ensuring the product is mono-material.</p>
+<p>The prevalence of mono-materials in the Mimoides Pillow means that at the end of its long life, the linen cover and recycled polyester inner cushion may be reused once again. Mimoides is offered in two sizes for living or bedrooms and is cast in an earthy palette of Burnt Sienna, Ochre, Indigo and Birch.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Responsible</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cocoon Collection</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>Designer-Mentze Ottenstein + Rosholm</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Products Made Responsibly</s:tag>
+    <s:tag>RUGS &amp; HOME TEXTILES</s:tag>
+    <s:tag>Textile</s:tag>
+    <s:tag>Type-Textile</s:tag>
+    <s:tag>Type-Textiles</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>40 x 40 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>5217389</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>40 x 40 / Pillow | Ochre</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>5217859</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>40 x 40 / Pillow | Indigo</title>
+      <s:price currency="EUR">70.00</s:price>
+      <s:sku>5217719</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>60 x 60 / Pillow | Burnt Sienna</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>5216389</s:sku>
+      <s:grams>1010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>60 x 60 / Pillow | Ochre</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>5216859</s:sku>
+      <s:grams>1010</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572308234306</id>
+      <title>60 x 60 / Pillow | Indigo</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>5216719</s:sku>
+      <s:grams>1010</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4711050575938</id>
+    <published>2020-10-22T08:44:45+02:00</published>
+    <updated>2020-10-22T08:44:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/houkime-rug-beige"/>
+    <title>Houkime Rug Midnight Blue</title>
+    <s:type>Rug</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Houkime_Rug_2.jpg?v=1678871401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Rug<br>
+        <strong>Price: </strong>
+            925.00 - 1140.00
+            <a href="https://audocph.com/products/houkime-rug-beige">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed by Nina Bruun, the Houkime Rug is classic in its expression, woven in a ribbed pattern from plush cotton and tencel for a tactile finish. The timeless colour means it works with every interior style, adding elegance and warmth to spaces large and small.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Rug</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4711050575938</id>
+      <title>170x240 cm / Midnight Blue</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>5855779</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4711050575938</id>
+      <title>200x300 cm / Midnight Blue</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>5856779</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633378783298</id>
+    <published>2020-08-27T17:35:42+02:00</published>
+    <updated>2020-08-27T17:35:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/houkime-rug"/>
+    <title>Houkime Rug Beige</title>
+    <s:type>Rug</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Houkime_rug4.jpg?v=1604571268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Rug<br>
+        <strong>Price: </strong>
+            925.00 - 1140.00
+            <a href="https://audocph.com/products/houkime-rug">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed by Nina Bruun, the Houkime Rug is classic in its expression, woven in a ribbed pattern from plush cotton and tencel for a tactile finish. The timeless colour means it works with every interior style, adding elegance and warmth to spaces large and small.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Rug</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633378783298</id>
+      <title>170x240 cm / Beige</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>5855049</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633378783298</id>
+      <title>200x300 cm / Beige</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>5856049</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518948143170</id>
+    <published>2020-06-12T07:18:37+02:00</published>
+    <updated>2020-06-12T07:18:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/gravel-rug"/>
+    <title>Gravel Rug</title>
+    <s:type>Rug</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BI9A8035.jpg?v=1692956018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Rug<br>
+        <strong>Price: </strong>
+            1275.00 - 1420.00
+            <a href="https://audocph.com/products/gravel-rug">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Conveying a sense of nature and celebrating natural materials, the gravel rug combines undyed wool fibers with an unexpected weaving technique that brings depth and complexity to the design.<br><br>Looking to nature and its endless offerings, the Gravel Rug, designed by Nina Bruun for Audo, represents the values that make a house a home: warm, welcoming and comfortable. Crafted with care from natural wool fibers, up close its soft loops – alternating in size – evoke the feeling of walking on a pebbled beach, but from far away the surface of the rug appears to ripple like a cornfield swaying with the wind. The tactile surface is achieved using a technique whereby tonal wool yarns of varying sizes are looped into tufts. The natural material softens the rug’s overall expression, which will work in any context, from private homes to public spaces.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Rug</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518948143170</id>
+      <title>170x240 cm / Ivory</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>5852649</s:sku>
+      <s:grams>25960</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518948143170</id>
+      <title>200x300 cm / Ivory</title>
+      <s:price currency="EUR">1420.00</s:price>
+      <s:sku>5851649</s:sku>
+      <s:grams>25960</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518948143170</id>
+      <title>200x300 cm / Grey</title>
+      <s:price currency="EUR">1420.00</s:price>
+      <s:sku>5851139</s:sku>
+      <s:grams>25960</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/androgyne-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-28T08:46:36+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8684454543690</id>
+    <published>2024-02-28T08:46:36+01:00</published>
+    <updated>2024-02-28T08:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-steel"/>
+    <title>Androgyne Side Table, Steel Base</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AndrogyneSideTable_RadiohusSofa_73.jpg?v=1708508805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p>With its contemporary elegance and minimalist appeal, the Androgyne Side Table becomes more than just furniture—it becomes a statement piece that enhances the overall aesthetic of any space. Crafted from stainless steel, renowned for its durability and corrosion resistance, the brushed finish introduces an intriguing texture to the metal, creating an interplay of light and shadow that make the design a focal point in any room. The collection’s tabletop, offered in a range of materials, can be added to the design.</p>
+<p><strong>Please note, a tabletop can be purchased separately. <a href="https://audocph.com/products/androgyne-side-table-top">Find it here.</a></strong></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684454543690</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1181039</s:sku>
+      <s:grams>13382</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6576452436034</id>
+    <published>2021-06-02T17:19:47+02:00</published>
+    <updated>2021-06-02T17:19:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-o50"/>
+    <title>Androgyne Side Table, Ø50</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay20210714.jpg?v=1621260349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            670.00 - 1115.00
+            <a href="https://audocph.com/products/androgyne-side-table-o50">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Perfectly proportioned with an intriguing combination of masculine and feminine elements, the Androgyne Side Table is a lesson in contrasts. Making clever use of craftsmanship, the round tabletop overhangs the wide, flat legged base in a meeting of solid and soft lines. Both base and top are sold separately and are available in natural or dark stained oak, walnut and Kunis Breccia stone respectively for a complete and customised furniture piece.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Natural Oak | Natural Oak</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1119039</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Dark Stained Oak | Dark Stained Oak</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1119849</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Walnut | Walnut</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1119879</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Natural Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1119019</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Dark Stained Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1119819</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6576452436034</id>
+      <title>Walnut | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1115.00</s:price>
+      <s:sku>1119869</s:sku>
+      <s:grams>11400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4762123436098</id>
+    <published>2021-01-11T08:50:53+01:00</published>
+    <updated>2021-01-11T08:50:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-dining-table-rectangular"/>
+    <title>Androgyne Dining Table Rectangular</title>
+    <s:type>Dining Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/androgynediningtablerectangular2.jpg?v=1714563366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Dining Table<br>
+        <strong>Price: </strong>
+            3865.00 - 4510.00
+            <a href="https://audocph.com/products/androgyne-dining-table-rectangular">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 71" class="page">
+<div class="layoutArea">
+<div class="column">
+<p>The Androgyne Collection pairs natural materials and sculptural forms to striking effect, taking its name from its blend of the masculine and feminine. A bold, confident take on a table, the rectangular iteration amplifies the dimensions of the collection’s dining table to grander proportions. The architect-designed piece, craed with a wood veneer top and base, serves as a community-style table, with room to seat from 8-10 individuals. Available in 210 cm and 280 cm, its artistic silhouette balances function and beauty</p>
+</div>
+</div>
+</div>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4762123436098</id>
+      <title>210 x 109 / Natural Oak/Natural Oak</title>
+      <s:price currency="EUR">3880.00</s:price>
+      <s:sku>1185019</s:sku>
+      <s:grams>95000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762123436098</id>
+      <title>210 x 109 / Dark Stained Oak/Dark Stained Oak</title>
+      <s:price currency="EUR">3865.00</s:price>
+      <s:sku>1185849</s:sku>
+      <s:grams>95000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762123436098</id>
+      <title>278 x 109 / Natural Oak/Natural Oak</title>
+      <s:price currency="EUR">4440.00</s:price>
+      <s:sku>1186019</s:sku>
+      <s:grams>105500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4762123436098</id>
+      <title>278 x 109 / Dark Stained Oak/Dark Stained Oak</title>
+      <s:price currency="EUR">4510.00</s:price>
+      <s:sku>1186849</s:sku>
+      <s:grams>105500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4747262918722</id>
+    <published>2020-12-08T11:42:11+01:00</published>
+    <updated>2020-12-08T11:42:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-top"/>
+    <title>Androgyne Side Table, Table Top</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Androgyne-Table-6_e990345c-029a-453c-ba62-93f1e90882ca.jpg?v=1699277743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            215.00 - 440.00
+            <a href="https://audocph.com/products/androgyne-side-table-top">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Please note, the base is sold separately. <a href="https://audocph.com/products/androgyne-side-table">Find it here.</a></strong></p>
+<p> </p>
+<p><span>The table’s refined marble top, which barely hangs over the legs to create an overall sense of balance, and contrasting wide, flat legs – laser-cut for precision – make it an easy fit for a range of décor styles. Both base and top are available separately and in ivory </span><span>or black powder coated steel and white or black marble respectively for total customization.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Emperador Marble</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181989</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Calacatta Viola</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku>1181319</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Black Marble Top</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181539</s:sku>
+      <s:grams>7800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4747262918722</id>
+      <title>Crystal Rose Marble Top</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1181649</s:sku>
+      <s:grams>7800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633406341186</id>
+    <published>2020-08-27T17:35:43+02:00</published>
+    <updated>2020-08-27T17:35:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-lounge-table-wood"/>
+    <title>Androgyne Lounge Table, Wood</title>
+    <s:type>Café Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Androgyne_Lounge_Table_4.jpg?v=1655114964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Café Table<br>
+        <strong>Price: </strong>
+            925.00 - 2120.00
+            <a href="https://audocph.com/products/androgyne-lounge-table-wood">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Originally developed by Norwegian architect and designer Danielle Siggerud as a modern and versatile table for Audo’s former showroom café, the Androgyne Collection profiles simple silhouettes and refined materials. Celebrating craftsmanship and wood, the Androgyne Lounge Table is versioned in natural or dark stained oak or walnut, as well as with the option of a kunis breccia stone or calacatta viola marble tabletop. With a shape and function made for everyday settings, the versatile, modernist design makes it possible to use as both a lounge table or bench for piles of books or statement decorations.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Cafe Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Natural Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>1184019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Natural Oak | Natural Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>1184039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Dark Stained Oak | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>1184819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Dark Stained Oak | Dark Stained Oak</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>1184849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Walnut | Kunis Breccia Sand</title>
+      <s:price currency="EUR">1540.00</s:price>
+      <s:sku>1184869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Walnut | Walnut</title>
+      <s:price currency="EUR">1325.00</s:price>
+      <s:sku>1184879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Natural Oak | Calacatta Viola</title>
+      <s:price currency="EUR">1855.00</s:price>
+      <s:sku>1189019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Dark Stained Oak | Calacatta Viola</title>
+      <s:price currency="EUR">1855.00</s:price>
+      <s:sku>1189819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633406341186</id>
+      <title>Walnut | Calacatta Viola</title>
+      <s:price currency="EUR">2120.00</s:price>
+      <s:sku>1189869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945980482</id>
+    <published>2020-08-27T14:57:36+02:00</published>
+    <updated>2020-08-27T14:57:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-dining-table"/>
+    <title>Androgyne Dining Table</title>
+    <s:type>Dining Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Resonant_Pendant_Taper_Bowl_Androgyne_Dining_Table_742574a8-9113-46b5-9743-f62812fe152e.jpg?v=1664978352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Dining Table<br>
+        <strong>Price: </strong>
+            3445.00 - 4440.00
+            <a href="https://audocph.com/products/androgyne-dining-table">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 71" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Like a magnificent monument, the Androgyne Dining Table pairs natural materials to striking effect. Evolving the collection further, the bold, confident take on a dining table amplifies the silhouette of the collection’s side table to grander proportions. A table not for the faint of heart, it makes a characterful accent in any space – from a domestic dining room to a restaurant or other gathering point. Natural or dark stained oak and kunis breccia stone tabletop, the latter of which is available only in Ø120, and base options create bold combinations, complementary or contrasting in texture and finish. </span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945980482</id>
+      <title>150 cm / Natural Oak/Natural Oak</title>
+      <s:price currency="EUR">4440.00</s:price>
+      <s:sku>1182039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945980482</id>
+      <title>150 cm / Dark Stained Oak/Dark Stained Oak</title>
+      <s:price currency="EUR">4440.00</s:price>
+      <s:sku>1182849</s:sku>
+      <s:grams>52155</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945980482</id>
+      <title>120 cm / Natural Oak/Natural Oak</title>
+      <s:price currency="EUR">3445.00</s:price>
+      <s:sku>1183039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945980482</id>
+      <title>120 cm / Dark Stained Oak/Dark Stained Oak</title>
+      <s:price currency="EUR">3445.00</s:price>
+      <s:sku>1183849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945980482</id>
+      <title>120 cm / Natural Oak/Kunis Breccia Sand</title>
+      <s:price currency="EUR">4010.00</s:price>
+      <s:sku>1183019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945980482</id>
+      <title>120 cm / Dark Stained Oak/Kunis Breccia Sand</title>
+      <s:price currency="EUR">4010.00</s:price>
+      <s:sku>1183819</s:sku>
+      <s:grams>80000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945488962</id>
+    <published>2020-08-27T14:57:34+02:00</published>
+    <updated>2020-08-27T14:57:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-lounge-table"/>
+    <title>Androgyne Lounge Table, Stone/Marble</title>
+    <s:type>Lounge Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Androgyne_Lounge_Table_5.jpg?v=1655112096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Lounge Table<br>
+        <strong>Price: </strong>
+            3005.00 - 3530.00
+            <a href="https://audocph.com/products/androgyne-lounge-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 70" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Imagined by Norwegian architect and designer Danielle Siggerud for Audo’s former showroom café, the Androgyne Collection profiles simple silhouettes and refined materials. </span><span>A monumental design crafted from kunis breccia stone, marked by characteristic veins and mineral fragments in warm hues, the Androgyne Lounge Table continues the simple silhouette of the collection while introducing natural materials and a shape and function made for everyday settings. The versatile design makes it possible to use as both a lounge table or bench for piles of books or statement decorations.</span></p>
+<p><span>The Androgyne Lounge Table, now available in Calacatta Viola marble, is a striking centrepiece in classic and modern spaces alike. Sourced in Italy, the off-white marble’s characteristic purple veining and natural inclusions create beautifully unique surface patterns that add dimension to the design.</span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945488962</id>
+      <title>Kunis Breccia</title>
+      <s:price currency="EUR">3005.00</s:price>
+      <s:sku>1184139</s:sku>
+      <s:grams>60775</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945488962</id>
+      <title>Calacatta Viola</title>
+      <s:price currency="EUR">3530.00</s:price>
+      <s:sku>1189319</s:sku>
+      <s:grams>60775</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518980976706</id>
+    <published>2020-05-12T15:52:20+02:00</published>
+    <updated>2020-05-12T15:52:20+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table"/>
+    <title>Androgyne Side Table, Base</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/androgyne.jpg?v=1678874248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Please note, the tabletop is sold separately. <a href="https://audocph.com/products/androgyne-side-table-top">Find it here.</a></strong></p>
+<p> </p>
+<p><span>The perfectly proportioned table comprises a sturdy powder coated steel base on which a rounded marble tabletop is balanced. The table’s refined marble top, which barely hangs over the legs to create an overall sense of balance, and contrasting wide, flat legs – laser-cut for precision – make it an easy fit for a range of décor styles. Both base and top are available separately and in ivory </span><span>or black powder coated steel and white or black marble respectively for total customization.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518980976706</id>
+      <title>Black Base</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>1180539</s:sku>
+      <s:grams>13382</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980976706</id>
+      <title>Ivory Base</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>1180649</s:sku>
+      <s:grams>13594</s:grams>
+    </s:variant>
+  </entry>
+</feed>

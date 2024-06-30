@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/mirrors.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-02-15T14:47:32+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6862679179330</id>
+    <published>2023-02-15T14:47:32+01:00</published>
+    <updated>2023-02-15T14:47:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/view-mirror"/>
+    <title>View Wall Mirror</title>
+    <s:type>Wall Mirror</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/view_mirror.jpg?v=1676032575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Wall Mirror<br>
+        <strong>Price: </strong>
+            155.00 - 270.00
+            <a href="https://audocph.com/products/view-mirror">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enhancing a space with its reflective surface and floating expression, the View Mirror is characterised by its sleek simplicity and quality materials. Designed by Mogens Lassen, the minimalist design serves its purpose effortlessly, integrating form and function with effortless ease. Available in three different sizes, it is equally purposeful in a hallway or bathroom as it is a bedroom or living room where it frames the room and magnifies its dimensions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>type-Wall Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679179330</id>
+      <title>29,7 x 29,7 cm</title>
+      <s:price currency="EUR">155.00</s:price>
+      <s:sku>BL30306</s:sku>
+      <s:grams>2316</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679179330</id>
+      <title>56 x 56 cm</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>BL30301</s:sku>
+      <s:grams>3542</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679179330</id>
+      <title>70 x 70 cm</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>BL30302</s:sku>
+      <s:grams>4288</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633313771586</id>
+    <published>2020-08-27T17:35:40+02:00</published>
+    <updated>2020-08-27T17:35:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/nimbus-table-mirror"/>
+    <title>Nimbus Table Mirror</title>
+    <s:type>Table Mirror</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NimbusTableMirror_2.jpg?v=1678882161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Table Mirror<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span lang="EN-GB">Designed for Audo by Krøyer-Sætter-Lassen, the Nimbus Table Mirror in polished or bronzed brass updates the classic looking glass to modern sensibilities. More than just a mirror, the gently curved halo-like stand brings elegance and visual intrigue to spaces, making it as beautiful to look at as it is to look into.</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Table Mirrors</s:tag>
+    <s:tag>type-Table Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633313771586</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>8033839</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633313771586</id>
+      <title>Bronzed Brass</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>8033859</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4643389833282</id>
+    <published>2020-08-27T15:03:17+02:00</published>
+    <updated>2020-08-27T15:03:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/nimbus-mirror-o90"/>
+    <title>Nimbus Mirror, Ø60</title>
+    <s:type>Wall Mirror</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_NimbusMirror_Gallery04.jpg?v=1709639499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Mirror<br>
+        <strong>Price: </strong>
+            565.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Nimbus Mirror makes a feature of the negative space surrounding its light-reflecting glass. The compact design was created specifically for smaller spaces, without sacrificing the beauty and function of great design and the need for daily reflection – quite literally. The polished or bronzed brass mirror defines a space with its soothing and sophisticated shape.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Wall Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4643389833282</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8030839</s:sku>
+      <s:grams>4640</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643389833282</id>
+      <title>Bronzed Brass</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8030859</s:sku>
+      <s:grams>4640</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4635120992322</id>
+    <published>2020-08-27T15:03:03+02:00</published>
+    <updated>2020-08-27T15:03:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pepe-marble-mirror-wall"/>
+    <title>Pepe Marble Mirror, Wall</title>
+    <s:type>Wall Mirror</s:type>
+    <s:vendor>Studiopepe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Pepe-Mirror-wall-7.jpg?v=1678881977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Studiopepe<br>
+        <strong>Type: </strong>Wall Mirror<br>
+        <strong>Price: </strong>
+            510.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>The classic standing mirror gets a functionalist update with this new wall attachment. The focus on materials and quality makes the Pepe Marble Mirror timeless. The Pepe Marble Mirror, designed by Milan-based firm Studiopepe, is an elegant study of functionality overlapping with aesthetic. The Pepe was previously only available as a standing mirror and is now available in a wall-mounted option. This makes it perfect for small spaces and spaces where you don’t want items to be moveable, such as restaurant bathrooms or hotel rooms. One side of the mirror offers regular reflection, while the other shows magnification of 300%; a perfect mirror for self-grooming.</p>
+<p> </p>
+</div>
+<div class="panel-group productAccordins" id="accordion">
+<div class="panel panel-default">
+<div class="panelAccordinHeader">
+<div class="panelAccordinHeaderIcons"><a data-toggle="collapse" data-parent="#accordion" href="https://audocph.com/en/pepe-marble-mirror-wall-brass-black/#collapse1" class="collapsed"><i class="fa fa-plus"></i></a></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-studiopepe</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Table Mirrors</s:tag>
+    <s:tag>type-Wall Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4635120992322</id>
+      <title>Brass | White Marble</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>3610639</s:sku>
+      <s:grams>3114</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4635120992322</id>
+      <title>Brass | Honed Brown Marble</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>3610939</s:sku>
+      <s:grams>3121</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4635120992322</id>
+      <title>Brass | Black Marble</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>3610539</s:sku>
+      <s:grams>3114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518980517954</id>
+    <published>2020-06-12T07:33:52+02:00</published>
+    <updated>2020-06-12T07:33:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bath-floor-mirror-rectangular"/>
+    <title>Norm Floor Mirror</title>
+    <s:type>Floor Mirror</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_NormFloorMirror.jpg?v=1692955514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Floor Mirror<br>
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 139">
+<div class="layoutArea">
+<div class="column">
+<p><span>The look and feel of the compact, vanity-style Bath Mirror makes it an elegant addition in an entryway or bedroom as well as a bathroom, whether mounted on the wall or placed atop a dresser or counter. It comes in black and white and is generously sized to give you the perspective you need while visually expanding your space. </span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Large Mirrors</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>type-Floor Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518980517954</id>
+      <title>Black</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>7800589</s:sku>
+      <s:grams>14051</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980517954</id>
+      <title>White</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>7800689</s:sku>
+      <s:grams>14051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518948372546</id>
+    <published>2020-06-12T07:32:56+02:00</published>
+    <updated>2020-06-12T07:32:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/nimbus-mirror"/>
+    <title>Nimbus Mirror, Ø110</title>
+    <s:type>Wall Mirror</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Nimbus-Mirror.jpg?v=1685354865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Mirror<br>
+        <strong>Price: </strong>
+            1125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking to the way in which a picture or a painting is framed, the Copenhagen based design studio krøyer-sætter-lassen investigated how an entire frame could surround a mirror without detracting from the beauty and reflection of the glass.The result is nimbus, a refreshingly simple mirror in bronzed or polished brass and light-reflecting glass which defines a space with its soothing and sophisticated round shape.<br><br>Surrounded with a bronzed or polished solid brass frame, held in place with decorative screws, the Nimbus mirror measures 110 cm in diameter, making it ideal as a functional object, as well as a decorative addition to homes, hotels or offices.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Large Mirrors</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Wall Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518948372546</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">1125.00</s:price>
+      <s:sku>8031839</s:sku>
+      <s:grams>30300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518948372546</id>
+      <title>Bronzed Brass</title>
+      <s:price currency="EUR">1125.00</s:price>
+      <s:sku>8031859</s:sku>
+      <s:grams>30300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518945062978</id>
+    <published>2020-06-12T07:32:56+02:00</published>
+    <updated>2020-06-12T07:32:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/nimbus-mirror-rectangular"/>
+    <title>Nimbus Mirror, Rectangular</title>
+    <s:type>Wall Mirror</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Eave-Modular-Sofa_Nimbus-Mirror_Echasse-Vase.jpg?v=1685354812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Mirror<br>
+        <strong>Price: </strong>
+            1125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking to the way in which a picture or a painting is framed, the Copenhagen-based design studio Krøyer-Sætter-Lassen investigated how an entire frame could surround a mirror without detracting from the beauty and reflection of the glass. The result is Nimbus, a refreshingly simple mirror in bronzed brass and light-reflecting glass which defines a space with its soothing and sophisticated round shape. A mirror isn’t merely purely functional: since ancient times, they have reflected the style of a period—framed by ornate Baroque flourishes or Gothic arches and the simple lines of the Bauhaus movement. Audo’s latest iteration takes the fundamentals of the mirror into the modern age, yet with a mythological twist, referenced in its name: in Greek mythology, Nimbus was a shining cloud or corona that often surrounded a deity when on Earth. Design studio Krøyer-Sætter-Lassen looked to the way in which a painting or picture is framed to change the overall expression of the artwork. Encompassed by a halo-like bronzed brass ring, held in place by decorative screws, the circular mirror adds to the sense of light and space in a room.<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Large Mirrors</s:tag>
+    <s:tag>type-Wall Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518945062978</id>
+      <title>Polished Brass</title>
+      <s:price currency="EUR">1125.00</s:price>
+      <s:sku>8032839</s:sku>
+      <s:grams>32785</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518945062978</id>
+      <title>Bronzed Brass</title>
+      <s:price currency="EUR">1125.00</s:price>
+      <s:sku>8032859</s:sku>
+      <s:grams>32785</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518977994818</id>
+    <published>2020-04-28T12:07:53+02:00</published>
+    <updated>2020-04-28T12:07:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bath-wall-mirror-rectangular"/>
+    <title>Norm Wall Mirror, Rectangular</title>
+    <s:type>Wall Mirror</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Bath_Mirror.jpg?v=1692955528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Mirror<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rectangular Mirror - The look and feel of the statement Bath Collection Floor Mirror is carried over to the more compact, vanity-style Bath Mirror. Of course, the elegant shape works just as well in the bath as in an entryway or bedroom, whether mounted on the wall or placed atop a dresser or counter. It comes in black and white and is generously sized to give you the perspective you need while visually expanding your space.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Series</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Wall Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518977994818</id>
+      <title>Black</title>
+      <s:price currency="EUR">375.00</s:price>
+      <s:sku>8020539</s:sku>
+      <s:grams>8845</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518968164418</id>
+    <published>2020-04-28T12:06:34+02:00</published>
+    <updated>2020-04-28T12:06:34+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/oval-wall-mirror"/>
+    <title>Norm Wall Mirror, Oval</title>
+    <s:type>Wall Mirror</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Norm-Oval-Mirror-web2.jpg?v=1587485861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Mirror<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by vintage dressing room mirrors, Oval Mirror is simple and streamlined. A practical and versatile mirror, use it in the bathroom, hallway or dressing-room. Oval Mirror is part of a Collection by Norm Architects, each mirror made with a powder-coated metal frame, featuring gently rounded corners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Large Mirrors</s:tag>
+    <s:tag>type-Wall Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518968164418</id>
+      <title>Powder Coated Black</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>8010539</s:sku>
+      <s:grams>8845</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518967836738</id>
+    <published>2020-04-28T12:06:30+02:00</published>
+    <updated>2020-04-28T12:06:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pepe-marble-mirror"/>
+    <title>Pepe Marble Mirror, Table</title>
+    <s:type>Table Mirror</s:type>
+    <s:vendor>Studiopepe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Graphium_Tea_Towel_Troides_Tea_Towel_Pepe_Marble_Mirror_75796679-037c-4681-b44a-6629d3f3661f.jpg?v=1692955652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Studiopepe<br>
+        <strong>Type: </strong>Table Mirror<br>
+        <strong>Price: </strong>
+            510.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pepe Marble Mirror is a beautiful object for everyday use. With its clean lines and iconic aesthetic, the mirror takes inspiration from Italian design and architecture of the late 1950s, as represented by masters such as Caccia Dominioni and Gio Ponti. The Milanese design duo behind the mirror, Studiopepe, are obsessed with materials, like marble, that improve with age over years and years. "We believe that a beautifully designed product should last almost forever," they tell us.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-studiopepe</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Table Mirrors</s:tag>
+    <s:tag>type-Table Mirror</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518967836738</id>
+      <title>Brass | Honed Brown Marble</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>3600939</s:sku>
+      <s:grams>3520</s:grams>
+    </s:variant>
+  </entry>
+</feed>

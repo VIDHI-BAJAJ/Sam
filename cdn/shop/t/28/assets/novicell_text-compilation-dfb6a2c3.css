@@ -1,0 +1,4 @@
+.text-compilation__content-wrapper{display:flex}.text-compilation__content{margin:0;width:fit-content;max-width:100%;min-width:70%;display:flex;flex-flow:column wrap}.text-compilation__content>:first-child{margin-bottom:.5rem}.text-compilation__content .content__sub-heading{display:block}
+.text-compilation__content .content__sub-heading,.text-compilation__content .content__heading,.text-compilation__content .content__description{margin-top:0}
+.text-compilation__content .cta-container{z-index:3;display:flex;width:100%}
+.text-compilation__content *:not(.cta){color:inherit}

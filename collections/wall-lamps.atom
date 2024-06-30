@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/wall-lamps.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2023-06-28T09:34:27+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/4518961905730</id>
+    <published>2023-06-28T09:34:27+02:00</published>
+    <updated>2023-06-28T09:34:27+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tr-bulb-ceiling-wall-lamp"/>
+    <title>TR Bulb, Ceiling/Wall Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Tim Rundle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Harbour-Chair_TR_Stem-Vase_Androgyne-Table_0acbead7-ea64-4f81-b4d3-86b220ebc084.jpg?v=1687937519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tim Rundle<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            215.00 - 400.00
+            <a href="https://audocph.com/products/tr-bulb-ceiling-wall-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TR Bulb is a clever solution for modern city living, inspired by the way people are increasingly becoming urban nomads, moving between cities and countries to pursue careers and life experiences. The first collaboration between Audo and Tim Rundle, TR Bulb is designed to be taken from apartment to apartment – installed by simply screwing it into the pendant sockets hanging in ceilings all over the world, no electrical expertise required. The dimmable LED bulb, with its elegant, spherical form hides the lamp fitting, while the opal glass diffuser creates an even, harmonious glow, preventing glare.</p>
+<p>Audo has partnered with the London-based Rundle to diversify the range of offerings from the TR series. “When a light has such a simple form, subtle differences can create a distinctly different character. The new shiny version offers a more classical feeling to the design”, Rundle says.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceiling Lamps</s:tag>
+    <s:tag>designer-Tim Rundle</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>TR</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518961905730</id>
+      <title>Black | Matte</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>1494639</s:sku>
+      <s:grams>2332</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518961905730</id>
+      <title>Brass | Matte</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>1464639</s:sku>
+      <s:grams>2149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6807173070914</id>
+    <published>2022-09-30T11:11:49+02:00</published>
+    <updated>2022-09-30T11:11:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/collector-wall-lamp"/>
+    <title>Collector Wall Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Alf Svensson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_3daysofdesign2022_TheAudo_ByMarioDepicolzuane_19.jpg?v=1664265976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alf Svensson<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Swedish designer Alf Svensson devised the Collector series of lighting in the 1950s. One of three designs, the wall-mounted lamp is defined by its solid brass band that holds a conical metal shade which projects the light in two directions. Small perforations in the shade allows the light to shine through. The name references the collectability of the series, profiling mid-century lighting design at its very best.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Alf Svensson</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6807173070914</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>1395649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518958399554</id>
+    <published>2022-05-30T09:32:29+02:00</published>
+    <updated>2022-05-30T09:32:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tribeca-hudson-wall-ceiling-lamp"/>
+    <title>Hudson Wall/Ceiling Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Soren Rose Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1946859_Hudson_Ceiling-Wall_Lamp_Black-Bronzed.jpg?v=1653895923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soren Rose Studio<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            349.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hudson Lamp is one of our latest additions to the highly successful Tribeca family. The ceiling lamp stands out for its flexibility and sculptural beauty as you can adjust it to the position that’s just right for its surroundings. A graphic expression with easily adjustable fittings.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Soren Rose Studio</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Outgoing 2022</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518958399554</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">349.95</s:price>
+      <s:sku>1946859</s:sku>
+      <s:grams>1930</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711379492930</id>
+    <published>2022-03-10T13:52:26+01:00</published>
+    <updated>2022-03-10T13:52:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/cast-sconce-lamp-with-diffuser"/>
+    <title>Cast Sconce Wall Lamp with Diffuser, Dimmable</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Thomas Chung &amp; Jordan Murphy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Cast_Sconce_Wall_Lamp_W_Diffuser.jpg?v=1646923390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thomas Chung &amp; Jordan Murphy<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 113">
+<div class="layoutArea">
+<div class="column">
+<p>The Cast Sconce Wall Lamp unites triangular, linear and round elements into a sophisticated silhouette. Purposeful and with presence, its geometric form adds to the ambience of a room both when turned on and off. The LED light is controlled by a dimmer switch on the cord. A beautiful complement to the pendants from the same collection, its distinct identity means it also hangs comfortably on its own, bringing soft, glare-free light to living, working and commercial spaces. The thoughtfully designed brushed brass arm, cast aluminium shade and corresponding mounting plate create an engaging form that naturally assimilates into the design of any room.</p>
+<p>The lamp is unable to be adjusted once mounted. Please ensure the correct shade angle before attaching to a wall.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Thomas Chung &amp; Jordan Murphy</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711379492930</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1251539</s:sku>
+      <s:grams>1630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710129819714</id>
+    <published>2022-03-10T13:32:08+01:00</published>
+    <updated>2022-03-10T13:32:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/hashira-wall-lamp"/>
+    <title>Hashira Wall Lamp</title>
+    <s:type>Wall Lamp</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Hashira_Wall_Lamp_Raw_Brasilia_Lounge_Chair_Sheepskin_2.jpg?v=1678458940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Wall Lamp<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hashira Collection is a modern, Nordic take on the traditional Japanese rice paper lantern. Conceived for Audo by Norm Architects, the collection’s wall lamp perfectly balances aesthetics and proportion, simplicity and character. The translucent fabric shade – available in white linen and raw slub linen – acts as a diffuser, projecting the light in multiple directions while creating a cosy, glare-free ambience. The tactile fabric also adds palpable appeal that enhances the softness of an interior. Spreading ambient light in a room, it looks equally elegant mounted alone on a wall as it does in pairs above a bed or sofa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>type-Wall Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710129819714</id>
+      <title>Raw</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>1506699</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518960627778</id>
+    <published>2020-04-28T12:05:53+02:00</published>
+    <updated>2020-04-28T12:05:53+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tr-bulb-table-wall-lamp"/>
+    <title>TR Bulb, Table/Wall Lamp</title>
+    <s:type>Table Lamp</s:type>
+    <s:vendor>Tim Rundle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Stick_System_TR_Bulb_TableWall_Lamp_2.jpg?v=1587485435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tim Rundle<br>
+        <strong>Type: </strong>Table Lamp<br>
+        <strong>Price: </strong>
+            455.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>TR Bulb is a clever solution for modern city living, inspired by the way people are increasingly becoming urban nomads, moving between cities and countries to pursue careers and life experiences. The first collaboration between Audo and Tim Rundle, TR Bulb is designed to be taken from apartment to apartment – installed by simply screwing it into the pendant sockets hanging in ceilings all over the world, no electrical expertise required. The dimmable LED bulb, with its elegant, spherical form hides the lamp fitting, while the opal glass diffuser creates an even, harmonious glow, preventing glare.</p>
+<p>Audo has partnered with the London-based Rundle to diversify the range of offerings from the TR series. “When a light has such a simple form, subtle differences can create a distinctly different character. The new shiny version offers a more classical feeling to the design”, Rundle says.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Tim Rundle</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Table Lamps</s:tag>
+    <s:tag>TR</s:tag>
+    <s:tag>TR Bulb</s:tag>
+    <s:tag>type-Table Lamp</s:tag>
+    <s:tag>Wall Lamps</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518960627778</id>
+      <title>Brass | Matte</title>
+      <s:price currency="EUR">455.00</s:price>
+      <s:sku>1462639</s:sku>
+      <s:grams>2376</s:grams>
+    </s:variant>
+  </entry>
+</feed>

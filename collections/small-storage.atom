@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/small-storage.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-03-11T13:11:09+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/4762514358338</id>
+    <published>2024-03-11T13:11:09+01:00</published>
+    <updated>2024-03-11T13:11:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ribbon-basket"/>
+    <title>Ribbon Basket</title>
+    <s:type>Waste Bin</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BI9A7993.jpg?v=1621259257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Waste Bin<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>A modern storage solution with a traditionalist feel, the Ribbon Basket contrasts sleek powder coated steel with soft, inviting curves. Crafted with precision, vertically positioned metal strips are formed into a gently rounded lip that makes it easy to carry the basket from room to room. Cushioned on the bottom with tonal leather for an exclusive feel and elevated on silicone feet for stability and protection, it adds instant graphic appeal to a room, as a practical and decorative home for magazines, home textiles, accessories and more. <a href="https://audocph.com/blogs/news/norm-architects-ribbon-basket">Read about the design process here</a>.</p>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>small storage</s:tag>
+    <s:tag>type-Waste Bin</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4762514358338</id>
+      <title>Ivory</title>
+      <s:price currency="EUR">270.00</s:price>
+      <s:sku>4300649</s:sku>
+      <s:grams>4670</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4704843759682</id>
+    <published>2023-03-09T14:31:35+01:00</published>
+    <updated>2023-03-09T14:31:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/pedal-bin-7-l-black"/>
+    <title>Pedal Bin, 7 L, Black</title>
+    <s:type>Waste Bin</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/7700579_Pedal-Bin_7-Liter_Black.jpg?v=1603371895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Waste Bin<br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Powder coated steel bin with solar-brushed, stainless steel lid, removable plastic liner and easy-to-clean body.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pedal Bin</s:tag>
+    <s:tag>small storage</s:tag>
+    <s:tag>type-Waste Bin</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4704843759682</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>7700579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862679081026</id>
+    <published>2023-02-15T14:47:36+01:00</published>
+    <updated>2023-02-15T14:47:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/frame-box"/>
+    <title>Frame Box</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL40105_Frame10_White_300.jpg?v=1675780648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            95.00 - 140.00
+            <a href="https://audocph.com/products/frame-box">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made to support the Frame modules, Base is a cubist design in black powder coated metal and inspired by Mogens Lassen’s iconic Kubus candle holder. Based on a strict mathematical formula and crafted with the greatest precision, the simple design fits selected Frame modules from the Frame collection. Simply place the desired components on the base to create a bookcase, nightstand or something else entirely. Add doors and shelves accordingly – the possibilities are endless. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Mogens Lassen</s:tag>
+    <s:tag>Frame series</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>small storage</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / White</title>
+      <s:price currency="EUR">95.00</s:price>
+      <s:sku>BL40105</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Dark Grey</title>
+      <s:price currency="EUR">100.00</s:price>
+      <s:sku>BL40101</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Light Grey</title>
+      <s:price currency="EUR">100.00</s:price>
+      <s:sku>BL40102</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Oak</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40100</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40103</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>10 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40106</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / White</title>
+      <s:price currency="EUR">110.00</s:price>
+      <s:sku>BL40125</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Dark Grey</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40121</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Light Grey</title>
+      <s:price currency="EUR">115.00</s:price>
+      <s:sku>BL40122</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Oak</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40120</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40123</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>14 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40126</s:sku>
+      <s:grams>934</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / White</title>
+      <s:price currency="EUR">120.00</s:price>
+      <s:sku>BL40135</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Dark Grey</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40131</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Oak</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL40130</s:sku>
+      <s:grams>1621</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Black Stained Ash</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL40133</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Smoked Oak</title>
+      <s:price currency="EUR">140.00</s:price>
+      <s:sku>BL40136</s:sku>
+      <s:grams>1708</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862679081026</id>
+      <title>20 / Frame - Light Grey</title>
+      <s:price currency="EUR">125.00</s:price>
+      <s:sku>BL40132</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518980386882</id>
+    <published>2020-04-28T12:08:11+02:00</published>
+    <updated>2020-04-28T12:08:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/bath-pedal-bin"/>
+    <title>Pedal Bin</title>
+    <s:type>Waste Bin</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU-Pedal_Bin.jpg?v=1587486735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Waste Bin<br>
+        <strong>Price: </strong>
+            240.00 - 360.00
+            <a href="https://audocph.com/products/bath-pedal-bin">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 137">
+<div class="layoutArea">
+<div class="column">
+<p><span>A well-conceived design whose thoughtful simplicity has made it a favourite in spaces both public and private, the Audo Pedal Bin is an essential part of the Audo Bath Collection. The bin, available in black or white, ties into the collection’s common visual thread of clean lines and rounded edges: a quintessential expression of Norm Architects’ ability to bring softness to modern minimalism. </span></p>
+<p><span>The lid of the Pedal Bin opens and closes smoothly and silently with a quick push of the pedal. Modern materials – including the powder coated steel body and solar-brushed stainless steel lid – combine aesthetics, endurance and tactility. The removable plastic liner is easy to clean. The Pedal Bin collection comprises the following sizes to match any need: 4 litres, 7 litres, 11 litres, 20 litres and 30 litres. All are available in black and white to match any space. While the design is part of our Bath Collection, it can also be used in bedrooms, kitchens, offices or any other corner. </span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath Series</s:tag>
+    <s:tag>Bathroom</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Pedal Bin</s:tag>
+    <s:tag>small storage</s:tag>
+    <s:tag>type-Waste Bin</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518980386882</id>
+      <title>4 liter / White</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>7604639</s:sku>
+      <s:grams>4292</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980386882</id>
+      <title>7 liter / Black</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>7607539</s:sku>
+      <s:grams>4911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980386882</id>
+      <title>7 liter / White</title>
+      <s:price currency="EUR">255.00</s:price>
+      <s:sku>7607639</s:sku>
+      <s:grams>4911</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980386882</id>
+      <title>11 liter / White</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>7611639</s:sku>
+      <s:grams>6535</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980386882</id>
+      <title>20 liter / White</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>7620639</s:sku>
+      <s:grams>9053</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518980386882</id>
+      <title>11 liter / Black</title>
+      <s:price currency="EUR">320.00</s:price>
+      <s:sku>7611539</s:sku>
+      <s:grams>4292</s:grams>
+    </s:variant>
+  </entry>
+</feed>

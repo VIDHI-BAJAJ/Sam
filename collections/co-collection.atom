@@ -1,0 +1,1985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/co-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-03-01T10:39:31+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6572246204482</id>
+    <published>2024-03-01T10:39:31+01:00</published>
+    <updated>2024-03-01T10:39:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-dining-chair-outdoor"/>
+    <title>Co Dining Chair, Outdoor</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Dining_Chair_Outdoor_Ray_Table_Lamp_Harbour_Column_Table_44.jpg?v=1718793380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            350.00 - 485.00
+            <a href="https://audocph.com/products/co-dining-chair-outdoor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed in weather-resistant recycled plastic for hassle-free upkeep, the Co Dining Chair, Outdoor is a practical and reliable choice for outdoor environments year-round. Its stackable design offers space-efficient solution for storage and convenient organisation when not in use. Despite its durability, the chair remains comfortable and lightweight, facilitating easy movement and rearrangement of outdoor seating arrangements as required, while its sleek and minimalist design, available with or without armrests, blends seamlessly into a range of settings, from patios to gardens.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>Without Armrest</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>1190044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>With Armrest</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>1191044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684466340170</id>
+    <published>2024-02-28T08:46:35+01:00</published>
+    <updated>2024-02-28T08:46:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-table"/>
+    <title>Co Table</title>
+    <s:type>Dining Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Table_Harbour_Side_Dining_Chair_Star_Base_Casters_Torso_Table_Lamp_1.jpg?v=1708509352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dining Table<br>
+        <strong>Price: </strong>
+            1475.00 - 1810.00
+            <a href="https://audocph.com/products/co-table">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With its simple and elegant design, the rectangular Co Table seamlessly complements the Co-Chair collection, creating a cohesive look in professional settings. Offering long-lasting performance, style and functionality in two sizes and material colour options that accommodate different spatial requirements, tastes and purposes in a range of modern workspaces, its distinctive design details include decorative screws on the desk apron, solid oak trim and chromed legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>140 x 70 cm / Black Steel | Terra Laminate</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1147539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>140 x 70 cm / Chrome | Creme Laminate</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1147849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>240 x 100 cm / Black Steel | Terra Laminate</title>
+      <s:price currency="EUR">1810.00</s:price>
+      <s:sku>1146539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>240 x 100 cm / Chrome | Creme Laminate</title>
+      <s:price currency="EUR">1810.00</s:price>
+      <s:sku>1146849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699345502538</id>
+    <published>2024-02-28T08:46:17+01:00</published>
+    <updated>2024-02-28T08:46:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-seat-upholstered-w-armrest-black-base"/>
+    <title>Co Task Chair, Veneer</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_CorbelShelf_CorbelDesk_CoTaskChair_ReverseTableLamp_SentimentPaperWeight_11.jpg?v=1709039169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            670.00 - 805.00
+            <a href="https://audocph.com/products/co-task-chair-seat-upholstered-w-armrest-black-base">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star Black or Aluminium swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests, a flex tilt function in the seat and back enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>With armrests / Black Oak / Black aluminium</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1502539</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>With armrests / Black Oak / Polished aluminium</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1503539</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>With armrests / Dark Stained Oak / Black aluminium</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1502849</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>With armrests / Dark Stained Oak / Polished aluminium</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1503849</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>With armrests / Natural Oak / Black aluminium</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1502019</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>With armrests / Natural Oak / Polished aluminium</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1503019</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>Without armrests / Black Oak / Black aluminium</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1500539</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>Without armrests / Black Oak / Polished aluminium</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1501539</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>Without armrests / Dark Stained Oak / Black aluminium</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1500849</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>Without armrests / Dark Stained Oak / Polished aluminium</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1501849</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>Without armrests / Natural Oak / Black aluminium</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1500019</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699345502538</id>
+      <title>Without armrests / Natural Oak / Polished aluminium</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1501019</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699447083338</id>
+    <published>2024-02-28T08:46:16+01:00</published>
+    <updated>2024-02-28T08:46:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-seat-upholstered-w-armrest-aluminium-base"/>
+    <title>Co Task Chair, Seat Upholstered w/armrest, Aluminium base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1510300-000000ZZ_Front.jpg?v=1712843091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            1140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star polished aluminium swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests and an upholstered seat, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699447083338</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>1510300-000000ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699447083338</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>1510309-010D00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699447083338</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>1510309-000100ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699479097674</id>
+    <published>2024-02-28T08:46:14+01:00</published>
+    <updated>2024-02-28T08:46:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-seat-upholstered-w-armrest-black-base-1"/>
+    <title>Co Task Chair, Seat Upholstered w/armrest, Black base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1510209-010R00ZZ_Front.jpg?v=1712843163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            965.00 - 995.00
+            <a href="https://audocph.com/products/co-task-chair-seat-upholstered-w-armrest-black-base-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star Black swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests and an upholstered seat, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699479097674</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">965.00</s:price>
+      <s:sku>1510209-010R00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699479097674</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">995.00</s:price>
+      <s:sku>1510201-020300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699495579978</id>
+    <published>2024-02-28T08:46:13+01:00</published>
+    <updated>2024-02-28T08:46:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-seat-upholstered-aluminium-base"/>
+    <title>Co Task Chair, Seat Upholstered, Aluminium base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1510100-000000ZZ_Front.jpg?v=1712234011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            940.00 - 950.00
+            <a href="https://audocph.com/products/co-task-chair-seat-upholstered-aluminium-base">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star polished aluminium swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests and an upholstered seat, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699495579978</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">940.00</s:price>
+      <s:sku>1510100-000000ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699495579978</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">950.00</s:price>
+      <s:sku>1510109-010D00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699495579978</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">950.00</s:price>
+      <s:sku>1510109-000100ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699504099658</id>
+    <published>2024-02-28T08:46:12+01:00</published>
+    <updated>2024-02-28T08:46:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-seat-upholstered-black-base"/>
+    <title>Co Task Chair, Seat Upholstered, Black base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_CoTaskChair_CoTable_InterconnectCandleholder_ColumnTableLampPortable_34.jpg?v=1709041819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            870.00 - 980.00
+            <a href="https://audocph.com/products/co-task-chair-seat-upholstered-black-base">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star Black swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests and an upholstered seat, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699504099658</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">980.00</s:price>
+      <s:sku>1510009-010R00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699504099658</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku>1510001-020300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699509571914</id>
+    <published>2024-02-28T08:46:10+01:00</published>
+    <updated>2024-02-28T08:46:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-fully-upholstered-w-armrest-black-base"/>
+    <title>Co Task Chair, Fully Upholstered, w/armrest, Black base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1510609-010R00ZZ_Front.jpg?v=1712843001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            1000.00 - 1035.00
+            <a href="https://audocph.com/products/co-task-chair-fully-upholstered-w-armrest-black-base">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star Black swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests and an upholstered seat and back, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699509571914</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">1000.00</s:price>
+      <s:sku>1510609-010R00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699509571914</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1510601-020300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699520844106</id>
+    <published>2024-02-28T08:46:08+01:00</published>
+    <updated>2024-02-28T08:46:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-fully-upholstered-black-base"/>
+    <title>Co Task Chair, Fully Upholstered, Black base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1510401-000300ZZ_Front_7fe48413-ecb0-4b60-b7bc-4260bc00dc65.jpg?v=1712230557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star Black swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests and an upholstered seat and back, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699520844106</id>
+      <title>Re-wool 0198</title>
+      <s:price currency="EUR">950.00</s:price>
+      <s:sku>1510401-000300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699527397706</id>
+    <published>2024-02-28T08:46:06+01:00</published>
+    <updated>2024-02-28T08:46:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-fully-upholstered-w-armrest-aluminium-base"/>
+    <title>Co Task Chair, Fully Upholstered w/armrest, Aluminium base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Task_Chair_Androgyne_Dining_Table_Releve_Platter_1.jpg?v=1709042986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            1125.00 - 1140.00
+            <a href="https://audocph.com/products/co-task-chair-fully-upholstered-w-armrest-aluminium-base">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Armchair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star Chrome swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with supportive armrests and an upholstered seat and back, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699527397706</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">1125.00</s:price>
+      <s:sku>1510700-000000ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699527397706</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>1510709-010D00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8699531559242</id>
+    <published>2024-02-28T08:46:04+01:00</published>
+    <updated>2024-02-28T08:46:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-task-chair-fully-upholstered-aluminium-base"/>
+    <title>Co Task Chair, Fully Upholstered, Aluminium base</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1510500-000000ZZ_Front_6fb5f2d8-e004-4a2c-95a7-b8130ec0dfe4.jpg?v=1712238679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            995.00 - 1005.00
+            <a href="https://audocph.com/products/co-task-chair-fully-upholstered-aluminium-base">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Task Chair seamlessly integrates sitting comfort and flexible function into its minimalist expression. Designed for a wide range of work settings and set on a five-star Chrome swivel base with casters, a height-adjustable feature ensures adaptability to workspaces and user preferences, promoting ergonomic comfort for users of different heights. Together with an upholstered seat and back, a flex tilt function enhances comfort, allowing for adjustment to the preferred seating position for optimal support during extended periods of use.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8699531559242</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">1005.00</s:price>
+      <s:sku>1510500-000000ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8699531559242</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">995.00</s:price>
+      <s:sku>1510509-000100ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633370034242</id>
+    <published>2024-02-14T10:34:23+01:00</published>
+    <updated>2024-02-14T10:34:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-lounge-fully-upholstered"/>
+    <title>Co Lounge, fully upholstered</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_CoLoungeChair_01.jpg?v=1597995388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1100.00 - 1380.00
+            <a href="https://audocph.com/products/co-lounge-fully-upholstered">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Profiling a more laid-back look than its dining counterparts, the comfortable Co Lounge Chair, designed for Audo by Norm Architects and Els Van Hoorebeeck, features curved armrests and an upholstered seat and backrest angled to support and embrace the body. The slender yet strong powder coated steel base lends a feeling of lightness to the design.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Moss - 019</title>
+      <s:price currency="EUR">1315.00</s:price>
+      <s:sku>1197002-01B205ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Moss - 022</title>
+      <s:price currency="EUR">1315.00</s:price>
+      <s:sku>1197002-02B505ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Dakar - 0250</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>1197004-020300ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Black Oak | Lupo - T19028/004</title>
+      <s:price currency="EUR">1290.00</s:price>
+      <s:sku>1195008-000G06ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Black Oak | Dakar - 0842</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>1197004-001H00ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Bouclé 02</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1197020-030300ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">1235.00</s:price>
+      <s:sku>1197001-00H109ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">1205.00</s:price>
+      <s:sku>1197009-010D00ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">1205.00</s:price>
+      <s:sku>1197009-010R00ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1197020-050300ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">1205.00</s:price>
+      <s:sku>1197009-000100ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518975569986</id>
+    <published>2024-02-14T10:20:35+01:00</published>
+    <updated>2024-02-14T10:20:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-lounge-chair"/>
+    <title>Co Lounge Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Co_Lounge_Chair_01.jpg?v=1697193775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            885.00 - 1100.00
+            <a href="https://audocph.com/products/co-lounge-chair">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Co Chair Collection proves that comfort doesn't have to come at the cost of beauty. Equal parts elegance and ease, its graceful minimal, modern frame and supportive, angled backrest make sitting a pleasure — for how ever long it lasts. The new Co Lounge Chair continues the collection's legacy, combining steel, woodworking and upholstering skills and unexpected comfort to create an iconic chair for relaxation that fits seamlessly into any setting.</p>
+<p>Co Lounge Chair is a new and lightweight lounger with exceptional sitting comfort. Inspired by classic designs that combine metalwork and woodwork to iconic effect, the new iteration purposefully re-spaces its different components to create a lighter, more laid-back look than its dining predecessor. The comfortable design enhances interior spaces rather than demanding attention in a room. The form-pressed wood veneer backrest is angled for comfort and the curved armrests and upholstered seat support and embrace the body. The slender powder-coated steel frame belies its strength, providing a stable and sleek foundation on which to stand. Fully customizable, it melds beautifully with its surroundings – whether at home in a cosy living room corner or placed in a hotel lobby or office reception.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:tag>Upholstery program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Dakar - 0250</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1195004-020300ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Black Oak | Dakar - 0842</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1195004-001H00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Dakar 0842</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1195004-011H00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Moss 019</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195002-01BE08ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Moss 022</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195002-02BH08ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">885.00</s:price>
+      <s:sku>1195020-000300ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">1020.00</s:price>
+      <s:sku>1195001-00I20DZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195009-000100ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195009-010D00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195009-010R00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">885.00</s:price>
+      <s:sku>1195020-020300ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710669606978</id>
+    <published>2024-02-14T10:06:05+01:00</published>
+    <updated>2024-02-14T10:06:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-bar-chair-seat-upholstered"/>
+    <title>Co Bar Chair, Seat Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/0001_Audo_Co_Bar_Chair_34.jpg?v=1709799659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            510.00 - 655.00
+            <a href="https://audocph.com/products/co-bar-chair-seat-upholstered">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-020400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-020500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1180002-024R09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Remix 233</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-020901ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Sierra 1611</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>1180009-010100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Natural Oak / Dakar 0250</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1181001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-010400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-010500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1180002-014R09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Remix 233</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-010901ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Sierra 0441</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>1180009-030D00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Sierra 1001</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>1180009-030R00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Dark Stained Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1181001-010100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1180000-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Moss 0001</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1180002-004O09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Remix 233</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-000901ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Re-wool 0198</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1180001-00EF09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710669606978</id>
+      <title>Black Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1181001-020100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711374217282</id>
+    <published>2024-02-14T09:55:17+01:00</published>
+    <updated>2024-02-14T09:55:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-counter-chair-upholstered-seat"/>
+    <title>Co Counter Chair, Seat Upholstered</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1185001-000100ZZ_Co_Counter_Chair_Black_Steel_Black_Oak_Dakar_0842_Angle.jpg?v=1645621439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            510.00 - 655.00
+            <a href="https://audocph.com/products/co-counter-chair-upholstered-seat">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Moss 0001</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1184002-010009ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Re-wool 0198</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1184001-00EF09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Black Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1185001-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-010500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1184002-000309ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Sierra 0441</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1185009-020D00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Sierra 1001</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1185009-020R00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Dark Stained Oak / Dakar 0842</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1185001-010100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-020400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">510.00</s:price>
+      <s:sku>1184000-020500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Moss 0004</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1184002-020309ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Sierra 1611</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1185009-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711374217282</id>
+      <title>Natural Oak / Dakar 0250</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1185001-020000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4643797827650</id>
+    <published>2024-02-13T15:45:54+01:00</published>
+    <updated>2024-02-13T15:45:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-upholstered-seat-with-armrest-chrome"/>
+    <title>Co Dining Chair, upholstered seat with armrest, Chrome</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/co_Chrome.jpg?v=1617184633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            535.00 - 740.00
+            <a href="https://audocph.com/products/co-chair-upholstered-seat-with-armrest-chrome">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by The Office Group's deep understanding of workplace requirements, the Co Chair embodies a perfect fusion of lightweight elegance and exceptional seating comfort. Additionally, it offers the unique feature of stackability, allowing up to 10 chairs to be stacked. The design's aesthetic appeal lies in its contoured form and the use of warm materials, showcasing the renowned soft minimalism of Norm Architects that seamlessly transitions into residential and hospitality environments.</p>
+<p>Versatility lies at the core of this design, achieved through meticulous construction and an extensive range of materials. With a plethora of veneer finishes and upholstery options available, the Co Chair can be effortlessly personalized to create the desired expression and enhance the overall experience. Notably, the chair stands out with its wide veneer back, ensuring freedom of movement and providing optimal comfort. Moreover, the backrest has been thoughtfully positioned and angled to deliver exceptional support, prioritizing comfort as a primary design principle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Natural Oak | Dakar - 0250</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1176004-020300ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Black Oak | Dakar - 0842</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1176004-001H00ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>1176020-000300ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>1176020-020300ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">695.00</s:price>
+      <s:sku>1176009-000100ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">695.00</s:price>
+      <s:sku>1176009-010D00ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6780960964674</id>
+    <published>2022-08-02T10:05:23+02:00</published>
+    <updated>2022-08-02T10:05:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-dining-chair-row-connection"/>
+    <title>Co Dining Chair Row Connection</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Co_Chair_Row_Connector.jpg?v=1659427113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Row Connection allows you to join individual Co Dining Chairs together in a line, making it ideal for use in conference facilities. It is available in two different lengths that correspond to the Co Dining Chair versions with and without armrests. The bracket is easily attached and removed and can be turned to the side when not in use. The Co Dining Chair can be stacked with and without the Row Connection.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://audocph.com/products/6780960964674</id>
+      <title>Row Connection for Co Dining Chair</title>
+      <s:price currency="EUR">38.00</s:price>
+      <s:sku>1160100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6780960964674</id>
+      <title>Row Connection for Co Dining Chair w/Armrest</title>
+      <s:price currency="EUR">38.00</s:price>
+      <s:sku>1165100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6780958769218</id>
+    <published>2022-08-02T10:01:09+02:00</published>
+    <updated>2022-08-02T10:01:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-dining-chair-trolley"/>
+    <title>Co Dining Chair / Ready Dining Chair, Trolley</title>
+    <s:type>Trolley</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Co_Chair_Trolley.jpg?v=1659427141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Trolley<br>
+        <strong>Price: </strong>
+            830.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Efficiently transporting and storing between 15 to 20 Co or Ready Dining Chairs, this durable powder-coated steel trolley is fitted with swivel casters that rotate 360 degrees for ease of use and direction of movement. Use the break to lock the wheels securely when storing chairs statically.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6780958769218</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">830.00</s:price>
+      <s:sku>1175539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711376150594</id>
+    <published>2022-03-10T13:38:49+01:00</published>
+    <updated>2022-03-10T13:38:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-counter-chair-fully-upholstered"/>
+    <title>Co Counter Chair, Fully Upholstered</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1187001-000000ZZ_Co_Counter_Chair_Black_Steel_Dakar_0842_Angle.jpg?v=1645620441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            550.00 - 725.00
+            <a href="https://audocph.com/products/co-counter-chair-fully-upholstered">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1186000-000400ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1186000-000500ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Moss 0001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1186002-020009ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Moss 0004</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1186002-020309ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Re-wool 0198</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1186001-02EF09ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Sierra 0441</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1186009-000D00ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1186009-000R00ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1186009-000100ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1187001-000100ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711376150594</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1187001-000000ZZ</s:sku>
+      <s:grams>9690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710704341058</id>
+    <published>2022-03-10T13:36:46+01:00</published>
+    <updated>2022-03-10T13:36:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-counter-chair-veneer"/>
+    <title>Co Counter Chair, Veneer</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Curiosity_Cabinat_Dancing_Pendant_Snaregade_Counter_Table_Co_Counter_Chair_02.jpg?v=1646909267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710704341058</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179121</s:sku>
+      <s:grams>9190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710704341058</id>
+      <title>Black Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179122</s:sku>
+      <s:grams>9190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710704341058</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179123</s:sku>
+      <s:grams>9190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710667640898</id>
+    <published>2022-03-10T13:35:38+01:00</published>
+    <updated>2022-03-10T13:35:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-bar-chair-fully-upholstered"/>
+    <title>Co Bar Chair, Fully Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/1183001-010100ZZ_Co_Bar_Chair_Black_Steel_Dakar_0250_Angle.jpg?v=1645618639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            550.00 - 725.00
+            <a href="https://audocph.com/products/co-bar-chair-fully-upholstered">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1182000-000000ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1182000-000100ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Moss 0001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1182002-004O09ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Moss 0004</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>1182002-004R09ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Re-wool 0198</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1182001-00EF0AZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Sierra 0441</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1182009-000D00ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1182009-000R00ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1182009-000100ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1183001-010100ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710667640898</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1183001-010000ZZ</s:sku>
+      <s:grams>10060</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6710703030338</id>
+    <published>2022-03-10T13:33:36+01:00</published>
+    <updated>2022-03-10T13:33:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-bar-chair-veneer"/>
+    <title>Co Bar Chair, Veneer</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Sofa_High_Back_W_Plug_Tearoom_Lounge_Chair_High_Back_Co_Bar_Chair.jpg?v=1646907787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Co Chair Collection is defined by its contoured form and warm materials. Conceived in collaboration with Norm Architects and Els Van Hoorebeeck, the Co Bar/Counter Chair is shaped with a wide back and generous seat and is set on a slender yet sturdy tubular steel frame. Equal parts comfortable and elegant, the versatile design is available in two versions, counter and bar, allowing you to select the height that best suits your needs. Wood veneer and upholstery finishes allow you to further customise the design. Both versions feature a footrest for added support and stability as you sit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Els Van Hoorebeeck</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6710703030338</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179111</s:sku>
+      <s:grams>9560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710703030338</id>
+      <title>Black Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179112</s:sku>
+      <s:grams>9560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6710703030338</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1179113</s:sku>
+      <s:grams>9560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633434259522</id>
+    <published>2020-08-27T17:35:44+02:00</published>
+    <updated>2020-08-27T17:35:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-fully-upholstered-black"/>
+    <title>Co Dining Chair, fully upholstered, Black</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_CoChairFullyUph._13.jpg?v=1597752957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            495.00 - 885.00
+            <a href="https://audocph.com/products/co-chair-fully-upholstered-black">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Co Dining Chair, a perfect blend of style and comfort. With its lightweight and streamlined profile, this chair offers an exceptional seating experience. Choose from options with or without armrests, and explore three different wood versions. The Co Chair's versatile design features a fully upholstered body, supported by a sturdy black powder-coated steel or chrome base. The seat and backrest are lightly padded, ensuring optimal comfort, while the upholstery can be customized using a selection of exquisite fabrics.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Lupo T19028/004</title>
+      <s:price currency="EUR">885.00</s:price>
+      <s:sku>1179008-000D03ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Doppiopanama - T14012/001</title>
+      <s:price currency="EUR">885.00</s:price>
+      <s:sku>1179008-000002ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Dakar - 0842</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>1179004-001H00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Doppiopanama - T14012/004</title>
+      <s:price currency="EUR">885.00</s:price>
+      <s:sku>1179008-000302ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Remix 233</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1179001-001M05ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Dakar - 0250</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>1179004-000300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>1179020-000300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633434259522</id>
+      <title>Re-wool 0198</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>1179001-00H509ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633429934146</id>
+    <published>2020-08-27T17:35:43+02:00</published>
+    <updated>2020-08-27T17:35:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-fully-upholstered"/>
+    <title>Co Dining Chair, fully upholstered, Chrome</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_CoChairFullyUph._8.jpg?v=1597752993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            550.00 - 950.00
+            <a href="https://audocph.com/products/co-chair-fully-upholstered">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Chair Collection pairs a lightweight, sleek profile with great seating comfort. Available with or without armrests in three wood versions, the versatile design of the fully upholstered Co Chair is set on a black powder coated steel or chrome base. The seat and backrest are lightly padded and fully upholstered for extra comfort, customisable in a range of beautiful fabrics.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Lupo - T19028/004</title>
+      <s:price currency="EUR">950.00</s:price>
+      <s:sku>1178008-000D03ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Doppiopanama - T14012/001</title>
+      <s:price currency="EUR">950.00</s:price>
+      <s:sku>1178008-000002ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Dakar - 0842</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1178004-001H00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Doppiopanama - T14012/004</title>
+      <s:price currency="EUR">950.00</s:price>
+      <s:sku>1178008-000302ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Remix 233</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>1178001-001M05ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Dakar - 0250</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1178004-000300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">550.00</s:price>
+      <s:sku>1178020-000300ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633429934146</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">685.00</s:price>
+      <s:sku>1178009-000100ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633358172226</id>
+    <published>2020-08-27T17:35:41+02:00</published>
+    <updated>2020-08-27T17:35:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-fully-upholstered-with-armrest-black"/>
+    <title>Co Dining Chair, fully upholstered with armrest, Black</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_CoChairFullyUph..jpg?v=1597752867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            655.00 - 740.00
+            <a href="https://audocph.com/products/co-chair-fully-upholstered-with-armrest-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Co Chair Collection pairs a lightweight, sleek profile with great seating comfort. Available with or without armrests in three wood versions, the versatile design of the fully upholstered Co Chair is set on a black powder coated steel or chrome base. The seat and backrest are lightly padded and fully upholstered for extra comfort, customisable in a range of beautiful fabrics.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633358172226</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">655.00</s:price>
+      <s:sku>1115001-00H009ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633358172226</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1115009-010R00ZZ</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

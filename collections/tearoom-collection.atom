@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/tearoom-collection.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2022-06-13T12:00:11+02:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6750742609986</id>
+    <published>2022-06-13T12:00:11+02:00</published>
+    <updated>2022-06-13T12:00:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-side-chair-swivel-w-return"/>
+    <title>Tearoom Club Chair, Swivel w. Return</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Side_Chair_Swivel.jpg?v=1692882896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2175.00 - 2455.00
+            <a href="https://audocph.com/products/tearoom-side-chair-swivel-w-return">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tearoom Collection, designed for Audo by Nick Ross, is a study in minimalist luxury, offering indulgent retreats and mood-lifting comfort for a multitude of settings. Not only luxurious to sit in and beautiful to look at, the Tearoom Club Chair with a return swivel base is a functional addition to a space. Considered to the last detail, its open silhouette invites you to sit back and relax while its cocooning curves and richly detailed upholstery ensure a comfortable and supportive sitting position. Set on a recessed plinth base, its smooth, 190-degree return swivel function ensures full freedom of movement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6750742609986</id>
+      <title>Champion 041</title>
+      <s:price currency="EUR">2175.00</s:price>
+      <s:sku>9609201-00DJ04ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6750742609986</id>
+      <title>Hallingdal 65 200</title>
+      <s:price currency="EUR">2310.00</s:price>
+      <s:sku>9609202-003G02ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6750742609986</id>
+      <title>Safire 004</title>
+      <s:price currency="EUR">2455.00</s:price>
+      <s:sku>9609203-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6750743429186</id>
+    <published>2022-06-13T11:59:25+02:00</published>
+    <updated>2022-06-13T11:59:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-lounge-chair-swivel-w-return"/>
+    <title>Tearoom Lounge Chair, Swivel w/Return</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Lounge_Chair_Swivel.jpg?v=1692882912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2740.00 - 3260.00
+            <a href="https://audocph.com/products/tearoom-lounge-chair-swivel-w-return">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designer Nick Ross demonstrates the potential of simple, geometric forms and cocooning comfort with his Tearoom Collection for Audo. The generously proportioned Tearoom Lounge Chair, Swivel with return features a 190° rotating recessed plinth base that turns to face any direction with ease. The wide, low seat and embracing form with an upright back ensure its beauty, function and comfort in both classic and contemporary spaces – from home living rooms to exclusive hotels to modern workspaces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6750743429186</id>
+      <title>Champion 041</title>
+      <s:price currency="EUR">2740.00</s:price>
+      <s:sku>9608201-00DJ05ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6750743429186</id>
+      <title>Hallingdal 65 200</title>
+      <s:price currency="EUR">3075.00</s:price>
+      <s:sku>9608202-003G02ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6750743429186</id>
+      <title>Safire 004</title>
+      <s:price currency="EUR">3260.00</s:price>
+      <s:sku>9608203-000500ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518962790466</id>
+    <published>2022-03-21T16:13:42+01:00</published>
+    <updated>2022-03-21T16:13:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-lounge-chair"/>
+    <title>Tearoom, Lounge Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Louge_Chair_2.jpg?v=1697193853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2185.00 - 3490.00
+            <a href="https://audocph.com/products/tearoom-lounge-chair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Timeless in its expression and execution, the Tearoom Collection is well-suited to both period and contemporary environments. Like the Tearoom Club Chair, the Tearoom Lounge Chair and Tearoom Sofa radiate elegant yet strict femininity. Their embracing form, while alluring, stops short of being overly casual. As such, the furniture maintains a clear visual connection to the sculptural 1904 Willow Chair that originally sparked the designer’s imagination The Tearoom Lounge Chair and Tearoom Sofa join the Tearoom Club Chair to complete the leisure experience in a multitude of settings, from exclusive hotels, clubs and lounges to private homes. Pairing the luxurious feel of full upholstery with a clean silhouette rooted in geometric forms, the Tearoom Collection is as appealing to the touch as it is easy on the eyes. While creating the clean silhouette, Ross took exceptional care to imbue every inch with mood-lifting comfort. Every design element curves gently to ensure that the furniture’s contours complement our own. Beneath the upholstery, a wood and foam construction creates the ideal pairing of sturdiness and lush comfort.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518962790466</id>
+      <title>Savanna - 202</title>
+      <s:price currency="EUR">2780.00</s:price>
+      <s:sku>9605002-002B09ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962790466</id>
+      <title>Champion - 035</title>
+      <s:price currency="EUR">2430.00</s:price>
+      <s:sku>9605001-00AH00ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962790466</id>
+      <title>Doppiopanama 001</title>
+      <s:price currency="EUR">3490.00</s:price>
+      <s:sku>9605008-000203ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962790466</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">2185.00</s:price>
+      <s:sku>9605020-000300ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711367630914</id>
+    <published>2022-03-10T15:36:13+01:00</published>
+    <updated>2022-03-10T15:36:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-lounge-chair-high-back"/>
+    <title>Tearoom, Lounge Chair, High Back</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Lounge_Chair_High_Back_00.jpg?v=1692882925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2765.00 - 4095.00
+            <a href="https://audocph.com/products/tearoom-lounge-chair-high-back">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>While creating the clean silhouettes of the Tearoom Collection, designer Nick Ross took exceptional care to imbue every inch of each design with mood-lifting comfort. The gently curved lines of the high-backed Tearoom Lounge Chair expand upon the silhouette of its predecessor to create a chair that offers a refuge from the outside world. Contoured to complement the body, the sculptural design demonstrates the potential of simple, geometric forms. The luxurious feel of full upholstery against its clean silhouette is as appealing to the touch as the chair is easy on the eye – its wide, low seat makes it well-suited to both period and contemporary spaces, from exclusive hotels, clubs and lounges to workspaces. The addition of a USB-C port and power socket at the base makes it a practical spot for work as well as play.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>Without power outlet / Audo Bouclé 02</title>
+      <s:price currency="EUR">2765.00</s:price>
+      <s:sku>9606000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>Without power outlet / Champion 035</title>
+      <s:price currency="EUR">3125.00</s:price>
+      <s:sku>9606001-009W05ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>Without power outlet / Hallingdal 65 200</title>
+      <s:price currency="EUR">3505.00</s:price>
+      <s:sku>9606002-004602ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>Without power outlet / Safire 006</title>
+      <s:price currency="EUR">3850.00</s:price>
+      <s:sku>9606003-000N01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>With power outlet / Audo Bouclé 02</title>
+      <s:price currency="EUR">2995.00</s:price>
+      <s:sku>9607100-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>With power outlet / Champion 035</title>
+      <s:price currency="EUR">3355.00</s:price>
+      <s:sku>9607101-001001ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>With power outlet / Hallingdal 65 200</title>
+      <s:price currency="EUR">3715.00</s:price>
+      <s:sku>9607102-003G02ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711367630914</id>
+      <title>With power outlet / Safire 006</title>
+      <s:price currency="EUR">4095.00</s:price>
+      <s:sku>9607103-000700ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6711373004866</id>
+    <published>2022-03-10T15:35:07+01:00</published>
+    <updated>2022-03-10T15:35:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-sofa-high-back"/>
+    <title>Tearoom, Sofa, High Back</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Sofa_High_Back_Tearoom_Lounge_Chair_High_Back_W_Plug_Plinth_Interconnect_Candle_Holder_Torso_Limited1.jpg?v=1646639926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            4230.00 - 6350.00
+            <a href="https://audocph.com/products/tearoom-sofa-high-back">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tearoom Collection offers indulgent retreats and mood-lifting comfort for a multitude of settings. The inspiration for the collection came from Charles Rennie Mackintosh’s Willow Chair, created between 1902 and 1904 for the Willow Tea Rooms in Glasgow. Beckoning us to bask in a bit of luxury, the high-backed Tearoom Sofa elevates relaxation with its sculptural, modern and tactile form. Made with public spaces in mind – a hotel lobby, workspace or lounge setting, as a standalone or placed back-to-back in multiples – the clean silhouette features a contoured back offers moments of quiet contemplation in busy spaces. Beneath the upholstery, a wood and foam construction creates the ideal pairing of sturdiness and lush comfort. The addition of a USB-C port and power socket at the base makes it a practical spot for work as well as play.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Audo Bouclé 02</title>
+      <s:price currency="EUR">4230.00</s:price>
+      <s:sku>9607000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Champion - 035</title>
+      <s:price currency="EUR">4845.00</s:price>
+      <s:sku>9607001-009W05ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Hallingdal 65 200</title>
+      <s:price currency="EUR">5475.00</s:price>
+      <s:sku>9607002-004602ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>Without power outlet / Safire 006</title>
+      <s:price currency="EUR">6105.00</s:price>
+      <s:sku>9607003-000N01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Audo Bouclé 02</title>
+      <s:price currency="EUR">4470.00</s:price>
+      <s:sku>9607200-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Champion - 035</title>
+      <s:price currency="EUR">5085.00</s:price>
+      <s:sku>9607201-000A05ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Hallingdal 65 200</title>
+      <s:price currency="EUR">5715.00</s:price>
+      <s:sku>9607202-003G02ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711373004866</id>
+      <title>With power outlet / Safire 006</title>
+      <s:price currency="EUR">6350.00</s:price>
+      <s:sku>9607203-000700ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518962954306</id>
+    <published>2020-08-27T14:59:03+02:00</published>
+    <updated>2020-08-27T14:59:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-club-chair"/>
+    <title>Tearoom, Club Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU-Tearoom_Club_Chair-2.jpg?v=1587485562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1715.00 - 2175.00
+            <a href="https://audocph.com/products/tearoom-club-chair">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tearoom Club Chair In creating his new, fully upholstered lounge chair, Nick Ross envisioned a form ideal for exclusive hotel, club or lounge environments – as well as private living spaces that indulge the senses and our need for comfortable retreats. Ross’ inspiration for the design came from Charles Rennie Mackintosh’s Willow Chair, created for the Willow Tearooms in Glasgow in 1904. Like many of Mackintosh’s furniture designs, the Willow Chair – while undoubtedly beautiful – is more about visual impact than comfort, its unusual dimensions making it more of a sculptural installation than a piece of usable furniture. Seeing untapped potential, Ross opted to evolve the essence of the Willow Chair to create a more fully resolved product.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518962954306</id>
+      <title>Savanna - 202</title>
+      <s:price currency="EUR">2175.00</s:price>
+      <s:sku>9600002-002C0BZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962954306</id>
+      <title>Champion - 035</title>
+      <s:price currency="EUR">1930.00</s:price>
+      <s:sku>9600001-000100ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962954306</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">1715.00</s:price>
+      <s:sku>9600020-000300ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518962528322</id>
+    <published>2020-08-27T14:59:00+02:00</published>
+    <updated>2020-08-27T14:59:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tearoom-sofa"/>
+    <title>Tearoom, Sofa</title>
+    <s:type>Sofa</s:type>
+    <s:vendor>Nick Ross</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Tearoom_Sofa_4.jpg?v=1587485532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nick Ross<br>
+        <strong>Type: </strong>Sofa<br>
+        <strong>Price: </strong>
+            3675.00 - 5410.00
+            <a href="https://audocph.com/products/tearoom-sofa">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Timeless in its expression and execution, the Tearoom Collection is well-suited to both period and contemporary environments. Like the Tearoom Club Chair, the Tearoom Lounge Chair and Tearoom Sofa radiate elegant yet strict femininity. Their embracing form, while alluring, stops short of being overly casual. As such, the furniture maintains a clear visual connection to the sculptural 1904 Willow Chair that originally sparked the designer’s imagination. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Nick Ross Studio</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518962528322</id>
+      <title>Savanna - 202</title>
+      <s:price currency="EUR">4925.00</s:price>
+      <s:sku>9602002-002708ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962528322</id>
+      <title>Arctic - 040</title>
+      <s:price currency="EUR">5410.00</s:price>
+      <s:sku>9602003-000201ZZ</s:sku>
+      <s:grams>100000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962528322</id>
+      <title>Champion - 035</title>
+      <s:price currency="EUR">4295.00</s:price>
+      <s:sku>9602001-00AA00ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518962528322</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">3675.00</s:price>
+      <s:sku>9602020-000300ZZ</s:sku>
+      <s:grams>8390</s:grams>
+    </s:variant>
+  </entry>
+</feed>

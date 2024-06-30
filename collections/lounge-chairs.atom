@@ -1,0 +1,2094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/lounge-chairs.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-14T10:42:35+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6637843120194</id>
+    <published>2024-02-14T10:42:35+01:00</published>
+    <updated>2024-02-14T10:42:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/brasilia-ottoman"/>
+    <title>Brasilia Ottoman</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Anderssen &amp; Voll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Brasilia_Ottoman.jpg?v=1630946303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anderssen &amp; Voll<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            765.00 - 1410.00
+            <a href="https://audocph.com/products/brasilia-ottoman">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for Audo by Anderssen &amp; Voll, Brasilia Ottoman is distinguished by its robust, cylindrical legs and softly curved cushion. Informed by mid-20th century Danish craftsmanship and Brazilian Modernism, the versatile design has lasting appeal – as a footrest with the accompanying chair, as a low-lying seat for unexpected guests, or as a resting place for a newspaper or tray. Available in three wood options and a range of soft fabrics from our extensive range, it can be tailored to use anywhere.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Anderssen and Voll</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">765.00</s:price>
+      <s:sku>8150000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Moss 0011</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>8150002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Sheepskin Root</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8153003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Dunes Camel 21004</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8153002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Natural Oak / Sheepskin Nature</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8153003-000D01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">765.00</s:price>
+      <s:sku>8151000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Moss 0011</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>8151002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Sheepskin Root</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8154003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Dark Stained Oak / Dunes Camel 21004</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>8154002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Audo Bouclé 02</title>
+      <s:price currency="EUR">770.00</s:price>
+      <s:sku>8152000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Moss 0011</title>
+      <s:price currency="EUR">1050.00</s:price>
+      <s:sku>8152002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Cabanon Soft FCL7029-04</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>8152004-001307ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Sheepskin Root</title>
+      <s:price currency="EUR">1410.00</s:price>
+      <s:sku>8155003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637843120194</id>
+      <title>Walnut / Dunes Camel 21004</title>
+      <s:price currency="EUR">1345.00</s:price>
+      <s:sku>8155002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637836075074</id>
+    <published>2024-02-14T10:39:52+01:00</published>
+    <updated>2024-02-14T10:39:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/brasilia-lounge-chair"/>
+    <title>Brasilia Lounge Chair, Textile</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Anderssen &amp; Voll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Brasilia_Lounge_Chair_Ottoman_Volume_Side_Table_54.jpg?v=1709127120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anderssen &amp; Voll<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2135.00 - 4415.00
+            <a href="https://audocph.com/products/brasilia-lounge-chair">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Scandinavian mid-century design aesthetics and Brazilian Modernism meet on the low-lying Brasilia Lounge Chair, designed for Audo by Anderssen &amp; Voll. The luxurious armchair-lounge chair hybrid offers unparalleled sitting comfort thanks to its robust frame and soft upholstery. Characterised by its stout and sturdy legs, made using traditional joinery techniques, and exaggerated armrests and cushioning seat and backrest, upholstered in a range of soft fabrics, it creates a sense of comfort and ease in any setting.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Anderssen and Voll</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">2135.00</s:price>
+      <s:sku>8050000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Natural Oak / Moss 0011</title>
+      <s:price currency="EUR">2590.00</s:price>
+      <s:sku>8050002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Natural Oak / Dunes Camel 21004</title>
+      <s:price currency="EUR">4105.00</s:price>
+      <s:sku>8053002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Dark Stained Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">2135.00</s:price>
+      <s:sku>8051000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Dark Stained Oak / Moss 0011</title>
+      <s:price currency="EUR">2590.00</s:price>
+      <s:sku>8051002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Dark Stained Oak / Dunes Camel 21004</title>
+      <s:price currency="EUR">4105.00</s:price>
+      <s:sku>8054002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Walnut / Audo Bouclé 02</title>
+      <s:price currency="EUR">2430.00</s:price>
+      <s:sku>8052000-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Walnut / Moss 0011</title>
+      <s:price currency="EUR">2885.00</s:price>
+      <s:sku>8052002-009A09ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Walnut / Dunes Camel 21004</title>
+      <s:price currency="EUR">4415.00</s:price>
+      <s:sku>8055002-000E00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637836075074</id>
+      <title>Walnut / Cabanon Soft FCL7029-04</title>
+      <s:price currency="EUR">3260.00</s:price>
+      <s:sku>8052004-001307ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633370034242</id>
+    <published>2024-02-14T10:34:23+01:00</published>
+    <updated>2024-02-14T10:34:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-lounge-fully-upholstered"/>
+    <title>Co Lounge, fully upholstered</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_CoLoungeChair_01.jpg?v=1597995388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1100.00 - 1380.00
+            <a href="https://audocph.com/products/co-lounge-fully-upholstered">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Profiling a more laid-back look than its dining counterparts, the comfortable Co Lounge Chair, designed for Audo by Norm Architects and Els Van Hoorebeeck, features curved armrests and an upholstered seat and backrest angled to support and embrace the body. The slender yet strong powder coated steel base lends a feeling of lightness to the design.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Moss - 019</title>
+      <s:price currency="EUR">1315.00</s:price>
+      <s:sku>1197002-01B205ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Moss - 022</title>
+      <s:price currency="EUR">1315.00</s:price>
+      <s:sku>1197002-02B505ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Dakar - 0250</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>1197004-020300ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Black Oak | Lupo - T19028/004</title>
+      <s:price currency="EUR">1290.00</s:price>
+      <s:sku>1195008-000G06ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Black Oak | Dakar - 0842</title>
+      <s:price currency="EUR">1380.00</s:price>
+      <s:sku>1197004-001H00ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Bouclé 02</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1197020-030300ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">1235.00</s:price>
+      <s:sku>1197001-00H109ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">1205.00</s:price>
+      <s:sku>1197009-010D00ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">1205.00</s:price>
+      <s:sku>1197009-010R00ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1197020-050300ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633370034242</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">1205.00</s:price>
+      <s:sku>1197009-000100ZZ</s:sku>
+      <s:grams>7900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518975569986</id>
+    <published>2024-02-14T10:20:35+01:00</published>
+    <updated>2024-02-14T10:20:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-lounge-chair"/>
+    <title>Co Lounge Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Co_Lounge_Chair_01.jpg?v=1697193775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            885.00 - 1100.00
+            <a href="https://audocph.com/products/co-lounge-chair">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Co Chair Collection proves that comfort doesn't have to come at the cost of beauty. Equal parts elegance and ease, its graceful minimal, modern frame and supportive, angled backrest make sitting a pleasure — for how ever long it lasts. The new Co Lounge Chair continues the collection's legacy, combining steel, woodworking and upholstering skills and unexpected comfort to create an iconic chair for relaxation that fits seamlessly into any setting.</p>
+<p>Co Lounge Chair is a new and lightweight lounger with exceptional sitting comfort. Inspired by classic designs that combine metalwork and woodwork to iconic effect, the new iteration purposefully re-spaces its different components to create a lighter, more laid-back look than its dining predecessor. The comfortable design enhances interior spaces rather than demanding attention in a room. The form-pressed wood veneer backrest is angled for comfort and the curved armrests and upholstered seat support and embrace the body. The slender powder-coated steel frame belies its strength, providing a stable and sleek foundation on which to stand. Fully customizable, it melds beautifully with its surroundings – whether at home in a cosy living room corner or placed in a hotel lobby or office reception.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:tag>Upholstery program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Dakar - 0250</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1195004-020300ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Black Oak | Dakar - 0842</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1195004-001H00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Dakar 0842</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1195004-011H00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Moss 019</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195002-01BE08ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Moss 022</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195002-02BH08ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">885.00</s:price>
+      <s:sku>1195020-000300ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Black Oak | Re-wool 0198</title>
+      <s:price currency="EUR">1020.00</s:price>
+      <s:sku>1195001-00I20DZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195009-000100ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195009-010D00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Dark Stained Oak | Sierra 1001</title>
+      <s:price currency="EUR">1060.00</s:price>
+      <s:sku>1195009-010R00ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518975569986</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">885.00</s:price>
+      <s:sku>1195020-020300ZZ</s:sku>
+      <s:grams>6143</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4633456541762</id>
+    <published>2023-09-18T17:08:26+02:00</published>
+    <updated>2023-09-18T17:08:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/knitting-chair-1"/>
+    <title>Knitting Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuMay2021-Day20075.jpg?v=1621259792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            4270.00 - 4765.00
+            <a href="https://audocph.com/products/knitting-chair-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>First launched as a limited edition in 1951, Ib Kofod-Larsen’s Knitting Chair is reimagined with a natural oak, dark stained oak, and walnut frame. The distinctive piece is meticulously handcrafted in Sweden by skilled artisans, merging traditional craftsmanship techniques with modern technology to create an unforgettable and timeless design of the highest quality.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4633456541762</id>
+      <title>Dark Stained Oak | Root</title>
+      <s:price currency="EUR">4270.00</s:price>
+      <s:sku>9680006-020D02ZZ</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633456541762</id>
+      <title>Natural Oak | Nature</title>
+      <s:price currency="EUR">4270.00</s:price>
+      <s:sku>9680006-030E02ZZ</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4633456541762</id>
+      <title>Walnut | Sahara</title>
+      <s:price currency="EUR">4765.00</s:price>
+      <s:sku>9682006-000C02ZZ</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8448929300810</id>
+    <published>2023-07-03T10:39:15+02:00</published>
+    <updated>2023-07-03T10:39:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-penguin-rocking-chair-fully-upholstered"/>
+    <title>The Penguin Rocking Chair, Fully Upholstered</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Penguin_Rocking_Chair_111_37d70e58-802c-498e-b713-450fec606bab.jpg?v=1691146864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1595.00 - 1825.00
+            <a href="https://audocph.com/products/the-penguin-rocking-chair-fully-upholstered">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Penguin Rocking Chair draws inspiration from the American modernists of the 1950s and 1960s. The chair's construction is characterized by an open design, featuring a curved back and seat upholstered in fabric or leather, all held together by a sturdy steel frame. This chair, created by furniture designer Ib Kofod-Larsen in 1953, embodies Danish cultural heritage and design history. With its elegant silhouette, sculptural form, and organic lines and curves, it remains a contemporary masterpiece that resonates even more strongly in the present.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Re-wool 218</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>1231001-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Re-wool 448</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>1231001-000800ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Hallingdal 65 0110</title>
+      <s:price currency="EUR">1635.00</s:price>
+      <s:sku>1231002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Hallingdal 65 600</title>
+      <s:price currency="EUR">1635.00</s:price>
+      <s:sku>1231002-000X00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>1231005-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Dakar 0329</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>1231005-000700ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448929300810</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">1825.00</s:price>
+      <s:sku>1231005-000T00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8448922353994</id>
+    <published>2023-07-03T10:39:15+02:00</published>
+    <updated>2023-07-03T10:39:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-penguin-lounge-chair-fully-upholstered"/>
+    <title>The Penguin Lounge Chair, Fully Upholstered</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Penguin_Lounge_Chair_Umanoff_Triangular_Nesting_Side_Table_Stance_Vase_22.jpg?v=1691146559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1370.00 - 1610.00
+            <a href="https://audocph.com/products/the-penguin-lounge-chair-fully-upholstered">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Penguin Lounge Chair stands as a remarkable mid-century masterpiece. With an air of serenity and stability, this chair invites a sense of comfort and security. Nestling into its deep, low structure is an experience of sheer relaxation. Designed by Ib Kofod-Larsen in 1953, the Penguin Chair was meticulously crafted with the user in mind. Its curved back and angled seat, upholstered in fabric or leather, gently embrace the body, offering unexpected levels of comfort within its seemingly uncomplicated design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8448922353994</id>
+      <title>Re-wool 218</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>1230001-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448922353994</id>
+      <title>Re-wool 448</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>1230001-000800ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448922353994</id>
+      <title>Hallingdal 65 0110</title>
+      <s:price currency="EUR">1420.00</s:price>
+      <s:sku>1230002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448922353994</id>
+      <title>Hallingdal 65 600</title>
+      <s:price currency="EUR">1420.00</s:price>
+      <s:sku>1230002-000X00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448922353994</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">1610.00</s:price>
+      <s:sku>1230005-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448922353994</id>
+      <title>Dakar 0329</title>
+      <s:price currency="EUR">1610.00</s:price>
+      <s:sku>1230005-000700ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448922353994</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">1610.00</s:price>
+      <s:sku>1230005-000T00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8445114319178</id>
+    <published>2023-06-23T15:31:21+02:00</published>
+    <updated>2023-06-23T15:31:21+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/brasilia-lounge-chair-sheepskin"/>
+    <title>Brasilia Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Anderssen &amp; Voll</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Brasilia_Lounge_Chair_Sheepskin_Brasilia_Ottoman_Plint_Cubic_383eab06-7c8d-4850-a2af-94a49ac81e42.jpg?v=1687526637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anderssen &amp; Voll<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            4255.00 - 4565.00
+            <a href="https://audocph.com/products/brasilia-lounge-chair-sheepskin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Scandinavian mid-century design aesthetics and Brazilian Modernism meet on the low-lying Brasilia Lounge Chair, designed for Audo by Anderssen &amp; Voll. The luxurious armchair-lounge chair hybrid offers unparalleled sitting comfort thanks to its robust frame and soft upholstery. Characterised by its stout and sturdy legs, made using traditional joinery techniques, and exaggerated armrests and cushioning seat and backrest, upholstered in a range of soft fabrics, it creates a sense of comfort and ease in any setting.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Anderssen and Voll</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Nature / Natural Oak</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>8053003-000D01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Root / Natural Oak</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>8053003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Root / Dark Stained Oak</title>
+      <s:price currency="EUR">4255.00</s:price>
+      <s:sku>8054003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8445114319178</id>
+      <title>Sheepskin Root / Walnut</title>
+      <s:price currency="EUR">4565.00</s:price>
+      <s:sku>8055003-000C01ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677082178</id>
+    <published>2023-02-15T14:48:17+01:00</published>
+    <updated>2023-02-15T14:48:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man-ottoman"/>
+    <title>The Tired Man Ottoman, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Tired_Man_Ottoman_12_WEB_6bab40f3-91af-49d4-a0ab-db9e21d0ddd3.jpg?v=1697193525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Tired Man Ottoman has been designed from Flemming Lassen's original armchair. The soft lines and round shapes from the armchair is continued in the Ottoman. Relaunched in 2015, the award-winning design is offered in plush sheepskin in a nod to the original, and with natural or dark-oiled oak heartwood legs and front brass casters for easy movement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-010E02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-010G02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-040E02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677082178</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">2200.00</s:price>
+      <s:sku>1500107-040G02ZZ</s:sku>
+      <s:grams>10700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677114946</id>
+    <published>2023-02-15T14:48:16+01:00</published>
+    <updated>2023-02-15T14:48:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tired-man"/>
+    <title>The Tired Man Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Tired_Man_Rond_Bowl_Converge_Book_Ends.jpg?v=1675773981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            9155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Tired Man was launched at the Copenhagen Cabinetmakers’ Guild Exhibition in 1935 and has since become an icon of Danish design. The epitome of craftsmanship and comfort, the characteristically curved armchair was designed by Flemming Lassen to feel “as warm and snug as a polar bear cub in the arms of its mother.” Relaunched in 2015, the award-winning design is offered in plush upholstery, including sheepskin in a nod to the original, and with natural or dark-oiled oak heartwood legs and front brass casters for easy movement. A corresponding footstool ensures further comfort.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-010E02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-010G02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-050E02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677114946</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">9155.00</s:price>
+      <s:sku>1500007-050G02ZZ</s:sku>
+      <s:grams>46000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677147714</id>
+    <published>2023-02-15T14:48:15+01:00</published>
+    <updated>2023-02-15T14:48:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/saxe-chair-hang-up"/>
+    <title>Saxe Chair, Hang Up</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Audo Copenhagen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/BL582003_SaxeHangUp_BrownOiledOak_300.jpg?v=1675763485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audo Copenhagen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Saxe Hang Up is an accessory for the iconic Saxe Lounge Chair, designed by Mogens Lassen. The wall mount allows you to create more space in the room when the Saxe Chair is not in use. Simply suspend it from the wall.  Crafted in oak and available in four different finishes, match the design to suit your interior.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677147714</id>
+      <title>Brown Oiled Oak</title>
+      <s:price currency="EUR">165.00</s:price>
+      <s:sku>BL582003</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677147714</id>
+      <title>Black Stained Oak</title>
+      <s:price currency="EUR">165.00</s:price>
+      <s:sku>BL582002</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677147714</id>
+      <title>Soap Treated Oak</title>
+      <s:price currency="EUR">165.00</s:price>
+      <s:sku>BL582000</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677147714</id>
+      <title>Oiled Natural Oak</title>
+      <s:price currency="EUR">165.00</s:price>
+      <s:sku>BL582001</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677704770</id>
+    <published>2023-02-15T14:48:13+01:00</published>
+    <updated>2023-02-15T14:48:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/saxe-chair"/>
+    <title>Saxe Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Mogens Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Saxe_Chair_Plinth_Tall_Low_Torso_Table_lamp_57_Eave_Modular_Open_End.jpg?v=1676561278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mogens Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2295.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Mogens Lassen’s Saxe Chair is a tried-and-true example of how aesthetics and function go hand in hand. Despite being regarded as a rebel, Mogens Lassen aimed for perfection in each of his design projects. His eye for detail, leaving nothing to chance, and his determination to break new ground are visible on his timeless Saxe Lounge Chair. The leather seat puts the natural material to the test, stretched to perfection across the solid wood frame. The technique was in its early days when the chair was first made in the mid-1900s. Beautiful polished brass fittings underpin the handcrafted feel and add a further sense of luxury to the design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677704770</id>
+      <title>Oiled Natural Oak | Black Leather</title>
+      <s:price currency="EUR">2295.00</s:price>
+      <s:sku>BL581104</s:sku>
+      <s:grams>10469</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677704770</id>
+      <title>Black Stained Oak | Black Leather</title>
+      <s:price currency="EUR">2295.00</s:price>
+      <s:sku>BL581102</s:sku>
+      <s:grams>10469</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677704770</id>
+      <title>Soap Treated Oak | Natural Leather</title>
+      <s:price currency="EUR">2295.00</s:price>
+      <s:sku>BL581101</s:sku>
+      <s:grams>10469</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677737538</id>
+    <published>2023-02-15T14:48:12+01:00</published>
+    <updated>2023-02-15T14:48:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/my-own-chair-ottoman"/>
+    <title>My Own Chair, Ottoman</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_My_Own_Chair_Ottoman_24_WEB.jpg?v=1692264689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            2255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The My Own Chair Ottoman has been designed in the same spirit as Flemming Lassen’s original iconic chair, reflecting his love of rounded shapes, simple forms and precise detailing, to enable the full relaxation effect.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677737538</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">2255.00</s:price>
+      <s:sku>1501007-010E02ZZ</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677737538</id>
+      <title>Walnut / Sheepskin Moonlight</title>
+      <s:price currency="EUR">2255.00</s:price>
+      <s:sku>1501207-020E02ZZ</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6862677770306</id>
+    <published>2023-02-15T14:48:11+01:00</published>
+    <updated>2023-02-15T14:48:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/my-own-chair"/>
+    <title>My Own Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_My_Own_Chair_13_WEB.jpg?v=1692262008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            9420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed by Flemming Lassen in 1938, My Own Chair is an original and eye-catching piece of mid-century Danish modern design. Upon launch it received much praise for its sculptural form with distinctive wings, yet its complex two-part silhouette made it unsuitable for mass production until the advent of modern techniques. Its lumbar supportive, rounded, angled seat and extended backrest cocoon the sitter in comfort. Wooden legs and expert upholstery complete the design. A corresponding footrest adds to the sense of ease. Said to be Lassen’s favourite chair, it stood at the designer’s home until his death in 1984.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6862677770306</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1500907-010E02ZZ</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6862677770306</id>
+      <title>Walnut / Sheepskin Moonlight</title>
+      <s:price currency="EUR">9420.00</s:price>
+      <s:sku>1501107-020E02ZZ</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6872482119746</id>
+    <published>2023-02-15T14:47:24+01:00</published>
+    <updated>2023-02-15T14:47:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-lounge-chair-sheepskin"/>
+    <title>Ingeborg Lounge Chair, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Ingeborg_LoungeChair_Ottoman_Sheep_Moonlight_Stance_Vase_1.jpg?v=1697025142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            5370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Named after the designer’s artist mother, Ingeborg Winding, the Ingeborg Lounge Chair from 1940 welcomes the sitter with open arms and an irresistibly charming expression. The lounge design features elegant sculptural armrests and an angled frame for comfort. Despite the chair’s petite stature, Ingeborg makes a strong statement in any room. Beautiful from every angle, it fits effortlessly into a given space without taking up too much room. Originally designed with sheepskin upholstery, Ingeborg is today reworked from original archival drawings and available in a range of upholstery fabrics and with natural or dark-oiled oak heartwood legs. The chair pairs beautifully with the corresponding sofa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-010E02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-010G02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Natural Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-010J02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-040E02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-040G02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872482119746</id>
+      <title>Dark Stained Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">5370.00</s:price>
+      <s:sku>1500207-040J02ZZ</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6872483070018</id>
+    <published>2023-02-15T14:47:23+01:00</published>
+    <updated>2023-02-15T14:47:23+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-ottoman-sheepskin"/>
+    <title>Ingeborg Ottoman, Sheepskin</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/byLassen_Ingeborg_Lounge_Chair_Ingeborg_ottoman.jpg?v=1696934079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Originally Ingeborg Lounge Chair and the corresponding Ottoman was designed in 1940 by Flemming Lassen. The chair was designed by Master carpenter Jakob Kjær, who manufactured Flemming Lassen's furniture for The Carpenters guild Annual Furniture Exhibition. The charming little easy chair is named after Flemming and Mogens Lassen's mother, the artist Ingeborg Winding. Despite its petite size, Ingeborg brightens any room with its charm and exclusive style. Ingeborg looks beautiful from all angles. It can be placed anywhere in a room without taking up too much space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Natural Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-010E02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Natural Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-010G02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Natural Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-010J02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Dark Stained Oak / Sheepskin Moonlight</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-040E02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Dark Stained Oak / Sheepskin Honey</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-040G02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6872483070018</id>
+      <title>Dark Stained Oak / Sheepskin Sahara</title>
+      <s:price currency="EUR">1960.00</s:price>
+      <s:sku>1500407-040J02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6883423453250</id>
+    <published>2023-02-15T14:47:19+01:00</published>
+    <updated>2023-02-15T14:47:19+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-ottoman-textile"/>
+    <title>Ingeborg Ottoman, Textile</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/byLassen_IngeborgLoungeChair_IngeborgFootstool_KubusBowlCenterpieceLarge_300.jpg?v=1692703168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1450.00 - 1665.00
+            <a href="https://audocph.com/products/ingeborg-ottoman-textile">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Ingeborg Lounge Chair and Ottoman were originally designed in 1940 by Flemming Lassen, with the chair itself crafted by Master carpenter Jakob Kjær for The Carpenters Guild Annual Furniture Exhibition. This delightful little chair pays tribute to the artist Ingeborg Winding, mother of Flemming and Mogens Lassen, and effortlessly brings charm and exclusive style to any room. With its petite size, Ingeborg shines from every angle and can be placed in any space without overwhelming it.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Fiord 0751</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-012103ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Fiord 0782</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-013003ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Zero 0001</title>
+      <s:price currency="EUR">1515.00</s:price>
+      <s:sku>1500403-012M05ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-010D02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-011402ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Natural Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-011802ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Fiord 0751</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-042103ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Fiord 0782</title>
+      <s:price currency="EUR">1450.00</s:price>
+      <s:sku>1500402-043003ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Zero 0001</title>
+      <s:price currency="EUR">1515.00</s:price>
+      <s:sku>1500403-042M05ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-040D02ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-041402ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883423453250</id>
+      <title>Dark Stained Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">1665.00</s:price>
+      <s:sku>1500404-041802ZZ</s:sku>
+      <s:grams>5200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6883424632898</id>
+    <published>2023-02-15T14:47:18+01:00</published>
+    <updated>2023-02-15T14:47:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/ingeborg-lounge-chair-textile"/>
+    <title>Ingeborg Lounge Chair, Textile</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Flemming Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Audo_Ingeborg_Lounge_Chair_Sofa_Plinth_Low_Divot_Tray_Collapse_Vase_55.jpg?v=1676559688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flemming Lassen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            3045.00 - 3705.00
+            <a href="https://audocph.com/products/ingeborg-lounge-chair-textile">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>Inspired by the designer's artist mother, Ingeborg Winding, the Ingeborg Lounge Chair (1940) welcomes with open arms and an irresistibly charming expression. Its elegant sculptural armrests and angled frame ensure comfort in a compact size, making a bold statement in any room. With its versatile beauty and space-saving design, Ingeborg effortlessly blends into any space. Originally featuring sheepskin upholstery, the chair has been reimagined from archival drawings and now offers a range of upholstery fabrics and oak leg options. It pairs harmoniously with the matching sofa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audo</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Flemming Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Fiord 0751</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-012103ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / FIord 0782</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-013003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">3275.00</s:price>
+      <s:sku>1500303-012M04ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-010D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-011402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Natural Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-011802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Fiord 0751</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-042103ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / FIord 0782</title>
+      <s:price currency="EUR">3045.00</s:price>
+      <s:sku>1500202-043003ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Zero 0001 | Vegetal Leather Buttons</title>
+      <s:price currency="EUR">3275.00</s:price>
+      <s:sku>1500303-042M04ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Grand Mohair 1103</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-040D02ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Grand Mohair 8205</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-041402ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6883424632898</id>
+      <title>Dark Stained Oak / Grand Mohair 2600</title>
+      <s:price currency="EUR">3705.00</s:price>
+      <s:sku>1500204-041802ZZ</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751157485634</id>
+    <published>2022-10-12T14:36:45+02:00</published>
+    <updated>2022-10-12T14:36:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-seal-ottoman"/>
+    <title>The Seal Ottoman</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Seal_Lounge_Chair_Seal_Ottoman_2.jpg?v=1664270938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1035.00 - 1475.00
+            <a href="https://audocph.com/products/the-seal-ottoman">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Designed in 1952 to complement The Seal Chair, this corresponding Ottoman offers the same signature attention to detail, comfort and organic forms that have made Ib Kofod-Larsen a pioneer of mid-century modern design. Named after the Swedish ski resort, Sälen, The Seal is a fine example of Ib Kofod-Larsen's organic design and focus on detail and comfort.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751157485634</id>
+      <title>Natural Oak / Re-wool 218</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1227001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157485634</id>
+      <title>Natural Oak / Dakar 0329</title>
+      <s:price currency="EUR">1330.00</s:price>
+      <s:sku>1227005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157485634</id>
+      <title>Natural Oak / Dakar 0842</title>
+      <s:price currency="EUR">1330.00</s:price>
+      <s:sku>1227005-000A00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157485634</id>
+      <title>Walnut / Re-wool 218</title>
+      <s:price currency="EUR">1115.00</s:price>
+      <s:sku>1228001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157485634</id>
+      <title>Walnut / Dakar 0329</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1228005-000A00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157485634</id>
+      <title>Walnut / Dakar 0842</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1228005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751157026882</id>
+    <published>2022-10-12T14:36:29+02:00</published>
+    <updated>2022-10-12T14:36:29+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-seal-lounge-chair-low-back"/>
+    <title>The Seal Lounge Chair, Low Back</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_The_Seal_Lounge_Chair_Low_Back_Pagode_Sofa_2.jpg?v=1664976840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            5165.00 - 6215.00
+            <a href="https://audocph.com/products/the-seal-lounge-chair-low-back">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Arguably one of Ib Kofod-Larsen's best-known designs, The Seal is an elegant armchair typical of its time – and yet entirely timeless. The angled frame and armrests and leather upholstery put comfort at the fore, inviting lounging. And despite being made of heavy materials, it has a lightness to it; the shell appears to float inside the wooden frame. Named after the Swedish ski resort, Sälen, and not the animal, The Seal is a fine example of Ib Kofod-Larsen's organic design and focus on detail and comfort. The chair is available with a low or high back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751157026882</id>
+      <title>Natural Oak / Re-wool 218</title>
+      <s:price currency="EUR">5165.00</s:price>
+      <s:sku>1225001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157026882</id>
+      <title>Natural Oak / Dakar 0329</title>
+      <s:price currency="EUR">5920.00</s:price>
+      <s:sku>1225005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157026882</id>
+      <title>Natural Oak / Dakar 0842</title>
+      <s:price currency="EUR">5920.00</s:price>
+      <s:sku>1225005-000A00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157026882</id>
+      <title>Walnut / Re-wool 218</title>
+      <s:price currency="EUR">5460.00</s:price>
+      <s:sku>1226001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157026882</id>
+      <title>Walnut / Dakar 0329</title>
+      <s:price currency="EUR">6215.00</s:price>
+      <s:sku>1226005-000A00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751157026882</id>
+      <title>Walnut / Dakar 0842</title>
+      <s:price currency="EUR">6215.00</s:price>
+      <s:sku>1226005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751156961346</id>
+    <published>2022-10-12T14:36:17+02:00</published>
+    <updated>2022-10-12T14:36:17+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-seal-lounge-chair-high-back"/>
+    <title>The Seal Lounge Chair, High Back</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plnith_Bridge_Wing_Table_Lamp_The_Seal_High_Back_692a7d75-043c-428b-958a-8e007e863750.jpg?v=1664270966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            5330.00 - 6350.00
+            <a href="https://audocph.com/products/the-seal-lounge-chair-high-back">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Arguably one of Ib Kofod-Larsen's best-known designs, The Seal is an elegant armchair typical of its time – and yet entirely timeless. The angled frame and armrests and leather upholstery put comfort at the fore, inviting lounging.  And despite being made of heavy materials, it has a lightness to it; the shell appears to float inside the wooden frame. Named after the Swedish ski resort, The Seal is a fine example of Ib Kofod-Larsen's organic design and focus on detail and comfort. The chair is available with a low or high back.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751156961346</id>
+      <title>Natural Oak / Re-wool 218</title>
+      <s:price currency="EUR">5330.00</s:price>
+      <s:sku>1223001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751156961346</id>
+      <title>Natural Oak / Dakar 0329</title>
+      <s:price currency="EUR">6055.00</s:price>
+      <s:sku>1223005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751156961346</id>
+      <title>Natural Oak / Dakar 0842</title>
+      <s:price currency="EUR">6055.00</s:price>
+      <s:sku>1223005-000A00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751156961346</id>
+      <title>Walnut / Re-wool 218</title>
+      <s:price currency="EUR">5760.00</s:price>
+      <s:sku>1224001-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751156961346</id>
+      <title>Walnut / Dakar 0329</title>
+      <s:price currency="EUR">6350.00</s:price>
+      <s:sku>1224005-000A00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751156961346</id>
+      <title>Walnut / Dakar 0842</title>
+      <s:price currency="EUR">6350.00</s:price>
+      <s:sku>1224005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751155716162</id>
+    <published>2022-10-12T14:34:54+02:00</published>
+    <updated>2022-10-12T14:34:54+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/oda-ottoman"/>
+    <title>Oda Ottoman</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Arnold Madsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Oda_Ottoman.jpg?v=1654852378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arnold Madsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1195.00 - 1260.00
+            <a href="https://audocph.com/products/oda-ottoman">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed for use with Arnold Madsen’s Oda Chair but equally purposeful alone, the Oda Ottoman profiles the same careful craft and embracing form, shaped to offer comfortable support when seated. Constructed according to a vintage version as there are no drawings of the original design, the Oda Ottoman profiles a sublime level of craftsmanship, evident in the intricacy of its upholstery. Available with legs in natural oak or walnut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Arnold Madsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751155716162</id>
+      <title>Natural Oak / Hallingdal 65 0110</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>1214002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155716162</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>1214002-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155716162</id>
+      <title>Natural Oak / Hallingdal 65 600</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>1214002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155716162</id>
+      <title>Walnut / Hallingdal 65 0110</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1215002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155716162</id>
+      <title>Walnut / Hallingdal 65 200</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1215002-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155716162</id>
+      <title>Walnut / Hallingdal 65 600</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1215002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751155486786</id>
+    <published>2022-10-12T14:34:38+02:00</published>
+    <updated>2022-10-12T14:34:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/oda-lounge-chair"/>
+    <title>Oda Lounge Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Arnold Madsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Oda_Lounge_Chair.jpg?v=1654852330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arnold Madsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            4440.00 - 4860.00
+            <a href="https://audocph.com/products/oda-lounge-chair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Originally dubbed Model 9, the Oda Chair was an ambitious design from the very beginning. Created by Arnold Madsen in around 1956, the aesthetic reinterpretation of an armchair has a complex horseshoe construction with an integrated headrest and beautifully incorporated armrests in wood. Offering comfortable support, the embracing design was initially – and mistakenly – attributed to Nanna Ditzel. In 2020 it was rightfully credited to Madsen. Constructed according to a vintage version as there are no drawings of the original design, the Oda Chair profiles a sublime level of craftsmanship, evident in the intricacy of its upholstery. Available with legs in natural oak or walnut.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Arnold Madsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751155486786</id>
+      <title>Natural Oak / Hallingdal 65 0110</title>
+      <s:price currency="EUR">4440.00</s:price>
+      <s:sku>1212002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155486786</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">4440.00</s:price>
+      <s:sku>1212002-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155486786</id>
+      <title>Natural Oak / Hallingdal 65 600</title>
+      <s:price currency="EUR">4440.00</s:price>
+      <s:sku>1212002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155486786</id>
+      <title>Walnut / Hallingdal 65 0110</title>
+      <s:price currency="EUR">4860.00</s:price>
+      <s:sku>1213002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155486786</id>
+      <title>Walnut / Hallingdal 65 200</title>
+      <s:price currency="EUR">4860.00</s:price>
+      <s:sku>1213002-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751155486786</id>
+      <title>Walnut / Hallingdal 65 600</title>
+      <s:price currency="EUR">4860.00</s:price>
+      <s:sku>1213002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751154995266</id>
+    <published>2022-10-12T14:34:26+02:00</published>
+    <updated>2022-10-12T14:34:26+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/elizabeth-ottoman"/>
+    <title>Elizabeth Ottoman</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Elizabeth_Ottoman_Plinth_Tall_Collector_Chandelier.jpg?v=1654852242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            1195.00 - 1625.00
+            <a href="https://audocph.com/products/elizabeth-ottoman">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Originally dubbed the U-56, the Elizabeth Ottoman by Ib Kofod Larsen is a classical and comfortable accent piece for use when reclining in the corresponding Elizabeth Chair, which takes its name from Queen Elizabeth II, who purchased the design during a visit to Copenhagen in 1962.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751154995266</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">1195.00</s:price>
+      <s:sku>1209002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751154995266</id>
+      <title>Natural Oak / Dakar 0329</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1209005-000900ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751154995266</id>
+      <title>Natural Oak / Dunes Cognac 21000</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1209006-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751154995266</id>
+      <title>Walnut / Hallingdal 65 200</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1211002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751154995266</id>
+      <title>Walnut / Dakar 0329</title>
+      <s:price currency="EUR">1410.00</s:price>
+      <s:sku>1211005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751154995266</id>
+      <title>Walnut / Dunes Cognac 21000</title>
+      <s:price currency="EUR">1625.00</s:price>
+      <s:sku>1211006-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6751153324098</id>
+    <published>2022-10-12T14:34:11+02:00</published>
+    <updated>2022-10-12T14:34:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/elizabeth-lounge-chair"/>
+    <title>Elizabeth Lounge Chair</title>
+    <s:type>Lounge Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Elizabeth_Loung_Chair_Ottoman_Wing_Floor_Lamp_ea8902b4-39f0-42fc-9bfa-23a6b71f9554.jpg?v=1664275343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Lounge Chair<br>
+        <strong>Price: </strong>
+            5140.00 - 6200.00
+            <a href="https://audocph.com/products/elizabeth-lounge-chair">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Well-proportioned and well designed, the Elizabeth Lounge Chair profiles a majestic elegance that underpins its royal name. Originally called the Model U56, it was later dubbed Elizabeth Chair after Queen Elizabeth II and Prince Philip purchased two of them during an official visit to Denmark in 1958. The chair's sculpted armrests combined with the leather-upholstered low seat and sleigh-like back make it a prime example of Danish Modern.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>Lounge Chairs</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Lounge Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6751153324098</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">5140.00</s:price>
+      <s:sku>1207002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751153324098</id>
+      <title>Natural Oak / Dakar 0329</title>
+      <s:price currency="EUR">5635.00</s:price>
+      <s:sku>1207005-000A00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751153324098</id>
+      <title>Natural Oak / Dunes Cognac 21000</title>
+      <s:price currency="EUR">5920.00</s:price>
+      <s:sku>1207006-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751153324098</id>
+      <title>Walnut / Hallingdal 65 200</title>
+      <s:price currency="EUR">5420.00</s:price>
+      <s:sku>1208002-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751153324098</id>
+      <title>Walnut / Dakar 0329</title>
+      <s:price currency="EUR">5920.00</s:price>
+      <s:sku>1208005-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6751153324098</id>
+      <title>Walnut / Dunes Cognac 21000</title>
+      <s:price currency="EUR">6200.00</s:price>
+      <s:sku>1208006-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

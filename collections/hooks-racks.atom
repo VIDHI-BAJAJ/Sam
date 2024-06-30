@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/hooks-racks.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-02-28T08:46:40+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/8682949312842</id>
+    <published>2024-02-28T08:46:40+01:00</published>
+    <updated>2024-02-28T08:46:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-coat-hanger-large"/>
+    <title>Afteroom Coat Hanger, Large</title>
+    <s:type>Coat Hanger</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AfteroomCoatHangerLarge_21.jpg?v=1708508586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Coat Hanger<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Afteroom Coat Hanger draws inspiration from Bauhaus principles: well-crafted, functional and minimalist design with geometric shapes that infuse a sense of clarity. Easily affixed to a wall, with hidden screws that underpin its clean aesthetic, circular ‘dots’ in powder-coated metal allow you to hang clothing, bags and more in a hallway or bedroom. It can be hung both horizontally and vertically, beautifying blank walls in any space by transforming walls from stark canvases into works of art.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hangers</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Coat Hanger</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8682949312842</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>8920539</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637878607938</id>
+    <published>2021-09-14T12:30:00+02:00</published>
+    <updated>2021-09-14T12:30:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/epoch-shelf"/>
+    <title>Epoch Shelf</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MenuTheAudoSummer20210053.jpg?v=1630950073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            185.00 - 240.00
+            <a href="https://audocph.com/products/epoch-shelf">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed for Audo by Nina Bruun, the Epoch Shelf is crafted in wood veneer and offered in two natural finishes: natural or dark stained oak. The multipurpose, space-saving design features on the one side a deep shelf for everyday clutter and on the other a shelf on which to place decorative objects. Multiples can be suspended in horizontal or vertical rows.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>50 / Natural Oak</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>6205039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>50 / Dark Stained Oak</title>
+      <s:price currency="EUR">185.00</s:price>
+      <s:sku>6205849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>79 / Natural Oak</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>6207039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637878607938</id>
+      <title>79 / Dark Stained Oak</title>
+      <s:price currency="EUR">240.00</s:price>
+      <s:sku>6207849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6637879820354</id>
+    <published>2021-09-14T12:29:41+02:00</published>
+    <updated>2021-09-14T12:29:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/epoch-rack"/>
+    <title>Epoch Rack</title>
+    <s:type>Shelving Unit</s:type>
+    <s:vendor>Nina Bruun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Epoch_Rack_Harbour_Side_Dining_Chair_Houkime_Rug_1.jpg?v=1631622862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nina Bruun<br>
+        <strong>Type: </strong>Shelving Unit<br>
+        <strong>Price: </strong>
+            170.00 - 215.00
+            <a href="https://audocph.com/products/epoch-rack">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With its careful combination of gently rounded edges, warm wood and discreet functionality, the Epoch Clothes Rack offers streamlined storage for spaces large and small. Designed for Audo by Nina Bruun and crafted in natural or dark stained oak, the wall-mounted rack features hidden clothing hooks, and the space-saving design can be suspended alone or in rows of multiples.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>designer-Nina Bruun</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hooks and Shelfs</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Rack</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>50 / Natural Oak</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>6215039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>50 / Dark Stained Oak</title>
+      <s:price currency="EUR">170.00</s:price>
+      <s:sku>6215849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>79 / Natural Oak</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>6217039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6637879820354</id>
+      <title>79 / Dark Stained Oak</title>
+      <s:price currency="EUR">215.00</s:price>
+      <s:sku>6217849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518982975554</id>
+    <published>2020-04-28T12:08:30+02:00</published>
+    <updated>2020-04-28T12:08:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-coat-hanger"/>
+    <title>Afteroom Coat Hanger, Medium</title>
+    <s:type>Coat Hanger</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Sweeper_amp_Funnel_Location_09.jpg?v=1587486941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Coat Hanger<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the same design philosophy which pivots around simplicity and honesty within the Afteroom Collection, the Afteroom Coat Hanger also draws its references from Bauhaus and Modernism. The coat hanger is a simple yet sophisticated hanging system for coats, clothes or accessories and is easily fixed to the wall, with all screws hidden to compliment the minimalistic and clean aesthetic.</p>
+<p>The existing version of the coat hanger can now be expanded to further configurations, as the large ‘dot’ features a new, bigger design, while the smaller ‘dot’ sees its size being decreased to that of the original. This gives the Afteroom Coat Hanger a spruced up look and a touch of playfulness, as it can be hung both horizontally and vertically, beautifying blank walls in any area of the home by transforming them from stark canvases to pieces of art.</p>
+<p>Can be installed horizontally or vertically.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>Design Savvy</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hangers</s:tag>
+    <s:tag>type-Coat Hanger</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518982975554</id>
+      <title>Black</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>8900539</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982975554</id>
+      <title>White</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>8900639</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982975554</id>
+      <title>Black/Brass</title>
+      <s:price currency="EUR">135.00</s:price>
+      <s:sku>8900579</s:sku>
+      <s:grams>885</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518982516802</id>
+    <published>2020-04-28T12:08:28+02:00</published>
+    <updated>2020-04-28T12:08:28+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-coat-hanger-small"/>
+    <title>Afteroom Coat Hanger, Small</title>
+    <s:type>Coat Hanger</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/WEBSHOP_products_furnitures.jpg?v=1607957563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Coat Hanger<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pivoting simplicity and honesty – defining elements of the Afteroom Collection - the Afteroom Coat Hanger draws its references from Bauhaus and Modernism. A hanging system for coats, clothes or accessories that can be easily secured to any wall (with screws being hidden to further compliment the minimalist feel), a ‘less is more’ aesthetic defines the Afteroom Coat Hanger as much as the rest of the series.</p>
+<p>The existing version of the coat hanger can now be expanded to further configurations, as the large ‘dot’ features a new, bigger design, while the smaller ‘dot’ sees its size being decreased to that of the original. This gives the Afteroom Coat Hanger a spruced up look and a touch of playfulness, as it can be hung both horizontally and vertically, beautifying blank walls in any area of the home by transforming them from stark canvases to pieces of art.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hangers</s:tag>
+    <s:tag>type-Coat Hanger</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518982516802</id>
+      <title>Black/Brass</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>8910579</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982516802</id>
+      <title>Powder Coated Black</title>
+      <s:price currency="EUR">80.00</s:price>
+      <s:sku>8910539</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+  </entry>
+</feed>

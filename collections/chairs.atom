@@ -1,0 +1,2124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/chairs.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-03-01T10:39:31+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6572246204482</id>
+    <published>2024-03-01T10:39:31+01:00</published>
+    <updated>2024-03-01T10:39:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-dining-chair-outdoor"/>
+    <title>Co Dining Chair, Outdoor</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Dining_Chair_Outdoor_Ray_Table_Lamp_Harbour_Column_Table_44.jpg?v=1718793380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            350.00 - 485.00
+            <a href="https://audocph.com/products/co-dining-chair-outdoor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed in weather-resistant recycled plastic for hassle-free upkeep, the Co Dining Chair, Outdoor is a practical and reliable choice for outdoor environments year-round. Its stackable design offers space-efficient solution for storage and convenient organisation when not in use. Despite its durability, the chair remains comfortable and lightweight, facilitating easy movement and rearrangement of outdoor seating arrangements as required, while its sleek and minimalist design, available with or without armrests, blends seamlessly into a range of settings, from patios to gardens.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>Without Armrest</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>1190044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>With Armrest</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>1191044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518981664834</id>
+    <published>2024-02-28T08:46:47+01:00</published>
+    <updated>2024-02-28T08:46:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-plus-dining-chair"/>
+    <title>Afteroom Dining Chair Plus, Fully Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Table_Afteroom_Dining_Chair_Plus_Releve_Platter_43.jpg?v=1708696363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            600.00 - 810.00
+            <a href="https://audocph.com/products/afteroom-plus-dining-chair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p>The Afteroom Dining Chair Plus elevates mealtimes to a new level of luxury with its upholstered seat and back, customisable in fabric to suit design and space preferences. A minimalist design offering maximum comfort, its tubular powder-coated steel frame ensures durability and stability while the large, extended backrest provides lumbar support when seated for extended periods. Its streamlined silhouette, pared back to only the essentials, ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>8450020-000300ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>8450020-000000ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Champion - 035</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8450001-00CX00ZZ</s:sku>
+      <s:grams>4880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Maple - 222</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8450001-000I0CZZ</s:sku>
+      <s:grams>4880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">770.00</s:price>
+      <s:sku>8450009-000R00ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">770.00</s:price>
+      <s:sku>8450009-000100ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Dakar - 0250</title>
+      <s:price currency="EUR">810.00</s:price>
+      <s:sku>8450004-000306ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Dakar - 0842</title>
+      <s:price currency="EUR">810.00</s:price>
+      <s:sku>8450004-003706ZZ</s:sku>
+      <s:grams>4880</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518982189122</id>
+    <published>2024-02-28T08:46:46+01:00</published>
+    <updated>2024-02-28T08:46:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-dining-chair"/>
+    <title>Afteroom Dining Chair, Seat Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Dining_Banquette_Harbour_Column_Dining_Table_Tubulaire_Pendant_Large_Afteroom_Dining_Chair_34_e0dc73d8-90c4-4e6c-b7d0-dc0355bfd388.jpg?v=1708955975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            485.00 - 565.00
+            <a href="https://audocph.com/products/afteroom-dining-chair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p>With a silhouette that is both sleek and instantly recognisable, the Afteroom Dining Chair is offered with an upholstered backrest and a wood veneer seat, each delivering comfort when seated for longer periods. In wood veneer, the chair exudes a sense of authenticity and warmth, while upholstery allows for a comfortable, customisable design to suit any style and space. Seamlessly integrating into spaces with its sleek profile, offering a harmonious and coordinated design it is not just a functional piece but also a standout element in any interior space.</p>
+</div>
+</div>
+</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8481000-010000ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8481000-000100ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8481009-020R00ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8481009-000100ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8694107046218</id>
+    <published>2024-02-28T08:46:25+01:00</published>
+    <updated>2024-02-28T08:46:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-dining-chair-plus-upholstered-seat"/>
+    <title>Afteroom Dining Chair Plus, Upholstered Seat</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AfteroomDiningChairPlus_AndrogyneDiningTable_RondBowl_21.jpg?v=1708697812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            565.00 - 670.00
+            <a href="https://audocph.com/products/afteroom-dining-chair-plus-upholstered-seat">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p>The Afteroom Dining Chair Plus elevates mealtimes to a new level of luxury with its upholstered seat and wood veneer back, customisable in fabric to suit design and space preferences. A minimalist design offering maximum comfort, its tubular powder-coated steel frame ensures durability and stability while the large, extended backrest provides lumbar support when seated for extended periods. Its streamlined silhouette, pared back to only the essentials, ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8694107046218</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8482000-010000ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8694107046218</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8482000-000100ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8694107046218</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>8482009-020R00ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8694107046218</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>8482009-000100ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8694121529674</id>
+    <published>2024-02-28T08:46:24+01:00</published>
+    <updated>2024-02-28T08:46:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-dining-chair-plus-veneer"/>
+    <title>Afteroom Dining Chair Plus, Veneer</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/8482539_Front.jpg?v=1708698052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            430.00 - 440.00
+            <a href="https://audocph.com/products/afteroom-dining-chair-plus-veneer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p>The Afteroom Dining Chair Plus in wood veneer is a minimalist design offering maximum comfort. Its tubular powder-coated steel frame ensures durability and stability while the large, extended backrest provides lumbar support when seated for extended periods. Its streamlined silhouette, pared back to only the essentials, ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8694121529674</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">430.00</s:price>
+      <s:sku>8482539</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8694121529674</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">430.00</s:price>
+      <s:sku>8482039</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8694121529674</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">440.00</s:price>
+      <s:sku>8482849</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8697328599370</id>
+    <published>2024-02-28T08:46:20+01:00</published>
+    <updated>2024-02-28T08:46:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-dining-chair-veneer"/>
+    <title>Afteroom Dining Chair, Veneer</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/8481539_Front.jpg?v=1708956169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            415.00 - 430.00
+            <a href="https://audocph.com/products/afteroom-dining-chair-veneer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p>With a silhouette that is both sleek and instantly recognisable, the Afteroom Dining Chair is offered with a wood veneer backrest and seat, delivering comfort when seated for longer periods. In wood veneer, the chair exudes a sense of authenticity and warmth. Seamlessly integrating into spaces with its sleek profile, offering a harmonious and coordinated design it is not just a functional piece but also a standout element in any interior space.</p>
+</div>
+</div>
+</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8697328599370</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>8481539</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697328599370</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">415.00</s:price>
+      <s:sku>8481039</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8697328599370</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">430.00</s:price>
+      <s:sku>8481849</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4643797827650</id>
+    <published>2024-02-13T15:45:54+01:00</published>
+    <updated>2024-02-13T15:45:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-chair-upholstered-seat-with-armrest-chrome"/>
+    <title>Co Dining Chair, upholstered seat with armrest, Chrome</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/co_Chrome.jpg?v=1617184633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            535.00 - 740.00
+            <a href="https://audocph.com/products/co-chair-upholstered-seat-with-armrest-chrome">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by The Office Group's deep understanding of workplace requirements, the Co Chair embodies a perfect fusion of lightweight elegance and exceptional seating comfort. Additionally, it offers the unique feature of stackability, allowing up to 10 chairs to be stacked. The design's aesthetic appeal lies in its contoured form and the use of warm materials, showcasing the renowned soft minimalism of Norm Architects that seamlessly transitions into residential and hospitality environments.</p>
+<p>Versatility lies at the core of this design, achieved through meticulous construction and an extensive range of materials. With a plethora of veneer finishes and upholstery options available, the Co Chair can be effortlessly personalized to create the desired expression and enhance the overall experience. Notably, the chair stands out with its wide veneer back, ensuring freedom of movement and providing optimal comfort. Moreover, the backrest has been thoughtfully positioned and angled to deliver exceptional support, prioritizing comfort as a primary design principle.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Natural Oak | Dakar - 0250</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1176004-020300ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Black Oak | Dakar - 0842</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1176004-001H00ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>1176020-000300ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Natural Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>1176020-020300ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">695.00</s:price>
+      <s:sku>1176009-000100ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4643797827650</id>
+      <title>Dark Stained Oak | Sierra 0441</title>
+      <s:price currency="EUR">695.00</s:price>
+      <s:sku>1176009-010D00ZZ</s:sku>
+      <s:grams>6294</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4634404454466</id>
+    <published>2023-09-06T13:12:47+02:00</published>
+    <updated>2023-09-06T13:12:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-side-chair-black-star-base-upholstered"/>
+    <title>Harbour Side Dining Chair, Black Star Base, Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9265559-Harbour-Side-Chair-Swivel-Dakarblack0842-Black.jpg?v=1678872695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            1125.00 - 1435.00
+            <a href="https://audocph.com/products/harbour-side-chair-black-star-base-upholstered">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in three finishes – polished aluminum or powder-coated aluminum in black or light grey.</span></p>
+<p><span> All Harbour Chairs have been upgraded with extra foam in the seat for better sitting comfort, increasing from 15 mm in thickness to 25 mm.</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4634404454466</id>
+      <title>Star Base with Swivel / Canvas 154</title>
+      <s:price currency="EUR">1125.00</s:price>
+      <s:sku>9396002-031600ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634404454466</id>
+      <title>Star Base with Swivel / Dakar 0311</title>
+      <s:price currency="EUR">1315.00</s:price>
+      <s:sku>9396004-030600ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634404454466</id>
+      <title>Star Base with Swivel / Dakar - 0842</title>
+      <s:price currency="EUR">1315.00</s:price>
+      <s:sku>9396004-031H00ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634404454466</id>
+      <title>Star Base Swivel w/Return / Canvas 154</title>
+      <s:price currency="EUR">1180.00</s:price>
+      <s:sku>9397002-031600ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634404454466</id>
+      <title>Star Base Swivel w/Return / Dakar 0311</title>
+      <s:price currency="EUR">1435.00</s:price>
+      <s:sku>9397004-030600ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501514404170</id>
+    <published>2023-09-06T13:00:44+02:00</published>
+    <updated>2023-09-06T13:00:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-side-dining-chair-chrome-star-base-plastic"/>
+    <title>Harbour Side Dining Chair, Chrome Star Base, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9396939-0201ZZZZ_Harbour_Side_Dining_Chair_Alu_Swivel_Burned_Red_Plastic_Front_e02bd4ef-3344-4572-94ef-c7ff4e6a1673.jpg?v=1693996567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            670.00 - 710.00
+            <a href="https://audocph.com/products/harbour-side-dining-chair-chrome-star-base-plastic">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in three finishes – polished aluminum or powder-coated aluminum in black or light grey.</span><span style="font-size: 0.875rem;"> </span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base with Swivel / Burned Red Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0201ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base with Swivel / Light Grey Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0203ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base with Swivel / Olive Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0204ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base with Swivel / White Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0205ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base Swivel w/Return / Burned Red Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0201ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base Swivel w/Return / Light Grey Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0203ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base Swivel w/Return / White Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0205ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base Swivel w/Return / Black Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0200ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base Swivel w/Return / Khaki Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0202ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base with Swivel / Black Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0200ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base with Swivel / Khaki Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0202ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501514404170</id>
+      <title>Star Base Swivel w/Return / Olive Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0204ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501515780426</id>
+    <published>2023-09-06T12:54:09+02:00</published>
+    <updated>2023-09-06T12:54:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-side-dining-chair-black-star-base-plastic"/>
+    <title>Harbour Side Dining Chair, Black Star Base, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9265349_Harbour-Side-Chair-Swivel-BurnedRed-Black_df0a9447-ae3e-4378-b66f-64e27ad19543.jpg?v=1693996662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            670.00 - 710.00
+            <a href="https://audocph.com/products/harbour-side-dining-chair-black-star-base-plastic">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in three finishes – polished aluminum or powder-coated aluminum in black or light grey.</span><span style="font-size: 0.875rem;"> </span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base with Swivel / Black Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0000ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base with Swivel / Burned Red Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0001ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base with Swivel / Khaki Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0002ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base with Swivel / Light Grey Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0003ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base with Swivel / Olive Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0004ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base with Swivel / White Plastic</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>9396939-0005ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base Swivel w/Return / Black Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0000ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base Swivel w/Return / Burned Red Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0001ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base Swivel w/Return / Khaki Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0002ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base Swivel w/Return / Light Grey Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0003ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base Swivel w/Return / Olive Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0004ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501515780426</id>
+      <title>Star Base Swivel w/Return / White Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9397939-0005ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501423702346</id>
+    <published>2023-09-06T11:14:11+02:00</published>
+    <updated>2023-09-06T11:14:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-side-dining-chair-chrome-star-base-casters-plastic"/>
+    <title>Harbour Side Dining Chair, Chrome Star Base w/Casters, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9398939-0203ZZZZ_Harbour_Side_Dining_Chair_Alu_Swivel_w_Casters_Light_Grey_Plastic_Front_42059db6-185a-4cf6-8a31-3e28f3cc48f4.jpg?v=1693991164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            710.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 33" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in three finishes – polished aluminum or powder-coated aluminum in black or light grey.</span></p>
+<p><span> All Harbour Chairs have been upgraded with extra foam in the seat for better sitting comfort, increasing from 15 mm in thickness to 25 mm.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501423702346</id>
+      <title>Black Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0200ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501423702346</id>
+      <title>Burned Red Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0201ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501423702346</id>
+      <title>Khaki Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0202ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501423702346</id>
+      <title>Light Grey Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0203ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501423702346</id>
+      <title>Olive Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0204ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501423702346</id>
+      <title>White Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0205ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501420228938</id>
+    <published>2023-09-06T11:14:10+02:00</published>
+    <updated>2023-09-06T11:14:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-side-dining-chair-black-star-base-casters-plastic"/>
+    <title>Harbour Side Dining Chair, Black Star Base w/Casters, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9398939-0001ZZZZ_Harbour_Side_Dining_Chair_Black_Swivel_w_Casters_Burned_Red_Plastic_Front_099bd6fb-4b9c-476f-97b4-b43a939c7e97.jpg?v=1693990957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            710.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in three finishes – polished aluminum or powder-coated aluminum in black or light grey.</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501420228938</id>
+      <title>Black Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0000ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501420228938</id>
+      <title>Burned Red Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0001ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501420228938</id>
+      <title>Khaki Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0002ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501420228938</id>
+      <title>Light Grey Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0003ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501420228938</id>
+      <title>Olive Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0004ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501420228938</id>
+      <title>White Plastic</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>9398939-0005ZZZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501415870794</id>
+    <published>2023-09-06T11:14:10+02:00</published>
+    <updated>2023-09-06T11:14:10+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-side-dining-chair-chrome-star-base-casters-upholstered"/>
+    <title>Harbour Side Dining Chair, Chrome Star Base w/Casters, Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9398004-050300ZZ__Harbour_Side_Dining_Chair_Star_Base_w_Casters_Dakar_0250_Chrome_Front_77fade78-9f95-4bd9-9b23-d70f7ef74958.jpg?v=1693991604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            1180.00 - 1435.00
+            <a href="https://audocph.com/products/harbour-side-dining-chair-chrome-star-base-casters-upholstered">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 33" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in three finishes – polished aluminum or powder-coated aluminum in black or light grey.</span></p>
+<p><span> All Harbour Chairs have been upgraded with extra foam in the seat for better sitting comfort, increasing from 15 mm in thickness to 25 mm.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501415870794</id>
+      <title>Canvas 154</title>
+      <s:price currency="EUR">1180.00</s:price>
+      <s:sku>9398002-051500ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501415870794</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">1435.00</s:price>
+      <s:sku>9398004-050300ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501412987210</id>
+    <published>2023-09-06T11:14:09+02:00</published>
+    <updated>2023-09-06T11:14:09+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-side-dining-chair-black-star-base-casters-upholstered"/>
+    <title>Harbour Side Dining Chair, Black Star Base w/Casters, Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9398004-030600ZZ_Harbour_Side_Dining_Chair_Star_Base_w_Casters_Dakar_311_Black_Front_4fedeb52-556d-4b90-adf8-380731ae6f50.jpg?v=1693990554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            1180.00 - 1435.00
+            <a href="https://audocph.com/products/harbour-side-dining-chair-black-star-base-casters-upholstered">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div title="Page 33" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in three finishes – polished aluminum or powder-coated aluminum in black or light grey.</span></p>
+<p><span> All Harbour Chairs have been upgraded with extra foam in the seat for better sitting comfort, increasing from 15 mm in thickness to 25 mm.</span></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501412987210</id>
+      <title>Canvas 154</title>
+      <s:price currency="EUR">1180.00</s:price>
+      <s:sku>9398002-031500ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501412987210</id>
+      <title>Dakar 0311</title>
+      <s:price currency="EUR">1435.00</s:price>
+      <s:sku>9398004-030600ZZ</s:sku>
+      <s:grams>12916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6727411826754</id>
+    <published>2023-09-06T10:44:40+02:00</published>
+    <updated>2023-09-06T10:44:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-dining-chair-chrome-star-base-casters-plastic"/>
+    <title>Harbour Dining Chair, Chrome Star Base, w/Casters, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9391000-0200ZZZZ_Harbour_Dining_Chair_Alu_Swivel_W_Casters_Black_Plastic_Front.jpg?v=1647599322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            805.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in two finishes – polished aluminum or powder-coated aluminum in black.</span></p>
+<p><span>All new Harbour Dining Chairs with a swivel base or swivel with return have been upgraded with QuickClick gliders, as used on all other chairs in our collection.<br>The chairs are delivered with the plastic gliders attached and come with a bag of supplementary felt castors that allow you to easily switch from plastic to felt.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6727411826754</id>
+      <title>Black</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0200ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727411826754</id>
+      <title>Burned Red Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0201ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727411826754</id>
+      <title>Khaki Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0202ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727411826754</id>
+      <title>Light Grey Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0203ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727411826754</id>
+      <title>Olive Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0204ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727411826754</id>
+      <title>White</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0205ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501388673354</id>
+    <published>2023-09-06T10:41:44+02:00</published>
+    <updated>2023-09-06T10:41:44+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-dining-chair-black-star-base-casters-plastic"/>
+    <title>Harbour Dining Chair, Black Star Base, w/Casters, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9391000-0000ZZZZ_Harbour_Dining_Chair_Black_Swivel_W_Casters_Black_Plastic_Front_5bd95014-d081-4dd8-9ac2-0b2c14d2a2b1.jpg?v=1693989539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            805.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in two finishes – polished aluminum or powder-coated aluminum in black.</span></p>
+<p><span>All Harbour Dining Chairs with a swivel base have been upgraded with QuickClick gliders, as used on all other chairs in our collection. The chairs are delivered with the plastic gliders attached and come with a bag of supplementary felt castors that allow you to easily switch from plastic to felt.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501388673354</id>
+      <title>Black</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0000ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501388673354</id>
+      <title>Burned Red Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0001ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501388673354</id>
+      <title>Khaki Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0002ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501388673354</id>
+      <title>Light Grey Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0003ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501388673354</id>
+      <title>Olive Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0004ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501388673354</id>
+      <title>White</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9391000-0005ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8501383463242</id>
+    <published>2023-09-06T10:36:01+02:00</published>
+    <updated>2023-09-06T10:36:01+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-dining-chair-black-star-base-casters-upholstered"/>
+    <title>Harbour Dining Chair, Black Star Base, w/Casters, Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/MENU_Oregaard_Harbour_Swivel_Chair-02_9642afb2-c43b-475c-8f5a-76468914c358.jpg?v=1693989259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            1370.00 - 1595.00
+            <a href="https://audocph.com/products/harbour-dining-chair-black-star-base-casters-upholstered">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in two finishes – polished aluminum or powder-coated aluminum in black.</span></p>
+<p><span> All Harbour Chairs have been upgraded with extra foam in the seat for better sitting comfort, increasing from 15 mm in thickness to 25 mm.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8501383463242</id>
+      <title>Canvas 154</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>9391002-031B00ZZ</s:sku>
+      <s:grams>13226</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8501383463242</id>
+      <title>Dakar - 0311</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>9391004-030600ZZ</s:sku>
+      <s:grams>13226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6727410745410</id>
+    <published>2023-09-06T10:12:41+02:00</published>
+    <updated>2023-09-06T10:12:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-dining-chair-chrome-star-base-plastic"/>
+    <title>Harbour Dining Chair, Chrome Star Base, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9370000-0201ZZZZ_Harbour-Dining_Chair_Alu_Swivel_Burned_Red_Plastic_Front_9c75990e-65ed-4d0e-a08d-faafd4db73be.jpg?v=1693999081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            750.00 - 805.00
+            <a href="https://audocph.com/products/harbour-dining-chair-chrome-star-base-plastic">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed. The base is available with either swivel or swivel with return options in two finishes – polished aluminum or <a href="https://audocph.com/products/harbour-chair-black-star-base-upholstered">powder-coated aluminum in black</a>.</p>
+<p><span>All Harbour Dining Chairs with a swivel base or swivel with return have QuickClick gliders, as used on all other chairs in our collection. The chairs are delivered with the plastic gliders attached and come with a bag of supplementary felt castors that allow you to easily switch from plastic to felt.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Star base with swivel / Burned Red Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0201ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Star base with swivel / Khaki Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0202ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Star base with swivel / Olive Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0204ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Star base with swivel / Black</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0200ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Star base with swivel / Light Grey Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0203ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Star base with swivel / White</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0205ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Starbase with swivel return / Burned Red Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0201ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Starbase with swivel return / Khaki Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0202ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Starbase with swivel return / Olive Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0204ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Starbase with swivel return / Black</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0200ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Starbase with swivel return / Light Grey Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0203ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6727410745410</id>
+      <title>Starbase with swivel return / White</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0205ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4641697660994</id>
+    <published>2023-09-06T10:12:32+02:00</published>
+    <updated>2023-09-06T10:12:32+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-chair-black-star-base-plastic"/>
+    <title>Harbour Dining Chair, Black Star Base, Plastic</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/9375539-Harbour-Chair-Swivel-Black-Black_Front_8476b607-1c37-479b-892e-75c8d8083fad.jpg?v=1595578787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            750.00 - 805.00
+            <a href="https://audocph.com/products/harbour-chair-black-star-base-plastic">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in two finishes – polished aluminum or powder-coated aluminum in black.</span></p>
+<p><span>All Harbour Dining Chairs with a swivel base or swivel with return have QuickClick gliders, as used on all other chairs in our collection. The chairs are delivered with the plastic gliders attached and come with a bag of supplementary felt castors that allow you to easily switch from plastic to felt.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel / Black Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0000ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel / Burned Red Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0001ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel / Khaki Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0002ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel / Light Grey Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0003ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel / Olive Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0004ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel / White Plastic</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9370000-0005ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel return / Black Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0000ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel return / Burned Red Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0001ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel return / Khaki Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0002ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel return / Light Grey Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0003ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel return / Olive Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0004ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4641697660994</id>
+      <title>Star base with swivel return / White Plastic</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9380000-0005ZZZZ</s:sku>
+      <s:grams>9210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4634386366530</id>
+    <published>2023-07-07T14:09:16+02:00</published>
+    <updated>2023-07-07T14:09:16+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-chair-black-star-base-upholstered"/>
+    <title>Harbour Dining Chair, Black Star Base, Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Eclipse_Desk_Torso_Table_Lamp_Harbour_Dining_Chair_02.jpg?v=1678873220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            1275.00 - 1595.00
+            <a href="https://audocph.com/products/harbour-chair-black-star-base-upholstered">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available with either swivel or swivel with return options in two finishes – polished aluminum or powder-coated aluminum in black.</span></p>
+<p><span> All Harbour Chairs have been upgraded with extra foam in the seat for better sitting comfort, increasing from 15 mm in thickness to 25 mm.</span></p>
+<p class="null"><span>All Harbour Dining Chairs with a swivel base or swivel with return have been upgraded with QuickClick gliders, as used on all other chairs in our collection.<br>The chairs are delivered with the plastic gliders attached and come with a bag of supplementary felt castors that allow you to easily switch from plastic to felt.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4634386366530</id>
+      <title>Black Star Base with Swivel Return / Dakar - 0842</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>9381004-031H01ZZ</s:sku>
+      <s:grams>12926</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634386366530</id>
+      <title>Black Star Base with Swivel / Dakar - 0842</title>
+      <s:price currency="EUR">1515.00</s:price>
+      <s:sku>9371004-031H01ZZ</s:sku>
+      <s:grams>12926</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634386366530</id>
+      <title>Black Star Base with Swivel / Dakar - 0311</title>
+      <s:price currency="EUR">1515.00</s:price>
+      <s:sku>9371004-030601ZZ</s:sku>
+      <s:grams>12926</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634386366530</id>
+      <title>Black Star Base with Swivel Return / Canvas 154</title>
+      <s:price currency="EUR">1355.00</s:price>
+      <s:sku>9381002-031800ZZ</s:sku>
+      <s:grams>12926</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634386366530</id>
+      <title>Black Star Base with Swivel / Canvas 154</title>
+      <s:price currency="EUR">1275.00</s:price>
+      <s:sku>9371002-031900ZZ</s:sku>
+      <s:grams>12926</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8448907215178</id>
+    <published>2023-07-03T10:39:14+02:00</published>
+    <updated>2023-07-03T10:39:14+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/the-penguin-dining-chair-fully-upholstered"/>
+    <title>The Penguin Dining Chair, Fully Upholstered</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Ib Kofod-Larsen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Sentiment_Paper_Weight_Penguin_Dining_Chair_Androgyne_Dining_Table_11.jpg?v=1691146826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ib Kofod-Larsen<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            1035.00 - 1260.00
+            <a href="https://audocph.com/products/the-penguin-dining-chair-fully-upholstered">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Designed in 1953 by Ib Kofod-Larsen, The Penguin Dining Chair is today considered a mid-century masterpiece. Calm, harmonious and shaped to cradle the body as it sits, the Penguin’s straightforward design provides a remarkably high level of comfort, as a rocking chair, dining chair and lounge chair. Seat and back upholstery ensure added support while lending the celebrated design a new expression.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Ib Kofod-Larsen</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Icons by Audo</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8448907215178</id>
+      <title>Re-Wool 218</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1229001-000400ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448907215178</id>
+      <title>Re-Wool 448</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1229001-000800ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448907215178</id>
+      <title>Hallingdal 65 0110</title>
+      <s:price currency="EUR">1075.00</s:price>
+      <s:sku>1229002-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448907215178</id>
+      <title>Hallingdal 65 600</title>
+      <s:price currency="EUR">1075.00</s:price>
+      <s:sku>1229002-000X00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448907215178</id>
+      <title>Dakar 0250</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1229005-000300ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448907215178</id>
+      <title>Dakar 0329</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1229005-000700ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8448907215178</id>
+      <title>Dakar 0842</title>
+      <s:price currency="EUR">1260.00</s:price>
+      <s:sku>1229005-000T00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860277547074</id>
+    <published>2023-01-03T10:25:08+01:00</published>
+    <updated>2023-01-03T10:25:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/merkur-dining-chair"/>
+    <title>Merkur Dining Chair</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Skogstad &amp; Wærnes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Plinth_Pedestal_Androgyne_Dining_Table_Merkur_Dining_Chair.jpg?v=1671613970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skogstad &amp; Wærnes<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            630.00 - 940.00
+            <a href="https://audocph.com/products/merkur-dining-chair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Originally designed for one of Norway’s most monumental buildings, the Oslo Stock Exchange, Merkur is a modern take on the archetypal dining chair. Using traditional woodworking techniques to create its timeless form, the solid wood design is available with or without armrests and can be partially upholstered in a range of beautiful fabrics and leather to add further comfort.</p>
+<p data-mce-fragment="1"><a href="https://audocph.com/collections/merkur-collection">Explore the full collection here</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Skogstad &amp; Wærnes</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Natural Oak / Natural Oak</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>130000</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Natural Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1301000-000000ZZ</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku>1301002-003G04ZZ</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Natural Oak / Dakar 0250</title>
+      <s:price currency="EUR">940.00</s:price>
+      <s:sku>1301005-000300ZZ</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Black Oak / Black Oak</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>130001</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Black Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">740.00</s:price>
+      <s:sku>1302000-000000ZZ</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Black Oak / Hallingdal 65 0370</title>
+      <s:price currency="EUR">870.00</s:price>
+      <s:sku>1302002-003N04ZZ</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860277547074</id>
+      <title>Black Oak / Dakar 0842</title>
+      <s:price currency="EUR">940.00</s:price>
+      <s:sku>1302005-000T00ZZ</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6860274794562</id>
+    <published>2023-01-03T10:24:57+01:00</published>
+    <updated>2023-01-03T10:24:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/merkur-dining-chair-armrests"/>
+    <title>Merkur Dining Chair w/Armrests</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Skogstad &amp; Wærnes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU_Merkur_Dining_Chair_3.jpg?v=1696499959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skogstad &amp; Wærnes<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            780.00 - 1005.00
+            <a href="https://audocph.com/products/merkur-dining-chair-armrests">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Originally designed for one of Norway’s most monumental buildings, the Oslo Stock Exchange, Merkur is a modern take on the archetypal dining chair. Using traditional woodworking techniques to create its timeless form, the solid wood design is available with or without armrests and can be partially upholstered in a range of beautiful fabrics and leather to add further comfort.</p>
+<p data-mce-fragment="1"><a href="https://audocph.com/collections/merkur-collection">Explore the full collection here</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Skogstad &amp; Wærnes</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Natural Oak / Natural Oak</title>
+      <s:price currency="EUR">780.00</s:price>
+      <s:sku>130002</s:sku>
+      <s:grams>9850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Natural Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">845.00</s:price>
+      <s:sku>1303000-000000ZZ</s:sku>
+      <s:grams>10850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Natural Oak / Hallingdal 65 200</title>
+      <s:price currency="EUR">1005.00</s:price>
+      <s:sku>1303002-003G04ZZ</s:sku>
+      <s:grams>10850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Natural Oak / Dakar 0250</title>
+      <s:price currency="EUR">980.00</s:price>
+      <s:sku>1303005-000300ZZ</s:sku>
+      <s:grams>10850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Black Oak / Black Oak</title>
+      <s:price currency="EUR">780.00</s:price>
+      <s:sku>130003</s:sku>
+      <s:grams>10850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Black Oak / Audo Bouclé 06</title>
+      <s:price currency="EUR">845.00</s:price>
+      <s:sku>1304000-000000ZZ</s:sku>
+      <s:grams>10850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Black Oak / Hallingdal 65 0370</title>
+      <s:price currency="EUR">980.00</s:price>
+      <s:sku>1304002-003N04ZZ</s:sku>
+      <s:grams>10850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6860274794562</id>
+      <title>Black Oak / Dakar 0842</title>
+      <s:price currency="EUR">1005.00</s:price>
+      <s:sku>1304005-000T00ZZ</s:sku>
+      <s:grams>10850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4699900969026</id>
+    <published>2022-08-15T15:50:30+02:00</published>
+    <updated>2022-08-15T15:50:30+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/harbour-chair-chrome-star-base-upholstered-casters"/>
+    <title>Harbour Dining Chair, Chrome Star Base, w/Casters, Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/MENU-Harbour_Chair-Swivel_Base.jpg?v=1660570646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            1370.00 - 1595.00
+            <a href="https://audocph.com/products/harbour-chair-chrome-star-base-upholstered-casters">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Once you’ve chosen the Harbour Chair shell style that will be cradling and supporting your body, you can now also choose a clover-shaped swivel base so you can spin around as needed – and roll around as wanted, should you opt for caster wheels. The base is available in two finishes – polished aluminum or <a href="https://audocph.com/products/harbour-dining-chair-black-star-base-casters-upholstered">powder-coated aluminum in black</a>.</p>
+<p><span> All Harbour Chairs have been upgraded with extra foam in the seat for better sitting comfort, increasing from 15 mm in thickness to 25 mm.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Cylindo</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>FnL</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Quickship</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4699900969026</id>
+      <title>Dakar - 0842</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>9391004-051H00ZZ</s:sku>
+      <s:grams>13226</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4699900969026</id>
+      <title>Dakar - 0250</title>
+      <s:price currency="EUR">1595.00</s:price>
+      <s:sku>9391004-050300ZZ</s:sku>
+      <s:grams>13226</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4699900969026</id>
+      <title>Canvas 154</title>
+      <s:price currency="EUR">1370.00</s:price>
+      <s:sku>9391002-051B00ZZ</s:sku>
+      <s:grams>13226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6780960964674</id>
+    <published>2022-08-02T10:05:23+02:00</published>
+    <updated>2022-08-02T10:05:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-dining-chair-row-connection"/>
+    <title>Co Dining Chair Row Connection</title>
+    <s:type>Sparepart</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/products/Co_Chair_Row_Connector.jpg?v=1659427113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Sparepart<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Row Connection allows you to join individual Co Dining Chairs together in a line, making it ideal for use in conference facilities. It is available in two different lengths that correspond to the Co Dining Chair versions with and without armrests. The bracket is easily attached and removed and can be turned to the side when not in use. The Co Dining Chair can be stacked with and without the Row Connection.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://audocph.com/products/6780960964674</id>
+      <title>Row Connection for Co Dining Chair</title>
+      <s:price currency="EUR">38.00</s:price>
+      <s:sku>1160100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6780960964674</id>
+      <title>Row Connection for Co Dining Chair w/Armrest</title>
+      <s:price currency="EUR">38.00</s:price>
+      <s:sku>1165100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

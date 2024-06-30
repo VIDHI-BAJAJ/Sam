@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://audocph.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://audocph.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://audocph.com/collections/new.atom"/>
+  <title>Audo Copenhagen</title>
+  <updated>2024-03-11T11:15:49+01:00</updated>
+  <author>
+    <name>Audo Copenhagen</name>
+  </author>
+  <entry>
+    <id>https://audocph.com/products/6711419895874</id>
+    <published>2024-03-11T11:15:49+01:00</published>
+    <updated>2024-03-11T11:15:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/curiosity-cabinet"/>
+    <title>Curiosity Cabinet</title>
+    <s:type>Cabinet</s:type>
+    <s:vendor>Mentze Ottenstein</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_CuriosityCabinetLow_CuriosityCabinetHigh_345.jpg?v=1708509766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mentze Ottenstein<br>
+        <strong>Type: </strong>Cabinet<br>
+        <strong>Price: </strong>
+            2345.00 - 2415.00
+            <a href="https://audocph.com/products/curiosity-cabinet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p>A beautiful and modern rendition of a timeless furniture piece, the Curiosity Cabinet is carefully crafted in solid oak using traditional joinery techniques. Designed to store objects almost out of sight thanks to its elegant reeded glass doors that gently blur the contents within, it opens to reveal two height adjustable oak veneer shelves for ample room to store your objects. Brass hinges and handles complete the design. Available in low and high versions.</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Mentze Ottenstein</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>Tradition Reimagined</s:tag>
+    <s:tag>type-Cabinet</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6711419895874</id>
+      <title>Low</title>
+      <s:price currency="EUR">2345.00</s:price>
+      <s:sku>6511039</s:sku>
+      <s:grams>72400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6711419895874</id>
+      <title>Tall</title>
+      <s:price currency="EUR">2415.00</s:price>
+      <s:sku>6512039</s:sku>
+      <s:grams>72400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/6572246204482</id>
+    <published>2024-03-01T10:39:31+01:00</published>
+    <updated>2024-03-01T10:39:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-dining-chair-outdoor"/>
+    <title>Co Dining Chair, Outdoor</title>
+    <s:type>Dining Chair</s:type>
+    <s:vendor>Norm Architects &amp; Els van Hoorebeeck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Dining_Chair_Outdoor_Ray_Table_Lamp_Harbour_Column_Table_44.jpg?v=1718793380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects &amp; Els van Hoorebeeck<br>
+        <strong>Type: </strong>Dining Chair<br>
+        <strong>Price: </strong>
+            350.00 - 485.00
+            <a href="https://audocph.com/products/co-dining-chair-outdoor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed in weather-resistant recycled plastic for hassle-free upkeep, the Co Dining Chair, Outdoor is a practical and reliable choice for outdoor environments year-round. Its stackable design offers space-efficient solution for storage and convenient organisation when not in use. Despite its durability, the chair remains comfortable and lightweight, facilitating easy movement and rearrangement of outdoor seating arrangements as required, while its sleek and minimalist design, available with or without armrests, blends seamlessly into a range of settings, from patios to gardens.</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Co Chair</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Norm Architects</s:tag>
+    <s:tag>Office Chairs</s:tag>
+    <s:tag>Outdoor</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>type-Garden</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>Without Armrest</title>
+      <s:price currency="EUR">350.00</s:price>
+      <s:sku>1190044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/6572246204482</id>
+      <title>With Armrest</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>1191044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518955679810</id>
+    <published>2024-02-28T08:46:48+01:00</published>
+    <updated>2024-02-28T08:46:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-stool-veneer"/>
+    <title>Afteroom Stool, Veneer</title>
+    <s:type>Stool</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Stool_50_b6b5c7ce-6919-4258-8277-86c108d103ec.jpg?v=1708692733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Stool<br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 35">
+<div class="layoutArea">
+<div class="column">
+<p>With its characteristic clean lines and sturdy base in tubular black powder-coated steel, tethered with cross bars for support, the Afteroom Stool comes in three heights, making it easy to slide up to a bar, counter or table. Boasting a high standard of craftsmanship and durability for long-lasting use, in wood veneer the stool brings warmth and tactility to interiors while its sleek, minimalist profile ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518955679810</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>8487539</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955679810</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>8487849</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518955679810</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">335.00</s:price>
+      <s:sku>8487039</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518981664834</id>
+    <published>2024-02-28T08:46:47+01:00</published>
+    <updated>2024-02-28T08:46:47+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-plus-dining-chair"/>
+    <title>Afteroom Dining Chair Plus, Fully Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Table_Afteroom_Dining_Chair_Plus_Releve_Platter_43.jpg?v=1708696363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            600.00 - 810.00
+            <a href="https://audocph.com/products/afteroom-plus-dining-chair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p>The Afteroom Dining Chair Plus elevates mealtimes to a new level of luxury with its upholstered seat and back, customisable in fabric to suit design and space preferences. A minimalist design offering maximum comfort, its tubular powder-coated steel frame ensures durability and stability while the large, extended backrest provides lumbar support when seated for extended periods. Its streamlined silhouette, pared back to only the essentials, ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>8450020-000300ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">600.00</s:price>
+      <s:sku>8450020-000000ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Champion - 035</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8450001-00CX00ZZ</s:sku>
+      <s:grams>4880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Maple - 222</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8450001-000I0CZZ</s:sku>
+      <s:grams>4880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">770.00</s:price>
+      <s:sku>8450009-000R00ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">770.00</s:price>
+      <s:sku>8450009-000100ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Dakar - 0250</title>
+      <s:price currency="EUR">810.00</s:price>
+      <s:sku>8450004-000306ZZ</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518981664834</id>
+      <title>Dakar - 0842</title>
+      <s:price currency="EUR">810.00</s:price>
+      <s:sku>8450004-003706ZZ</s:sku>
+      <s:grams>4880</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4518982189122</id>
+    <published>2024-02-28T08:46:46+01:00</published>
+    <updated>2024-02-28T08:46:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-dining-chair"/>
+    <title>Afteroom Dining Chair, Seat Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Dining_Banquette_Harbour_Column_Dining_Table_Tubulaire_Pendant_Large_Afteroom_Dining_Chair_34_e0dc73d8-90c4-4e6c-b7d0-dc0355bfd388.jpg?v=1708955975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            485.00 - 565.00
+            <a href="https://audocph.com/products/afteroom-dining-chair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 33">
+<div class="layoutArea">
+<div class="column">
+<p>With a silhouette that is both sleek and instantly recognisable, the Afteroom Dining Chair is offered with an upholstered backrest and a wood veneer seat, each delivering comfort when seated for longer periods. In wood veneer, the chair exudes a sense of authenticity and warmth, while upholstery allows for a comfortable, customisable design to suit any style and space. Seamlessly integrating into spaces with its sleek profile, offering a harmonious and coordinated design it is not just a functional piece but also a standout element in any interior space.</p>
+</div>
+</div>
+</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>notabletobuy</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8481000-010000ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">485.00</s:price>
+      <s:sku>8481000-000100ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8481009-020R00ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4518982189122</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">565.00</s:price>
+      <s:sku>8481009-000100ZZ</s:sku>
+      <s:grams>6600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4634301661250</id>
+    <published>2024-02-28T08:46:44+01:00</published>
+    <updated>2024-02-28T08:46:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-plus-bar-chair"/>
+    <title>Afteroom Bar Chair Plus, Fully Upholstered</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Bar_Chair_Plus_Stance_Vase_46.jpg?v=1708954229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            535.00 - 805.00
+            <a href="https://audocph.com/products/afteroom-plus-bar-chair">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="productDescription">
+<p>An homage to functionalism, the Afteroom Bar Chair Plus is a deconstructed design, stripped of unnecessary components to present a clean, minimalist aesthetic with high functional value. Its wide wood veneer backrest and generous upholstered seat ensure supreme sitting comfort, while the slender powder-coated metal frame is constructed for maximum stability with a foot ring that does double duty as a rest for feet. The result is a blissfully simple chair that embraces minimalism and clean lines without compromising on comfort.</p>
+<p><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>9450020-000300ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>9450020-000000ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Champion - 035</title>
+      <s:price currency="EUR">645.00</s:price>
+      <s:sku>9455001-000101ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Fiord - 961</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9450002-00E60BZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9450009-000R00ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">750.00</s:price>
+      <s:sku>9450009-000100ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Dakar - 0250</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9450004-000J05ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4634301661250</id>
+      <title>Dakar - 0842</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>9450004-002G05ZZ</s:sku>
+      <s:grams>10104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/4662889873474</id>
+    <published>2024-02-28T08:46:43+01:00</published>
+    <updated>2024-02-28T08:46:43+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-counter-chair"/>
+    <title>Afteroom Counter Chair, Seat Upholstered</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AfteroomCounterChair_AfteroomBarChair_AfteroomDiningChair_39_9c503b9a-869f-4bd2-82b1-aee9b9fb1396.jpg?v=1708957429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            630.00 - 725.00
+            <a href="https://audocph.com/products/afteroom-counter-chair">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embracing minimalism and clean lines without compromising on comfort, the Afteroom Counter Chair is an elevated design for kitchen counters and high tables. Using the same innovative concept as the collection’s dining chairs, the four-legged design reduces the material to a minimum while providing maximum support and stability. Seamlessly connecting to the wider collection, the wood veneer backrest provides a natural, warm finish, while the upholstered seat delivers added seating comfort and the opportunity to customise the fabric to suit design preferences and space.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:tag>Upholstery Program</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Dark Stained Oak | Audo Bouclé 02</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8483000-010000ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Natural Oak | Audo Bouclé 06</title>
+      <s:price currency="EUR">630.00</s:price>
+      <s:sku>8483000-000100ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Black Painted Ash | Sierra 1001</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8483009-020R00ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/4662889873474</id>
+      <title>Natural Oak | Sierra 1611</title>
+      <s:price currency="EUR">725.00</s:price>
+      <s:sku>8483009-000100ZZ</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8682949312842</id>
+    <published>2024-02-28T08:46:40+01:00</published>
+    <updated>2024-02-28T08:46:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-coat-hanger-large"/>
+    <title>Afteroom Coat Hanger, Large</title>
+    <s:type>Coat Hanger</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AfteroomCoatHangerLarge_21.jpg?v=1708508586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Coat Hanger<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Afteroom Coat Hanger draws inspiration from Bauhaus principles: well-crafted, functional and minimalist design with geometric shapes that infuse a sense of clarity. Easily affixed to a wall, with hidden screws that underpin its clean aesthetic, circular ‘dots’ in powder-coated metal allow you to hang clothing, bags and more in a hallway or bedroom. It can be hung both horizontally and vertically, beautifying blank walls in any space by transforming walls from stark canvases into works of art.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Gift Guide</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Hangers</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>type-Coat Hanger</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8682949312842</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">175.00</s:price>
+      <s:sku>8920539</s:sku>
+      <s:grams>1139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8683108106570</id>
+    <published>2024-02-28T08:46:39+01:00</published>
+    <updated>2024-02-28T08:46:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/branch-side-table"/>
+    <title>Branch Side Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_BranchSideTable_AndrogyneSideTable_TearoomSideChairSwivel_PlinthTall_12.jpg?v=1708508944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            535.00 - 605.00
+            <a href="https://audocph.com/products/branch-side-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Whether used as an occasional table or a temporary workstation, the height adjustable Branch Side Table adapts to changing needs, offering a versatile and seamless solution for dynamic living spaces. Its compact and flexible design allows it to be conveniently pushed close to a sofa or chair, optimising space, while its black steel base and charcoal linoleum or dark-stained oak tabletop add a touch of sophistication in a quality that ensures it withstands the demands of daily use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8683108106570</id>
+      <title>Linoleum Charcoal</title>
+      <s:price currency="EUR">605.00</s:price>
+      <s:sku>1105539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8683108106570</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>1105849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684439929162</id>
+    <published>2024-02-28T08:46:38+01:00</published>
+    <updated>2024-02-28T08:46:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-desk-1"/>
+    <title>Corbel Desk</title>
+    <s:type>Desk</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Task_Chair_Corbel_Desk_Reverse_Table_Lamp_23.jpg?v=1708509485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Desk<br>
+        <strong>Price: </strong>
+            590.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to seamlessly transition into home settings, catering to remote work and the need for stylish yet functional home office furniture, the Corbel Wall Desk delivers a flexible, space-saving solution particularly beneficial for smaller spaces. The shelf takes its name and design cues from architectural weight-bearing brackets traditionally made from stone or wood. This inspiration infuses the design with a sense of structural elegance. Designed with a small distance to the wall for neat cord management, solid wood edges enhance the table top's durability, while the smooth linoleum desk surface contributes to a practical and professional workspace. The wall-mounted design can be paired with the series shelf to create a minimalist home office setup.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Desk</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Office Desks</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Office Desk</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684439929162</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>7093840</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684436062538</id>
+    <published>2024-02-28T08:46:38+01:00</published>
+    <updated>2024-02-28T08:46:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/volume-side-table"/>
+    <title>Volume Side Table</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Ted Synnott</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Knitting_Chair_Volume_Side_Table_43.jpg?v=1708512073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ted Synnott<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW175031154 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW175031154 BCX0" data-mce-fragment="1">The Volume Side Table introduces a fresh approach to contemporary furniture that stands out in any setting. Crafted from aluminium, it boasts a sleek and modern appearance with curved lines offsetting straight lines to create a balanced look. The polishing process on the metal enhances its visual appeal, giving the table a unique sheen that adds character. The lacquer-protected surface ensures low maintenance, making it easy to clean and maintain the side table's sleek appearance with minimal effort whether used indoors or outdoors.</span></span><span class="EOP SCXW175031154 BCX0" data-ccp-props='{"201341983":0,"335551550":6,"335551620":6,"335559739":0,"335559740":240}' data-mce-fragment="1"> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Table</s:tag>
+    <s:tag>designer-Ted Synnott</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684436062538</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">575.00</s:price>
+      <s:sku>7100009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684445401418</id>
+    <published>2024-02-28T08:46:37+01:00</published>
+    <updated>2024-02-28T08:46:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/corbel-shelf-large"/>
+    <title>Corbel Shelf, Large</title>
+    <s:type>Wall Shelf</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Corbel_Shelf_Long_53.jpg?v=1708509570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Wall Shelf<br>
+        <strong>Price: </strong>
+            390.00 - 535.00
+            <a href="https://audocph.com/products/corbel-shelf-large">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Corbel Shelf takes its name and design cues from architectural weight-bearing brackets traditionally made from stone or wood. Designed for versatility, it serves a range of different purposes and needs in dining, kitchen and living room areas, maximising the utility of a space and infusing the design with a sense of structural elegance. The shelf can also be paired with the corresponding desk to create a minimalist home office. thoughtfully crafted to maintain a clean and decluttered aesthetic. The small distance to the wall allows for neat cord management. The wall-mounted design is offered in marble or dark-stained oak with dark-stained oak and bronzed steel brackets, catering to different interior styles and preferences.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Side Table</s:tag>
+    <s:tag>Storage/Shelving</s:tag>
+    <s:tag>type-Wall Shelf</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684445401418</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">390.00</s:price>
+      <s:sku>7090840</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684445401418</id>
+      <title>White Marble Carrara</title>
+      <s:price currency="EUR">535.00</s:price>
+      <s:sku>7090630</s:sku>
+      <s:grams>3460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684454543690</id>
+    <published>2024-02-28T08:46:36+01:00</published>
+    <updated>2024-02-28T08:46:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/androgyne-side-table-steel"/>
+    <title>Androgyne Side Table, Steel Base</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Danielle Siggerud</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_AndrogyneSideTable_RadiohusSofa_73.jpg?v=1708508805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Danielle Siggerud<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 72">
+<div class="layoutArea">
+<div class="column">
+<p>With its contemporary elegance and minimalist appeal, the Androgyne Side Table becomes more than just furniture—it becomes a statement piece that enhances the overall aesthetic of any space. Crafted from stainless steel, renowned for its durability and corrosion resistance, the brushed finish introduces an intriguing texture to the metal, creating an interplay of light and shadow that make the design a focal point in any room. The collection’s tabletop, offered in a range of materials, can be added to the design.</p>
+<p><strong>Please note, a tabletop can be purchased separately. <a href="https://audocph.com/products/androgyne-side-table-top">Find it here.</a></strong></p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accent Tables</s:tag>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>Danielle Siggerud</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>designer-Danielle Siggerud</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Side Table</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684454543690</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">470.00</s:price>
+      <s:sku>1181039</s:sku>
+      <s:grams>13382</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684466340170</id>
+    <published>2024-02-28T08:46:35+01:00</published>
+    <updated>2024-02-28T08:46:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/co-table"/>
+    <title>Co Table</title>
+    <s:type>Dining Table</s:type>
+    <s:vendor>Norm Architects</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Co_Table_Harbour_Side_Dining_Chair_Star_Base_Casters_Torso_Table_Lamp_1.jpg?v=1708509352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norm Architects<br>
+        <strong>Type: </strong>Dining Table<br>
+        <strong>Price: </strong>
+            1475.00 - 1810.00
+            <a href="https://audocph.com/products/co-table">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With its simple and elegant design, the rectangular Co Table seamlessly complements the Co-Chair collection, creating a cohesive look in professional settings. Offering long-lasting performance, style and functionality in two sizes and material colour options that accommodate different spatial requirements, tastes and purposes in a range of modern workspaces, its distinctive design details include decorative screws on the desk apron, solid oak trim and chromed legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Norm Architects</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Tables</s:tag>
+    <s:tag>type-Dining Table</s:tag>
+    <s:tag>Workspace</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>140 x 70 cm / Black Steel | Terra Laminate</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1147539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>140 x 70 cm / Chrome | Creme Laminate</title>
+      <s:price currency="EUR">1475.00</s:price>
+      <s:sku>1147849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>240 x 100 cm / Black Steel | Terra Laminate</title>
+      <s:price currency="EUR">1810.00</s:price>
+      <s:sku>1146539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684466340170</id>
+      <title>240 x 100 cm / Chrome | Creme Laminate</title>
+      <s:price currency="EUR">1810.00</s:price>
+      <s:sku>1146849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684479643978</id>
+    <published>2024-02-28T08:46:34+01:00</published>
+    <updated>2024-02-28T08:46:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tubulaire-pendant-3"/>
+    <title>Tubulaire Pendant Canopy, 3</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_KnittingChair_VolumeSideTable_TubulairePendant_PlinthTall_StanceVase_11.jpg?v=1708511834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            665.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW17310587 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW17310587 BCX0" data-mce-fragment="1">The Tubulaire Pendant Canopy combines industrial charm with a sleek and modern design to create a visually striking lighting solution. Set on a canopy fixture, three </span></span><span data-contrast="none" lang="EN-GB" class="TextRun SCXW17310587 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW17310587 BCX0" data-mce-fragment="1">reeded aluminium pendants deliver </span><span class="NormalTextRun SCXW17310587 BCX0" data-mce-fragment="1">precisely targeted </span></span><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW17310587 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW17310587 BCX0" data-mce-fragment="1">direct and task lighting for enhanced visibility and functionality in a range of settings. The metal shades are anodised to create a </span></span><span data-contrast="none" lang="EN-GB" class="TextRun SCXW17310587 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW17310587 BCX0" data-mce-fragment="1">bronzed brass surface finish that adds warmth to the sleek design.</span></span><span class="EOP SCXW17310587 BCX0" data-ccp-props='{"201341983":0,"335551550":6,"335551620":6,"335559739":0,"335559740":240}' data-mce-fragment="1"> </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceiling Lamps</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>type-pendant</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684479643978</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">665.00</s:price>
+      <s:sku>1787829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684468961610</id>
+    <published>2024-02-28T08:46:34+01:00</published>
+    <updated>2024-02-28T08:46:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tubulaire-pendant-lamp"/>
+    <title>Tubulaire Pendant Lamp</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Eave_Dining_Banquette_Harbour_Column_Dining_Table_Tubulaire_Pendant_Large_Afteroom_Dining_Chair_34.jpg?v=1708511873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            168.00 - 238.00
+            <a href="https://audocph.com/products/tubulaire-pendant-lamp">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1">The Tubulaire Pendant is a visually captivating lighting solution in </span></span><span data-contrast="none" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1">reeded aluminium </span><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1">which has been anodised to create a bronzed brass surface finish.</span></span><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1"> Engineered for a range of settings, it delivers </span></span><span data-contrast="none" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1">directional and focused light, </span></span><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1">enhancing visibility and functionality </span></span><span data-contrast="none" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1">for task-oriented activities</span></span><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1"> in various settings.</span></span><span data-contrast="none" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1"> </span></span><span data-contrast="auto" lang="EN-GB" class="TextRun SCXW109977032 BCX0" data-mce-fragment="1" xml:lang="EN-GB"><span class="NormalTextRun SCXW109977032 BCX0" data-mce-fragment="1">Available in two sizes, the sleek and contemporary design adds a touch of sophistication to any space, elevating the overall ambience.</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceiling Lamps</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>type-pendant</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684468961610</id>
+      <title>H24</title>
+      <s:price currency="EUR">168.00</s:price>
+      <s:sku>1780829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684468961610</id>
+      <title>H48</title>
+      <s:price currency="EUR">238.00</s:price>
+      <s:sku>1781829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684489146698</id>
+    <published>2024-02-28T08:46:33+01:00</published>
+    <updated>2024-02-28T08:46:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tubulaire-chandelier"/>
+    <title>Tubulaire Chandelier</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_PlinthTall_CollapseVase_TubulaireChandelier_12.jpg?v=1708511691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            1875.00 - 8470.00
+            <a href="https://audocph.com/products/tubulaire-chandelier">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A visually striking lighting designed engineered for a range of spaces, the Tubulaire Chandelier combines industrial charm with a sleek and modern design. Holding between 6, 28 or 38 pendant lights in reeded, anodised aluminium with a bronzed brass surface finish, it delivers downward, mood-setting light, elevating the overall ambiance and contributing to a modern aesthetic.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceiling Lamps</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>type-Chandelier</s:tag>
+    <s:tag>type-pendant</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684489146698</id>
+      <title>Chandelier 6</title>
+      <s:price currency="EUR">1875.00</s:price>
+      <s:sku>1784829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684489146698</id>
+      <title>Chandelier 20</title>
+      <s:price currency="EUR">4785.00</s:price>
+      <s:sku>1785829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684489146698</id>
+      <title>Chandelier 38</title>
+      <s:price currency="EUR">8470.00</s:price>
+      <s:sku>1786829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684486132042</id>
+    <published>2024-02-28T08:46:33+01:00</published>
+    <updated>2024-02-28T08:46:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tubulaire-rail-pendant"/>
+    <title>Tubulaire Rail Pendant</title>
+    <s:type>Pendant</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Tubulaire_Chandelier_RailPendant_TearoomSideChair_EaveDining_PassageStools_HarbourColumnDiningTable_Plinth_16_rail.jpg?v=1709197462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Pendant<br>
+        <strong>Price: </strong>
+            920.00 - 1030.00
+            <a href="https://audocph.com/products/tubulaire-rail-pendant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Tubulaire Rail Pendant combines industrial charm with a sleek and modern design. A visually striking lighting solution engineered for a range of spaces, three or five large pendant lights in reeded, anodised aluminium with a bronzed brass surface finish deliver versatile downward light ideal for both ambient illumination and task-oriented activities.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceiling Lamps</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pendants &amp; Chandeliers</s:tag>
+    <s:tag>type-pendant</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684486132042</id>
+      <title>Rail Pendant 3</title>
+      <s:price currency="EUR">920.00</s:price>
+      <s:sku>1782829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684486132042</id>
+      <title>Rail Pendant 5</title>
+      <s:price currency="EUR">1030.00</s:price>
+      <s:sku>1783829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8684493701450</id>
+    <published>2024-02-28T08:46:32+01:00</published>
+    <updated>2024-02-28T08:46:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/tubulaire-canopy"/>
+    <title>Tubulaire Canopy</title>
+    <s:type>canopy</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/1760530_Tubulaire_Rail_Canopy_130.jpg?v=1708007339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>canopy<br>
+        <strong>Price: </strong>
+            230.00 - 805.00
+            <a href="https://audocph.com/products/tubulaire-canopy">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to hold pendant lighting, the black powder-coated metal Circular Canopy is an adaptable solution for different spatial and aesthetic requirements. Offered in three sizes, the sleek and contemporary design creates an understated light source that enhances visibility, functionality and ambience in a room.</p>
+<p><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="auto" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">Designed to hold pendant lighting, the </span></span><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="none" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">black powder-coated metal Rail Canopy is an </span></span><span class="TextRun SCXW54785381 BCX0" lang="EN-GB" data-contrast="auto" xml:lang="EN-GB"><span class="NormalTextRun SCXW54785381 BCX0">adaptable solution for different spatial and aesthetic requirements. The sleek and contemporary design adds a touch of sophistication to any space, enhancing visibility, functionality and ambience. Whether used alone or as part of a larger configuration, it provides an understated solution tailored to specific needs and environments.</span></span><span data-ccp-props='{"201341983":0,"335551550":6,"335551620":6,"335559739":0,"335559740":240}' class="EOP SCXW54785381 BCX0"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sparepart</s:tag>
+    <s:tag>Sparepart - Lighting</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Rail Canopy</title>
+      <s:price currency="EUR">230.00</s:price>
+      <s:sku>1760530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø57 cm</title>
+      <s:price currency="EUR">495.00</s:price>
+      <s:sku>1765530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø107 cm</title>
+      <s:price currency="EUR">670.00</s:price>
+      <s:sku>1766530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8684493701450</id>
+      <title>Circular Canopy Ø157 cm</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1767530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8688896835914</id>
+    <published>2024-02-28T08:46:31+01:00</published>
+    <updated>2024-02-28T08:46:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-bar-stool-upholstered-seat"/>
+    <title>Passage Bar Stool, Upholstered Seat</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_PassageBarChair_StanceVase_32.jpg?v=1708511175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            805.00 - 1140.00
+            <a href="https://audocph.com/products/passage-bar-stool-upholstered-seat">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looking to time-honoured Danish cabinetmaking traditions, the Passage Bar Stool displays modern design and woodworking through traditional techniques. Crafted from solid walnut or FSC™-certified solid oak with a lacquered finish, the rich colour and luxurious grain pattern inherent to the high-quality hardwood ensure an enduring aesthetic. Thoughtfully designed and offered in an upholstered version for added ease, a brushed brass or brushed steel foot ring ensures a comfortable seating experience for extended periods, while the stool's counter height aligns seamlessly with kitchens, bars and other communal spaces, making it a versatile design that effortlessly blends functionality with comfort. Its ingenious flat-pack construction encourages active participation in the assembly process.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8688896835914</id>
+      <title>Natural Oak / Steel ring / Audo Bouclé 02</title>
+      <s:price currency="EUR">805.00</s:price>
+      <s:sku>1513900-000000ZZ</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688896835914</id>
+      <title>Natural Oak / Steel ring / Vidar 0786</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1513903-000U00ZZ</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688896835914</id>
+      <title>Natural Oak / Steel ring / Vidar 0723</title>
+      <s:price currency="EUR">1035.00</s:price>
+      <s:sku>1513903-000Q00ZZ</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688896835914</id>
+      <title>Walnut / Brass ring / Audo Bouclé 06</title>
+      <s:price currency="EUR">965.00</s:price>
+      <s:sku>1513300-000100ZZ</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688896835914</id>
+      <title>Walnut / Steel ring / Vidar 0693</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>1513403-000P00ZZ</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688896835914</id>
+      <title>Walnut / Steel ring / Vidar 0526</title>
+      <s:price currency="EUR">1140.00</s:price>
+      <s:sku>1513403-000G00ZZ</s:sku>
+      <s:grams>8900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8685539492170</id>
+    <published>2024-02-28T08:46:31+01:00</published>
+    <updated>2024-02-28T08:46:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-pouf"/>
+    <title>Passage Pouf</title>
+    <s:type>Pouf</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_PassagePouf_TorsoTableLamp_EaveModularSofa_PlinthTall_11.jpg?v=1708511325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Pouf<br>
+        <strong>Price: </strong>
+            1570.00 - 2525.00
+            <a href="https://audocph.com/products/passage-pouf">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As an exclusive addition to the Passage collection, the pouf brings an air of elegance, making it a standout piece that enhances the overall ambiance and function of any space it occupies. Ideal as extra seating, the versatile design is suitable for living rooms, large hallways, walk-in closets and more. The upholstered seat cushion provides a customisable touch with a wide range of fabric options and the solid lacquered walnut or oak base adds a touch of warmth and sophistication to the design while ensuring durability and stability for long-lasting use.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedroom</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Hallway</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Ottoman</s:tag>
+    <s:tag>Pouf</s:tag>
+    <s:tag>Sofas &amp; Modular Sofa</s:tag>
+    <s:tag>type-Sofa</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8685539492170</id>
+      <title>Walnut / Audo Bouclé 06</title>
+      <s:price currency="EUR">2095.00</s:price>
+      <s:sku>1514000-000100ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8685539492170</id>
+      <title>Walnut / Vidar 0526</title>
+      <s:price currency="EUR">2440.00</s:price>
+      <s:sku>1514003-000G00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8685539492170</id>
+      <title>Walnut / Cabanon Soft FCL7029-04</title>
+      <s:price currency="EUR">2525.00</s:price>
+      <s:sku>1514004-000200ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8685539492170</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">1570.00</s:price>
+      <s:sku>1514100-000000ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8685539492170</id>
+      <title>Natural Oak / Vidar 0723</title>
+      <s:price currency="EUR">1920.00</s:price>
+      <s:sku>1514103-000Q00ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8688965255498</id>
+    <published>2024-02-28T08:46:30+01:00</published>
+    <updated>2024-02-28T08:46:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-stool-upholstered"/>
+    <title>Passage Stool, Upholstered</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Passage_Stool_65.jpg?v=1708511485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            590.00 - 940.00
+            <a href="https://audocph.com/products/passage-stool-upholstered">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Passage Collection demonstrates meticulous attention to detail, highlighting a commitment to both comfort and aesthetics rooted in traditional woodworking techniques. In solid, lacquered walnut or FSC™-certified solid oak, the stackable stool presents unique grain patterns inherent to the high-quality hardwoods and a warm and inviting expression. With its upholstered seat, offered in customisable fabric options for a personal touch, the small but perfectly formed design provides a comfortable seating experience for extended periods. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>Living Room</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8688965255498</id>
+      <title>Natural Oak / Audo Bouclé 02</title>
+      <s:price currency="EUR">590.00</s:price>
+      <s:sku>1513500-000000ZZ</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688965255498</id>
+      <title>Natural Oak / Vidar 0786</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1513503-000U00ZZ</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688965255498</id>
+      <title>Natural Oak / Vidar 0723</title>
+      <s:price currency="EUR">820.00</s:price>
+      <s:sku>1513503-000Q00ZZ</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688965255498</id>
+      <title>Walnut / Audo Bouclé 06</title>
+      <s:price currency="EUR">710.00</s:price>
+      <s:sku>1513000-000100ZZ</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688965255498</id>
+      <title>Walnut / Vidar 0693</title>
+      <s:price currency="EUR">940.00</s:price>
+      <s:sku>1513003-000P00ZZ</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688965255498</id>
+      <title>Walnut / Vidar 0526</title>
+      <s:price currency="EUR">940.00</s:price>
+      <s:sku>1513003-000G00ZZ</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8688930750794</id>
+    <published>2024-02-28T08:46:30+01:00</published>
+    <updated>2024-02-28T08:46:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/passage-counter-stool-upholstered-seat"/>
+    <title>Passage Counter Stool, Upholstered Seat</title>
+    <s:type>Counter Chair</s:type>
+    <s:vendor>Kroyer-Saetter-Lassen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Harbour_Column_Counter_Table_Passage_Counter_Stool_Etruscan_Pitcher_34.jpg?v=1708511267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kroyer-Saetter-Lassen<br>
+        <strong>Type: </strong>Counter Chair<br>
+        <strong>Price: </strong>
+            780.00 - 1100.00
+            <a href="https://audocph.com/products/passage-counter-stool-upholstered-seat">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The upholstered Passage Counter Stool represents an elevated iteration of the original design and a heightened level of comfort. With its upholstered seat, providing a plush and inviting sitting experience, the versatile design is anchored by a solid wood base, in lacquered walnut or FSC™-certified natural oak, not only adding a touch of natural warmth to the design but also ensuring stability and durability for long-lasting use. Customisable fabric upholstery options provide a personal touch while a brushed steel or brushed brass foot ring enhances the comfort level. The Passage Collection demonstrates meticulous attention to detail, highlighting a commitment to both comfort and aesthetics rooted in traditional woodworking techniques.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer-Kroyer-Saetter-Lassen</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Dining Room</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Stool</s:tag>
+    <s:tag>type-Counter chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Natural Oak / Steel ring / Audo Bouclé 02</title>
+      <s:price currency="EUR">780.00</s:price>
+      <s:sku>1513700-000000ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Natural Oak / Steel ring / Vidar 0786</title>
+      <s:price currency="EUR">1005.00</s:price>
+      <s:sku>1513703-000U00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Natural Oak / Steel ring / Vidar 0723</title>
+      <s:price currency="EUR">1005.00</s:price>
+      <s:sku>1513703-000Q00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Walnut / Steel ring / Vidar 0693</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1513203-000P00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Walnut / Steel ring / Vidar 0526</title>
+      <s:price currency="EUR">1100.00</s:price>
+      <s:sku>1513203-000G00ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8688930750794</id>
+      <title>Walnut / Brass ring / Audo Bouclé 06</title>
+      <s:price currency="EUR">925.00</s:price>
+      <s:sku>1513100-000100ZZ</s:sku>
+      <s:grams>8100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8693940126026</id>
+    <published>2024-02-28T08:46:29+01:00</published>
+    <updated>2024-02-28T08:46:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-stool-veneer"/>
+    <title>Afteroom Bar Stool, Veneer</title>
+    <s:type>Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/Audo_Afteroom_Bar_Stool_45.jpg?v=1708692864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Chair<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 35">
+<div class="layoutArea">
+<div class="column">
+<p>With its characteristic clean lines and sturdy base in tubular black powder-coated steel, tethered with cross bars for support, the Afteroom Stool comes in three heights, making it easy to slide up to a bar, counter or table. Boasting a high standard of craftsmanship and durability for long-lasting use, in wood veneer the stool brings warmth and tactility to interiors while its sleek, minimalist profile ensures it fits seamlessly into any setting.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8693940126026</id>
+      <title>Black Painted Ash</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8489539</s:sku>
+      <s:grams>6200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693940126026</id>
+      <title>Dark Stained Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8489849</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693940126026</id>
+      <title>Natural Oak</title>
+      <s:price currency="EUR">360.00</s:price>
+      <s:sku>8489039</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://audocph.com/products/8693964341578</id>
+    <published>2024-02-28T08:46:28+01:00</published>
+    <updated>2024-02-28T08:46:28+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://audocph.com/products/afteroom-bar-stool-upholstered-seat"/>
+    <title>Afteroom Bar Stool, Upholstered Seat</title>
+    <s:type>Bar Chair</s:type>
+    <s:vendor>Afteroom Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0262/3959/8658/files/9470020-000300ZZ_Angle.jpg?v=1708693319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Afteroom Studio<br>
+        <strong>Type: </strong>Bar Chair<br>
+        <strong>Price: </strong>
+            295.00 - 400.00
+            <a href="https://audocph.com/products/afteroom-bar-stool-upholstered-seat">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With its characteristic clean lines and sturdy base in tubular black powder-coated steel, tethered with cross bars for support, the Afteroom Stool comes in three heights, making it easy to slide up to a bar, counter or table. Boasting a high standard of craftsmanship and durability for long-lasting use, in customisable upholstery the stool brings added comfort, character and tactility to interiors while its sleek, minimalist profile ensures it fits seamlessly into any setting. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Afteroom Studio</s:tag>
+    <s:tag>Bar/Counter Chair</s:tag>
+    <s:tag>designer-Afteroom Studio</s:tag>
+    <s:tag>Dining &amp; Kitchen</s:tag>
+    <s:tag>Furniture</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>type-Bar chair</s:tag>
+    <s:tag>type-Chair</s:tag>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Audo Bouclé 02</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>9470020-000300ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Audo Bouclé 06</title>
+      <s:price currency="EUR">295.00</s:price>
+      <s:sku>9470020-000000ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Sierra 1001</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>9470009-000R00ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://audocph.com/products/8693964341578</id>
+      <title>Sierra 1611</title>
+      <s:price currency="EUR">400.00</s:price>
+      <s:sku>9470009-000100ZZ</s:sku>
+      <s:grams>4700</s:grams>
+    </s:variant>
+  </entry>
+</feed>
